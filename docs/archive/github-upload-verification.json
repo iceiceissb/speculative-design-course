@@ -1,0 +1,99 @@
+{
+  "status": "passed",
+  "repository": "https://github.com/iceiceissb/speculative-design-course",
+  "content_commit": "f06447b12078cbaf8e6e22f34968c0e17578a6ca",
+  "release": "https://github.com/iceiceissb/speculative-design-course/releases/tag/course-archive-2026-11-14",
+  "assets": [
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 1287,
+      "digest": "sha256:b54ce8e3ea76d1d46e8330b389228a23c65d27e84d9d2166ec589b447c7a1957",
+      "state": "uploaded"
+    },
+    {
+      "name": "source-text-originals.zip",
+      "bytes": 1278133,
+      "digest": "sha256:6e1c9e2a803a3f594976d92000107de15bba4a28947bcb4096d58acb502db174",
+      "state": "uploaded"
+    },
+    {
+      "name": "bodystorming-workbench.zip",
+      "bytes": 15740563,
+      "digest": "sha256:391e62fe99fa4e9e7b688a45dd4e4fa9c0e0ed6be8ba0ad8de5520a950645d81",
+      "state": "uploaded"
+    },
+    {
+      "name": "design-brief.pdf",
+      "bytes": 24589029,
+      "digest": "sha256:1470b97c187232db89fdf928e72a687c8b073d12d69d53318d4323553bb712b2",
+      "state": "uploaded"
+    },
+    {
+      "name": "sunny-path-v3-windows.zip",
+      "bytes": 34208775,
+      "digest": "sha256:b601f24bef4b8acf173adb1a666f988ca556f7387f102ebe0fa234a755c344c1",
+      "state": "uploaded"
+    },
+    {
+      "name": "film-v02-1080p-no-subtitles.mp4",
+      "bytes": 177646655,
+      "digest": "sha256:d464f364408f1adf806c3db8e1b7ea90a63fe2aec7351df03ab8495cf2e6890c",
+      "state": "uploaded"
+    },
+    {
+      "name": "film-v02-1080p-master.mp4",
+      "bytes": 205786716,
+      "digest": "sha256:311cb3bd46a18db1b0de38b9408db14ef990c7285366a3d6cedce217cbadaa61",
+      "state": "uploaded"
+    },
+    {
+      "name": "film-v01-1080p-subtitled.mp4",
+      "bytes": 210606082,
+      "digest": "sha256:ef2e9a2d94c87ca7239887d987f1eaac22cb70bb34d19df193189d5030b1a2ab",
+      "state": "uploaded"
+    },
+    {
+      "name": "film-v02-1080p-subtitled.mp4",
+      "bytes": 211346777,
+      "digest": "sha256:19a971b8e435e5f54b9d6c9c8f60d97ddbeaab1c6aec5b778dd2d920cf9c5853",
+      "state": "uploaded"
+    },
+    {
+      "name": "final-submission-2026-10-23.zip",
+      "bytes": 274427508,
+      "digest": "sha256:801559fe31593e063f4e6b62fb16d5c522dd66e3fd40e9a46e7c81dbef085bfd",
+      "state": "uploaded"
+    },
+    {
+      "name": "course-media-005.zip",
+      "bytes": 329178452,
+      "digest": "sha256:99d383efd9cd71d2c39a6b4d588debf8d1c53c4e9185026452d9b9650e2c8c59",
+      "state": "uploaded"
+    },
+    {
+      "name": "course-media-004.zip",
+      "bytes": 892485150,
+      "digest": "sha256:dbd8e2b6c9222cd46091662c908c379c6b6613d37c295ca2a390f02aa4963db5",
+      "state": "uploaded"
+    },
+    {
+      "name": "course-media-001.zip",
+      "bytes": 904420285,
+      "digest": "sha256:62ca0884cd3c88abe468cd88315061cb70f7e08ab0da89a7eb751e84c7491306",
+      "state": "uploaded"
+    },
+    {
+      "name": "course-media-003.zip",
+      "bytes": 934058938,
+      "digest": "sha256:d2f67fd53800ca108041e01f8afe0b239d42b6f0852aff382be6aecc7bd73940",
+      "state": "uploaded"
+    },
+    {
+      "name": "course-media-002.zip",
+      "bytes": 935212782,
+      "digest": "sha256:fa5f243938fb30b7b0f48a83e38e7f8b2c43c08019291851cbe584842211917e",
+      "state": "uploaded"
+    }
+  ],
+  "total_asset_bytes": 5150987132
+}
