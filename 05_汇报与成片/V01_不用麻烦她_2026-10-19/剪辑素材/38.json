@@ -1,0 +1,19 @@
+{
+  "signature": "883151092412e2c8b62f47bc508a6eb296f0c6b9a32cfe3fa25fa95288ce212e",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\38.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\38.wav",
+  "id": "38",
+  "title": "诊所门槛",
+  "kind": "video",
+  "candidate": "2765f7ac7d97427a",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\38\\2765f7ac7d97427a.mp4",
+  "source_start": 0,
+  "duration": 2.0833333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085215-b0e6o",
+  "start": 148.125,
+  "end": 150.20833333333334
+}

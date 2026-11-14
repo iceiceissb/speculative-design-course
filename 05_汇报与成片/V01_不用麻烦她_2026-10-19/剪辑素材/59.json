@@ -1,0 +1,19 @@
+{
+  "signature": "6551389b305f6186042b943b7e388e72ff79ff847e05a1f2d3228e3b02754a87",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\59.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\59.wav",
+  "id": "59",
+  "title": "坡口接平斑马线",
+  "kind": "video",
+  "candidate": "35fd6674cd344d61",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\59\\35fd6674cd344d61.mp4",
+  "source_start": 0.35,
+  "duration": 3.5833333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019090156-t99n8",
+  "start": 215.83333333333334,
+  "end": 219.41666666666666
+}

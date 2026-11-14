@@ -1,0 +1,15 @@
+{
+  "version": "v1.1",
+  "file_count": 19,
+  "zip_bytes": 18947332,
+  "ppt_sha256": "07ae71bef96c7d28b461e1f928636bc8d2ac2426a3695e1bcee91b8fab5244da",
+  "slides": 16,
+  "notes": 16,
+  "pdf_pages": 16,
+  "pdf_source_links": 4,
+  "prototype_checks": 36,
+  "zip_integrity": "pass",
+  "local_assets": "pass",
+  "README_links": "pass",
+  "old_v1_zip_preserved": true
+}

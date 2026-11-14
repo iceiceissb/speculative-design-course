@@ -1,0 +1,146 @@
+[
+  {
+    "asset": "Bench",
+    "export_objects": 1,
+    "faces": 1238,
+    "source_objects": 15
+  },
+  {
+    "asset": "Bird",
+    "export_objects": 1,
+    "faces": 345,
+    "source_objects": 5
+  },
+  {
+    "asset": "Bollard",
+    "export_objects": 1,
+    "faces": 890,
+    "source_objects": 8
+  },
+  {
+    "asset": "Book",
+    "export_objects": 1,
+    "faces": 432,
+    "source_objects": 8
+  },
+  {
+    "asset": "BookCart",
+    "export_objects": 1,
+    "faces": 1018,
+    "source_objects": 15
+  },
+  {
+    "asset": "Bush",
+    "export_objects": 1,
+    "faces": 3250,
+    "source_objects": 29
+  },
+  {
+    "asset": "Carrot",
+    "export_objects": 1,
+    "faces": 70,
+    "source_objects": 7
+  },
+  {
+    "asset": "Crate",
+    "export_objects": 1,
+    "faces": 216,
+    "source_objects": 4
+  },
+  {
+    "asset": "Hero",
+    "export_objects": 9,
+    "faces": 39378,
+    "source_objects": 228
+  },
+  {
+    "asset": "Home",
+    "export_objects": 1,
+    "faces": 8075,
+    "source_objects": 103
+  },
+  {
+    "asset": "Lamp",
+    "export_objects": 1,
+    "faces": 552,
+    "source_objects": 6
+  },
+  {
+    "asset": "Library",
+    "export_objects": 1,
+    "faces": 5739,
+    "source_objects": 96
+  },
+  {
+    "asset": "Market",
+    "export_objects": 1,
+    "faces": 13847,
+    "source_objects": 153
+  },
+  {
+    "asset": "NoticeBoard",
+    "export_objects": 1,
+    "faces": 1200,
+    "source_objects": 15
+  },
+  {
+    "asset": "Orange",
+    "export_objects": 1,
+    "faces": 270,
+    "source_objects": 3
+  },
+  {
+    "asset": "Pavilion",
+    "export_objects": 1,
+    "faces": 11047,
+    "source_objects": 88
+  },
+  {
+    "asset": "Planter",
+    "export_objects": 1,
+    "faces": 3534,
+    "source_objects": 53
+  },
+  {
+    "asset": "Postbox",
+    "export_objects": 1,
+    "faces": 454,
+    "source_objects": 4
+  },
+  {
+    "asset": "Scooter",
+    "export_objects": 1,
+    "faces": 1470,
+    "source_objects": 12
+  },
+  {
+    "asset": "Seedling",
+    "export_objects": 1,
+    "faces": 354,
+    "source_objects": 9
+  },
+  {
+    "asset": "Tomato",
+    "export_objects": 1,
+    "faces": 200,
+    "source_objects": 6
+  },
+  {
+    "asset": "Tree",
+    "export_objects": 1,
+    "faces": 2136,
+    "source_objects": 29
+  },
+  {
+    "asset": "Walker",
+    "export_objects": 3,
+    "faces": 1792,
+    "source_objects": 15
+  },
+  {
+    "asset": "WateringCan",
+    "export_objects": 1,
+    "faces": 408,
+    "source_objects": 4
+  }
+]

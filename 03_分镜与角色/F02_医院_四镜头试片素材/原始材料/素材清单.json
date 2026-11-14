@@ -1,0 +1,75 @@
+{
+  "title": "医院16秒试片",
+  "status": "四镜头图片与配文已生成，视频尚未生成",
+  "shots": [
+    {
+      "id": "01",
+      "title": "候梯厅全景",
+      "file": "01_候梯厅全景.png",
+      "edit": "00:00–00:03",
+      "method": "直接在剪映使用静帧，3 秒；缩放从 100% 到 102%，保持画面中心不变。",
+      "caption": "电梯都开着，路也空着，却没有一个人走。",
+      "audio": "0.35 秒：轻柔电梯提示音。1.0–2.2 秒：折折（画外）“请您先行。”",
+      "prompt": "以输入图片为第一帧，保持同一医院、人物站位、暖色光线和手工质感三维动画。5秒单一连续全景。林遥低头整理膝上的线轴；左侧第一位戴眼镜的年轻乘客低头看手机，随后听到服务提示，轻轻抬眼。折扇机器人一侧扇面轻轻展开，像发出一次礼貌邀请。四部电梯维持敞开，中央通道保持空白。摄影机极轻地向前推进。所有人物留在原有位置，不发生迈步或摆手；这些动作留给后续镜头。脚前小鱼只是贴地光影，不变成导航路线。无对白、无配乐、无新增字幕。",
+      "check": "空间关系清楚：人群左、林遥右、中央空。镜头内不提前发生迈步、退步或林遥摆手。",
+      "source": "C:/Users/22602/.codex/generated_images/01a0dd6f-fc98-7cd3-adc0-e3e188a1d8b6/exec-ffaedae7-3630-4dcd-9e57-be2bd9e8e0ee.png",
+      "image_prompt": "Create a corrected opening still for shot 01 of a 4-shot cinematic hospital sequence, based closely on the provided reference image. Adult handcrafted stylized 3D animation, matte clay sculpted faces, woven fabric, warm cream and sage architecture, soft daylight. 16:9 high resolution, ideally 2048x1152. A single full frame, no storyboard grid, no captions.\nPreserve the SAME spatial layout: four open elevators A B C D on rear wall, waiting crowd on LEFT, elderly Chinese woman Lin Yao in ivory robotic wheelchair on RIGHT, wide EMPTY central floor. Exactly same Lin Yao: silver bob, dark rectangular glasses, plum knit cardigan, rust knitted scarf, grey trousers, cream shoes, teal chair cushions, leaf-like green fin, a gold flower badge 100. Two robot hands folded/resting at chair sides, no extended robot arms. Fishing rod and net secured behind chair. She is looking DOWN at a brass fishing reel in her lap, both human hands LOW at lap, RIGHT hand relaxed and empty near reel, LEFT hand supporting reel. She has not yet waved.\nImportant action-start corrections: All waiting people's feet are planted on floor; NO lifted foot, NO one stepping or leaning yet. The main passenger at left is a young Chinese adult man with short wavy black hair, rectangular glasses, olive green casual jacket, dark taupe trousers, beige sneakers, brown shoulder bag. Ensure this man can be clearly recognized in later closer shots; show his whole body and BOTH grounded shoes at left edge rather than cutting him off. He is looking down at a phone near waist. Behind him keep 5 or 6 recognizable waiting people with papers/phones. Folding-fan robot in front of crowd retains ivory low base and two pale mint folding fan wings, wings relaxed partly open, NOT yet making a stop gesture.\nFloor: just a few SMALL flat gold fish outline projections immediately near crowd's shoe tips, oriented laterally across their intended walking direction, not flowing anywhere. Central floor is bare. Absolutely NO arrow routes, NO loops around chair, NO fish trails towards elevators, NO giant realistic fish. Courtesy screen upper right reads 等待：0秒; header reads 请您先行; floor label 3F. Keep stable lettering if possible, no additional text. Friendly efficient looking city, the absurdity is everyone standing aside despite available open doors. Camera eye-level of seated person, wide cinematic framing. This is BEFORE the woman waves and BEFORE the man steps. Preserve reference identities, locations and lighting.",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "02",
+      "title": "林遥摆手",
+      "file": "02_林遥中景_动作前.png",
+      "edit": "00:03–00:08",
+      "method": "用本图生成 5 秒视频。此图已经是中景，保持首帧构图，不再要求模型重新切镜。",
+      "caption": "她把手里的事停一下：你们先走，我还要等朋友。",
+      "audio": "保留室内环境底声和轻微衣料声。本镜先不放林遥对白；她的声音接到镜头 03 的乘客反应上。",
+      "prompt": "以输入图片为第一帧，保持林遥的脸、银发、眼镜、紫红针织衫、锈色围巾、线轴及轮椅结构，保持当前中景构图。5秒，一个连续镜头，摄影机稳定。起初林遥低头看着膝上的铜色线轴。她停下动作，抬眼看向画面左侧的人群；左手继续托住线轴，画面左侧的那只空着的右手从膝边抬起，掌心温和地朝向人群，轻轻摆两下，明确表示“你们先走”。随后右手放回膝边，她转头看向画面右侧走廊，等朋友回来。表情从随意转为略带疑惑，动作自然、清楚，有短暂停顿。右手摆动是本镜头主要动作，不能只眨眼或呼吸。嘴唇自然闭合，本条用于无对白的反应镜头。轮椅留在原处，两只机械手保持收纳，铜色线轴始终由左手托住。无配乐、无新增字幕、无切镜。",
+      "check": "必须出现抬眼、右手摆动、转头三步。林遥左手托住线轴，机械手不替她挥手；人脸、手指和线轴不能发生明显变形。",
+      "source": "C:/Users/22602/.codex/generated_images/01a0dd6f-fc98-7cd3-adc0-e3e188a1d8b6/exec-6b100e4d-754d-49ab-afac-e6e5f71fd1bd.png",
+      "image_prompt": "Use case: identity-preserve / cinematic shot redesign. Input image is the continuity master for the SAME hospital scene. Produce shot 02, ONE clean 16:9 film still, high resolution ideally 2048x1152, NO montage, no captions.\nMove the camera closer to the elderly woman on the RIGHT of reference, keeping SAME side of action axis and same warm daylight. Medium shot framed from just above head to lap, both HUMAN hands and brass fishing reel clearly visible, wheelchair armrests and both folded robotic hands partly visible at lower edges. Woman is slightly RIGHT of frame center with comfortable negative space on her LEFT for her later gaze to the crowd, not a tight portrait.\nPreserve exact elderly Chinese Lin Yao identity and design: silver wavy bob, same thin dark roundish rectangular glasses from reference, clay-textured aged cheeks, plum knitted cardigan with tiny flower brooch, rust orange scarf, dark grey trousers, cream wheelchair, teal woven backrest and small green leaf fin on her anatomical LEFT armrest (image-right). Folded robot hands stay low on both chair sides. Fishing gear stays mounted behind the chair on image-left, partly out of frame. The C and D open elevator doors are softly out of focus behind her, consistent cream sage architecture and terrazzo.\nCRITICAL start state: she looks DOWN at the brass reel resting in lap, mouth softly closed, neutral thoughtful expression. Anatomical LEFT human hand (image-right) supports the reel's round body. Anatomical RIGHT human hand (image-left) rests loosely on lap beside the reel, EMPTY and relaxed, ready to lift in the forthcoming video. BOTH HUMAN HANDS remain DOWN, NO raised hand, NO waving yet, NO turning her head toward crowd yet. No duplicate fingers, no extra robot hands, no extended tool arms. She will subsequently raise her empty RIGHT hand and look SCREEN LEFT. This image must precede that action.\nNo fish visible since floor is outside frame, no interface or scoring screen in this close shot, no legible wall text, no watermarks. It must unmistakably be the same handmade animated character and the same location as reference, not a real human, not a different costume.",
+      "continuity_edit_prompt": "Precise continuity edit. Keep this entire image pixel-composition visually unchanged: elderly woman looking down, two human hands down at fishing reel, all clothing, face, chair, folded robot hands, background, framing. ONLY add the small clearly legible embossed number 100 at the center of the existing GOLD flower badge on the wheelchair's visible left-side outer panel (lower-left image area). Gold badge stays gold; do not add any other text. The badge must match the gold 100 badge in the wide shot. Do not move or resize badge, woman, hands, reel or camera. Preserve 16:9 resolution.",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "03",
+      "title": "乘客迈步又退回",
+      "file": "03_乘客与折折_动作前.png",
+      "edit": "00:08–00:13",
+      "method": "用本图生成 5 秒视频。保持人物全身、双脚和折折都在画面里。",
+      "caption": "他刚准备接受她的礼让，系统又礼貌地请他等一等。",
+      "audio": "8.1–10.1 秒：林遥（画外）“你们先，我等个人。”随后是半步鞋声、短促机械关节声与轻柔提示音。不要使用撞击声或警报。",
+      "prompt": "以输入图片为第一帧，保持戴眼镜年轻乘客、橄榄绿外套、棕色挎包、浅色鞋，以及薄荷绿折扇机器人和医院背景。5秒单一连续镜头，摄影机固定，人物从头到脚始终入画。最前方年轻乘客先望向画面右侧的林遥，听完画外邀请后，朝画面右侧的空地、电梯方向试探着迈出半步。就在脚向前移动时，地面三条小金鱼横向靠拢，聚在他即将落脚处的前方；旁边折扇机器人朝通路轻轻侧转一片扇面，示意“请稍候”。年轻人看见提示，主动把那只脚收回原来的位置，再抬头看向画面右侧的林遥，露出礼貌而犹豫的表情。手机保持握在原来那只手里，不换手。动作依次是看她、迈半步、看见提示、退回、再看她。鱼是贴地二维投影，不是实体障碍，不能把人弹开；只有三条小鱼，不能延伸成通往电梯的路线。后排乘客保持原位。无对白、无配乐、无新增字幕、无切镜。",
+      "check": "鞋确实离开原位又回到原位；退步发生在看见鱼和扇面提示之后。人是出于礼貌停步，不能拍成撞墙或害怕危险。",
+      "source": "C:/Users/22602/.codex/generated_images/01a0dd6f-fc98-7cd3-adc0-e3e188a1d8b6/exec-0d11a1b3-e2de-4f91-bcf8-7d7f6e9b91a3.png",
+      "image_prompt": "Use case: identity-preserve cinematic shot redesign. Reference is the exact continuity master hospital shot. Generate shot 03 as a SINGLE 16:9 high-resolution film still, ideally 2048x1152. Adult handcrafted stylized 3D animation matching reference.\nCamera is now CLOSER to the LEFT waiting crowd, stays on SAME side of action axis, no reverse angle. Show the FIRST man from reference (young adult Chinese man with wavy black hair, thin dark glasses, olive green jacket, dark grey/taupe wide trousers, beige sneakers, brown leather shoulder bag) at CENTER LEFT, FULL BODY from head to both shoes, large enough to read expression. A pale mint folding-fan robot stands immediately to his RIGHT at center, closer than in the wide. Keep three waiting crowd members partially visible behind him on left (short-haired woman with paper/phone, grey-haired bespectacled man, young dark-haired man with headphones). Rear wall shows the A and B open elevators in the same cream sage hospital. There is clear EMPTY walking room on right of image toward open elevators. Lin Yao is OFF SCREEN RIGHT. Light still comes from left windows. No reversed layout.\nACTION START, very important: passenger stands neutrally with BOTH beige shoes FLAT on floor, parallel, no lifted foot, no recoil, no step yet. His smartphone is LOW in his LEFT hand near waist, right arm relaxed. His head is slightly raised from phone and his eyes look SCREEN RIGHT, listening to Lin Yao off-screen, expression politely uncertain. His body angles slightly toward open floor on right. He is about to take a tentative step, but has not done it.\nRobot is SAME as reference, ivory low wheeled base, thin dark upright column, TWO broad pale mint translucent fan wings with gold flower motifs, held partly open in a relaxed neutral state. Neither fan is yet in the stop position.\nFLOOR: ONLY THREE very small FLAT gold outline fish projections just ahead of man's shoe tips, spaced loosely, not a continuous line yet, not under feet. They will cluster when he steps. No extra fish elsewhere, no fish pathway to doors, no realistic fish bodies or scales, no floating fish. Empty floor occupies the right third and allows the forthcoming attempted step and retreat to be visible.\nNo captions, no lettering on robot fans, no scores, no subtitles, no interface. Preserve exact hairstyle, bag, jacket, sneakers, robot design and texture. Cinematic medium-wide full-body action composition, do not crop shoes or head.",
+      "dimensions": [
+        1672,
+        941
+      ]
+    },
+    {
+      "id": "04",
+      "title": "回到全景",
+      "file": "04_全景_互相等待.png",
+      "edit": "00:13–00:16",
+      "method": "直接在剪映使用静帧，3 秒。保持固定，或缩放从 102% 缓慢回到 100%；不添加溶解转场。",
+      "caption": "她在等朋友。所有人却在等她。",
+      "audio": "前 1 秒保留上一镜环境声，随后减少声音，留出一段尴尬的安静。不加胜利音效或解释性旁白。",
+      "prompt": "以输入图片为第一帧，保持四部敞开的电梯、左侧人群、右侧林遥与轮椅的位置。5秒，一个固定全景。左侧最前方年轻人已经退回等候位置，双脚落地，手机放低；他抬眼望向林遥，旁边两位乘客跟着看过去。林遥双手放在膝上的线轴旁，朝左侧人群轻轻偏头，眉毛略抬，露出疑惑而尴尬的神情。没有人出发，中央通路一直空着。折扇机器人维持礼貌的稍候姿态，脚前的三条光鱼停留在原处。镜头末尾让双方的目光停住一拍。保持手工质感三维动画和原有暖光。无对白、无配乐、无新增字幕、无切镜。",
+      "check": "必须与镜头01同机位。末尾仍无一人进入电梯，林遥不前进；两边目光相向，而不是所有人重新低头。",
+      "source": "C:/Users/22602/.codex/generated_images/01a0dd6f-fc98-7cd3-adc0-e3e188a1d8b6/exec-2a02aac9-baef-4ae4-bdf2-09e70fd76676.png",
+      "image_prompt": "Use case: precise-object-edit. This reference image is shot 01 of a 4-shot short. Create shot 04, the ENDING wide frame. Preserve camera viewpoint, lens, framing, lighting, architecture, four OPEN elevators A B C D, 3F label, furniture, characters and their positions EXACTLY. High resolution 16:9 ideally 2048x1152, single frame no captions.\nOnly update the acting states AFTER a failed attempt to let everyone pass:\n1. Elderly Lin Yao at SCREEN RIGHT has raised her head from reel and now looks SCREEN LEFT toward the crowd with a small confused/embarrassed expression and slightly lifted eyebrow, lips closed. Both human hands back DOWN at lap, left supports same brass reel, right rests beside it. Wheelchair stays exact same place, gold flower badge 100, same plum cardigan rust scarf teal upholstery and TWO resting robot hands, leaf fin, fishing equipment.\n2. Front left young man with wavy dark hair, glasses, olive jacket, beige shoes and brown shoulder bag has withdrawn his attempted step: BOTH FEET again PLANTED at original waiting position. Phone lowered in same hand; HEAD UP looking SCREEN RIGHT toward Lin Yao with a polite hesitant half-smile. Do NOT show a lifted shoe or a broad pose. Two neighboring people also glance toward Lin Yao, others retain phones and papers, nobody changes position.\n3. Folding-fan robot remains at same spot, with ONE mint fan slightly pivoted across the crowd's exit direction in a delicate please-wait gesture; same two fan panels, same flower motifs and base, no new appendages.\n4. A small group of THREE tiny gold flat fish outlines gathers immediately ahead of the front man's shoes, like a short lateral waiting boundary. Remove gold fish projections from foreground empty floor. No pathway leading to elevators, no trails to wheelchair, no fish loops. Keep the wide central floor EMPTY, making it obvious that there is room to go.\nUpper sign still 请您先行, upper-right display 等待：0秒. Same warm daylight. Atmosphere: everyone genuinely trying to be polite, now all waiting for somebody else, small awkward silence. No victory, no hostility, no big smiles. Do NOT move the wheelchair closer to center. Do not redesign anyone.",
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ]
+}

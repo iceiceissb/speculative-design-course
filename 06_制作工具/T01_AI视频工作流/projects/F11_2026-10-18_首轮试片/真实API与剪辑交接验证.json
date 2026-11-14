@@ -1,0 +1,27 @@
+{
+  "verified_at": "2026-10-18T22:17:47+08:00",
+  "authenticated": true,
+  "real_api_generation": true,
+  "real_video_download": true,
+  "ffmpeg_export": true,
+  "jianying_draft_written": true,
+  "jianying_native_ui_verified": false,
+  "native_export_verified": false,
+  "export": {
+    "created_at": "2026-10-18T22:17:46+08:00",
+    "duration": 4,
+    "folder": "exports/20261018_221746_81a0",
+    "srt": "exports/20261018_221746_81a0/字幕.srt",
+    "vtt": "exports/20261018_221746_81a0/字幕.vtt",
+    "note": "现有素材验证或已选候选的粗剪；字幕另存，无自动配音。",
+    "mp4": "exports/20261018_221746_81a0/坡道_粗剪.mp4",
+    "media": {
+      "duration": 4.021333,
+      "width": 1280,
+      "height": 720,
+      "has_audio": true
+    },
+    "draft": "exports/20261018_221746_81a0/不用麻烦她_坡道试片_20261018_221746_81a0"
+  },
+  "note": "此选片仅用于连通样片的技术验证，不代表全片镜头定稿。"
+}

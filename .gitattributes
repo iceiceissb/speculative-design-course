@@ -1,0 +1,15 @@
+# Preserve snapshot bytes so source hashes remain verifiable on every platform.
+* -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.pdf binary
+*.pptx binary
+*.docx binary
+*.xlsx binary
+*.glb binary
+*.fbx binary
+*.blend binary
+*.woff2 binary

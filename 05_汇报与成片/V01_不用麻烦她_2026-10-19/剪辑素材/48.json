@@ -1,0 +1,19 @@
+{
+  "signature": "24a2f1fa51c05b6440c56a2332a7ad81492ed20683cba264e57ec5f450397a4e",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\48.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\48.wav",
+  "id": "48",
+  "title": "旧陡坡拆除",
+  "kind": "video",
+  "candidate": "5f38444da8fd48a8",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\48\\5f38444da8fd48a8.mp4",
+  "source_start": 0.35,
+  "duration": 1.7916666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085515-le1ig",
+  "start": 181.41666666666666,
+  "end": 183.20833333333334
+}

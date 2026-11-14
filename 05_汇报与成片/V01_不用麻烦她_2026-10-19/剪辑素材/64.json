@@ -1,0 +1,19 @@
+{
+  "signature": "0389e3d3be5ef4d4902bfa7e92ed6c957703d189368a9c272ded12e6f5fda958",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\64.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\64.wav",
+  "id": "64",
+  "title": "公园里去湖边",
+  "kind": "video",
+  "candidate": "b3ee290d02c84125",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\64\\b3ee290d02c84125.mp4",
+  "source_start": 0.35,
+  "duration": 2.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019090641-hw0mt",
+  "start": 235.66666666666666,
+  "end": 238.375
+}

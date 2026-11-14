@@ -1,0 +1,93 @@
+{
+  "signature": "1a677b27bdd5d6228c5275a570972b538f1dcb5f8d0d15c3f41e0f7872f4fa58",
+  "enhancement": null,
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\20.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\20.wav",
+  "id": "20",
+  "title": "为自己挑红布",
+  "kind": "video",
+  "candidate": "5344cb282ba74ca8",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\20\\5344cb282ba74ca8.mp4",
+  "source_start": 0,
+  "duration": 4.5,
+  "dialogue": [
+    {
+      "id": "L08",
+      "speaker": "徐",
+      "text": "给谁做？"
+    },
+    {
+      "id": "L09",
+      "speaker": "邱",
+      "text": "给我。你看这颜色。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 0.0,
+      "end": 3.92,
+      "text": "給誰做?給我。你看這顏色。",
+      "avg_logprob": -0.45121693052351475,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.56,
+          "word": "給",
+          "probability": 0.9232807755470276
+        },
+        {
+          "start": 0.56,
+          "end": 0.76,
+          "word": "誰",
+          "probability": 0.9940787553787231
+        },
+        {
+          "start": 0.76,
+          "end": 1.0,
+          "word": "做?",
+          "probability": 0.6908589005470276
+        },
+        {
+          "start": 1.54,
+          "end": 1.98,
+          "word": "給",
+          "probability": 0.9567099809646606
+        },
+        {
+          "start": 1.98,
+          "end": 2.28,
+          "word": "我。",
+          "probability": 0.9963400363922119
+        },
+        {
+          "start": 2.64,
+          "end": 3.22,
+          "word": "你看",
+          "probability": 0.88312828540802
+        },
+        {
+          "start": 3.22,
+          "end": 3.44,
+          "word": "這",
+          "probability": 0.8373590111732483
+        },
+        {
+          "start": 3.44,
+          "end": 3.66,
+          "word": "顏",
+          "probability": 0.9971522688865662
+        },
+        {
+          "start": 3.66,
+          "end": 3.92,
+          "word": "色。",
+          "probability": 0.9997720122337341
+        }
+      ]
+    }
+  ],
+  "provenance": "imported",
+  "task_id": null,
+  "start": 68.70833333333333,
+  "end": 73.20833333333333
+}

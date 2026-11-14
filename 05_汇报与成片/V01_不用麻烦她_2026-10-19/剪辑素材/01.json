@@ -1,0 +1,19 @@
+{
+  "signature": "56c0d8d5ba74e685ea6170f42f788a20fa5376c033f38a5fb76d09a74c76ff73",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\01.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\01.wav",
+  "id": "01",
+  "title": "裂扣与舞裙",
+  "kind": "video",
+  "candidate": "3ac3de7d41ed4689",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\01\\3ac3de7d41ed4689.mp4",
+  "source_start": 0.35,
+  "duration": 2.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019083509-z6opm",
+  "start": 0.0,
+  "end": 2.7083333333333335
+}

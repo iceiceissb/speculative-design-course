@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "git_content_files_verified": 8094,
+  "manifest_rows_verified": 15122,
+  "release_assets_verified": 14,
+  "release_content_objects_verified": 1962,
+  "restoration_samples": 146,
+  "restoration_result": {
+    "restored": 146,
+    "already_identical": 0,
+    "output": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T04_GitHub归档_2026-11-14\\qa-restored-samples"
+  },
+  "readme_local_links_checked": 22,
+  "errors": []
+}

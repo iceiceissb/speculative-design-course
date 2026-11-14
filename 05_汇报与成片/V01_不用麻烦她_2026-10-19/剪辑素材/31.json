@@ -1,0 +1,187 @@
+{
+  "signature": "19f7eaef31a624f6dc317a6ecc78e278a7a906db872b0d95572bc7da16e92d2f",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\31.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\31.wav",
+  "id": "31",
+  "title": "询问是否报给街道",
+  "kind": "video",
+  "candidate": "ab106648be1142c2",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\31\\ab106648be1142c2.mp4",
+  "source_start": 0,
+  "duration": 8.083333333333334,
+  "dialogue": [
+    {
+      "id": "L18",
+      "speaker": "秀秀",
+      "text": "这两处可以报给街道，附上照片。要报吗？"
+    },
+    {
+      "id": "L19",
+      "speaker": "邱",
+      "text": "都报吧，看看能不能修。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 0.0,
+      "end": 2.8,
+      "text": "这两处可以报给街道,附上照片。",
+      "avg_logprob": -0.25944520653905095,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.4,
+          "word": "这",
+          "probability": 0.7114193439483643
+        },
+        {
+          "start": 0.4,
+          "end": 0.56,
+          "word": "两",
+          "probability": 0.9940658807754517
+        },
+        {
+          "start": 0.56,
+          "end": 0.82,
+          "word": "处",
+          "probability": 0.9943990409374237
+        },
+        {
+          "start": 0.82,
+          "end": 1.04,
+          "word": "可以",
+          "probability": 0.9854170680046082
+        },
+        {
+          "start": 1.04,
+          "end": 1.26,
+          "word": "报",
+          "probability": 0.9678531885147095
+        },
+        {
+          "start": 1.26,
+          "end": 1.4,
+          "word": "给",
+          "probability": 0.9977906942367554
+        },
+        {
+          "start": 1.4,
+          "end": 1.58,
+          "word": "街",
+          "probability": 0.9524859189987183
+        },
+        {
+          "start": 1.58,
+          "end": 1.8,
+          "word": "道,",
+          "probability": 0.9955819249153137
+        },
+        {
+          "start": 2.02,
+          "end": 2.18,
+          "word": "附",
+          "probability": 0.93062624335289
+        },
+        {
+          "start": 2.18,
+          "end": 2.34,
+          "word": "上",
+          "probability": 0.9905214309692383
+        },
+        {
+          "start": 2.34,
+          "end": 2.48,
+          "word": "照",
+          "probability": 0.9972057938575745
+        },
+        {
+          "start": 2.48,
+          "end": 2.8,
+          "word": "片。",
+          "probability": 0.9987496137619019
+        }
+      ]
+    },
+    {
+      "start": 3.06,
+      "end": 3.96,
+      "text": "要报吗?",
+      "avg_logprob": -0.25944520653905095,
+      "words": [
+        {
+          "start": 3.06,
+          "end": 3.44,
+          "word": "要",
+          "probability": 0.9169831871986389
+        },
+        {
+          "start": 3.44,
+          "end": 3.62,
+          "word": "报",
+          "probability": 0.9618593454360962
+        },
+        {
+          "start": 3.62,
+          "end": 3.96,
+          "word": "吗?",
+          "probability": 0.9921791553497314
+        }
+      ]
+    },
+    {
+      "start": 4.74,
+      "end": 7.28,
+      "text": "都报吧,看看能不能修。",
+      "avg_logprob": -0.25944520653905095,
+      "words": [
+        {
+          "start": 4.74,
+          "end": 5.06,
+          "word": "都",
+          "probability": 0.9891327023506165
+        },
+        {
+          "start": 5.06,
+          "end": 5.32,
+          "word": "报",
+          "probability": 0.9795762300491333
+        },
+        {
+          "start": 5.32,
+          "end": 5.66,
+          "word": "吧,",
+          "probability": 0.9696463346481323
+        },
+        {
+          "start": 6.06,
+          "end": 6.34,
+          "word": "看看",
+          "probability": 0.9824824333190918
+        },
+        {
+          "start": 6.34,
+          "end": 6.66,
+          "word": "能",
+          "probability": 0.9964216947555542
+        },
+        {
+          "start": 6.66,
+          "end": 6.82,
+          "word": "不能",
+          "probability": 0.9926262497901917
+        },
+        {
+          "start": 6.82,
+          "end": 7.28,
+          "word": "修。",
+          "probability": 0.9927374720573425
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084937-chnnm",
+  "start": 115.125,
+  "end": 123.20833333333333
+}

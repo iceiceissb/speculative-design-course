@@ -1,0 +1,76 @@
+{
+  "music_source": "已安装剪映Skill曲库，按素材ID从官方素材解析接口取得",
+  "music": [
+    {
+      "id": "7274154019756820538",
+      "title": "Soft Inspirational Piano"
+    },
+    {
+      "id": "7378223391197399051",
+      "title": "Where We Belong"
+    }
+  ],
+  "crossfade_seconds": 3.0,
+  "music_duck_under_dialogue_db": -9.9,
+  "master_gain": 1,
+  "native_tracks_untouched": true,
+  "ambience_sources": {
+    "home": "08",
+    "shop": "50",
+    "street": "59",
+    "park": "64"
+  },
+  "ui_audio_checks": [
+    {
+      "shot": "11",
+      "rms_dbfs": -27.64,
+      "quietest_250ms_dbfs": -30.72
+    },
+    {
+      "shot": "14",
+      "rms_dbfs": -25.07,
+      "quietest_250ms_dbfs": -28.12
+    },
+    {
+      "shot": "18",
+      "rms_dbfs": -26.11,
+      "quietest_250ms_dbfs": -28.98
+    },
+    {
+      "shot": "30",
+      "rms_dbfs": -27.94,
+      "quietest_250ms_dbfs": -38.33
+    },
+    {
+      "shot": "32",
+      "rms_dbfs": -24.99,
+      "quietest_250ms_dbfs": -26.97
+    },
+    {
+      "shot": "41",
+      "rms_dbfs": -25.82,
+      "quietest_250ms_dbfs": -27.15
+    },
+    {
+      "shot": "55",
+      "rms_dbfs": -25.94,
+      "quietest_250ms_dbfs": -27.88
+    },
+    {
+      "shot": "57",
+      "rms_dbfs": -24.73,
+      "quietest_250ms_dbfs": -26.79
+    },
+    {
+      "shot": "58",
+      "rms_dbfs": -25.14,
+      "quietest_250ms_dbfs": -27.77
+    },
+    {
+      "shot": "65",
+      "rms_dbfs": -24.87,
+      "quietest_250ms_dbfs": -26.65
+    }
+  ],
+  "licence_scope": "剪映曲库素材用于当前课程短片；其他发行范围需按剪映对应素材条款核对"
+}

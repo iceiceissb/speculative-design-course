@@ -1,0 +1,222 @@
+{
+  "duration": 18.0,
+  "shots": [
+    {
+      "title": "推行建立",
+      "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\E\\6d63154c739240a6.mp4",
+      "source_start": 0.025,
+      "source_duration": 1.6,
+      "frames": 48,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\01_推行建立.mp4",
+      "start": 0,
+      "duration": 2.0,
+      "speed": 0.8
+    },
+    {
+      "title": "车轮与推力",
+      "source": "D:\\课\\大四上\\思辨设计\\最终作业\\视频片段\\jimeng-2026-10-07-3864-16_9，克制的微缩定格动画，材质真实、色彩为灰绿、砖红、赭黄。邱懿贞短银发、砖....mp4",
+      "source_start": 0.85,
+      "source_duration": 0.8,
+      "frames": 24,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\02_车轮与推力.mp4",
+      "start": 2.0,
+      "duration": 1.0,
+      "speed": 0.8
+    },
+    {
+      "title": "助力灯亮",
+      "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\22\\f0a79fad07bd4418.mp4",
+      "source_start": 1.35,
+      "source_duration": 0.933333,
+      "frames": 28,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\03_助力灯亮.mp4",
+      "start": 3.0,
+      "duration": 1.1666666666666667,
+      "speed": 0.7999997142857143
+    },
+    {
+      "title": "主观发现",
+      "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\35\\fd3f534728dc4d4c.mp4",
+      "source_start": 0,
+      "source_duration": 2.4,
+      "frames": 72,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\04_主观发现.mp4",
+      "start": 4.166666666666667,
+      "duration": 3.0,
+      "speed": 0.7999999999999999
+    },
+    {
+      "title": "停下留白",
+      "source": "D:\\课\\大四上\\思辨设计\\最终作业\\视频片段\\jimeng-2026-10-07-7894-16_9，克制的微缩定格动画，材质真实、色彩为灰绿、砖红、赭黄。邱懿贞短银发、砖....mp4",
+      "source_start": 0.5,
+      "source_duration": 2.2,
+      "frames": 66,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\05_停下留白.mp4",
+      "start": 7.166666666666667,
+      "duration": 2.75,
+      "speed": 0.8
+    },
+    {
+      "title": "指灯追问",
+      "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\24\\1e4e856ce234420d.mp4",
+      "source_start": 0.1,
+      "source_duration": 1.6,
+      "frames": 48,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\06_指灯追问.mp4",
+      "start": 9.916666666666668,
+      "duration": 2.0,
+      "speed": 0.8
+    },
+    {
+      "title": "助力灯切回",
+      "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\35\\fd3f534728dc4d4c.mp4",
+      "source_start": 2.4,
+      "source_duration": 1.5,
+      "frames": 45,
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\07_助力灯切回.mp4",
+      "start": 11.916666666666668,
+      "duration": 1.875,
+      "speed": 0.8
+    },
+    {
+      "title": "告知边界与反应",
+      "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\24\\1e4e856ce234420d.mp4",
+      "source_start": 1.7,
+      "source_duration": 2.3,
+      "frames": 101,
+      "motion_frames": 69,
+      "crop": [
+        720,
+        405,
+        100,
+        45
+      ],
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\镜头素材\\08_告知边界与反应.mp4",
+      "start": 13.791666666666668,
+      "duration": 4.208333333333333,
+      "speed": 0.7999999999999999
+    }
+  ],
+  "voices": [
+    {
+      "id": "01_发现",
+      "text": "灯怎么亮了？",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\01_发现.wav",
+      "duration": 2.0733333333333333,
+      "speech_start": 0.12,
+      "speech_end": 1.25,
+      "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+      "backend": "Windows SAPI (offline)",
+      "rate": -1,
+      "start": 5.0,
+      "volume": 1
+    },
+    {
+      "id": "02_追问",
+      "text": "刚才这一路，你也在推？",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\02_追问.wav",
+      "duration": 3.6235,
+      "speech_start": 0.13,
+      "speech_end": 2.81,
+      "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+      "backend": "Windows SAPI (offline)",
+      "rate": -1,
+      "start": 9.95,
+      "volume": 1
+    },
+    {
+      "id": "03_边界",
+      "text": "帮我可以，先让我知道。",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\03_边界.wav",
+      "duration": 3.5350625,
+      "speech_start": 0.15,
+      "speech_end": 2.7,
+      "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+      "backend": "Windows SAPI (offline)",
+      "rate": -1,
+      "start": 13.9,
+      "volume": 1
+    }
+  ],
+  "subtitles": [
+    {
+      "text": "灯怎么亮了？",
+      "start": 5.05,
+      "end": 6.6
+    },
+    {
+      "text": "刚才这一路，你也在推？",
+      "start": 10.01,
+      "end": 13.11
+    },
+    {
+      "text": "帮我可以，先让我知道。",
+      "start": 13.98,
+      "end": 16.950000000000003
+    }
+  ],
+  "sound_tracks": [
+    {
+      "id": "wind",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\sound\\坡道环境底声.wav",
+      "start": 0,
+      "duration": 18.0,
+      "volume": 1
+    },
+    {
+      "id": "motor",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\sound\\轻电机声.wav",
+      "start": 3.0,
+      "duration": 6.7,
+      "volume": 1
+    },
+    {
+      "id": "light",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\sound\\灯亮轻提示.wav",
+      "start": 3.09,
+      "duration": 0.12,
+      "volume": 1
+    },
+    {
+      "id": "01_发现",
+      "text": "灯怎么亮了？",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\01_发现.wav",
+      "duration": 2.0733333333333333,
+      "speech_start": 0.12,
+      "speech_end": 1.25,
+      "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+      "backend": "Windows SAPI (offline)",
+      "rate": -1,
+      "start": 5.0,
+      "volume": 1
+    },
+    {
+      "id": "02_追问",
+      "text": "刚才这一路，你也在推？",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\02_追问.wav",
+      "duration": 3.6235,
+      "speech_start": 0.13,
+      "speech_end": 2.81,
+      "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+      "backend": "Windows SAPI (offline)",
+      "rate": -1,
+      "start": 9.95,
+      "volume": 1
+    },
+    {
+      "id": "03_边界",
+      "text": "帮我可以，先让我知道。",
+      "file": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\03_边界.wav",
+      "duration": 3.5350625,
+      "speech_start": 0.15,
+      "speech_end": 2.7,
+      "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+      "backend": "Windows SAPI (offline)",
+      "rate": -1,
+      "start": 13.9,
+      "volume": 1
+    }
+  ],
+  "voice_backend": "Windows SAPI (offline)",
+  "note": "现有即梦素材的精剪试版；声音、字幕与切点已落实，未重新生成视频。"
+}

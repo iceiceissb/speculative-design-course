@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "duration": 18,
+  "video_frames": 432,
+  "frame_rate": 24,
+  "resolution": [
+    1280,
+    720
+  ],
+  "speech_levels": [
+    {
+      "text": "灯怎么亮了？",
+      "rms_dbfs": -22.74
+    },
+    {
+      "text": "刚才这一路，你也在推？",
+      "rms_dbfs": -22.51
+    },
+    {
+      "text": "帮我可以，先让我知道。",
+      "rms_dbfs": -22.38
+    }
+  ],
+  "audio_peak_dbfs": -4.44,
+  "subtitles_burned": true,
+  "voice_backend": "Windows SAPI (offline)",
+  "full_video_decode": true,
+  "draft_tracks": {
+    "video": 8,
+    "audio": 6,
+    "text": 3
+  },
+  "jianying_ui_verified": false,
+  "frames": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\验收\\精剪检查帧.jpg"
+}

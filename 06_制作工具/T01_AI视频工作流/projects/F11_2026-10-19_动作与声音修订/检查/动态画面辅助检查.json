@@ -1,0 +1,41 @@
+{
+  "note": "数值只辅助排除停帧；实际动作按逐时抽帧人工检查，不将镜头平移误称为人物动作",
+  "results": [
+    {
+      "shot": "14",
+      "candidate": "7fb4639482424fe5",
+      "actor_region_mean_absolute_change": [
+        3.75,
+        18.25
+      ],
+      "static": false
+    },
+    {
+      "shot": "70",
+      "candidate": "1521addb74ea45cd",
+      "actor_region_mean_absolute_change": [
+        34.46,
+        31.39
+      ],
+      "static": false
+    },
+    {
+      "shot": "03",
+      "candidate": "cc52df4eb6c641f5",
+      "actor_region_mean_absolute_change": [
+        37.18,
+        41.3
+      ],
+      "static": false
+    },
+    {
+      "shot": "39",
+      "candidate": "62012891d7d14fa2",
+      "actor_region_mean_absolute_change": [
+        12.4,
+        10.24
+      ],
+      "static": false
+    }
+  ]
+}

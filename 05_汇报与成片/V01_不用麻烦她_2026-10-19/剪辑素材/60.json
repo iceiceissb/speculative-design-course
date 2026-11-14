@@ -1,0 +1,19 @@
+{
+  "signature": "789c4d752816842966d3f991f6b56ff139501a0aa61d91755c47801d862d052a",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\60.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\60.wav",
+  "id": "60",
+  "title": "老人从楼门出来",
+  "kind": "video",
+  "candidate": "455e54c525ec44ff",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\60\\455e54c525ec44ff.mp4",
+  "source_start": 0.35,
+  "duration": 3.5833333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019090200-sw1er",
+  "start": 219.41666666666666,
+  "end": 223.0
+}

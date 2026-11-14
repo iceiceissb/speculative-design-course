@@ -1,0 +1,111 @@
+{
+  "unchanged_slides_pixel_equivalent": true,
+  "external_links_preserved": 10,
+  "differences": [
+    {
+      "slide": 1,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 2,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 3,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 4,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 5,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 6,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 7,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 8,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 9,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 10,
+      "mean_pixel_change": 0.003067,
+      "intended_change": true
+    },
+    {
+      "slide": 11,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 12,
+      "mean_pixel_change": 1.455867,
+      "intended_change": true
+    },
+    {
+      "slide": 13,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 14,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 15,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 16,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 17,
+      "mean_pixel_change": 3.31165,
+      "intended_change": true
+    },
+    {
+      "slide": 18,
+      "mean_pixel_change": 1.021486,
+      "intended_change": true
+    },
+    {
+      "slide": 19,
+      "mean_pixel_change": 1.07005,
+      "intended_change": true
+    },
+    {
+      "slide": 20,
+      "mean_pixel_change": 0.0,
+      "intended_change": false
+    },
+    {
+      "slide": 21,
+      "mean_pixel_change": 0.040359,
+      "intended_change": true
+    }
+  ]
+}

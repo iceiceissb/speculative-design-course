@@ -1,0 +1,19 @@
+{
+  "ok": true,
+  "skill_root": "C:\\Users\\22602\\.codex\\skills\\jianying-editor",
+  "python": "C:\\Users\\22602\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+  "draft_library": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\vendor\\pyJianYingDraft\\__init__.py",
+  "draft": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\reports\\jianying-skill-checks\\剪映Skill_运行验证_64ceb700748d",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\candidates\\E\\6d63154c739240a6.mp4",
+  "verified": [
+    "完整 JyProject 接口",
+    "素材自包含",
+    "精确源切点",
+    "字幕时间线",
+    "缩放关键帧",
+    "音量淡入淡出关键帧"
+  ],
+  "jianying_ui_verified": false,
+  "native_mp4_export_verified": false,
+  "note": "使用已安装 JyProject 封装与项目内草稿库；未验证剪映窗口控制，没有改动选片、原工程或执行视频生成 API。"
+}

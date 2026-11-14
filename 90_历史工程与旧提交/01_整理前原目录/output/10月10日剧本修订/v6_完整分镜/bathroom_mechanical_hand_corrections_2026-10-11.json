@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-11",
+  "tool": "built-in imagegen",
+  "corrected_shots": [
+    "03",
+    "04"
+  ],
+  "entries": [
+    {
+      "id": "03",
+      "title": "刷牙的默契",
+      "image": "frames/03_刷牙的默契.png",
+      "source": "C:\\Users\\22602\\.codex\\generated_images\\01a11745-111c-7473-ad6a-a53ccb841c3c\\exec-2e9f3796-d883-4a0e-9451-368dd51e0a7f.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the bathroom storyboard frame to edit; Image 2 is ONLY reference for robot arm and five-finger hand anatomy. Keep a single 16:9 scene, the same elderly woman, ivory shirt, silver hair, sage wheelchair, warm light, toothbrush action and bathroom. Fix the screen-LEFT robot arm so the WHOLE chain and WHOLE hand are unambiguously visible; do not hide its forearm behind the woman's sleeve.\nThe current cup-support hand is floating at her chest, with no visible connection to the screen-left elbow. REMOVE that floating chest hand and current cup pose. REPOSITION the same cup and her receiving human hand to the OPEN SPACE ON SCREEN LEFT, just OUTSIDE her torso and above the near wheel/armrest. The near robot RIGHT arm bends OUTWARD to screen left and gently UP: visible chair-side shoulder mount -> ONE green upper arm -> ONE black elbow -> ONE green forearm -> small black wrist -> COMPLETE black RIGHT mechanical hand supporting the cup from below. All these parts must form ONE physically connected chain visible in front of empty bathroom background, NOT behind a human sleeve. Four articulated fingers plus opposed thumb, with natural gripping orientation. Her real right hand reaches sideways to take the cup by its handle; her real left hand stays on lap. The other, far robot LEFT arm on SCREEN RIGHT still holds the toothbrush near her lips, with its original two green arm links. Exactly TWO robot arms and exactly TWO robot hands TOTAL, each from its own chair side. NO third arm, NO amputated stump, NO invisible forearm, NO floating hand, NO sleeve fusion. Prioritize clearly showing the entire near arm and hand. Preserve the stop-motion puppet texture and all unrelated props. No text, no split panels, no watermark.",
+      "references": [
+        "D:\\课\\大四上\\思辨设计\\output\\10月10日剧本修订\\v6_完整分镜\\frames\\03_刷牙的默契.png",
+        "D:\\课\\大四上\\思辨设计\\output\\10月10日剧本修订\\v6_完整分镜\\references\\秀秀_早市版.png"
+      ],
+      "issue": "画面左侧机械前臂缺失；重摆递杯位置，让车身到手掌的整条连接清楚可见",
+      "tool": "built-in imagegen",
+      "date": "2026-10-11",
+      "round": "bathroom-visible-arms-v3",
+      "reviewed": true
+    },
+    {
+      "id": "04",
+      "title": "她说停的方式",
+      "image": "frames/04_她说停的方式.png",
+      "source": "C:\\Users\\22602\\.codex\\generated_images\\01a11745-111c-7473-ad6a-a53ccb841c3c\\exec-f4242b78-881a-41ec-aa81-874ed8bc4750.png",
+      "prompt": "Use case: precise-object-edit. Image 1 is the bathroom storyboard EDIT TARGET. Image 2 is ONLY the wheelchair hand/arm anatomy reference. Fix ONLY the SCREEN-LEFT near wheelchair robot arm that currently ends as an elbow beside the wood armrest with no forearm/hand in frame. Keep woman, her face and warm expression, ivory clothes, silver hair, both real human hands, screen-right robot hand holding towel, bathroom, light and handcrafted miniature style.\nAdd the COMPLETE MISSING GREEN FOREARM, compact black wrist and COMPLETE five-digit RIGHT mechanical hand to the screen-left chair-mounted arm. Use a folded standby pose that bends OUTWARDS into open space LEFT of her lap and slightly DOWN beside the chair. The WHOLE added forearm, wrist, palm, FOUR fingers and ONE opposing thumb must be clearly visible INSIDE the picture with margin; hand may NOT be behind chair body, behind sleeve, below lower border, or cropped. Slightly WIDEN the framing DOWNWARD and LEFT if necessary to fit the full idle hand and a small portion of near wheel, while keeping the woman's face and stop gesture dominant. The near arm must be one continuously visible chair mount -> one upper arm -> one elbow -> one forearm -> small wrist -> full black hand, with matching sage faceted green casing and black/brass joints. Exactly TWO green arm links per arm, not three. Keep raised towel hand and its arm intact. Exactly TWO robot arms and TWO robot hands total; HUMAN arms remain flesh hands in ivory sleeves. No detached hand, no additional stump. No text, border, montage or watermark.",
+      "references": [
+        "D:\\课\\大四上\\思辨设计\\output\\10月10日剧本修订\\v6_完整分镜\\frames\\04_她说停的方式.png",
+        "D:\\课\\大四上\\思辨设计\\output\\10月10日剧本修订\\v6_完整分镜\\references\\秀秀_早市版.png"
+      ],
+      "issue": "画面左侧待机机械臂缺少完整前臂和手；调整收拢姿势与取景，使整只机械手入画",
+      "tool": "built-in imagegen",
+      "date": "2026-10-11",
+      "round": "bathroom-visible-arms-v3",
+      "reviewed": true
+    }
+  ]
+}

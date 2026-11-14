@@ -1,0 +1,38 @@
+{
+  "passed": true,
+  "checks": {
+    "mp4_playable": true,
+    "draft_duration_20s": true,
+    "draft_video_segments_5": true,
+    "draft_subtitle_segments_2": true,
+    "materials_reused_correctly": true,
+    "material_paths_valid": true,
+    "material_ids_unique": true,
+    "browser_checks_passed": true,
+    "no_paid_generation": true,
+    "api_key_absent": true,
+    "license_included": true,
+    "installed_draft_self_contained": true,
+    "installed_metadata_correct": true
+  },
+  "exports": {
+    "created_at": "2026-10-08T20:09:10+08:00",
+    "duration": 20.0,
+    "folder": "exports/20261008_200910_804c",
+    "srt": "exports/20261008_200910_804c/字幕.srt",
+    "vtt": "exports/20261008_200910_804c/字幕.vtt",
+    "note": "现有素材验证或已选候选的粗剪；字幕另存，无自动配音。",
+    "mp4": "exports/20261008_200910_804c/坡道_粗剪.mp4",
+    "media": {
+      "duration": 20.021333,
+      "width": 1280,
+      "height": 720,
+      "has_audio": true
+    },
+    "draft": "exports/20261008_200910_804c/不用麻烦她_坡道试片_20261008_200910_804c"
+  },
+  "installed_draft": {
+    "draft": "C:\\Users\\22602\\AppData\\Local\\JianyingPro\\User Data\\Projects\\com.lveditor.draft\\不用麻烦她_坡道试片_20261008_200910_804c",
+    "note": "请在剪映草稿列表刷新后打开；本工具未操作已有草稿。"
+  }
+}

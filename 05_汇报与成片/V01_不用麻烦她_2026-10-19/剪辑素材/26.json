@@ -1,0 +1,107 @@
+{
+  "signature": "4f4d290f7fb1d23adbc2748b06e5a9982c267a2dd51a972684e2eba00fd57e38",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\26.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\26.wav",
+  "id": "26",
+  "title": "陡坡仍然上不去",
+  "kind": "video",
+  "candidate": "19b49b86b58749e5",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\26\\19b49b86b58749e5.mp4",
+  "source_start": 1.548,
+  "duration": 4.458333333333333,
+  "dialogue": [
+    {
+      "id": "L12",
+      "speaker": "店主",
+      "text": "旁边有个坡。"
+    },
+    {
+      "id": "L13",
+      "speaker": "来客",
+      "text": "这坡我上不了。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 2.42,
+      "end": 3.44,
+      "text": "旁边有个坡。",
+      "avg_logprob": -0.46707082688808443,
+      "words": [
+        {
+          "start": 2.42,
+          "end": 2.8,
+          "word": "旁",
+          "probability": 0.9524317383766174
+        },
+        {
+          "start": 2.8,
+          "end": 2.98,
+          "word": "边",
+          "probability": 0.9607646465301514
+        },
+        {
+          "start": 2.98,
+          "end": 3.1,
+          "word": "有",
+          "probability": 0.9935173988342285
+        },
+        {
+          "start": 3.1,
+          "end": 3.24,
+          "word": "个",
+          "probability": 0.9822889566421509
+        },
+        {
+          "start": 3.24,
+          "end": 3.44,
+          "word": "坡。",
+          "probability": 0.9801488518714905
+        }
+      ]
+    },
+    {
+      "start": 4.48,
+      "end": 5.56,
+      "text": "这坡我上不了。",
+      "avg_logprob": -0.46707082688808443,
+      "words": [
+        {
+          "start": 4.48,
+          "end": 4.86,
+          "word": "这",
+          "probability": 0.8598755598068237
+        },
+        {
+          "start": 4.86,
+          "end": 5.04,
+          "word": "坡",
+          "probability": 0.998692125082016
+        },
+        {
+          "start": 5.04,
+          "end": 5.16,
+          "word": "我",
+          "probability": 0.9269766211509705
+        },
+        {
+          "start": 5.16,
+          "end": 5.32,
+          "word": "上",
+          "probability": 0.9926799535751343
+        },
+        {
+          "start": 5.32,
+          "end": 5.56,
+          "word": "不了。",
+          "probability": 0.9803311228752136
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084656-bzxrt",
+  "start": 88.625,
+  "end": 93.08333333333333
+}

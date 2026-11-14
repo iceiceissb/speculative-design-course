@@ -1,0 +1,76 @@
+{
+  "signature": "c9ff1cd884ea95f0b57397043692ecc9fa2f5970e330584445094687da4a4d5d",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\70.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\70.wav",
+  "id": "70",
+  "title": "转半圈给朋友看",
+  "kind": "video",
+  "candidate": "42dcecf075af4204",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\70\\42dcecf075af4204.mp4",
+  "source_start": 0.1,
+  "duration": 6.791666666666667,
+  "dialogue": [
+    {
+      "id": "L31",
+      "speaker": "徐",
+      "text": "转过去，我看看后面。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 2.1799999999999997,
+      "end": 4.22,
+      "text": "转过去,我看看后面。",
+      "avg_logprob": -0.5959700070894681,
+      "words": [
+        {
+          "start": 2.1799999999999997,
+          "end": 2.66,
+          "word": "转",
+          "probability": 0.9307608604431152
+        },
+        {
+          "start": 2.66,
+          "end": 2.82,
+          "word": "过",
+          "probability": 0.9500250220298767
+        },
+        {
+          "start": 2.82,
+          "end": 3.06,
+          "word": "去,",
+          "probability": 0.997763991355896
+        },
+        {
+          "start": 3.18,
+          "end": 3.4,
+          "word": "我",
+          "probability": 0.948600709438324
+        },
+        {
+          "start": 3.4,
+          "end": 3.58,
+          "word": "看看",
+          "probability": 0.9853242039680481
+        },
+        {
+          "start": 3.58,
+          "end": 3.9,
+          "word": "后",
+          "probability": 0.9892977476119995
+        },
+        {
+          "start": 3.9,
+          "end": 4.22,
+          "word": "面。",
+          "probability": 0.9970847964286804
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019091517-ai6v1",
+  "start": 255.45833333333334,
+  "end": 262.25
+}

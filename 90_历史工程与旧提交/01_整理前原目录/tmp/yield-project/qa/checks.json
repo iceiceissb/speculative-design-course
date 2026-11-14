@@ -1,0 +1,83 @@
+{
+  "checks": [
+    {
+      "name": "WebGL scene loads",
+      "ok": true
+    },
+    {
+      "name": "stop retains current position",
+      "ok": true
+    },
+    {
+      "name": "stop happened between start and bay",
+      "ok": true
+    },
+    {
+      "name": "waiting does not imply consent",
+      "ok": true
+    },
+    {
+      "name": "other branch reaches both destinations",
+      "ok": true
+    },
+    {
+      "name": "feedback is not preselected",
+      "ok": true
+    },
+    {
+      "name": "confirmed feedback changes next encounter",
+      "ok": true
+    },
+    {
+      "name": "self branch reaches both destinations",
+      "ok": true
+    },
+    {
+      "name": "replay explicitly resets positions",
+      "ok": true
+    },
+    {
+      "name": "mid-route stop holds all bodies",
+      "ok": true
+    },
+    {
+      "name": "unanswered request does not move bodies",
+      "ok": true
+    },
+    {
+      "name": "repeated waiting does not fabricate cooperation",
+      "ok": true
+    },
+    {
+      "name": "exit preserves stop",
+      "ok": true
+    },
+    {
+      "name": "uninterrupted baseline is not called consent",
+      "ok": true
+    },
+    {
+      "name": "reload clears preference and feedback",
+      "ok": true
+    },
+    {
+      "name": "story images complete",
+      "ok": true
+    },
+    {
+      "name": "all source images complete",
+      "ok": true
+    },
+    {
+      "name": "mobile has no horizontal overflow",
+      "ok": true
+    },
+    {
+      "name": "no JS runtime errors",
+      "ok": true
+    }
+  ],
+  "errors": [],
+  "browser": "bundled Playwright controlling local Edge; no IAB tool available",
+  "testedAt": "2026-09-20T12:05:45.507Z"
+}

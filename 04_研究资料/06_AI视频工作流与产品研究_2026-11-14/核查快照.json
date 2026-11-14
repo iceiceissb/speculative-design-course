@@ -1,0 +1,192 @@
+{
+  "checked_on": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "scope": "只读研究与文件整理；原影片验收按2026-10-19记录，本次未重新完整视听或剪映内导出",
+  "local_evidence": {
+    "v01_cost": {
+      "path": "05_汇报与成片/V01_不用麻烦她_2026-10-19/本轮生成费用.json",
+      "summary": {
+        "updated_at": "2026-10-19T09:46:49+08:00",
+        "new_api_tasks": 59,
+        "usage_estimated_rmb": 208.2589,
+        "reserved_rmb": 0,
+        "rate_rmb_per_million": 70,
+        "actual_invoice_verified": false
+      },
+      "status_counts": {
+        "succeeded": 57,
+        "rejected": 2
+      }
+    },
+    "v02_cost": {
+      "path": "05_汇报与成片/V02_不用麻烦她_动作与声音修订_2026-10-19/本轮修订费用.json",
+      "summary": {
+        "updated_at": "2026-10-19T17:37:18+08:00",
+        "api_tasks_created": 4,
+        "successful_tasks": 4,
+        "usage_estimated_rmb": 13.5307,
+        "rate_rmb_per_million_completion_tokens": 70,
+        "actual_invoice_verified": false,
+        "ui_paid_tasks": 0,
+        "network_interruption_reconciled_no_task": true
+      }
+    },
+    "v02_quality": {
+      "path": "05_汇报与成片/V02_不用麻烦她_动作与声音修订_2026-10-19/整包验收.json",
+      "summary": {
+        "full_decode_passed": true,
+        "72_clips_durations_match": true,
+        "duration": 277.4166666666667,
+        "1920x1080_24fps": true,
+        "ui_audio_has_no_quiet_250ms_below_minus_50_dbfs": true,
+        "subtitle_chunks": 52,
+        "subtitle_bounds_verified": true,
+        "all_dialogue_shots_have_subtitles": true,
+        "preview_links_verified": 214,
+        "draft_photo_materials": 8,
+        "new_motion_review": "03行进、14手指按下收回、39抬放手机拍照、70仅邱及轮椅转动；已人工查看逐时抽帧",
+        "new_api_cost": 13.5307,
+        "old_version_preserved": true
+      }
+    },
+    "v02_delivery": {
+      "path": "05_汇报与成片/V02_不用麻烦她_动作与声音修订_2026-10-19/最终交付复核.json",
+      "checked_at": "2026-10-19T17:47:19+08:00",
+      "full_decodes": 2,
+      "native_playback_verified": false
+    },
+    "v02_sound": {
+      "path": "05_汇报与成片/V02_不用麻烦她_动作与声音修订_2026-10-19/声音/混音检查.json",
+      "music_duck_under_dialogue_db": -9.9,
+      "licence_scope": "剪映曲库素材用于当前课程短片；其他发行范围需按剪映对应素材条款核对"
+    },
+    "pilot": {
+      "path": "06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/检查/实际生成记录.json",
+      "type": "dict",
+      "summary": {
+        "checked_at": "2026-10-18T22:24:53+08:00",
+        "estimated_total_rmb_from_usage": 61.9947,
+        "note": "费用按实际返回tokens折算，最终看账单；动作与声音待人工审阅，未作为成片定稿。"
+      }
+    },
+    "timeline": {
+      "shots": 72,
+      "duration_seconds": 277.4166666666667
+    }
+  },
+  "historical_video_usage_estimate_rmb": {
+    "pilot": 61.9947,
+    "v01": 208.2589,
+    "v02": 13.5307,
+    "total": 283.7843,
+    "invoice_verified": false,
+    "other_production_costs_included": false
+  },
+  "higgsfield_read_only_quotes": [
+    {
+      "model": "seedance_2_5",
+      "duration": 5,
+      "resolution": "720p",
+      "aspect_ratio": "16:9",
+      "generate_audio": true,
+      "credits": 35,
+      "created_generation_job": false,
+      "uploaded_references": false
+    },
+    {
+      "model": "seedance_2_5",
+      "duration": 5,
+      "resolution": "1080p",
+      "aspect_ratio": "16:9",
+      "generate_audio": true,
+      "credits": 80,
+      "created_generation_job": false,
+      "uploaded_references": false
+    }
+  ],
+  "higgsfield_public_catalog": [
+    {
+      "model_id": "seedance_2_0",
+      "provider": "Bytedance",
+      "description": "Reference-driven video with image/video/audio reference inputs, consistent identity, multi-SKU; optional generate_audio for native audio",
+      "duration": {
+        "name": "duration",
+        "required": "optional",
+        "type": "number",
+        "description": "Duration in seconds (4-15). Whole number.",
+        "min": 4,
+        "max": 15,
+        "default": 5
+      },
+      "mode": {
+        "name": "mode",
+        "required": "optional",
+        "type": "string",
+        "description": "'std' = higher quality, supports 480p/720p/1080p/4k, requires a Plus plan or higher (Pro on legacy plans); 'fast' = cheaper/faster, supports 480p/720p only, available from the Basic/Starter plan.",
+        "options": [
+          "std",
+          "fast"
+        ],
+        "default": "std"
+      },
+      "media_roles": [
+        [
+          "start_image",
+          "end_image",
+          "image_references",
+          "video_references",
+          "audio_references"
+        ]
+      ]
+    },
+    {
+      "model_id": "seedance_2_5",
+      "provider": "Bytedance",
+      "description": "Seedance 2.5 text-to-video, multimodal omni-reference generation, video edit, and video extension",
+      "duration": {
+        "name": "duration",
+        "required": "optional",
+        "type": "number",
+        "description": "Duration in seconds (4-30). Whole number.",
+        "min": 4,
+        "max": 30,
+        "default": 5
+      },
+      "mode": {
+        "name": "mode",
+        "required": "optional",
+        "type": "string",
+        "description": "Generation mode: 't2v' for prompt-only generation, 'omni_reference' for image, video, or audio references, 'video_edit' to edit one reference video (billed by that video's duration; 'duration' and 'aspect_ratio' are ignored), or 'video_extension' to extend a reference video ('aspect_ratio' is ignored — the output follows the extended video).",
+        "options": [
+          "t2v",
+          "omni_reference",
+          "video_edit",
+          "video_extension"
+        ],
+        "default": "t2v"
+      },
+      "media_roles": [
+        [
+          "start_image",
+          "end_image",
+          "image_references",
+          "video_references",
+          "audio_references"
+        ]
+      ]
+    }
+  ],
+  "local_read_only_dependency_check": {
+    "command": "python -X utf8 workflow.py doctor",
+    "python": "3.13.5",
+    "ffmpeg": true,
+    "ffprobe": true,
+    "missing_images": [],
+    "root_demo_jobs": 4,
+    "root_demo_timeline_seconds": 20.0,
+    "cloud_model_access_verified": false,
+    "note": "根项目为旧演示；未保存凭据状态或凭据内容"
+  },
+  "live_generation_tested_this_research": false,
+  "credentials_or_account_entitlements_saved": false
+}

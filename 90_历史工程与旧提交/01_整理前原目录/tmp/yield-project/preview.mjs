@@ -1,0 +1,10 @@
+import {chromium} from 'playwright';
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {pathToFileURL} from 'node:url';
+const root=path.resolve('作业二/提交_请别替我让路/3D交互原型');
+const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,args:['--enable-unsafe-swiftshader']});
+const page=await browser.newPage({viewport:{width:1505,height:1045},deviceScaleFactor:1});let errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto(pathToFileURL(path.join(root,'index.html')).href);await page.waitForTimeout(1400);await page.screenshot({path:'tmp/yield-project/qa/initial.png',fullPage:true});
+console.log(await page.evaluate(()=>({stage:!!window.__app?.stage,errors:document.getElementById('webgl-error').hidden,canvas:[document.querySelector('canvas').width,document.querySelector('canvas').height],size:[document.documentElement.scrollWidth,innerWidth]})));console.log(errors);
+await browser.close();

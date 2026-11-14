@@ -1,0 +1,26 @@
+[
+  {
+    "asset": "Home",
+    "export_objects": 1,
+    "faces": 8075,
+    "source_objects": 103
+  },
+  {
+    "asset": "Market",
+    "export_objects": 1,
+    "faces": 13847,
+    "source_objects": 153
+  },
+  {
+    "asset": "Library",
+    "export_objects": 1,
+    "faces": 5739,
+    "source_objects": 96
+  },
+  {
+    "asset": "Pavilion",
+    "export_objects": 1,
+    "faces": 11047,
+    "source_objects": 88
+  }
+]

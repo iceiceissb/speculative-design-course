@@ -1,0 +1,70 @@
+{
+  "signature": "7e5a12ce57c87f5a106e272159985dd99796e7ca190374140fd830a6d2afef4e",
+  "enhancement": null,
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\53.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\53.wav",
+  "id": "53",
+  "title": "普通轮椅转不过来",
+  "kind": "video",
+  "candidate": "ae3039d5aa9448b1",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\53\\ae3039d5aa9448b1.mp4",
+  "source_start": 2.2,
+  "duration": 5.666666666666667,
+  "dialogue": [
+    {
+      "id": "L27",
+      "speaker": "来客",
+      "text": "这里转不过来。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 6.26,
+      "end": 7.44,
+      "text": "这里转不过来。",
+      "avg_logprob": -0.9008107402107932,
+      "words": [
+        {
+          "start": 6.26,
+          "end": 6.58,
+          "word": "这",
+          "probability": 0.027880189940333366
+        },
+        {
+          "start": 6.58,
+          "end": 6.72,
+          "word": "里",
+          "probability": 0.834403395652771
+        },
+        {
+          "start": 6.72,
+          "end": 6.88,
+          "word": "转",
+          "probability": 0.9737225472927094
+        },
+        {
+          "start": 6.88,
+          "end": 7.02,
+          "word": "不",
+          "probability": 0.9317489862442017
+        },
+        {
+          "start": 7.02,
+          "end": 7.18,
+          "word": "过",
+          "probability": 0.9996172189712524
+        },
+        {
+          "start": 7.18,
+          "end": 7.44,
+          "word": "来。",
+          "probability": 0.9995110034942627
+        }
+      ]
+    }
+  ],
+  "provenance": "imported",
+  "task_id": null,
+  "start": 196.75,
+  "end": 202.41666666666666
+}

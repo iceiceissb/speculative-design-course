@@ -1,0 +1,23 @@
+{
+  "version": "D10 v3",
+  "archive": "把路走通_PC试玩_v3.zip",
+  "archiveBytes": 34208775,
+  "archiveEntries": 142,
+  "requiredEntriesVerified": true,
+  "assemblySHA256": "1EACD8E07DA7B5FCD3E2F2595CB765843DC167FB53905359F18790B8C54AC6B7",
+  "matchesTestedAssembly": true,
+  "originalAssetFBX": 24,
+  "licensedNPCs": 3,
+  "neighbourInstances": 7,
+  "editableBlenderExists": true,
+  "journeyChecks": 162,
+  "firstPersonChecks": 47,
+  "totalChecks": 209,
+  "allChecksPassed": true,
+  "nativeKeyboardAndMousePassed": true,
+  "nativeScreenshotsVisuallyChecked": true,
+  "runtimeIssues": 0,
+  "buildErrors": 0,
+  "buildWarnings": 0,
+  "verifiedAt": "2026-10-18T21:43:37.3122847+08:00"
+}

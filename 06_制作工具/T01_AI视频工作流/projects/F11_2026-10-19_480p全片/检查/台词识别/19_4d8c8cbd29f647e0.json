@@ -1,0 +1,40 @@
+{
+  "shot": "19",
+  "candidate": "4d8c8cbd29f647e0",
+  "expected": [
+    {
+      "id": "L07",
+      "speaker": "徐",
+      "text": "你都到了？"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 2.18,
+      "end": 3.4,
+      "text": "你都到了。",
+      "avg_logprob": -1.0085021087101527,
+      "words": [
+        {
+          "start": 2.18,
+          "end": 2.9,
+          "word": "你",
+          "probability": 0.8842595815658569
+        },
+        {
+          "start": 2.9,
+          "end": 3.08,
+          "word": "都",
+          "probability": 0.995173990726471
+        },
+        {
+          "start": 3.08,
+          "end": 3.4,
+          "word": "到了。",
+          "probability": 0.9636597633361816
+        }
+      ]
+    }
+  ]
+}

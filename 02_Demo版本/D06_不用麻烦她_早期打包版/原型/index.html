@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#252724">
+  <title>不用麻烦她｜3D 交互原型</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="masthead">
+    <h1>不用麻烦她</h1>
+    <div class="toolbar">
+      <button id="gallery-open" class="tool" type="button">角色设定</button>
+      <a class="tool" href="分镜图/30帧制作版/即梦制作台.html">AI 视频制作台</a>
+      <button id="sound" class="tool" type="button" aria-pressed="false">声音关闭</button>
+      <button id="camera" class="tool" type="button">切换视角</button>
+      <button id="restart" class="tool" type="button">重新开始</button>
+    </div>
+  </header>
+
+  <main class="experience">
+    <section class="stage" aria-label="可旋转的三维故事场景">
+      <canvas id="world" tabindex="0" aria-label="3D 场景。拖动旋转，滚轮缩放；键盘方向键也可旋转。"></canvas>
+      <p id="stage-caption" class="stage-caption">以前，这段缓坡是两个人一起走的。</p>
+      <div class="stage-foot">
+        <span id="stage-state">拖动旋转 · 滚轮缩放</span>
+        <button id="skip" type="button" hidden>跳过动作</button>
+      </div>
+      <div id="webgl-error" class="webgl-error" hidden>
+        <h2>3D 场景没有启动</h2>
+        <p>请使用启用硬件加速的 Edge 或 Chrome 打开此文件。</p>
+      </div>
+    </section>
+
+    <aside class="story-panel" aria-label="故事与决策">
+      <div class="story-scroll" aria-live="polite">
+        <p id="chapter-count" class="chapter-count">01 / 06</p>
+        <h2 id="scene-title">那段坡</h2>
+        <p id="scene-description" class="scene-description"></p>
+        <div class="rule-line"></div>
+        <p id="scene-dialogue" class="scene-dialogue"></p>
+        <p id="decision-prompt" class="decision-prompt">你是秀秀。现在怎么做？</p>
+        <button id="begin-timed" class="start-decision" type="button" hidden>读完情境，进入限时决策 →</button>
+        <div id="decision-timer" class="decision-timer" role="timer" hidden>
+          <div id="timer-ring" class="timer-ring"><span id="timer-seconds">12</span></div>
+          <div class="timer-copy"><strong>现场正在变化</strong><span id="timer-consequence"></span></div>
+        </div>
+        <div id="choices" class="choices"></div>
+        <section class="memory" aria-label="秀秀目前记住的事实">
+          <h3>秀秀目前记住的事实</h3>
+          <div id="memory-items" class="memory-items"></div>
+        </section>
+        <div id="result" class="result" hidden>
+          <h3 id="result-title"></h3>
+          <p id="result-body"></p>
+          <p id="result-feedback" class="result-feedback"></p>
+          <div id="result-actions" class="result-actions"></div>
+        </div>
+      </div>
+      <div class="panel-note">设计虚构 · 所有选择只留在本次体验</div>
+    </aside>
+  </main>
+
+  <nav id="chapters" class="chapters" aria-label="故事进度"></nav>
+
+  <dialog id="gallery" class="gallery" aria-label="角色设定图">
+    <div class="gallery-head"><h2>角色设定</h2><button id="gallery-close" type="button" aria-label="关闭角色设定">关闭</button></div>
+    <p>同一组定格动画材质：灰绿折面机械、砖红针织与赭黄外套。角色图对应早市和缓坡的新剧情。</p>
+    <div class="gallery-grid">
+      <figure><img src="角色设定/邱懿贞_早市版.png" alt="邱懿贞坐在秀秀上，查看青菜的根部"><figcaption>邱懿贞 · 她想亲自挑菜，也想亲自邀请朋友。</figcaption></figure>
+      <figure><img src="角色设定/徐月禾_早市版.png" alt="徐月禾站立，手提早市菜袋"><figcaption>徐月禾 · 她可以推行，也有权知道机器何时在帮她。</figcaption></figure>
+      <figure><img src="角色设定/秀秀_早市版.png" alt="灰绿色折面智能轮椅秀秀的多个视角"><figcaption>秀秀 · 有能力代劳，也要学习何时退后。</figcaption></figure>
+    </div>
+  </dialog>
+
+  <script src="three.min.js"></script>
+  <script src="story.js"></script>
+  <script src="world.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

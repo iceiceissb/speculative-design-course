@@ -1,0 +1,19 @@
+{
+  "signature": "e09a1724f58601389dbc1faad825dc2ace81a4716424e7578ab419d7dea4e6f2",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\71.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\71.wav",
+  "id": "71",
+  "title": "握手跟着音乐打拍子",
+  "kind": "video",
+  "candidate": "5f066223cf904464",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\71\\5f066223cf904464.mp4",
+  "source_start": 0.15,
+  "duration": 6.708333333333333,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019091524-gbzzj",
+  "start": 265.7083333333333,
+  "end": 272.4166666666667
+}

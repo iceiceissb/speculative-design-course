@@ -1,0 +1,19 @@
+{
+  "signature": "1ecd03e4686fb34cf9bb6d905ebd470a6b4d9171d6fcd7caa08ab94bacc37b0d",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\50.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\50.wav",
+  "id": "50",
+  "title": "金扣缝回舞裙",
+  "kind": "video",
+  "candidate": "218bb9a847ed495e",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\50\\218bb9a847ed495e.mp4",
+  "source_start": 0.35,
+  "duration": 2.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085521-gmi1e",
+  "start": 185.91666666666666,
+  "end": 188.625
+}

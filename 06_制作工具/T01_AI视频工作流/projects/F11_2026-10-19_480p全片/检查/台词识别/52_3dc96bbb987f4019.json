@@ -1,0 +1,81 @@
+{
+  "shot": "52",
+  "candidate": "3dc96bbb987f4019",
+  "expected": [
+    {
+      "id": "L25",
+      "speaker": "店主",
+      "text": "这回行了吧？"
+    },
+    {
+      "id": "L26",
+      "speaker": "邱",
+      "text": "让她也试试。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.45999999999999963,
+      "end": 3.3,
+      "text": "这回行了吧?让他也试试。",
+      "avg_logprob": -0.49098512157797813,
+      "words": [
+        {
+          "start": 0.45999999999999963,
+          "end": 0.9,
+          "word": "这",
+          "probability": 0.3675423562526703
+        },
+        {
+          "start": 0.9,
+          "end": 1.04,
+          "word": "回",
+          "probability": 0.9447450637817383
+        },
+        {
+          "start": 1.04,
+          "end": 1.2,
+          "word": "行",
+          "probability": 0.9123251438140869
+        },
+        {
+          "start": 1.2,
+          "end": 1.44,
+          "word": "了吧?",
+          "probability": 0.9978770017623901
+        },
+        {
+          "start": 2.04,
+          "end": 2.48,
+          "word": "让",
+          "probability": 0.9809624552726746
+        },
+        {
+          "start": 2.48,
+          "end": 2.7,
+          "word": "他",
+          "probability": 0.5951977968215942
+        },
+        {
+          "start": 2.7,
+          "end": 2.88,
+          "word": "也",
+          "probability": 0.9617034196853638
+        },
+        {
+          "start": 2.88,
+          "end": 3.08,
+          "word": "试",
+          "probability": 0.993698924779892
+        },
+        {
+          "start": 3.08,
+          "end": 3.3,
+          "word": "试。",
+          "probability": 0.9966033399105072
+        }
+      ]
+    }
+  ]
+}

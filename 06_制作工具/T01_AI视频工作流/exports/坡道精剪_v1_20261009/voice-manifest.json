@@ -1,0 +1,35 @@
+[
+  {
+    "id": "01_发现",
+    "text": "灯怎么亮了？",
+    "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\01_发现.wav",
+    "duration": 2.0733333333333333,
+    "speech_start": 0.12,
+    "speech_end": 1.25,
+    "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+    "backend": "Windows SAPI (offline)",
+    "rate": -1
+  },
+  {
+    "id": "02_追问",
+    "text": "刚才这一路，你也在推？",
+    "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\02_追问.wav",
+    "duration": 3.6235,
+    "speech_start": 0.13,
+    "speech_end": 2.81,
+    "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+    "backend": "Windows SAPI (offline)",
+    "rate": -1
+  },
+  {
+    "id": "03_边界",
+    "text": "帮我可以，先让我知道。",
+    "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\voice\\03_边界.wav",
+    "duration": 3.5350625,
+    "speech_start": 0.15,
+    "speech_end": 2.7,
+    "voice": "Microsoft Huihui Desktop - Chinese (Simplified)",
+    "backend": "Windows SAPI (offline)",
+    "rate": -1
+  }
+]

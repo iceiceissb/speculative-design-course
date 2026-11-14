@@ -1,0 +1,12 @@
+import {chromium} from '../yield-project/node_modules/playwright/index.mjs';
+import fs from 'node:fs/promises';import path from 'node:path';import {pathToFileURL} from 'node:url';
+const root=path.resolve('作业二/下一次汇报_剧本与规则/第五版_会协商的医院/3D交互短篇');
+const qa=path.resolve('tmp/hospital-v5/qa');await fs.mkdir(qa,{recursive:true});
+const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,args:['--enable-unsafe-swiftshader','--allow-file-access-from-files']});
+const page=await browser.newPage({viewport:{width:1600,height:1000},deviceScaleFactor:1});let errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto(pathToFileURL(path.join(root,'index.html')).href);await page.waitForTimeout(1200);
+console.log(await page.evaluate(()=>({ready:!!window.hospitalDemo,error:document.querySelector('#webgl-error').hidden,triangles:window.hospitalDemo?.stage.renderer.info.render.triangles,body:document.body.scrollWidth,viewport:innerWidth})));
+await page.screenshot({path:path.join(qa,'desktop.png')});
+await page.evaluate(()=>hospitalDemo.scene(4));await page.waitForTimeout(350);await page.screenshot({path:path.join(qa,'garden-before.png')});
+await page.locator('[data-action="down"]').click();await page.evaluate(()=>hospitalDemo.stage.skip());await page.waitForTimeout(500);await page.screenshot({path:path.join(qa,'garden-down.png')});
+console.log({errors});await browser.close();

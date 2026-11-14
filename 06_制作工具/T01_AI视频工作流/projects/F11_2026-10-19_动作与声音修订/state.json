@@ -1,0 +1,259 @@
+{
+  "candidates": [
+    {
+      "id": "cc6bdf7df52f42f6",
+      "job_id": "14",
+      "source": "seedance",
+      "status": "not_created",
+      "signature": "1d0978926ee45c4498b28de456658c7bac1ecfb8532f28f24c871aeb7863df7d",
+      "variant": 1,
+      "seed": 1673307108,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T17:20:58+08:00",
+      "snapshot": {
+        "job": {
+          "id": "14",
+          "title": "确认通行·动作修订",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "14_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "手工微缩动画短片的手部特写，锁定镜头，保持首帧轮椅、扶手、屏幕、红针织袖子与手的方位。画面中只有这一只老年女性的右手和首帧现有身体局部，不切出人物脸。\n动作立即开始：食指向前移动约两厘米，用指腹清楚按下屏幕已有的绿色“允许”按钮，指尖接触屏幕，停留半秒后松开并收回手，最后手指自然搭在扶手上。这是一次真实的点击动作，手指的关节弯曲自然，其他手指跟随微动。屏幕已有文字与布局全程保持，按钮仅在按下时略微变暗，松开恢复。\n现场仅有轻触屏幕的轻声和室内自然底噪；没有说话、旁白、背景音乐、新字幕。镜头不推拉、不平移，动作由手和手指完成。",
+          "dialogue": [],
+          "source_shot": "14"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "error": "方舟网络请求未完成；请检查网络或代理。",
+      "reconciliation": {
+        "verified_at": "2026-10-19T17:26:47+08:00",
+        "total_tasks": 63,
+        "matching_seed_count": 0,
+        "latest_task_id": "cgt-20261019091527-91one",
+        "evidence": "two successful list requests; complete 100-item list; no seed match and latest task predates submission",
+        "no_charge_usage_returned": true
+      }
+    },
+    {
+      "id": "7fb4639482424fe5",
+      "job_id": "14R2",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "1d0978926ee45c4498b28de456658c7bac1ecfb8532f28f24c871aeb7863df7d",
+      "variant": 1,
+      "seed": 1500661109,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T17:27:41+08:00",
+      "snapshot": {
+        "job": {
+          "id": "14R2",
+          "title": "确认通行·动作修订·核对无任务后的第二次提交",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "14_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "手工微缩动画短片的手部特写，锁定镜头，保持首帧轮椅、扶手、屏幕、红针织袖子与手的方位。画面中只有这一只老年女性的右手和首帧现有身体局部，不切出人物脸。\n动作立即开始：食指向前移动约两厘米，用指腹清楚按下屏幕已有的绿色“允许”按钮，指尖接触屏幕，停留半秒后松开并收回手，最后手指自然搭在扶手上。这是一次真实的点击动作，手指的关节弯曲自然，其他手指跟随微动。屏幕已有文字与布局全程保持，按钮仅在按下时略微变暗，松开恢复。\n现场仅有轻触屏幕的轻声和室内自然底噪；没有说话、旁白、背景音乐、新字幕。镜头不推拉、不平移，动作由手和手指完成。",
+          "dialogue": [],
+          "source_shot": "14"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019172729-jzz5w",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/14R2/7fb4639482424fe5.mp4",
+      "thumbnail": "candidates/14R2/7fb4639482424fe5.jpg"
+    },
+    {
+      "id": "1521addb74ea45cd",
+      "job_id": "70",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "6eeada1c4ac8b2f48232c1461472a52945fe78cef06bc7c2973f84e77a58b1da",
+      "variant": 1,
+      "seed": 2018129863,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T17:27:45+08:00",
+      "snapshot": {
+        "job": {
+          "id": "70",
+          "title": "转半圈给朋友看·动作修订",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "70_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持首帧手工微缩人偶动画的质感、两名老年女性的脸、服装、轮椅外形与场景。双人全景，摄像机固定，地面与所有轮子完整可见。\n人物分工：左侧穿亮红外衣、短银发的是邱，她全程坐在原有轮椅座面，背部靠着椅背；右侧戴眼镜、灰发髻、蓝灰裙子的是徐，她双脚始终留在首帧所在的地面位置，身体正对邱，站着看朋友的新衣服。\n0.2—2.2秒：徐保持原地站姿，嘴部自然说完一句“转过去，我看看后面。” 邱看着她听。\n2.2—5.8秒：邱右手拨动原有控制杆，轮椅左右轮差速滚动，邱与整张轮椅一起在地面缓慢转过半圈，红外衣的后背转向徐与镜头，随后轮椅停稳。邱仍然坐在同一张座垫上，腿脚始终在原有脚踏上。徐双脚仍在原地，裙摆自然下垂，身体一直朝着轮椅，只用目光跟随邱，微笑端详衣服。\n5.8—7秒：轮椅停稳，徐略微低头看红衣后背，微笑点一下头。两人位置关系清楚。\n只有徐说话。徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。\n现场是轻微轮胎滚动、衣料摩擦和公园自然环境声。没有额外对白、背景音乐、字幕或标题。徐始终保持原地看衣服的站姿，不跳舞。转动动作只来自轮椅车轮，邱全程坐着。",
+          "dialogue": [
+            {
+              "id": "L31",
+              "speaker": "徐",
+              "text": "转过去，我看看后面。"
+            }
+          ],
+          "source_shot": "70"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019172732-h5v7c",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/70/1521addb74ea45cd.mp4",
+      "thumbnail": "candidates/70/1521addb74ea45cd.jpg"
+    },
+    {
+      "id": "cc52df4eb6c641f5",
+      "job_id": "03",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "feda8e8f371dcd87365362130d79fa39c242e2dd1acecc04454f9203949f4bc3",
+      "variant": 1,
+      "seed": 594829092,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T17:27:55+08:00",
+      "snapshot": {
+        "job": {
+          "id": "03",
+          "title": "绕路起步·动作修订",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "03_动作首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持首帧的手工微缩人偶动画风格、石板小街和两位老年女性服装。中全景固定机位，轮椅轮子与两人的运动完整入画。\n穿赭黄外衣、戴眼镜、灰发髻的徐先指向画面左侧已经存在的宽旁路，放下手，迈开双脚沿旁路走出两三步；红开衫、短银发的邱始终坐在手动轮椅上，双手握住现有大轮手推圈，一边推动一边转向左侧宽旁路，车轮真实滚动约一米，跟上徐。两人沿同一条宽路离开柱口，步幅和轮速协调。石柱保持原位，轮椅绕开石柱。邱的臀部始终在同一座垫上，脚在脚踏上。\n开头立即开始动作，四秒内完成指路、起步、随行。固定镜头，人物产生明显位移，不用镜头缩放代替人物行动。\n仅有鞋底踏石板、手轮与轮胎滚动、室外微风和远处街声。无对白、旁白、配乐、字幕。",
+          "dialogue": [],
+          "source_shot": "03"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019172742-ik800",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/03/cc52df4eb6c641f5.mp4",
+      "thumbnail": "candidates/03/cc52df4eb6c641f5.jpg"
+    },
+    {
+      "id": "62012891d7d14fa2",
+      "job_id": "39",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "6dab09b9d56ca920be35f6b765bf1a62009a28f61887a5e031d7e6f5129025fa",
+      "variant": 1,
+      "seed": 936423042,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T17:28:05+08:00",
+      "snapshot": {
+        "job": {
+          "id": "39",
+          "title": "公交断口拍照·动作修订",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "39_动作首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "手工微缩人偶动画。保持首帧中黑短发、戴眼镜、灰围巾的成年女性、电动轮椅、手机和公交站断裂人行道。固定中全景，人物全程坐在轮椅上，车轮保持停稳，与前方断口保持首帧已有安全距离。\n动作从第一秒开始：她右手拿稳手机，抬高约十五厘米，身体略向前倾，把手机镜头朝向前方断裂路面；左手食指伸出，轻点手机屏幕拍一张照，随后再点一次确认，把手机缓缓放回扶手位置，抬眼看向前方。全程保留明显、自然、连续的手臂和手指动作，手机跟着手移动。轮椅留在原地，不驶向断口。远处公交车在道路上缓缓前行，树叶轻动。\n五秒一个连续镜头；固定摄影机，动的是手、手机和背景公交，不用推近镜头替代动作。现场只有轻触手机声、远处低沉车流声、公交车声和微风。无对白、旁白、背景音乐、字幕。",
+          "dialogue": [],
+          "source_shot": "39"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019172753-3tozd",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/39/62012891d7d14fa2.mp4",
+      "thumbnail": "candidates/39/62012891d7d14fa2.jpg"
+    }
+  ],
+  "selection": {},
+  "created_at": "2026-10-19T17:20:58+08:00",
+  "updated_at": "2026-10-19T17:34:28+08:00"
+}

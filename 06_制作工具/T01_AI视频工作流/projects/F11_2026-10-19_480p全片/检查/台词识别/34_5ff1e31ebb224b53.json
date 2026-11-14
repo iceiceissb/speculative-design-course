@@ -1,0 +1,101 @@
+{
+  "shot": "34",
+  "candidate": "5ff1e31ebb224b53",
+  "expected": [
+    {
+      "id": "L21",
+      "speaker": "店主",
+      "text": "我店里好像有把尺……"
+    },
+    {
+      "id": "L22",
+      "speaker": "邱",
+      "text": "我这儿有。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 1.4400000000000002,
+      "end": 3.1,
+      "text": "我店里好像有把尺",
+      "avg_logprob": -0.4092848160687615,
+      "words": [
+        {
+          "start": 1.4400000000000002,
+          "end": 1.84,
+          "word": "我",
+          "probability": 0.850253164768219
+        },
+        {
+          "start": 1.84,
+          "end": 2.04,
+          "word": "店",
+          "probability": 0.9428584575653076
+        },
+        {
+          "start": 2.04,
+          "end": 2.22,
+          "word": "里",
+          "probability": 0.8936066031455994
+        },
+        {
+          "start": 2.22,
+          "end": 2.48,
+          "word": "好像",
+          "probability": 0.983655571937561
+        },
+        {
+          "start": 2.48,
+          "end": 2.7,
+          "word": "有",
+          "probability": 0.9866229891777039
+        },
+        {
+          "start": 2.7,
+          "end": 2.84,
+          "word": "把",
+          "probability": 0.6780463457107544
+        },
+        {
+          "start": 2.84,
+          "end": 3.1,
+          "word": "尺",
+          "probability": 0.6209790706634521
+        }
+      ]
+    },
+    {
+      "start": 3.1,
+      "end": 3.76,
+      "text": "我这儿有",
+      "avg_logprob": -0.4092848160687615,
+      "words": [
+        {
+          "start": 3.1,
+          "end": 3.28,
+          "word": "我",
+          "probability": 0.7862621545791626
+        },
+        {
+          "start": 3.28,
+          "end": 3.48,
+          "word": "这",
+          "probability": 0.9712828993797302
+        },
+        {
+          "start": 3.48,
+          "end": 3.58,
+          "word": "儿",
+          "probability": 0.788689136505127
+        },
+        {
+          "start": 3.58,
+          "end": 3.76,
+          "word": "有",
+          "probability": 0.9981822967529297
+        }
+      ]
+    }
+  ]
+}

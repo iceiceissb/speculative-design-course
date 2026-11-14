@@ -1,0 +1,29 @@
+{
+  "recordCount": 1,
+  "truncated": false,
+  "metadata": {
+    "revision": "w2hiib",
+    "target": {
+      "id": "wb/2s5rrp",
+      "beforeLines": 0,
+      "afterLines": 0
+    },
+    "kind": {
+      "requested": "table",
+      "tokens": [
+        "table"
+      ]
+    },
+    "include": {
+      "requested": "values,formulas",
+      "tokens": [
+        "values",
+        "formulas"
+      ]
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  }
+}

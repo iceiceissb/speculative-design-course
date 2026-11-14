@@ -1,0 +1,1126 @@
+{
+  "cases": [
+    {
+      "案例编号": "W01",
+      "主库编号": "RC262",
+      "案例名称": "CoNav Chair",
+      "分类": "A 共享行动决定",
+      "年份或版本": "2025",
+      "来源类型": "研究预印本",
+      "场景与对象": "室内走廊导航；21名无相关功能障碍的成年人。",
+      "具体行为": "自主导航中接收摇杆输入，允许使用者修正行驶；比较手动、共享与自主模式。",
+      "修养特点_本作业解释": "人的意图能够进入执行过程，辅助不必等于完全接管。",
+      "反馈与改进证据": "F1：摇杆改变当前行动。研究提供模式比较，未证明个人偏好被长期学习。",
+      "证据边界": "不能把这21人的结果推广为老人或残障使用者的验证结论。",
+      "核查位置": "摘要；§III-D；§IV-C；图2与图7",
+      "来源链接": "https://arxiv.org/abs/2507.11716",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W02",
+      "主库编号": "RC263",
+      "案例名称": "NavChair",
+      "分类": "A 共享行动决定",
+      "年份或版本": "1996",
+      "来源类型": "会议研究短文",
+      "场景与对象": "电动轮椅穿门、沿墙；目标是减少使用者频繁切换模式的负担。",
+      "具体行为": "报告已开发穿门、沿墙和基于环境线索的行为适应模块。",
+      "修养特点_本作业解释": "让辅助随情境变化，减少手动操作负担；也引出谁决定切换的问题。",
+      "反馈与改进证据": "F0：有环境响应机制，但无用户反馈导致后续学习的证据。",
+      "证据边界": "贝叶斯适应与评价在该文中仍是计划；不得写成已完成实验。",
+      "核查位置": "单页报告，第1370页，末段与研究计划",
+      "来源链接": "https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W03",
+      "主库编号": "RC264",
+      "案例名称": "AbilityLab Smart Wheelchair",
+      "分类": "A 共享行动决定",
+      "年份或版本": "项目页2017",
+      "来源类型": "研究机构项目页",
+      "场景与对象": "共享自主轮椅；项目提及脊髓损伤志愿者参与。",
+      "具体行为": "按个体需要和偏好设计辅助，开发门洞、坡面、落差及停靠感知。",
+      "修养特点_本作业解释": "辅助程度与操控接口应适配个人，不用统一能力假设代替使用者。",
+      "反馈与改进证据": "F0：项目记录了参与者评价，但页面未给出反馈如何改变策略的细节。",
+      "证据边界": "未公开样本量或效果数值；个性化目标不等于已验证的自动学习。",
+      "核查位置": "项目页正文第1—3段",
+      "来源链接": "https://www.sralab.org/research/projects/smart-wheelchair",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W04",
+      "主库编号": "RC265",
+      "案例名称": "WHILL Autonomous Service",
+      "分类": "A 共享行动决定",
+      "年份或版本": "官网核查2026-09-18",
+      "来源类型": "官方产品服务说明",
+      "场景与对象": "机场等设施内的自主代步服务。",
+      "具体行为": "使用者选择目的地；可在屏幕暂停，也有紧急停止按钮。",
+      "修养特点_本作业解释": "把可中止性放进行程，避免启动自动服务就失去退出机会。",
+      "反馈与改进证据": "F1：目的地选择与暂停影响本次服务；未找到跨行程学习证据。",
+      "证据边界": "官方说明不等于独立效果评估；设施服务不等于个人日常轮椅。",
+      "核查位置": "Autonomous Service Device Features",
+      "来源链接": "https://whill.inc/au/mobility-service/how-it-works/autonomous-drive",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W05",
+      "主库编号": "RC007",
+      "案例名称": "KnowNo / Robots That Ask For Help",
+      "分类": "B 承认局限并澄清",
+      "年份或版本": "2023",
+      "来源类型": "CoRL研究项目页",
+      "场景与对象": "物品操作等任务中，语言指令有多个合理解释。",
+      "具体行为": "当预测集合有多个选项时请求人类帮助，再收窄行动选择。",
+      "修养特点_本作业解释": "明确不知道什么，避免把猜测直接变成行动。",
+      "反馈与改进证据": "F1：人类帮助改变当次计划；方法不要求模型微调。",
+      "证据边界": "统计保证依赖校准与帮助等条件；不能视为任意环境中的安全承诺。",
+      "核查位置": "Abstract；Goal；Approach",
+      "来源链接": "https://robot-help.github.io/",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W06",
+      "主库编号": "RC008",
+      "案例名称": "CLARA",
+      "分类": "B 承认局限并澄清",
+      "年份或版本": "2024",
+      "来源类型": "RA-L研究项目页",
+      "场景与对象": "桌面递物；对象、接收者或要求不明确。",
+      "具体行为": "区分清楚、含糊与不可行命令；追问或停止。公开失败例中把Redbull认作Coca-Cola。",
+      "修养特点_本作业解释": "把理由说出来，让人能够发现“拒绝也可能有错”。",
+      "反馈与改进证据": "F1：澄清改变当次行动；官网未展示误识别后的持续修复。",
+      "证据边界": "不可行判断依赖感知与场景描述，不等于可靠的伦理判断。",
+      "核查位置": "Demonstrations；Failure Cases",
+      "来源链接": "https://clararobot.github.io/",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W07",
+      "主库编号": "RC261",
+      "案例名称": "LUCI轮椅辅助",
+      "分类": "C 尊重身体与信息边界",
+      "年份或版本": "User Guide Rev F；官网",
+      "来源类型": "官方用户手册与产品说明",
+      "场景与对象": "日常驾驶、近距离停靠、转移等辅助轮椅场景。",
+      "具体行为": "辅助减速避障；允许暂时覆盖；提供参数设置与分项数据分享。",
+      "修养特点_本作业解释": "保护应可理解、可调整，不能假设设备比使用者永远更懂情境。",
+      "反馈与改进证据": "F1：覆盖与设置改变辅助状态。手册记载用户反馈影响侧向靠近设置；不等于每次覆盖自动学习。",
+      "证据边界": "覆盖会暂时停用相关辅助；厂商说明并非独立临床验证。",
+      "核查位置": "Rev F印刷页7、10、16、18、22—23；Judging Smart网页",
+      "来源链接": "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W08",
+      "主库编号": "RC232",
+      "案例名称": "HuggieBot 2.0 / Six Hug Commandments",
+      "分类": "C 尊重身体与信息边界",
+      "年份或版本": "2021",
+      "来源类型": "HRI论文",
+      "场景与对象": "机器人拥抱；线下32人，每人8次拥抱。",
+      "具体行为": "依据视觉和触觉适配拥抱，感知使用者退出信号并释放。",
+      "修养特点_本作业解释": "同意持续存在于身体动作中，开始互动不等于同意无限持续。",
+      "反馈与改进证据": "F1：触觉反馈改变当前拥抱。另有117人观看视频研究，不与线下人数相加。",
+      "证据边界": "这里是2.0，不是旧库误写的3.0；拥抱感知不能直接当作轮椅操控方案。",
+      "核查位置": "摘要；系统设计；线下实验",
+      "来源链接": "https://arxiv.org/abs/2101.07679",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W09",
+      "主库编号": "RC060",
+      "案例名称": "What should a robot disclose about me?",
+      "分类": "C 尊重身体与信息边界",
+      "年份或版本": "2023",
+      "来源类型": "在线情境研究",
+      "场景与对象": "机器人向他人透露用户信息的书面情境；有效样本155人。",
+      "具体行为": "研究比较直接、抽象、非语言和不披露等表达选项。",
+      "修养特点_本作业解释": "帮助他人不应自动获得披露全部个人信息的权限。",
+      "反馈与改进证据": "F0：收集人的隐私判断；没有机器人据此实时学习的证据。",
+      "证据边界": "真实研究中的书面情境，不是已部署的自主隐私决策系统。",
+      "核查位置": "§4研究设计；§5.1样本；§5.2结果",
+      "来源链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W10",
+      "主库编号": "RC010",
+      "案例名称": "ICREATe",
+      "分类": "D 接受纠正并验证改变",
+      "年份或版本": "2023",
+      "来源类型": "期刊研究",
+      "场景与对象": "非专业使用者通过纠正或评价教机器人执行任务。",
+      "具体行为": "联合考虑知识不足和反馈歧义，按需询问并用反馈更新学习。",
+      "修养特点_本作业解释": "承认教师也可能出错，区分有效纠正与有歧义的要求。",
+      "反馈与改进证据": "F2：反馈进入数据与策略更新，含实验及用户研究。",
+      "证据边界": "把没有纠正作为隐含正反馈是方法假设；不能转译成默认同意出行或数据分享。",
+      "核查位置": "摘要；方法§3；反馈处理",
+      "来源链接": "https://link.springer.com/article/10.1007/s00521-022-08118-z",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W11",
+      "主库编号": "RC106",
+      "案例名称": "ARMAR-6增量行为学习",
+      "分类": "D 接受纠正并验证改变",
+      "年份或版本": "2024",
+      "来源类型": "期刊研究",
+      "场景与对象": "日常操作任务，例如协助清洁时补充缺少的工具。",
+      "具体行为": "根据自然语言纠正调整行为；保存改进的互动，供语义相近任务检索。",
+      "修养特点_本作业解释": "“改过”需要体现在后续行动中，并能追到哪条反馈。",
+      "反馈与改进证据": "F2：论文报告记忆更新和后续检索机制；有模拟定量评价及实体定性演示。",
+      "证据边界": "学习的是高层行为；不能据此声称新轮椅完成动力学适配或获得意识。",
+      "核查位置": "摘要；图1；§3；§5",
+      "来源链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1455375/full",
+      "核查日期": "2026-09-18"
+    },
+    {
+      "案例编号": "W12",
+      "主库编号": "RC154",
+      "案例名称": "Corrective Shared Autonomy",
+      "分类": "D 接受纠正并验证改变",
+      "年份或版本": "2021",
+      "来源类型": "机器人研究论文",
+      "场景与对象": "制造任务；6名20—27岁参与者，包含抛光、装配与铺贴。",
+      "具体行为": "机器人执行基准动作，人对关键任务变量进行有限纠正。",
+      "修养特点_本作业解释": "留出可控纠错通道，不必让使用者接管全部动作。",
+      "反馈与改进证据": "F1：人实时修正当前执行。论文说明基准行为与纠正尺度由人工设定。",
+      "证据边界": "没有自动学习这些尺度的结果；制造任务只能提供跨场景机制参照。",
+      "核查位置": "§IV-G；§V实验；§VI讨论",
+      "来源链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8050957/",
+      "核查日期": "2026-09-18"
+    }
+  ],
+  "audits": [
+    {
+      "主库编号": "RC007",
+      "候选名称": "KnowNo / Robots That Ask For Help",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W05",
+      "来源链接": "https://robot-help.github.io/"
+    },
+    {
+      "主库编号": "RC008",
+      "候选名称": "CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W06",
+      "来源链接": "https://clararobot.github.io/"
+    },
+    {
+      "主库编号": "RC010",
+      "候选名称": "Knowledge- and ambiguity-aware robot learning from corrective and evaluative feedback / ICREATe",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W10",
+      "来源链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10338625/"
+    },
+    {
+      "主库编号": "RC036",
+      "候选名称": "Robot Broken Promise? Repair strategies for mitigating loss of trust for repeated failures",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "评估后排除",
+      "排除代码": "E2 仅人的评价",
+      "决定理由": "信任修复研究讨论人的评价；本次聚焦实际控制和纠正机制。",
+      "对应案例": "",
+      "来源链接": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/397671678/Robot_Broken_NESSET_DOA26052023_AFV_CC_BY.pdf"
+    },
+    {
+      "主库编号": "RC060",
+      "候选名称": "What should a robot disclose about me? A study about privacy-appropriate behaviors for social robots",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W09",
+      "来源链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full"
+    },
+    {
+      "主库编号": "RC086",
+      "候选名称": "Moxie现行支持页",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "评估后排除",
+      "排除代码": "E2 事件偏离",
+      "决定理由": "停服与数据迁移是背景事件；缺乏本次轮椅行动协商机制。",
+      "对应案例": "",
+      "来源链接": "https://moxierobots.com/contact"
+    },
+    {
+      "主库编号": "RC089",
+      "候选名称": "AIBO葬礼",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "评估后排除",
+      "排除代码": "E2 事件偏离",
+      "决定理由": "维修与仪式主要是人的实践，不是机器人可观察的修养行为。",
+      "对应案例": "",
+      "来源链接": "https://cir.nii.ac.jp/crid/1360004235292688000"
+    },
+    {
+      "主库编号": "RC095",
+      "候选名称": "Vector清除用户数据",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "评估后排除",
+      "排除代码": "E2 操作偏离",
+      "决定理由": "重置操作可说明删除机制，但不提供本次行动协商与修正行为。",
+      "对应案例": "",
+      "来源链接": "https://support.anki.bot/article/384-performing-a-clear-user-data-reset"
+    },
+    {
+      "主库编号": "RC101",
+      "候选名称": "自传体记忆与机器人自我",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "初筛排除",
+      "排除代码": "E1 理论或综述",
+      "决定理由": "自传体记忆理论与综述；可作概念背景，不计核心行为案例。",
+      "对应案例": "",
+      "来源链接": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2017.00027/full"
+    },
+    {
+      "主库编号": "RC106",
+      "候选名称": "增量式交互记忆",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W11",
+      "来源链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1455375/full"
+    },
+    {
+      "主库编号": "RC154",
+      "候选名称": "Corrective Shared Autonomy",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W12",
+      "来源链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8050957/"
+    },
+    {
+      "主库编号": "RC166",
+      "候选名称": "Navigating Autonomy, Privacy, and Ageism in Robot Home Care With Aged Users: ROB-IN",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "初筛排除",
+      "排除代码": "E1 理论或综述",
+      "决定理由": "伦理分析用于尊严与自主背景；本轮不作为可提取反馈闭环的核心案例。",
+      "对应案例": "",
+      "来源链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12053780/"
+    },
+    {
+      "主库编号": "RC187",
+      "候选名称": "From Learning to Relearning: A Framework for Diminishing Bias in Social Robot Navigation",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "初筛排除",
+      "排除代码": "E1 理论或综述",
+      "决定理由": "重新学习框架，不是本次所需的已验证具体行为案例。",
+      "对应案例": "",
+      "来源链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full"
+    },
+    {
+      "主库编号": "RC232",
+      "候选名称": "HuggieBot 3.0 and the Six Hug Commandments",
+      "进入途径": "既有库目的性选种",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W08",
+      "来源链接": "https://is.mpg.de/hi/publications/block21-hri-commandments"
+    },
+    {
+      "主库编号": "RC261",
+      "候选名称": "LUCI：可覆盖的轮椅辅助与使用者控制",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W07",
+      "来源链接": "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf"
+    },
+    {
+      "主库编号": "RC262",
+      "候选名称": "CoNav Chair: Development and Evaluation of a Shared Control-based Wheelchair for the Built Environment",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W01",
+      "来源链接": "https://arxiv.org/abs/2507.11716"
+    },
+    {
+      "主库编号": "RC263",
+      "候选名称": "NavChair: Adaptive Shared Control for an Intelligent Power Wheelchair",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W02",
+      "来源链接": "https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf"
+    },
+    {
+      "主库编号": "RC264",
+      "候选名称": "Shirley Ryan AbilityLab Smart Wheelchair",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W03",
+      "来源链接": "https://www.sralab.org/research/projects/smart-wheelchair"
+    },
+    {
+      "主库编号": "RC265",
+      "候选名称": "WHILL Autonomous Service",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "纳入",
+      "排除代码": "I 核心案例",
+      "决定理由": "具有可比较的具体行为，来源可核查；证据限制另列。",
+      "对应案例": "W04",
+      "来源链接": "https://whill.inc/au/mobility-service/how-it-works/autonomous-drive"
+    },
+    {
+      "主库编号": "RC266",
+      "候选名称": "Low cost sensor network for obstacle avoidance in share-controlled smart wheelchairs under daily scenarios",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "未取得足够原文",
+      "排除代码": "U 来源不足",
+      "决定理由": "检索摘要可见，原文获取失败；无法核对完整方法与反馈。",
+      "对应案例": "",
+      "来源链接": "https://www.sciencedirect.com/science/article/abs/pii/S0026271418301082"
+    },
+    {
+      "主库编号": "RC267",
+      "候选名称": "Blending User Intent and Obstacle Avoidance Through Artificial Potential Fields: An Experimental Validation on Smart Walker",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "未取得足够原文",
+      "排除代码": "U 来源不足",
+      "决定理由": "机构记录打开失败；仅摘要不足以核对具体过程。",
+      "对应案例": "",
+      "来源链接": "https://www.iris.unict.it/handle/20.500.11769/729611"
+    },
+    {
+      "主库编号": "RC268",
+      "候选名称": "Ethics at the Intersection of Intelligent Assistive Technology, Ageing, and the Home Environment: A Scoping Review",
+      "进入途径": "本轮补充检索",
+      "筛选结果": "初筛排除",
+      "排除代码": "E1 理论或综述",
+      "决定理由": "智能辅具伦理范围综述，列背景而非重复计入原始案例。",
+      "对应案例": "",
+      "来源链接": "https://link.springer.com/article/10.1007/s11673-025-10479-8"
+    }
+  ],
+  "sources": [
+    {
+      "来源编号": "S01",
+      "主库编号": "RC007",
+      "来源名称": "KnowNo / Robots That Ask For Help",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://robot-help.github.io/"
+    },
+    {
+      "来源编号": "S02",
+      "主库编号": "RC008",
+      "来源名称": "CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://clararobot.github.io/"
+    },
+    {
+      "来源编号": "S03",
+      "主库编号": "RC010",
+      "来源名称": "Knowledge- and ambiguity-aware robot learning from corrective and evaluative feedback / ICREATe",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10338625/"
+    },
+    {
+      "来源编号": "S04",
+      "主库编号": "RC036",
+      "来源名称": "Robot Broken Promise? Repair strategies for mitigating loss of trust for repeated failures",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/397671678/Robot_Broken_NESSET_DOA26052023_AFV_CC_BY.pdf"
+    },
+    {
+      "来源编号": "S05",
+      "主库编号": "RC060",
+      "来源名称": "What should a robot disclose about me? A study about privacy-appropriate behaviors for social robots",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full"
+    },
+    {
+      "来源编号": "S06",
+      "主库编号": "RC086",
+      "来源名称": "Moxie现行支持页",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://moxierobots.com/contact"
+    },
+    {
+      "来源编号": "S07",
+      "主库编号": "RC089",
+      "来源名称": "AIBO葬礼",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://cir.nii.ac.jp/crid/1360004235292688000"
+    },
+    {
+      "来源编号": "S08",
+      "主库编号": "RC095",
+      "来源名称": "Vector清除用户数据",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://support.anki.bot/article/384-performing-a-clear-user-data-reset"
+    },
+    {
+      "来源编号": "S09",
+      "主库编号": "RC101",
+      "来源名称": "自传体记忆与机器人自我",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2017.00027/full"
+    },
+    {
+      "来源编号": "S10",
+      "主库编号": "RC106",
+      "来源名称": "增量式交互记忆",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1455375/full"
+    },
+    {
+      "来源编号": "S11",
+      "主库编号": "RC154",
+      "来源名称": "Corrective Shared Autonomy",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8050957/"
+    },
+    {
+      "来源编号": "S12",
+      "主库编号": "RC166",
+      "来源名称": "Navigating Autonomy, Privacy, and Ageism in Robot Home Care With Aged Users: ROB-IN",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12053780/"
+    },
+    {
+      "来源编号": "S13",
+      "主库编号": "RC187",
+      "来源名称": "From Learning to Relearning: A Framework for Diminishing Bias in Social Robot Navigation",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full"
+    },
+    {
+      "来源编号": "S14",
+      "主库编号": "RC232",
+      "来源名称": "HuggieBot 3.0 and the Six Hug Commandments",
+      "进入方式": "目的性选种",
+      "归并说明": "主记录",
+      "链接": "https://is.mpg.de/hi/publications/block21-hri-commandments"
+    },
+    {
+      "来源编号": "S15",
+      "主库编号": "RC261",
+      "来源名称": "LUCI Judging Smart",
+      "进入方式": "Q03",
+      "归并说明": "主记录",
+      "链接": "https://www.luci.com/smart"
+    },
+    {
+      "来源编号": "S16",
+      "主库编号": "RC261",
+      "来源名称": "LUCI User Guide Rev F",
+      "进入方式": "Q03→官方导航",
+      "归并说明": "同项目追加来源，不新增案例",
+      "链接": "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf"
+    },
+    {
+      "来源编号": "S17",
+      "主库编号": "RC261",
+      "来源名称": "LUCI Safety Report 2021（历史缓存）",
+      "进入方式": "Q03",
+      "归并说明": "同项目追加来源，不新增案例",
+      "链接": "https://luci.com/wp-content/uploads/2021/07/LUCI-Safety-Report.pdf"
+    },
+    {
+      "来源编号": "S18",
+      "主库编号": "RC262",
+      "来源名称": "CoNav 2025年1月设计报告",
+      "进入方式": "Q01/Q02",
+      "归并说明": "主记录",
+      "链接": "https://arxiv.org/abs/2501.09680"
+    },
+    {
+      "来源编号": "S19",
+      "主库编号": "RC262",
+      "来源名称": "CoNav 2025年7月评价报告",
+      "进入方式": "Q01/Q02",
+      "归并说明": "同项目追加来源，不新增案例",
+      "链接": "https://arxiv.org/abs/2507.11716"
+    },
+    {
+      "来源编号": "S20",
+      "主库编号": "RC263",
+      "来源名称": "NavChair 1996",
+      "进入方式": "Q02/Q09",
+      "归并说明": "主记录",
+      "链接": "https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf"
+    },
+    {
+      "来源编号": "S21",
+      "主库编号": "RC264",
+      "来源名称": "AbilityLab Smart Wheelchair",
+      "进入方式": "Q02/Q07",
+      "归并说明": "主记录",
+      "链接": "https://www.sralab.org/research/projects/smart-wheelchair"
+    },
+    {
+      "来源编号": "S22",
+      "主库编号": "RC265",
+      "来源名称": "WHILL Autonomous Service",
+      "进入方式": "Q04/Q05",
+      "归并说明": "主记录",
+      "链接": "https://whill.inc/au/mobility-service/how-it-works/autonomous-drive"
+    },
+    {
+      "来源编号": "S23",
+      "主库编号": "RC266",
+      "来源名称": "低成本共享控制轮椅",
+      "进入方式": "Q01",
+      "归并说明": "主记录",
+      "链接": "https://www.sciencedirect.com/science/article/abs/pii/S0026271418301082"
+    },
+    {
+      "来源编号": "S24",
+      "主库编号": "RC267",
+      "来源名称": "人工势场智能助行器",
+      "进入方式": "Q02",
+      "归并说明": "主记录",
+      "链接": "https://www.iris.unict.it/handle/20.500.11769/729611"
+    },
+    {
+      "来源编号": "S25",
+      "主库编号": "RC268",
+      "来源名称": "智能辅具伦理范围综述",
+      "进入方式": "Q06",
+      "归并说明": "主记录",
+      "链接": "https://link.springer.com/article/10.1007/s11673-025-10479-8"
+    }
+  ],
+  "queries": [
+    {
+      "查询编号": "Q01",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "smart wheelchair shared control user autonomy obstacle avoidance user study wheelchair users",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q02",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "intelligent wheelchair shared control learning user preferences correction assistive navigation",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q03",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "LUCI wheelchair override collision avoidance user control official",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q04",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "WHILL autonomous wheelchair user stop destination official",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q05",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "site.whill.inc autonomous service wheelchair stop button destination",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q06",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "smart wheelchair ethics autonomy shared control review",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q07",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "site.sralab.org \"Smart Wheelchair\" \"volunteers\"",
+      "用途": "补充候选发现",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q08",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "\"HuggieBot\" \"six\" \"commandments\" 2021",
+      "用途": "原文定位与版本核查",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    },
+    {
+      "查询编号": "Q09",
+      "执行日期": "2026-09-18",
+      "检索入口": "公开Web搜索",
+      "实际查询": "\"Adaptive Shared Control\" \"NavChair\" Simpson Levine 1996 pdf",
+      "用途": "原文定位与版本核查",
+      "记录口径": "保存相关命名来源；未导出搜索引擎全部命中"
+    }
+  ],
+  "new_records": [
+    {
+      "id": "RC261",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "LUCI：可覆盖的轮椅辅助与使用者控制",
+      "record_role": "案例",
+      "material_type": "真实产品与事件",
+      "evidence_nature": "纪实／产品",
+      "summary": "辅助减速、避障，并提供临时Override、参数设置及数据分享控制。",
+      "evidence_boundary": "厂商手册证明功能说明；不是独立效果试验，不能声称系统从每次覆盖中自动学习。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf",
+      "source_urls": [
+        "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "2026-09-18核查核心来源与对应方法／演示；详见智能轮椅专题提取表",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18",
+      "wheelchair_review_2026_09_18": {
+        "案例编号": "W07",
+        "主库编号": "RC261",
+        "案例名称": "LUCI轮椅辅助",
+        "分类": "C 尊重身体与信息边界",
+        "年份或版本": "User Guide Rev F；官网",
+        "来源类型": "官方用户手册与产品说明",
+        "场景与对象": "日常驾驶、近距离停靠、转移等辅助轮椅场景。",
+        "具体行为": "辅助减速避障；允许暂时覆盖；提供参数设置与分项数据分享。",
+        "修养特点_本作业解释": "保护应可理解、可调整，不能假设设备比使用者永远更懂情境。",
+        "反馈与改进证据": "F1：覆盖与设置改变辅助状态。手册记载用户反馈影响侧向靠近设置；不等于每次覆盖自动学习。",
+        "证据边界": "覆盖会暂时停用相关辅助；厂商说明并非独立临床验证。",
+        "核查位置": "Rev F印刷页7、10、16、18、22—23；Judging Smart网页",
+        "来源链接": "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf",
+        "核查日期": "2026-09-18"
+      }
+    },
+    {
+      "id": "RC262",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "CoNav Chair: Development and Evaluation of a Shared Control-based Wheelchair for the Built Environment",
+      "record_role": "案例",
+      "material_type": "研究与技术",
+      "evidence_nature": "实证／技术",
+      "summary": "整合自主导航与摇杆纠正，比较手动、共享和自主三种模式。",
+      "evidence_boundary": "21名无相关功能障碍的成年人；2025年预印本，未证明目标残障使用者的长期效果。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://arxiv.org/abs/2507.11716",
+      "source_urls": [
+        "https://arxiv.org/abs/2507.11716"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "2026-09-18核查核心来源与对应方法／演示；详见智能轮椅专题提取表",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18",
+      "wheelchair_review_2026_09_18": {
+        "案例编号": "W01",
+        "主库编号": "RC262",
+        "案例名称": "CoNav Chair",
+        "分类": "A 共享行动决定",
+        "年份或版本": "2025",
+        "来源类型": "研究预印本",
+        "场景与对象": "室内走廊导航；21名无相关功能障碍的成年人。",
+        "具体行为": "自主导航中接收摇杆输入，允许使用者修正行驶；比较手动、共享与自主模式。",
+        "修养特点_本作业解释": "人的意图能够进入执行过程，辅助不必等于完全接管。",
+        "反馈与改进证据": "F1：摇杆改变当前行动。研究提供模式比较，未证明个人偏好被长期学习。",
+        "证据边界": "不能把这21人的结果推广为老人或残障使用者的验证结论。",
+        "核查位置": "摘要；§III-D；§IV-C；图2与图7",
+        "来源链接": "https://arxiv.org/abs/2507.11716",
+        "核查日期": "2026-09-18"
+      }
+    },
+    {
+      "id": "RC263",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "NavChair: Adaptive Shared Control for an Intelligent Power Wheelchair",
+      "record_role": "案例",
+      "material_type": "研究与技术",
+      "evidence_nature": "实证／技术",
+      "summary": "已开发穿门、沿墙及基于环境线索的模式适应模块；讨论自动选择模式的负担。",
+      "evidence_boundary": "1996年单页研究报告；贝叶斯适应方法和评价属于拟开展内容，无完整用户试验结果。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf",
+      "source_urls": [
+        "https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "2026-09-18核查核心来源与对应方法／演示；详见智能轮椅专题提取表",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18",
+      "wheelchair_review_2026_09_18": {
+        "案例编号": "W02",
+        "主库编号": "RC263",
+        "案例名称": "NavChair",
+        "分类": "A 共享行动决定",
+        "年份或版本": "1996",
+        "来源类型": "会议研究短文",
+        "场景与对象": "电动轮椅穿门、沿墙；目标是减少使用者频繁切换模式的负担。",
+        "具体行为": "报告已开发穿门、沿墙和基于环境线索的行为适应模块。",
+        "修养特点_本作业解释": "让辅助随情境变化，减少手动操作负担；也引出谁决定切换的问题。",
+        "反馈与改进证据": "F0：有环境响应机制，但无用户反馈导致后续学习的证据。",
+        "证据边界": "贝叶斯适应与评价在该文中仍是计划；不得写成已完成实验。",
+        "核查位置": "单页报告，第1370页，末段与研究计划",
+        "来源链接": "https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf",
+        "核查日期": "2026-09-18"
+      }
+    },
+    {
+      "id": "RC264",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "Shirley Ryan AbilityLab Smart Wheelchair",
+      "record_role": "案例",
+      "material_type": "研究与技术",
+      "evidence_nature": "项目／技术",
+      "summary": "共享自主轮椅面向个人需要与偏好，开发门洞、坡面、落差和停靠感知。",
+      "evidence_boundary": "机构项目页提及脊髓损伤志愿者研究，但未列样本量和效果数值；不据此声称优势显著。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://www.sralab.org/research/projects/smart-wheelchair",
+      "source_urls": [
+        "https://www.sralab.org/research/projects/smart-wheelchair"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "2026-09-18核查核心来源与对应方法／演示；详见智能轮椅专题提取表",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18",
+      "wheelchair_review_2026_09_18": {
+        "案例编号": "W03",
+        "主库编号": "RC264",
+        "案例名称": "AbilityLab Smart Wheelchair",
+        "分类": "A 共享行动决定",
+        "年份或版本": "项目页2017",
+        "来源类型": "研究机构项目页",
+        "场景与对象": "共享自主轮椅；项目提及脊髓损伤志愿者参与。",
+        "具体行为": "按个体需要和偏好设计辅助，开发门洞、坡面、落差及停靠感知。",
+        "修养特点_本作业解释": "辅助程度与操控接口应适配个人，不用统一能力假设代替使用者。",
+        "反馈与改进证据": "F0：项目记录了参与者评价，但页面未给出反馈如何改变策略的细节。",
+        "证据边界": "未公开样本量或效果数值；个性化目标不等于已验证的自动学习。",
+        "核查位置": "项目页正文第1—3段",
+        "来源链接": "https://www.sralab.org/research/projects/smart-wheelchair",
+        "核查日期": "2026-09-18"
+      }
+    },
+    {
+      "id": "RC265",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "WHILL Autonomous Service",
+      "record_role": "案例",
+      "material_type": "真实产品与事件",
+      "evidence_nature": "纪实／产品",
+      "summary": "使用者选择目的地，设备自主行驶，提供暂停与紧急停止。",
+      "evidence_boundary": "官方服务说明；特定设施服务，不能推断可适配所有残障者、场景或可长期学习。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://whill.inc/au/mobility-service/how-it-works/autonomous-drive",
+      "source_urls": [
+        "https://whill.inc/au/mobility-service/how-it-works/autonomous-drive"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "2026-09-18核查核心来源与对应方法／演示；详见智能轮椅专题提取表",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18",
+      "wheelchair_review_2026_09_18": {
+        "案例编号": "W04",
+        "主库编号": "RC265",
+        "案例名称": "WHILL Autonomous Service",
+        "分类": "A 共享行动决定",
+        "年份或版本": "官网核查2026-09-18",
+        "来源类型": "官方产品服务说明",
+        "场景与对象": "机场等设施内的自主代步服务。",
+        "具体行为": "使用者选择目的地；可在屏幕暂停，也有紧急停止按钮。",
+        "修养特点_本作业解释": "把可中止性放进行程，避免启动自动服务就失去退出机会。",
+        "反馈与改进证据": "F1：目的地选择与暂停影响本次服务；未找到跨行程学习证据。",
+        "证据边界": "官方说明不等于独立效果评估；设施服务不等于个人日常轮椅。",
+        "核查位置": "Autonomous Service Device Features",
+        "来源链接": "https://whill.inc/au/mobility-service/how-it-works/autonomous-drive",
+        "核查日期": "2026-09-18"
+      }
+    },
+    {
+      "id": "RC266",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "Low cost sensor network for obstacle avoidance in share-controlled smart wheelchairs under daily scenarios",
+      "record_role": "案例",
+      "material_type": "研究与技术",
+      "evidence_nature": "实证／技术",
+      "summary": "2018年多传感器共享控制轮椅，摘要报告告警、避障及问卷。",
+      "evidence_boundary": "本轮只有检索返回的摘要，原文未取得，不纳入核心行为比较。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://www.sciencedirect.com/science/article/abs/pii/S0026271418301082",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/abs/pii/S0026271418301082"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "来源核查；见2026-09-18专题台账",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18"
+    },
+    {
+      "id": "RC267",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "Blending User Intent and Obstacle Avoidance Through Artificial Potential Fields: An Experimental Validation on Smart Walker",
+      "record_role": "案例",
+      "material_type": "研究与技术",
+      "evidence_nature": "实证／技术",
+      "summary": "2026年智能助行器共享控制研究，以人工势场协调人类意图与避障。",
+      "evidence_boundary": "本轮机构记录无法打开；仅摘要，不纳入核心行为比较。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://www.iris.unict.it/handle/20.500.11769/729611",
+      "source_urls": [
+        "https://www.iris.unict.it/handle/20.500.11769/729611"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "来源核查；见2026-09-18专题台账",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18"
+    },
+    {
+      "id": "RC268",
+      "legacy_ids": [],
+      "aliases": [],
+      "title": "Ethics at the Intersection of Intelligent Assistive Technology, Ageing, and the Home Environment: A Scoping Review",
+      "record_role": "理论／方法",
+      "material_type": "理论与综述",
+      "evidence_nature": "概念／综述",
+      "summary": "2025年居家智能辅具与老龄伦理范围综述。",
+      "evidence_boundary": "综述用于问题背景，不作为一例已实现机器人行为。",
+      "research_question": "辅助系统如何尊重使用者的行动自主，并允许纠正其判断？",
+      "cultivation_capabilities": [
+        "尊重意愿",
+        "承认局限",
+        "反馈修正"
+      ],
+      "debate_axes": [
+        "同意与自主",
+        "所有权与控制",
+        "学习与纠错"
+      ],
+      "scenario_domains": [
+        "辅助出行",
+        "轮椅与助行"
+      ],
+      "search_terms": [
+        "wheelchair",
+        "shared control",
+        "user autonomy",
+        "assistive technology"
+      ],
+      "primary_url": "https://link.springer.com/article/10.1007/s11673-025-10479-8",
+      "source_urls": [
+        "https://link.springer.com/article/10.1007/s11673-025-10479-8"
+      ],
+      "source_quality": "本轮按具体来源类型说明，未作统一质量评分",
+      "review_status": "来源核查；见2026-09-18专题台账",
+      "provenance_rounds": [
+        "智能轮椅专题补充检索2026-09-18"
+      ],
+      "added_on": "2026-09-18"
+    }
+  ],
+  "counts": {
+    "来源记录": 25,
+    "完全重复": 0,
+    "同项目归并": 3,
+    "候选": 22,
+    "初筛排除": 4,
+    "拟核查": 18,
+    "未获足够原文": 2,
+    "完成评估": 16,
+    "评估后排除": 4,
+    "纳入案例": 12,
+    "纳入来源记录": 15
+  },
+  "date": "2026-09-18"
+}

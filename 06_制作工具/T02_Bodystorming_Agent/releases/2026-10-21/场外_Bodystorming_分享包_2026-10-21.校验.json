@@ -1,0 +1,31 @@
+{
+  "zip": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T02_Bodystorming_Agent\\releases\\2026-10-21\\场外_Bodystorming_分享包_2026-10-21.zip",
+  "size_bytes": 15740563,
+  "sha256": "391e62fe99fa4e9e7b688a45dd4e4fa9c0e0ed6be8ba0ad8de5520a950645d81",
+  "payload_files": 45,
+  "extracted_app": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T02_Bodystorming_Agent\\qa\\打包验收_df5b4f791b\\解压验收 含空格路径\\场外_Bodystorming_工作台",
+  "crc_verified": true,
+  "file_hashes_verified": true,
+  "offline": {
+    "ok": true,
+    "check": "extracted offline demo",
+    "events": 5,
+    "no_model_requests": true
+  },
+  "excluded": [
+    ".browser-cache",
+    ".env",
+    ".git",
+    ".npm-cache",
+    "__pycache__",
+    "data",
+    "node_modules",
+    "qa"
+  ],
+  "python_required": "3.10+",
+  "http": {
+    "ok": true,
+    "check": "extracted HTTP demo and built assets",
+    "actual_port": 55447
+  }
+}

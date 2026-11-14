@@ -1,0 +1,19 @@
+{
+  "signature": "48a6be83411d5cbdfefcde1b738f6e7224f156c36f59d0c94637c37539408a05",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\15.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\15.wav",
+  "id": "15",
+  "title": "收拢后穿过柱口",
+  "kind": "video",
+  "candidate": "bd887d3282dc4c98",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\15\\bd887d3282dc4c98.mp4",
+  "source_start": 1.4,
+  "duration": 5.416666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084355-3wpf3",
+  "start": 47.25,
+  "end": 52.666666666666664
+}

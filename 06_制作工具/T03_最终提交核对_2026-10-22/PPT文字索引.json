@@ -1,0 +1,104 @@
+{
+  "recordCount": 6,
+  "records": [
+    {
+      "kind": "table",
+      "id": "tb/u5o7algj",
+      "slideIndex": 2,
+      "position": {
+        "left": 64,
+        "top": 418,
+        "width": 1152,
+        "height": 132
+      },
+      "name": "",
+      "rows": 2,
+      "cols": 4,
+      "preview": "来源记录 | 归并后候选 | 完成评估 | 纳入核心"
+    },
+    {
+      "kind": "table",
+      "id": "tb/etwv2lcn",
+      "slideIndex": 3,
+      "position": {
+        "left": 64,
+        "top": 161,
+        "width": 1152,
+        "height": 411
+      },
+      "name": "",
+      "rows": 4,
+      "cols": 3,
+      "preview": "案例与编号 | 来源中可观察的行为 | 本项目的取舍"
+    },
+    {
+      "kind": "table",
+      "id": "tb/m94nadsn",
+      "slideIndex": 4,
+      "position": {
+        "left": 64,
+        "top": 164,
+        "width": 1152,
+        "height": 303
+      },
+      "name": "",
+      "rows": 3,
+      "cols": 3,
+      "preview": "案例与编号 | 来源提供的线索 | 本项目的取舍"
+    },
+    {
+      "kind": "table",
+      "id": "tb/i1ofehcv",
+      "slideIndex": 11,
+      "position": {
+        "left": 64,
+        "top": 155,
+        "width": 1152,
+        "height": 466
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 3,
+      "preview": "修养要求 | 故事里的动作 | 检验是否发生改变"
+    },
+    {
+      "kind": "table",
+      "id": "tb/218vyhwf",
+      "slideIndex": 16,
+      "position": {
+        "left": 64,
+        "top": 163,
+        "width": 1152,
+        "height": 439
+      },
+      "name": "",
+      "rows": 4,
+      "cols": 4,
+      "preview": "能力 | 影片中的设想 | Demo 已实现 | 目前的边界"
+    },
+    {
+      "kind": "table",
+      "id": "tb/zyp8jq90",
+      "slideIndex": 17,
+      "position": {
+        "left": 64,
+        "top": 154,
+        "width": 1152,
+        "height": 468
+      },
+      "name": "",
+      "rows": 5,
+      "cols": 3,
+      "preview": "制作环节 | 使用的工具 | 作者负责的判断与取舍"
+    }
+  ],
+  "truncated": false,
+  "metadata": {
+    "target": {
+      "id": "pr/sgakzk"
+    },
+    "omittedRecords": 0,
+    "abbreviatedRecords": 0,
+    "notices": []
+  }
+}

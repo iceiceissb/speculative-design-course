@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "foregroundGuardPassed": true,
+  "executable": "D:\\课\\大四上\\思辨设计\\02_Demo版本\\D09_把路走通_Unity_v2\\Build\\SunnyPath.exe",
+  "keys": [
+    "F12",
+    "Enter",
+    "D held 1.4s",
+    "J",
+    "M"
+  ],
+  "screenshots": [
+    "native_title_keyboard.png",
+    "native_gameplay_keyboard.png",
+    "native_journal_keyboard.png",
+    "native_map_keyboard.png"
+  ],
+  "runtimeIssues": 0,
+  "processClosed": true,
+  "time": "2026-10-18T17:29:39.1888663+08:00"
+}

@@ -1,0 +1,52 @@
+{
+  "shot": "04",
+  "candidate": "5f43de4ca712484f",
+  "expected": [
+    {
+      "id": "L01",
+      "speaker": "邱",
+      "text": "太陡了，算了。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 2.3400000000000003,
+      "end": 4.76,
+      "text": "太陡了,算了。",
+      "avg_logprob": -0.6959283351898193,
+      "words": [
+        {
+          "start": 2.3400000000000003,
+          "end": 3.14,
+          "word": "太",
+          "probability": 0.9306835532188416
+        },
+        {
+          "start": 3.14,
+          "end": 3.36,
+          "word": "陡",
+          "probability": 0.7396665960550308
+        },
+        {
+          "start": 3.36,
+          "end": 3.76,
+          "word": "了,",
+          "probability": 0.8436851501464844
+        },
+        {
+          "start": 3.78,
+          "end": 4.2,
+          "word": "算",
+          "probability": 0.90531325340271
+        },
+        {
+          "start": 4.2,
+          "end": 4.76,
+          "word": "了。",
+          "probability": 0.9609512686729431
+        }
+      ]
+    }
+  ]
+}

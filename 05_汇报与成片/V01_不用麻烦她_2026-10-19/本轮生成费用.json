@@ -1,0 +1,600 @@
+{
+  "updated_at": "2026-10-19T09:46:49+08:00",
+  "new_api_tasks": 59,
+  "usage_estimated_rmb": 208.2589,
+  "reserved_rmb": 0,
+  "rate_rmb_per_million": 70,
+  "actual_invoice_verified": false,
+  "tasks": [
+    {
+      "id": "01",
+      "candidate": "3ac3de7d41ed4689",
+      "task_id": "cgt-20261019083509-z6opm",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "02",
+      "candidate": "40d39da385a149d6",
+      "task_id": "cgt-20261019083512-zqazr",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "03",
+      "candidate": "d666a68479354aa9",
+      "task_id": null,
+      "status": "rejected",
+      "duration": 4,
+      "completion_tokens": 0,
+      "usage_estimated_rmb": 0.0,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "04",
+      "candidate": "5f43de4ca712484f",
+      "task_id": "cgt-20261019083657-9hbhd",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "05",
+      "candidate": "877e7d30d8b64720",
+      "task_id": "cgt-20261019083706-znt53",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "06",
+      "candidate": "ba6c5581ce384d0e",
+      "task_id": "cgt-20261019083709-zg9vz",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "07",
+      "candidate": "ce8186c7c9804ae2",
+      "task_id": "cgt-20261019084049-75ocd",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "08",
+      "candidate": "73f0a734643e4f1c",
+      "task_id": "cgt-20261019084055-yjiea",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "09",
+      "candidate": "64713ece859e422f",
+      "task_id": "cgt-20261019084059-kyy14",
+      "status": "succeeded",
+      "duration": 10,
+      "completion_tokens": 96249,
+      "usage_estimated_rmb": 6.73743,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "10",
+      "candidate": "56feed9e0aac4c5b",
+      "task_id": "cgt-20261019084104-jkl23",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "12",
+      "candidate": "e4a81a043b374d4e",
+      "task_id": "cgt-20261019084108-cxxeb",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "13",
+      "candidate": "e6d2afb0c3b44ee4",
+      "task_id": "cgt-20261019084112-j4hz4",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "15",
+      "candidate": "bd887d3282dc4c98",
+      "task_id": "cgt-20261019084355-3wpf3",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "16",
+      "candidate": "58d292ba384e4472",
+      "task_id": "cgt-20261019084358-x07bi",
+      "status": "succeeded",
+      "duration": 8,
+      "completion_tokens": 77079,
+      "usage_estimated_rmb": 5.39553,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "17",
+      "candidate": "151829a81cbc4baf",
+      "task_id": "cgt-20261019084402-lmsln",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "19",
+      "candidate": "4d8c8cbd29f647e0",
+      "task_id": "cgt-20261019084405-vi546",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "22",
+      "candidate": "4b7c526636034cf6",
+      "task_id": "cgt-20261019084414-vuqw9",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "23",
+      "candidate": "6f285186519544ce",
+      "task_id": "cgt-20261019084416-yf4f3",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "24",
+      "candidate": "84bca1137aec41ba",
+      "task_id": "cgt-20261019084649-kg15u",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "25",
+      "candidate": "c4c984861b3c411f",
+      "task_id": "cgt-20261019084652-2arb5",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "26",
+      "candidate": "19b49b86b58749e5",
+      "task_id": "cgt-20261019084656-bzxrt",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "27",
+      "candidate": "3b10411cd94b4737",
+      "task_id": "cgt-20261019084705-kpie5",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "28",
+      "candidate": "21b46d70e6dc476e",
+      "task_id": "cgt-20261019084716-qenva",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "29",
+      "candidate": "b1acad2828f5448d",
+      "task_id": "cgt-20261019084719-f4afk",
+      "status": "succeeded",
+      "duration": 9,
+      "completion_tokens": 86664,
+      "usage_estimated_rmb": 6.06648,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "31",
+      "candidate": "ab106648be1142c2",
+      "task_id": "cgt-20261019084937-chnnm",
+      "status": "succeeded",
+      "duration": 9,
+      "completion_tokens": 86664,
+      "usage_estimated_rmb": 6.06648,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "33",
+      "candidate": "9d24b24a8c44429a",
+      "task_id": "cgt-20261019084940-70sjc",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "34",
+      "candidate": "5ff1e31ebb224b53",
+      "task_id": "cgt-20261019084943-gcpe7",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "35",
+      "candidate": "5409d2726a8d4886",
+      "task_id": "cgt-20261019084953-88lip",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "36",
+      "candidate": "1d2fdfb828b243b2",
+      "task_id": "cgt-20261019084955-dir3m",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "37",
+      "candidate": "48c8c417ff93447e",
+      "task_id": "cgt-20261019085003-lv5if",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "38",
+      "candidate": "2765f7ac7d97427a",
+      "task_id": "cgt-20261019085215-b0e6o",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "39",
+      "candidate": "9be8f25930d7461d",
+      "task_id": null,
+      "status": "rejected",
+      "duration": 5,
+      "completion_tokens": 0,
+      "usage_estimated_rmb": 0.0,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "40",
+      "candidate": "210ac23df9934660",
+      "task_id": "cgt-20261019085233-algn7",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "42",
+      "candidate": "75839f359eee4d63",
+      "task_id": "cgt-20261019085235-5kdc2",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "43",
+      "candidate": "2d87e8f71d064d24",
+      "task_id": "cgt-20261019085238-1b6z2",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "44",
+      "candidate": "f20a51730b8b426c",
+      "task_id": "cgt-20261019085245-babol",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "45",
+      "candidate": "c470e1ec555f4c28",
+      "task_id": "cgt-20261019085504-tbdxy",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48437,
+      "usage_estimated_rmb": 3.39059,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "46",
+      "candidate": "e112c6664edb4279",
+      "task_id": "cgt-20261019085508-wvia1",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "47",
+      "candidate": "13082a2b938d493c",
+      "task_id": "cgt-20261019085512-eldwa",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "48",
+      "candidate": "5f38444da8fd48a8",
+      "task_id": "cgt-20261019085515-le1ig",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "49",
+      "candidate": "9b16d4a3620941cc",
+      "task_id": "cgt-20261019085518-5vgek",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "50",
+      "candidate": "218bb9a847ed495e",
+      "task_id": "cgt-20261019085521-gmi1e",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "51",
+      "candidate": "d1c8978cba574cdc",
+      "task_id": "cgt-20261019090127-0cv3m",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "52",
+      "candidate": "3dc96bbb987f4019",
+      "task_id": "cgt-20261019090131-wokld",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "54",
+      "candidate": "3eeae706b2e3460e",
+      "task_id": "cgt-20261019090147-8mnrr",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38830,
+      "usage_estimated_rmb": 2.7181,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "56",
+      "candidate": "a684868f839c4219",
+      "task_id": "cgt-20261019090151-qch4i",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "59",
+      "candidate": "35fd6674cd344d61",
+      "task_id": "cgt-20261019090156-t99n8",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "60",
+      "candidate": "455e54c525ec44ff",
+      "task_id": "cgt-20261019090200-sw1er",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "61",
+      "candidate": "c2f654cb73514b56",
+      "task_id": "cgt-20261019090631-atomn",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "62",
+      "candidate": "a5302a2900be4bdf",
+      "task_id": "cgt-20261019090634-p7x40",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "63",
+      "candidate": "1e37e322201b40af",
+      "task_id": "cgt-20261019090638-mvcjd",
+      "status": "succeeded",
+      "duration": 5,
+      "completion_tokens": 48324,
+      "usage_estimated_rmb": 3.38268,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "64",
+      "candidate": "b3ee290d02c84125",
+      "task_id": "cgt-20261019090641-hw0mt",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "66",
+      "candidate": "c40dcac17a124429",
+      "task_id": "cgt-20261019090645-s1tah",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "67",
+      "candidate": "d3c04828655640fc",
+      "task_id": "cgt-20261019090648-en1pe",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "68",
+      "candidate": "87fcb647647f4ee6",
+      "task_id": "cgt-20261019091505-8novp",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "69",
+      "candidate": "b805e4686cec4341",
+      "task_id": "cgt-20261019091514-n7cos",
+      "status": "succeeded",
+      "duration": 4,
+      "completion_tokens": 38739,
+      "usage_estimated_rmb": 2.71173,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "70",
+      "candidate": "42dcecf075af4204",
+      "task_id": "cgt-20261019091517-ai6v1",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "71",
+      "candidate": "5f066223cf904464",
+      "task_id": "cgt-20261019091524-gbzzj",
+      "status": "succeeded",
+      "duration": 7,
+      "completion_tokens": 67494,
+      "usage_estimated_rmb": 4.72458,
+      "reserved_rmb": 0
+    },
+    {
+      "id": "02R",
+      "candidate": "29cc4944c98f4cbd",
+      "task_id": "cgt-20261019091527-91one",
+      "status": "succeeded",
+      "duration": 6,
+      "completion_tokens": 57909,
+      "usage_estimated_rmb": 4.05363,
+      "reserved_rmb": 0
+    }
+  ]
+}

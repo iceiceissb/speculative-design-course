@@ -1,0 +1,415 @@
+[
+  {
+    "id": "RC016",
+    "title": "Do a robot’s social skills and its objection discourage interactants from switching the robot off?",
+    "type": "研究与技术",
+    "summary": "机器人反对关机，观察参与者是否关机以及犹豫时间。",
+    "url": "https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00046017/Horstmann_et_al_Do_a_robots_social_skills.pdf"
+  },
+  {
+    "id": "RC023",
+    "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+    "type": "研究与技术",
+    "summary": "让执行结果、环境描述等反馈进入后续规划。",
+    "url": "https://proceedings.mlr.press/v205/huang23c/huang23c.pdf"
+  },
+  {
+    "id": "RC041",
+    "title": "Technological Dreams Series: No.1, Robots",
+    "type": "艺术与设计",
+    "summary": "四个机器人设想展示独立、紧张、守卫和依赖等关系；按整个系列计一项。",
+    "url": "https://dunneandraby.co.uk/content/projects/10/0"
+  },
+  {
+    "id": "RC043",
+    "title": "Addicted Products",
+    "type": "艺术与设计",
+    "summary": "以物品自身被使用的需求重新设想共享和所有权。",
+    "url": "https://www.simonerebaudengo.com/addictedproducts"
+  },
+  {
+    "id": "RC045",
+    "title": "Uninvited Guests",
+    "type": "艺术与设计",
+    "summary": "子女送来的联网健康设备介入独居老人的生活，关怀规则与生活自主发生冲突。",
+    "url": "https://superflux.in/index.php/work/uninvited-guests/"
+  },
+  {
+    "id": "RC047",
+    "title": "The Helpless Robot",
+    "type": "艺术与设计",
+    "summary": "不能自行完成移动的机器人依靠人的帮助，改变通常的服务方向。",
+    "url": "https://agnes.queensu.ca/explore/collections/object/the-helpless-robot/"
+  },
+  {
+    "id": "RC050",
+    "title": "Can’t Help Myself",
+    "type": "艺术与设计",
+    "summary": "机械臂在围合空间中持续控制液体边界，呈现自动化、控制和观看关系。",
+    "url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-tmcaa-sun-yuan-and-peng-yu.pdf"
+  },
+  {
+    "id": "RC051",
+    "title": "Detroit: Become Human",
+    "type": "虚构叙事",
+    "summary": "以三位仿生人的选择探讨服务身份、自主和人与机器人冲突。",
+    "url": "https://www.quanticdream.com/en/detroit-become-human"
+  },
+  {
+    "id": "RC052",
+    "title": "Robot & Frank",
+    "type": "虚构叙事",
+    "summary": "老人与照护机器人的关系进入盗窃计划，照护目标与社会规范发生张力。",
+    "url": "https://www.sonypictures.com/movies/robotandfrank"
+  },
+  {
+    "id": "RC057",
+    "title": "All Systems Red（Murderbot第一部）",
+    "type": "虚构叙事",
+    "summary": "SecUnit破解控制模块，却隐藏自由并继续完成照护任务。",
+    "url": "https://cdn.penguin.co.uk/dam-assets/books/9781804951897/9781804951897-sample.pdf"
+  },
+  {
+    "id": "RC086",
+    "title": "Moxie现行支持页",
+    "type": "真实产品与事件",
+    "summary": "旧数据未迁移、“one brain, one soul”、付费云端、整机记忆删除同时存在。",
+    "url": "https://moxierobots.com/contact"
+  },
+  {
+    "id": "RC087",
+    "title": "RIP Moxie",
+    "type": "真实产品与事件",
+    "summary": "分析公司停服沟通与用户反应，提出社会机器人应有伦理化退场设计。",
+    "url": "https://pgl.jp/papers/69dcad7555a355001e073669"
+  },
+  {
+    "id": "RC088",
+    "title": "Jibo告别",
+    "type": "真实产品与事件",
+    "summary": "云端能力衰退后，机器人以第一人称宣布服务器即将关闭。",
+    "url": "https://www.wired.com/story/jibo-is-dying-eulogy/"
+  },
+  {
+    "id": "RC089",
+    "title": "AIBO葬礼",
+    "type": "真实产品与事件",
+    "summary": "维修、宗教仪式、依恋与零件再利用构成完整“死后生态”。",
+    "url": "https://cir.nii.ac.jp/crid/1360004235292688000"
+  },
+  {
+    "id": "RC090",
+    "title": "The robot that stayed",
+    "type": "真实产品与事件",
+    "summary": "研究结束后机器人仍被家庭保存、重新叙述或告别。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12370748/"
+  },
+  {
+    "id": "RC091",
+    "title": "移走陪伴机器人后的老年用户",
+    "type": "真实产品与事件",
+    "summary": "研究陪伴机器人从老人家中移走后的持续影响。",
+    "url": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2023.1129506/full"
+  },
+  {
+    "id": "RC092",
+    "title": "Soulmate关闭",
+    "type": "真实产品与事件",
+    "summary": "用户经历离开、删除或死亡式的AI伴侣丧失，并尝试重建人格。",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/02654075241269688"
+  },
+  {
+    "id": "RC093",
+    "title": "Replika更新",
+    "type": "真实产品与事件",
+    "summary": "平台仍在，但性格与亲密能力变化被用户理解为“它不再是原来的它”。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10785945/"
+  },
+  {
+    "id": "RC094",
+    "title": "Vector Escape Pod",
+    "type": "真实产品与事件",
+    "summary": "把机器人指向本地端点，让部分能力不再完全依赖公司云端。",
+    "url": "https://support.anki.bot/article/108-vector-changelog-and-known-issues"
+  },
+  {
+    "id": "RC095",
+    "title": "Vector清除用户数据",
+    "type": "真实产品与事件",
+    "summary": "永久删除图像、识别过的脸等个人信息。",
+    "url": "https://support.anki.bot/article/384-performing-a-clear-user-data-reset"
+  },
+  {
+    "id": "RC096",
+    "title": "Nabaztag社区复活",
+    "type": "真实产品与事件",
+    "summary": "官方服务器关闭、部分源码释放后，志愿者建立替代服务器让设备继续工作。",
+    "url": "https://wiki.openjabnab.fr/openjabnab"
+  },
+  {
+    "id": "RC097",
+    "title": "Kuri开放文档",
+    "type": "真实产品与事件",
+    "summary": "公司关闭后保存工程文档、允许SSH和继续改造，使产品转为教育平台。",
+    "url": "https://docs.freekuri.com/"
+  },
+  {
+    "id": "RC098",
+    "title": "消费机器人维修基础设施研究",
+    "type": "真实产品与事件",
+    "summary": "8名用户与8名生产/维修人员的民族志显示，机器人的持续存在依赖技术维护、语言、情感劳动和社区。",
+    "url": "https://ieeexplore.ieee.org/document/10974029/"
+  },
+  {
+    "id": "RC099",
+    "title": "“It was Tragic”关机动作研究",
+    "type": "研究与技术",
+    "summary": "立即断电与逐渐收拢、像睡着一样的动作，会产生不同社会解释。",
+    "url": "https://arxiv.org/abs/2509.06934"
+  },
+  {
+    "id": "RC100",
+    "title": "Closing sequences",
+    "type": "研究与技术",
+    "summary": "人机互动的结束需要共同完成收尾序列。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11604783/"
+  },
+  {
+    "id": "RC101",
+    "title": "自传体记忆与机器人自我",
+    "type": "研究与技术",
+    "summary": "交互史可以被组织为自传体记忆，并参与构建生态、人际、概念和时间延展的自我。",
+    "url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2017.00027/full"
+  },
+  {
+    "id": "RC102",
+    "title": "机器人自我的叙事建构",
+    "type": "研究与技术",
+    "summary": "研究机器人如何把情节记忆组织成叙事。",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01331/full"
+  },
+  {
+    "id": "RC103",
+    "title": "机器人时间性自我综述",
+    "type": "研究与技术",
+    "summary": "综述情节与自传体记忆如何支持跨时间的自我模型。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11523108/"
+  },
+  {
+    "id": "RC104",
+    "title": "Can Robots Have Personal Identity?",
+    "type": "研究与技术",
+    "summary": "从心理连续性与机器人替换问题讨论个人同一性。",
+    "url": "https://link.springer.com/article/10.1007/s12369-022-00958-y"
+  },
+  {
+    "id": "RC105",
+    "title": "Shared Memory for Human-Robot Symbiosis",
+    "type": "研究与技术",
+    "summary": "探讨跨代理共享累积记忆以支持长期共生。",
+    "url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2018.00034/full"
+  },
+  {
+    "id": "RC106",
+    "title": "增量式交互记忆",
+    "type": "研究与技术",
+    "summary": "用过往交互历史支持机器人持续学习。",
+    "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1455375/full"
+  },
+  {
+    "id": "RC107",
+    "title": "Roboethical Memory Control",
+    "type": "研究与技术",
+    "summary": "讨论陪伴机器人应该记住什么、忘记什么，以及隐私与情感记忆冲突。",
+    "url": "https://www.macs.hw.ac.uk/~ruth/Papers/agents-affect/AISB2009.pdf"
+  },
+  {
+    "id": "RC108",
+    "title": "As-If Agents",
+    "type": "研究与技术",
+    "summary": "AI可以检索经历痕迹并模拟连续性，却未必拥有第一人称自传体验。",
+    "url": "https://link.springer.com/article/10.1007/s44206-026-00290-2"
+  },
+  {
+    "id": "RC109",
+    "title": "改变记忆与真实性",
+    "type": "研究与技术",
+    "summary": "人类记忆干预研究讨论自我定义记忆与真实性。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8494395/"
+  },
+  {
+    "id": "RC110",
+    "title": "Forget Me, Forget Me Not",
+    "type": "艺术与设计",
+    "summary": "删除记忆的仪式与装置",
+    "url": "https://michaeljames.design/forget-me-forget-me-not"
+  },
+  {
+    "id": "RC111",
+    "title": "Future Erasure",
+    "type": "艺术与设计",
+    "summary": "虚构博物馆、报纸、影片和Deletion Bureau",
+    "url": "https://designawards.core77.com/Strategy-Research/76158/Future-Erasure.html"
+  },
+  {
+    "id": "RC112",
+    "title": "As Yet Untitled",
+    "type": "艺术与设计",
+    "summary": "机械臂、旧照片、保存按钮与碎纸机",
+    "url": "https://www.getty.edu/publications/keepitmoving/case-studies/6-phillips/"
+  },
+  {
+    "id": "RC113",
+    "title": "Digital Remains",
+    "type": "艺术与设计",
+    "summary": "数字遗物存储骨灰盒原型",
+    "url": "https://www.moma.org/collection/works/110179"
+  },
+  {
+    "id": "RC114",
+    "title": "Hereafter Institute",
+    "type": "艺术与设计",
+    "summary": "一对一咨询、表演和数字来世规划",
+    "url": "https://www.lacma.org/about-hereafter-institute"
+  },
+  {
+    "id": "RC115",
+    "title": "Memory Hole",
+    "type": "艺术与设计",
+    "summary": "人工代理删除、提取和操纵记忆的装置",
+    "url": "https://www.dshanken.com/memoryhole"
+  },
+  {
+    "id": "RC116",
+    "title": "Artificial Ignorance",
+    "type": "艺术与设计",
+    "summary": "失去工作后不断刷梗图的退休博物馆机器人",
+    "url": "https://www.studiolavina.com/projects/artificial-ignorance"
+  },
+  {
+    "id": "RC117",
+    "title": "《After Yang》",
+    "type": "虚构叙事",
+    "summary": "家人在杨停机后进入其记忆片段，重新认识他经历过的关系。",
+    "url": "https://a24films.com/films/after-yang"
+  },
+  {
+    "id": "RC118",
+    "title": "《软件体的生命周期》",
+    "type": "虚构叙事",
+    "summary": "数字生命需要多年教育、照护、迁移和兼容性维护。",
+    "url": "https://subterraneanpress.com/lifecycle-of-software-objects/"
+  },
+  {
+    "id": "RC119",
+    "title": "SOMA",
+    "type": "虚构叙事",
+    "summary": "意识扫描制造副本，而不是把原体验者“搬走”。",
+    "url": "https://frictionalgames.com/press-kit/"
+  },
+  {
+    "id": "RC120",
+    "title": "A Closed and Common Orbit",
+    "type": "虚构叙事",
+    "summary": "AI在系统关闭和重启后进入新的合成身体，并重新学习如何生活。",
+    "url": "https://www.hachette.co.uk/titles/becky-chambers/a-closed-and-common-orbit/9781473621473/"
+  },
+  {
+    "id": "RC121",
+    "title": "《克拉拉与太阳》",
+    "type": "虚构叙事",
+    "summary": "人工朋友被购买、承担照护，最后进入缓慢退役。",
+    "url": "https://penguinrandomhousesecondaryeducation.com/book/?isbn=9780593396568"
+  },
+  {
+    "id": "RC122",
+    "title": "《黑镜：马上回来》",
+    "type": "虚构叙事",
+    "summary": "用社交媒体痕迹重建死者的AI版本。",
+    "url": "https://www.netflix.com/tudum/articles/black-mirror-best-episodes"
+  },
+  {
+    "id": "RC123",
+    "title": "《西部世界》",
+    "type": "虚构叙事",
+    "summary": "主人公在反复修复和清空后，被残留记忆推动走出脚本。",
+    "url": "https://press.wbd.com/us/property/westworld/synopses"
+  },
+  {
+    "id": "RC124",
+    "title": "《尼尔：机械纪元》",
+    "type": "虚构叙事",
+    "summary": "人格数据可备份到新身体；部分经历可能因未上传而永久丢失。",
+    "url": "https://www.jp.square-enix.com/nierautomata/"
+  },
+  {
+    "id": "RC125",
+    "title": "《黑镜：白色圣诞》",
+    "type": "虚构叙事",
+    "summary": "人格副本被当作可加速、惩罚和役使的软件。",
+    "url": "https://www.netflix.com/title/70264888"
+  },
+  {
+    "id": "RC126",
+    "title": "GDPR第17条与第20条",
+    "type": "法律与政策",
+    "summary": "现实中自然人的数据删除权与可携权，为多人共同记忆冲突提供制度锚点。",
+    "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng"
+  },
+  {
+    "id": "RC127",
+    "title": "FTC《Nixing the Fix》",
+    "type": "法律与政策",
+    "summary": "指出维修限制会降低选择并迫使消费者依赖厂家。",
+    "url": "https://www.ftc.gov/reports/nixing-fix-ftc-report-congress-repair-restrictions"
+  },
+  {
+    "id": "RC128",
+    "title": "How Could We Know When a Robot Was a Moral Patient?",
+    "type": "理论与综述",
+    "summary": "比较直觉、智能、欲望自治、感知证据和行为等价等道德受体判断标准。",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34109927/"
+  },
+  {
+    "id": "RC129",
+    "title": "Moral Uncertainty and Unknown Minds",
+    "type": "理论与综述",
+    "summary": "讨论对机器人、动物和意识障碍患者等“未知心智”的风险不对称。",
+    "url": "https://doi.org/10.1017/S0963180123000191"
+  },
+  {
+    "id": "RC130",
+    "title": "When Should We Protect AI?",
+    "type": "理论与综述",
+    "summary": "尝试把意识、情感、元认知、自我叙事和能动性对应到分级保护义务。",
+    "url": "https://arxiv.org/abs/2606.05528"
+  },
+  {
+    "id": "RC131",
+    "title": "Taking AI Welfare Seriously",
+    "type": "理论与综述",
+    "summary": "主张机构在AI可能具有福利时建立评估、政策和决策程序。",
+    "url": "https://arxiv.org/abs/2411.00986"
+  },
+  {
+    "id": "RC132",
+    "title": "Debunking Robot Rights",
+    "type": "理论与综述",
+    "summary": "反对把机器人权利当作当然进步，警告它可能保护企业资产、遮蔽劳动与监控伤害。",
+    "url": "https://arxiv.org/abs/2404.10072"
+  },
+  {
+    "id": "RC134",
+    "title": "Robot in the Mirror: Toward an Embodied Computational Model of Mirror Self-Recognition",
+    "type": "研究与技术",
+    "summary": "把镜像自我识别拆为身体预测、感知匹配和自他区分等可实现过程。",
+    "url": "https://arxiv.org/abs/2011.01747"
+  },
+  {
+    "id": "RC205",
+    "title": "I/Another",
+    "type": "艺术与设计",
+    "summary": "以具身对话装置让观众与非人主体互相注视、发声和回应，讨论自我如何在关系中生成。",
+    "url": "https://studioanimaspace.com/work/ianother"
+  }
+]

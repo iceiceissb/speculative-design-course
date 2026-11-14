@@ -1,0 +1,19 @@
+{
+  "signature": "6e0ecd80458363cd482b54f1aa77fca86d322977e5228c6a300c00debb81fcc8",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\45.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\45.wav",
+  "id": "45",
+  "title": "归还软尺并量店门",
+  "kind": "video",
+  "candidate": "c470e1ec555f4c28",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\45\\c470e1ec555f4c28.mp4",
+  "source_start": 0.35,
+  "duration": 3.5833333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085504-tbdxy",
+  "start": 173.33333333333334,
+  "end": 176.91666666666666
+}

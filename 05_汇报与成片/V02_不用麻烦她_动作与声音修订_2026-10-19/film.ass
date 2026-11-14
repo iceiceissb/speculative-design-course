@@ -1,0 +1,70 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,43,&H00F2F5F4,&H000000FF,&H00202521,&H60000000,0,0,0,0,100,100,1,0,1,1.7,0.7,2,105,105,60,1
+Style: Time,Microsoft YaHei,35,&H00F3F0E5,&H000000FF,&H00343B31,&H60000000,0,0,0,0,100,100,2,0,1,1,0.5,7,100,100,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:12.49,0:00:13.69,Default,,0,0,0,,太陡了
+Dialogue: 0,0:00:13.74,0:00:14.61,Default,,0,0,0,,算了
+Dialogue: 0,0:00:15.08,0:00:16.50,Default,,0,0,0,,这几个行吗
+Dialogue: 0,0:00:18.71,0:00:19.67,Default,,0,0,0,,里面那排
+Dialogue: 0,0:00:19.70,0:00:20.96,Default,,0,0,0,,还有别的吗
+Dialogue: 0,0:00:22.44,0:00:23.93,Default,,0,0,0,,你先去接孩子
+Dialogue: 0,0:00:24.38,0:00:25.27,Default,,0,0,0,,我再看看
+Dialogue: 0,0:00:26.07,0:00:27.56,Default,,0,0,0,,到家给我发个消息
+Dialogue: 0,0:00:33.16,0:00:34.52,Default,,0,0,0,,秀秀智能轮椅
+Dialogue: 0,0:00:34.54,0:00:35.52,Default,,0,0,0,,新品上市
+Dialogue: 0,0:00:35.88,0:00:36.97,Default,,0,0,0,,过台阶
+Dialogue: 0,0:00:37.02,0:00:37.78,Default,,0,0,0,,走窄路
+Dialogue: 0,0:00:38.03,0:00:40.02,Default,,0,0,0,,一个人也能轻松出门
+Dialogue: 0,0:01:09.30,0:01:10.46,Default,,0,0,0,,你都到了
+Dialogue: 0,0:01:11.67,0:01:12.05,Default,,0,0,0,,给谁做
+Dialogue: 0,0:01:12.29,0:01:13.30,Default,,0,0,0,,给我
+Dialogue: 0,0:01:13.57,0:01:14.96,Default,,0,0,0,,你看这颜色
+Dialogue: 0,0:01:20.23,0:01:21.41,Default,,0,0,0,,这个好
+Dialogue: 0,0:01:27.39,0:01:28.08,Default,,0,0,0,,老板
+Dialogue: 0,0:01:28.13,0:01:29.43,Default,,0,0,0,,你这儿怎么进去啊
+Dialogue: 0,0:01:31.76,0:01:32.88,Default,,0,0,0,,旁边有个坡
+Dialogue: 0,0:01:33.82,0:01:35.04,Default,,0,0,0,,这坡我上不了
+Dialogue: 0,0:01:37.29,0:01:37.95,Default,,0,0,0,,秀秀
+Dialogue: 0,0:01:38.21,0:01:39.74,Default,,0,0,0,,这条消息你发的
+Dialogue: 0,0:01:40.28,0:01:41.90,Default,,0,0,0,,刚才进店时发的
+Dialogue: 0,0:01:44.28,0:01:45.81,Default,,0,0,0,,她的轮椅上不来
+Dialogue: 0,0:01:46.09,0:01:47.75,Default,,0,0,0,,得把台阶写上
+Dialogue: 0,0:01:47.86,0:01:49.02,Default,,0,0,0,,别让人白跑
+Dialogue: 0,0:01:49.31,0:01:49.69,Default,,0,0,0,,好
+Dialogue: 0,0:01:49.97,0:01:50.52,Default,,0,0,0,,我改
+Dialogue: 0,0:01:57.40,0:01:59.27,Default,,0,0,0,,这两处可以报给街道
+Dialogue: 0,0:01:59.30,0:02:00.22,Default,,0,0,0,,附上照片
+Dialogue: 0,0:02:00.45,0:02:01.37,Default,,0,0,0,,要报吗
+Dialogue: 0,0:02:02.10,0:02:03.07,Default,,0,0,0,,都报吧
+Dialogue: 0,0:02:03.33,0:02:04.63,Default,,0,0,0,,看看能不能修
+Dialogue: 0,0:02:08.96,0:02:09.68,Default,,0,0,0,,老板
+Dialogue: 0,0:02:09.68,0:02:11.00,Default,,0,0,0,,样布先拿出来吧
+Dialogue: 0,0:02:11.01,0:02:11.76,Default,,0,0,0,,我自己挑
+Dialogue: 0,0:02:14.35,0:02:15.87,Default,,0,0,0,,我店里好像有把尺
+Dialogue: 0,0:02:15.90,0:02:16.76,Default,,0,0,0,,我这儿有
+Dialogue: 0,0:02:21.11,0:02:22.05,Default,,0,0,0,,快去吧
+Dialogue: 0,0:02:22.08,0:02:23.01,Default,,0,0,0,,别迟了
+Dialogue: 0,0:02:44.27,0:02:45.82,Default,,0,0,0,,这两根柱子挪一下
+Dialogue: 0,0:02:46.62,0:02:48.88,Default,,0,0,0,,去车站就不用绕了
+Dialogue: 0,0:03:13.92,0:03:15.00,Default,,0,0,0,,这回行了吧
+Dialogue: 0,0:03:15.50,0:03:16.80,Default,,0,0,0,,让她也试试
+Dialogue: 0,0:03:22.88,0:03:24.15,Default,,0,0,0,,这里转不过来
+Dialogue: 0,0:04:12.27,0:04:14.03,Default,,0,0,0,,今天不用接孩子
+Dialogue: 0,0:04:14.18,0:04:15.77,Default,,0,0,0,,今天他爸接
+Dialogue: 0,0:04:16.33,0:04:17.90,Default,,0,0,0,,这袖子好看
+Dialogue: 0,0:04:18.83,0:04:19.55,Default,,0,0,0,,转过去
+Dialogue: 0,0:04:19.58,0:04:20.71,Default,,0,0,0,,我看看后面
+Dialogue: 1,0:00:44.07,0:00:45.61,Time,,0,0,0,,几天后
+Dialogue: 1,0:02:43.86,0:02:46.21,Time,,0,0,0,,数周后
+Dialogue: 1,0:03:01.82,0:03:03.36,Time,,0,0,0,,此后数月
+Dialogue: 1,0:03:27.32,0:03:28.07,Time,,0,0,0,,几天后
+Dialogue: 1,0:04:04.57,0:04:06.92,Time,,0,0,0,,两年后的春天

@@ -1,0 +1,82 @@
+{
+  "signature": "30233b9e53ac25c6ebf0da440cdd2a322e1843c4152d3cc395d47081d2bc620c",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\06.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\06.wav",
+  "id": "06",
+  "title": "接孩子的提醒",
+  "kind": "video",
+  "candidate": "ba6c5581ce384d0e",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\06\\ba6c5581ce384d0e.mp4",
+  "source_start": 1.548,
+  "duration": 4.458333333333333,
+  "dialogue": [
+    {
+      "id": "L04",
+      "speaker": "邱",
+      "text": "你先去接孩子。我再看看。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 2.8800000000000003,
+      "end": 5.68,
+      "text": "你先去接孩子,我再看看。",
+      "avg_logprob": -0.5959214247190036,
+      "words": [
+        {
+          "start": 2.8800000000000003,
+          "end": 3.44,
+          "word": "你",
+          "probability": 0.7887282371520996
+        },
+        {
+          "start": 3.44,
+          "end": 3.64,
+          "word": "先",
+          "probability": 0.990884006023407
+        },
+        {
+          "start": 3.64,
+          "end": 3.82,
+          "word": "去",
+          "probability": 0.9981324076652527
+        },
+        {
+          "start": 3.82,
+          "end": 4.0,
+          "word": "接",
+          "probability": 0.9964913725852966
+        },
+        {
+          "start": 4.0,
+          "end": 4.36,
+          "word": "孩子,",
+          "probability": 0.996778666973114
+        },
+        {
+          "start": 4.96,
+          "end": 5.24,
+          "word": "我",
+          "probability": 0.6908798813819885
+        },
+        {
+          "start": 5.24,
+          "end": 5.4,
+          "word": "再",
+          "probability": 0.997478187084198
+        },
+        {
+          "start": 5.4,
+          "end": 5.68,
+          "word": "看看。",
+          "probability": 0.9846392869949341
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019083709-zg9vz",
+  "start": 16.791666666666668,
+  "end": 21.25
+}

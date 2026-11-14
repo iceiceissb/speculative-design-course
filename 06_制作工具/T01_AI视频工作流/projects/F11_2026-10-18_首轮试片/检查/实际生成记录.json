@@ -1,0 +1,163 @@
+{
+  "checked_at": "2026-10-18T22:24:53+08:00",
+  "candidates": [
+    {
+      "id": "398cfd0a50a3440e",
+      "job_id": "T20",
+      "task_id": "cgt-20261018221236-wct1r",
+      "status": "succeeded",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "profile": "连接测试",
+      "title": "为自己挑红布",
+      "creative_review": "pending",
+      "visual_review": {
+        "status": "connectivity_verified",
+        "note": "真实生成与下载通过；人物与布料整体稳定。此段只用于接入验证。"
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\连接测试\\candidates\\T20\\398cfd0a50a3440e.mp4",
+      "estimated_rmb_from_usage": 2.7117,
+      "contact_sheet": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\检查\\连接测试_T20_398cfd0a50a3440e.jpg"
+    },
+    {
+      "id": "0e784c9040d4475f",
+      "job_id": "15",
+      "task_id": "cgt-20261018221618-0mbxs",
+      "status": "succeeded",
+      "usage": {
+        "completion_tokens": 173700,
+        "total_tokens": 173700
+      },
+      "profile": "五镜试片",
+      "title": "收拢后穿过柱口",
+      "creative_review": "pending",
+      "visual_review": {
+        "status": "needs_action_revision",
+        "note": "轮椅从柱间向前移动，人物外观基本稳定。首帧已经在柱间，收拢前后对比不充分；动作集中在后半段，需重新设计收拢过程。"
+      },
+      "media": {
+        "duration": 8.064,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\五镜试片\\candidates\\15\\0e784c9040d4475f.mp4",
+      "estimated_rmb_from_usage": 12.159,
+      "contact_sheet": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\检查\\五镜试片_15_0e784c9040d4475f.jpg"
+    },
+    {
+      "id": "dcc4c4364ad748a8",
+      "job_id": "16",
+      "task_id": "cgt-20261018221625-29fpv",
+      "status": "succeeded",
+      "usage": {
+        "completion_tokens": 216900,
+        "total_tokens": 216900
+      },
+      "profile": "五镜试片",
+      "title": "越过布店台阶",
+      "creative_review": "pending",
+      "visual_review": {
+        "status": "needs_action_revision",
+        "note": "发生了抬升与向前运动，但末尾仍在台阶上，未完整到达入口平台。支撑脚落点需逐段修正；当前首帧台阶数量与剧本两级台阶尚未统一。"
+      },
+      "media": {
+        "duration": 10.048,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\五镜试片\\candidates\\16\\dcc4c4364ad748a8.mp4",
+      "estimated_rmb_from_usage": 15.183,
+      "contact_sheet": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\检查\\五镜试片_16_dcc4c4364ad748a8.jpg"
+    },
+    {
+      "id": "2b2fc0bc56c84859",
+      "job_id": "20",
+      "task_id": "cgt-20261018221631-6yep5",
+      "status": "succeeded",
+      "usage": {
+        "completion_tokens": 152100,
+        "total_tokens": 152100
+      },
+      "profile": "五镜试片",
+      "title": "为自己挑红布",
+      "creative_review": "pending",
+      "visual_review": {
+        "status": "candidate_for_editing",
+        "note": "挑布、比肩和另一人整理布料的动作清楚，人物整体较稳定，可继续精剪。角色语音为模型临时声音，尚未统一或完整听辨。"
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\五镜试片\\candidates\\20\\2b2fc0bc56c84859.mp4",
+      "estimated_rmb_from_usage": 10.647,
+      "contact_sheet": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\检查\\五镜试片_20_2b2fc0bc56c84859.jpg"
+    },
+    {
+      "id": "7b34396df4104374",
+      "job_id": "21",
+      "task_id": "cgt-20261018221649-yv170",
+      "status": "succeeded",
+      "usage": {
+        "completion_tokens": 130500,
+        "total_tokens": 130500
+      },
+      "profile": "五镜试片",
+      "title": "取下高处扣子盒",
+      "creative_review": "pending",
+      "visual_review": {
+        "status": "needs_contact_review",
+        "note": "盒子完成下降并接近人物；中段手掌被盒体遮挡，机械手的夹持与人手接稳过程需要更细的连续帧检查，暂不认定抓握合格。"
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\五镜试片\\candidates\\21\\7b34396df4104374.mp4",
+      "estimated_rmb_from_usage": 9.135,
+      "contact_sheet": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\检查\\五镜试片_21_7b34396df4104374.jpg"
+    },
+    {
+      "id": "f2672c599a0f4339",
+      "job_id": "53",
+      "task_id": "cgt-20261018221702-slxhn",
+      "status": "succeeded",
+      "usage": {
+        "completion_tokens": 173700,
+        "total_tokens": 173700
+      },
+      "profile": "五镜试片",
+      "title": "普通轮椅转不过来",
+      "creative_review": "pending",
+      "visual_review": {
+        "status": "needs_contact_closeup",
+        "note": "轮椅在狭窄门边停住，场景关系基本保留。脚踏碰边的具体瞬间仍需补近景，让转不过来的原因更明确。"
+      },
+      "media": {
+        "duration": 8.064,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "file": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\五镜试片\\candidates\\53\\f2672c599a0f4339.mp4",
+      "estimated_rmb_from_usage": 12.159,
+      "contact_sheet": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\检查\\五镜试片_53_f2672c599a0f4339.jpg"
+    }
+  ],
+  "estimated_total_rmb_from_usage": 61.9947,
+  "note": "费用按实际返回tokens折算，最终看账单；动作与声音待人工审阅，未作为成片定稿。"
+}

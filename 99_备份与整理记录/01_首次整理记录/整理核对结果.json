@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-17",
+  "scripts": 32,
+  "unique_story_demos": 7,
+  "visual_groups": 10,
+  "tools": 2,
+  "snapshot_files": 2015,
+  "snapshot_size": 3129013503,
+  "snapshot_sha256": "3939fcb9b5a42ef2f6569cef5707f1009ef5575fe7cd4ed17bee963c3657708a",
+  "snapshot_content_hashes_verified": true,
+  "organized_files": 903,
+  "organized_content_hashes_verified": true,
+  "original_changed": [],
+  "originals_moved": 0,
+  "originals_deleted": 0,
+  "browser_check": {
+    "pages": 8,
+    "runtime_errors": 0,
+    "failed_requests": 0,
+    "navigation_search_and_filter_passed": true,
+    "mobile_navigation_no_overflow": true,
+    "scope": "入口加载检查，未重复旧 Demo 的全部分支测试"
+  },
+  "local_dependencies": {
+    "checked_links": 177,
+    "missing": 0,
+    "duplicate_sources_verified": 9
+  },
+  "script_identical_source_report": "依赖与重复来源检查.json"
+}

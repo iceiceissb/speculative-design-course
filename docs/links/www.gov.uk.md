@@ -1,0 +1,8 @@
+# www.gov.uk
+
+[返回总索引](../links.md)
+
+- [https://www.gov.uk/government/publications/assistive-technology-definition-and-safe-use/assistive-technology-definition-and-safe-use](https://www.gov.uk/government/publications/assistive-technology-definition-and-safe-use/assistive-technology-definition-and-safe-use)
+  - 出处：[content_v4_1.json](../../90_%E5%8E%86%E5%8F%B2%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%A7%E6%8F%90%E4%BA%A4/01_%E6%95%B4%E7%90%86%E5%89%8D%E5%8E%9F%E7%9B%AE%E5%BD%95/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E5%9B%9B%E7%89%88_%E6%B1%87%E6%8A%A5%E6%8F%90%E4%BA%A4/%E5%88%B6%E4%BD%9C%E6%96%87%E4%BB%B6/content_v4_1.json)
+- [https://www.gov.uk/government/publications/assistive-technology-definition-and-safe-use/assistive-technology-definition-and-safe-use)：2025更新；大不列颠适用，按预期用途判断医疗器械属性与合规要求](https://www.gov.uk/government/publications/assistive-technology-definition-and-safe-use/assistive-technology-definition-and-safe-use%29%EF%BC%9A2025%E6%9B%B4%E6%96%B0%EF%BC%9B%E5%A4%A7%E4%B8%8D%E5%88%97%E9%A2%A0%E9%80%82%E7%94%A8%EF%BC%8C%E6%8C%89%E9%A2%84%E6%9C%9F%E7%94%A8%E9%80%94%E5%88%A4%E6%96%AD%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E5%B1%9E%E6%80%A7%E4%B8%8E%E5%90%88%E8%A7%84%E8%A6%81%E6%B1%82)
+  - 出处：[09_请等下一班_v4.1_完整剧本与法规修订.md](../../01_%E5%89%A7%E6%9C%AC%E7%89%88%E6%9C%AC/02_%E5%8C%BB%E9%99%A2%E4%B8%8E%E8%AE%A9%E8%A1%8C/S11_%E8%AF%B7%E7%AD%89%E4%B8%8B%E4%B8%80%E7%8F%AD_v4.1/09_%E8%AF%B7%E7%AD%89%E4%B8%8B%E4%B8%80%E7%8F%AD_v4.1_%E5%AE%8C%E6%95%B4%E5%89%A7%E6%9C%AC%E4%B8%8E%E6%B3%95%E8%A7%84%E4%BF%AE%E8%AE%A2.md)

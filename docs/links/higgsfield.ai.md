@@ -1,0 +1,22 @@
+# higgsfield.ai
+
+[返回总索引](../links.md)
+
+- [https://higgsfield.ai/blog/ai-video-api-pricing-vs-subscriptions](https://higgsfield.ai/blog/ai-video-api-pricing-vs-subscriptions)
+  - 出处：[09_Seedance购买与预算建议_2026-10-18.md](../../00_%E5%BD%93%E5%89%8D%E5%88%9B%E4%BD%9C/09_Seedance%E8%B4%AD%E4%B9%B0%E4%B8%8E%E9%A2%84%E7%AE%97%E5%BB%BA%E8%AE%AE_2026-10-18.md)
+- [https://higgsfield.ai/blog/cinema-studio-4-0-complete-guide](https://higgsfield.ai/blog/cinema-studio-4-0-complete-guide)
+  - 出处：[99_证据索引与核查边界.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/99_%E8%AF%81%E6%8D%AE%E7%B4%A2%E5%BC%95%E4%B8%8E%E6%A0%B8%E6%9F%A5%E8%BE%B9%E7%95%8C.md)
+- [https://higgsfield.ai/blog/cinema-studio-4-0-complete-guide)、](https://higgsfield.ai/blog/cinema-studio-4-0-complete-guide%29%E3%80%81)
+  - 出处：[03_产品能力_商业模式与成本.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/03_%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B_%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%88%90%E6%9C%AC.md)
+- [https://higgsfield.ai/blog/higgsfield-pricing-explained](https://higgsfield.ai/blog/higgsfield-pricing-explained)
+  - 出处：[03_产品能力_商业模式与成本.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/03_%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B_%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%88%90%E6%9C%AC.md)
+- [https://higgsfield.ai/creator-hub/help-center/credits/how-credit-packs-work](https://higgsfield.ai/creator-hub/help-center/credits/how-credit-packs-work)
+  - 出处：[09_Seedance购买与预算建议_2026-10-18.md](../../00_%E5%BD%93%E5%89%8D%E5%88%9B%E4%BD%9C/09_Seedance%E8%B4%AD%E4%B9%B0%E4%B8%8E%E9%A2%84%E7%AE%97%E5%BB%BA%E8%AE%AE_2026-10-18.md)
+- [https://higgsfield.ai/creator-hub/help-center/credits/how-credits-work](https://higgsfield.ai/creator-hub/help-center/credits/how-credits-work)
+  - 出处：[09_Seedance购买与预算建议_2026-10-18.md](../../00_%E5%BD%93%E5%89%8D%E5%88%9B%E4%BD%9C/09_Seedance%E8%B4%AD%E4%B9%B0%E4%B8%8E%E9%A2%84%E7%AE%97%E5%BB%BA%E8%AE%AE_2026-10-18.md)
+- [https://higgsfield.ai/enterprise-help-center/platform/integrations](https://higgsfield.ai/enterprise-help-center/platform/integrations)
+  - 出处：[00_先看这里.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/00_%E5%85%88%E7%9C%8B%E8%BF%99%E9%87%8C.md)
+- [https://higgsfield.ai/enterprise-help-center/platform/integrations)、](https://higgsfield.ai/enterprise-help-center/platform/integrations%29%E3%80%81)
+  - 出处：[02_Claude_GPT执行手册与提示词.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/02_Claude_GPT%E6%89%A7%E8%A1%8C%E6%89%8B%E5%86%8C%E4%B8%8E%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
+- [https://higgsfield.ai/pricing](https://higgsfield.ai/pricing)
+  - 出处：[09_Seedance购买与预算建议_2026-10-18.md](../../00_%E5%BD%93%E5%89%8D%E5%88%9B%E4%BD%9C/09_Seedance%E8%B4%AD%E4%B9%B0%E4%B8%8E%E9%A2%84%E7%AE%97%E5%BB%BA%E8%AE%AE_2026-10-18.md)

@@ -1,0 +1,7 @@
+import {chromium} from 'playwright';import path from 'node:path';import {pathToFileURL} from 'node:url';import fs from 'node:fs/promises';
+const b=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,args:['--enable-unsafe-swiftshader']});
+const p=await b.newPage({viewport:{width:1505,height:1045}});await p.context().setOffline(true);let errors=[];p.on('pageerror',e=>errors.push(e.message));
+await p.goto(pathToFileURL(path.resolve('作业二/提交_请别替我让路/3D交互原型/index.html')).href);await p.waitForTimeout(300);
+await p.locator('[data-action=start]').click();await p.locator('[data-action=interrupt]').click();await p.locator('[data-action=other]').click();await p.locator('[data-action=interrupt]').click();if(!(await p.locator('#pause').isDisabled()))throw Error('Toolbar may bypass motion hold');await p.locator('[data-action=resume]').click();await p.evaluate(()=>__app.stage.speed=15);await p.waitForFunction(()=>__app.state.phase==='outcome');
+for(const tab of ['story','sources']){await p.locator(`[data-tab=${tab}]`).click();if(!(await p.locator(`#${tab} img`).evaluateAll(imgs=>imgs.every(i=>i.complete&&i.naturalWidth))))throw Error('Offline images incomplete');}
+if(errors.length)throw Error(errors.join('\n'));await fs.writeFile('tmp/yield-project/qa/final-smoke.json',JSON.stringify({offline:true,midMotionToolbarGuard:true,storyAndSourceAssets:true,errors},null,2));console.log('OFFLINE_AND_STOP_GUARD_PASS');await b.close();

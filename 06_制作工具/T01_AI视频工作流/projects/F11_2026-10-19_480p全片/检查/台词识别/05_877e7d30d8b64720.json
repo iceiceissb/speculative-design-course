@@ -1,0 +1,113 @@
+{
+  "shot": "05",
+  "candidate": "877e7d30d8b64720",
+  "expected": [
+    {
+      "id": "L02",
+      "speaker": "店主",
+      "text": "这几个行吗？"
+    },
+    {
+      "id": "L03",
+      "speaker": "邱",
+      "text": "里面那排，还有别的吗？"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.72,
+      "text": "这几个行吗?",
+      "avg_logprob": -0.5496243726123463,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.58,
+          "word": "这",
+          "probability": 0.6182578802108765
+        },
+        {
+          "start": 0.58,
+          "end": 0.72,
+          "word": "几",
+          "probability": 0.9942462742328644
+        },
+        {
+          "start": 0.72,
+          "end": 0.8,
+          "word": "个",
+          "probability": 0.9952869415283203
+        },
+        {
+          "start": 0.8,
+          "end": 0.94,
+          "word": "行",
+          "probability": 0.995599627494812
+        },
+        {
+          "start": 0.94,
+          "end": 1.72,
+          "word": "吗?",
+          "probability": 0.9804018139839172
+        }
+      ]
+    },
+    {
+      "start": 3.72,
+      "end": 5.94,
+      "text": "里面那牌还有别的吗?",
+      "avg_logprob": -0.5496243726123463,
+      "words": [
+        {
+          "start": 3.72,
+          "end": 4.12,
+          "word": "里",
+          "probability": 0.9643473625183105
+        },
+        {
+          "start": 4.12,
+          "end": 4.32,
+          "word": "面",
+          "probability": 0.9982959628105164
+        },
+        {
+          "start": 4.32,
+          "end": 4.46,
+          "word": "那",
+          "probability": 0.8854315876960754
+        },
+        {
+          "start": 4.46,
+          "end": 4.78,
+          "word": "牌",
+          "probability": 0.7064028382301331
+        },
+        {
+          "start": 4.78,
+          "end": 5.32,
+          "word": "还有",
+          "probability": 0.6684845685958862
+        },
+        {
+          "start": 5.32,
+          "end": 5.6,
+          "word": "别",
+          "probability": 0.9927113056182861
+        },
+        {
+          "start": 5.6,
+          "end": 5.78,
+          "word": "的",
+          "probability": 0.9975380897521973
+        },
+        {
+          "start": 5.78,
+          "end": 5.94,
+          "word": "吗?",
+          "probability": 0.9576509594917297
+        }
+      ]
+    }
+  ]
+}

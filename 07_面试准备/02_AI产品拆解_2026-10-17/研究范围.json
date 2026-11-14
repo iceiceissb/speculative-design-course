@@ -1,0 +1,26 @@
+{
+  "checked_date": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "scope": "official-document product research with analytical teardown; not a cross-product hands-on benchmark",
+  "unique_sources": 59,
+  "groups": {
+    "OpenAI / ChatGPT / Codex": 20,
+    "Anthropic / Claude": 12,
+    "Cursor": 5,
+    "OpenCode": 6,
+    "GitHub Copilot": 3,
+    "Manus": 6,
+    "OpenClaw": 4,
+    "Hermes Agent": 3
+  },
+  "chapters": [
+    "00_先看框架与产品地图.md",
+    "01_OpenAI产品与Codex重点拆解.md",
+    "02_Claude产品与Cowork.md",
+    "03_Cursor_OpenCode_GitHubCopilot.md",
+    "04_Manus_OpenClaw_Hermes.md",
+    "05_横向比较与面试表达.md",
+    "06_体验任务与评估表.md",
+    "99_官方来源与核验范围.md"
+  ]
+}

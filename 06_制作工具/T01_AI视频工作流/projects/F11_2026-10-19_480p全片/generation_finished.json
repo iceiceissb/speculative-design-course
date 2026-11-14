@@ -1,0 +1,9 @@
+{
+  "finished_at": "2026-10-19T09:27:26+08:00",
+  "successes": 60,
+  "explicitly_rejected_without_retry": [
+    "03",
+    "39"
+  ],
+  "new_usage_estimated_rmb": 208.2589
+}

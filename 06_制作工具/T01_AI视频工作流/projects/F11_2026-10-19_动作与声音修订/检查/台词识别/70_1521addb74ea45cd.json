@@ -1,0 +1,64 @@
+{
+  "shot": "70",
+  "candidate": "1521addb74ea45cd",
+  "expected": [
+    {
+      "id": "L31",
+      "speaker": "徐",
+      "text": "转过去，我看看后面。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "转过去,我看看后面。",
+      "avg_logprob": -0.32008214180286115,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.34,
+          "word": "转",
+          "probability": 0.7713344693183899
+        },
+        {
+          "start": 0.34,
+          "end": 0.48,
+          "word": "过",
+          "probability": 0.7605558633804321
+        },
+        {
+          "start": 0.48,
+          "end": 0.68,
+          "word": "去,",
+          "probability": 0.9963657855987549
+        },
+        {
+          "start": 0.88,
+          "end": 0.96,
+          "word": "我",
+          "probability": 0.8799372315406799
+        },
+        {
+          "start": 0.96,
+          "end": 1.18,
+          "word": "看看",
+          "probability": 0.990224301815033
+        },
+        {
+          "start": 1.18,
+          "end": 1.5,
+          "word": "后",
+          "probability": 0.9929519295692444
+        },
+        {
+          "start": 1.5,
+          "end": 1.84,
+          "word": "面。",
+          "probability": 0.9990264177322388
+        }
+      ]
+    }
+  ]
+}

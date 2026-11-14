@@ -1,0 +1,19 @@
+{
+  "signature": "428f833f67f66573f0ae8ab88a4bf5a738d0714ceb18b13d066b5a450f6cf966",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\12.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\12.wav",
+  "id": "12",
+  "title": "新轮椅拆膜",
+  "kind": "video",
+  "candidate": "e4a81a043b374d4e",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\12\\e4a81a043b374d4e.mp4",
+  "source_start": 0.35,
+  "duration": 1.7916666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084108-cxxeb",
+  "start": 39.75,
+  "end": 41.541666666666664
+}

@@ -1,0 +1,52 @@
+{
+  "signature": "5e591ed92d2b9d3e5842c793d3161e18df2cfb9f779689d9399311f4f697fed2",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\19.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\19.wav",
+  "id": "19",
+  "title": "徐在店里找到邱",
+  "kind": "video",
+  "candidate": "4d8c8cbd29f647e0",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\19\\4d8c8cbd29f647e0.mp4",
+  "source_start": 1.3639999999999999,
+  "duration": 2.6666666666666665,
+  "dialogue": [
+    {
+      "id": "L07",
+      "speaker": "徐",
+      "text": "你都到了？"
+    }
+  ],
+  "speech": [
+    {
+      "start": 2.18,
+      "end": 3.4,
+      "text": "你都到了。",
+      "avg_logprob": -1.0085021087101527,
+      "words": [
+        {
+          "start": 2.18,
+          "end": 2.9,
+          "word": "你",
+          "probability": 0.8842595815658569
+        },
+        {
+          "start": 2.9,
+          "end": 3.08,
+          "word": "都",
+          "probability": 0.995173990726471
+        },
+        {
+          "start": 3.08,
+          "end": 3.4,
+          "word": "到了。",
+          "probability": 0.9636597633361816
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084405-vi546",
+  "start": 66.04166666666667,
+  "end": 68.70833333333333
+}

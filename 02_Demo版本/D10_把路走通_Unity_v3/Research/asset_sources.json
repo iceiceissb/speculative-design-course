@@ -1,0 +1,35 @@
+{
+  "version": "D10 v3",
+  "request": "双视角、亚洲小女孩、更精细的行人、考究地图",
+  "scope": [
+    "V切换河对岸与轮椅第一人称",
+    "原创新主角",
+    "免费CC0行人",
+    "可通行桥梁与休憩广场",
+    "三条任务路线回归"
+  ],
+  "sources": [
+    {
+      "author": "Quaternius",
+      "pack": "Ultimate Animated Character Pack",
+      "url": "https://quaternius.com/packs/ultimatedanimatedcharacter",
+      "license": "CC0 1.0",
+      "used": [
+        "Casual_Female.fbx",
+        "Casual_Male.fbx",
+        "OldClassy_Female.fbx"
+      ],
+      "downloadedFrom": "Official Google Drive linked on pack page",
+      "localLicense": "ThirdParty/Quaternius/License.txt"
+    },
+    {
+      "author": "Kenney",
+      "pack": "Mini Characters",
+      "url": "https://kenney.nl/assets/mini-characters",
+      "license": "CC0",
+      "used": [],
+      "evaluation": "Examined preview and license; blocky proportions did not match hero, not used in game"
+    }
+  ],
+  "status": "complete"
+}

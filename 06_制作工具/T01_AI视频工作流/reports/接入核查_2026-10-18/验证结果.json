@@ -1,0 +1,44 @@
+{
+  "checked_date": "2026-10-18",
+  "paid_generation_jobs": 0,
+  "api_key_configured": false,
+  "transport_probe": {
+    "http_status": 401,
+    "authenticated": false,
+    "meaning": "官方接口可达；尚未验证账户或模型权限。"
+  },
+  "regression": {
+    "command": "python -X utf8 -m unittest test_workflow -v",
+    "tests": 9,
+    "passed": 9,
+    "seconds": 8.678,
+    "official_generation_tested": false,
+    "uses_local_mock_server": true,
+    "actual_ffmpeg_assembly": true
+  },
+  "compatibility_fix": {
+    "model": "doubao-seedance-2-5-260628",
+    "first_frame_ratio": "adaptive",
+    "source": "https://docs.volcengine.com/docs/ark/create-video-generation-task-api?lang=zh"
+  },
+  "editing": {
+    "mp4_assembly": true,
+    "jyproject_draft_write": true,
+    "native_jianying_ui_verified": false,
+    "native_jianying_export_verified": false,
+    "report": "../jianying-skill-check.json"
+  },
+  "f11": {
+    "shots": 72,
+    "video_jobs": 61,
+    "generated_seconds_one_candidate": 392,
+    "timeline_seconds": 294,
+    "imported_to_old_project": false
+  },
+  "jimeng_upscale": {
+    "source": "user clarification",
+    "reported_credits": 8,
+    "official_current_price_verified": false,
+    "api_video_import_eligibility_verified": false
+  }
+}

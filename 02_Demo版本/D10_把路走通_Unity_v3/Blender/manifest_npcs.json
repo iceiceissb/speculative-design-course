@@ -1,0 +1,32 @@
+[
+  {
+    "asset": "Casual_Female",
+    "license": "CC0",
+    "clips": [
+      "Idle",
+      "Walk"
+    ],
+    "source_objects": 2,
+    "canonical_height": 1.72
+  },
+  {
+    "asset": "Casual_Male",
+    "license": "CC0",
+    "clips": [
+      "Idle",
+      "Walk"
+    ],
+    "source_objects": 2,
+    "canonical_height": 1.8
+  },
+  {
+    "asset": "OldClassy_Female",
+    "license": "CC0",
+    "clips": [
+      "Idle",
+      "Walk"
+    ],
+    "source_objects": 2,
+    "canonical_height": 1.64
+  }
+]

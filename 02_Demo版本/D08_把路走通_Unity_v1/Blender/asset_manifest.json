@@ -1,0 +1,47 @@
+[
+  {
+    "asset": "Hero",
+    "objects": 63,
+    "faces": 3270
+  },
+  {
+    "asset": "Home",
+    "objects": 28,
+    "faces": 1554
+  },
+  {
+    "asset": "Market",
+    "objects": 65,
+    "faces": 3624
+  },
+  {
+    "asset": "Tree",
+    "objects": 9,
+    "faces": 1292
+  },
+  {
+    "asset": "Planter",
+    "objects": 7,
+    "faces": 812
+  },
+  {
+    "asset": "Bench",
+    "objects": 9,
+    "faces": 118
+  },
+  {
+    "asset": "Crate",
+    "objects": 4,
+    "faces": 24
+  },
+  {
+    "asset": "Bollard",
+    "objects": 4,
+    "faces": 226
+  },
+  {
+    "asset": "Lamp",
+    "objects": 4,
+    "faces": 218
+  }
+]

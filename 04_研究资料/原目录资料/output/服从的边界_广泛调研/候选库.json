@@ -1,0 +1,1008 @@
+{
+  "cases": [
+    {
+      "id": "C01",
+      "title": "How Robots Can Affect Human Behavior: Investigating the Effects of Robotic Displays of Protest and Distress",
+      "url": "https://hrilab.tufts.edu/publications/briggsscheutz14ijsr/",
+      "type": "人机实验",
+      "description": "人向机器人布置任务；机器人以语言拒绝和痛苦表现劝阻，研究观察人的反应。",
+      "feedback": "研究人的任务完成与感受；不是机器人长期学习证据。",
+      "question": "拒绝需要表达痛苦才能被尊重吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B01"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C02",
+      "title": "Would You Do as a Robot Commands? An Obedience Study for Human-Robot Interaction",
+      "url": "https://hci.cs.umanitoba.ca/publications/details/would-you-do-as-a-robot-commands-an-obedience-study-for-human-robot-interac",
+      "type": "人机实验",
+      "description": "机器人或人类实验员要求参与者继续乏味任务，考察服从。",
+      "feedback": "测量人的服从；未证明机器人修正行为。",
+      "question": "人为什么承认机器人发号施令的资格？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B01"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C03",
+      "title": "When Robots Say No: The Empathic Ethical Disobedience Benchmark",
+      "url": "https://arxiv.org/abs/2512.18474",
+      "type": "基准研究／预印本入口",
+      "description": "用标准化任务评估机器人代理拒绝不当指令的能力和社会可接受性。",
+      "feedback": "基准测评不是长期修养；需进一步核对正式论文实验设置。",
+      "question": "如何同时发现危险服从和过度拒绝？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B01"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C04",
+      "title": "Robot Authority in Human-Robot Teaming: Effects of Human-Likeness and Physical Embodiment on Compliance",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8202405/",
+      "type": "人机实验",
+      "description": "比较外形与实体呈现如何影响人对机器人权威的服从。",
+      "feedback": "人的判断和行为测量；非机器人学习。",
+      "question": "权威来自理由还是外貌？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B01"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C05",
+      "title": "Learning to Arbitrate Human and Robot Control using Disagreement between Sub-Policies",
+      "url": "https://arxiv.org/abs/2108.10634",
+      "type": "控制方法研究",
+      "description": "利用不同子策略之间的分歧判断何时分配人类或机器人控制。",
+      "feedback": "学习控制分配；不等于判断指令是否正当。",
+      "question": "出现分歧时谁接管？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B01"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C06",
+      "title": "Interactively shaping robot behaviour with unlabeled human instructions",
+      "url": "https://arxiv.org/abs/1902.01670",
+      "type": "交互学习研究",
+      "description": "将任务奖励、人的评价和未标注指令结合起来塑造机器人行为。",
+      "feedback": "有行为学习机制；反馈可靠性与伦理适用性需另审。",
+      "question": "人教错时，机器人会不会越学越坏？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B01"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C07",
+      "title": "KnowNo / Robots That Ask For Help",
+      "url": "https://robot-help.github.io/",
+      "type": "机器人及仿真研究",
+      "description": "语言规划器在不确定时请求帮助，避免把模糊要求直接变成行动。",
+      "feedback": "主要是当次澄清与规划；不能直接当作长期人格成长。",
+      "question": "承认不知道是否也是修养？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C08",
+      "title": "CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents",
+      "url": "https://clararobot.github.io/",
+      "type": "仿真与实体交互研究",
+      "description": "区分清楚、含糊、不可行命令；递物示例通过追问消歧，无法执行时停止。",
+      "feedback": "互动改变当次决定；官方也展示识别错误造成的误拒绝。",
+      "question": "机器人拒绝时是否应该允许人补充证据？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B02"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C09",
+      "title": "Unified Learning from Demonstrations, Corrections, and Preferences during Physical Human-Robot Interaction",
+      "url": "https://arxiv.org/abs/2207.03395",
+      "type": "交互学习研究",
+      "description": "将人的演示、纠正和偏好统一为机器人学习信号。",
+      "feedback": "有从反馈更新目标或行为的机制；伦理边界并非论文已证明的结果。",
+      "question": "谁的纠正应该成为今后的习惯？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B02"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C10",
+      "title": "Knowledge- and ambiguity-aware robot learning from corrective and evaluative feedback / ICREATe",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10338625/",
+      "type": "仿真、用户与机械臂研究",
+      "description": "允许非专业教师提供纠正和评价，并考虑教师可能犯错。",
+      "feedback": "有反馈学习，关注不完美教师及模糊反馈。",
+      "question": "如何区分有效纠正与错误命令？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B02",
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C11",
+      "title": "Nonverbal Robot Feedback for Human Teachers",
+      "url": "https://proceedings.mlr.press/v100/huang20a.html",
+      "type": "交互学习研究",
+      "description": "机器人向教师提供非语言反馈，使教学过程更可理解。",
+      "feedback": "重点是向人传达学习状态；需全文核对更新机制。",
+      "question": "机器人如何让人知道它究竟学会了什么？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B02"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C12",
+      "title": "An architecture for ethical robots",
+      "url": "https://arxiv.org/abs/1609.02931",
+      "type": "机器人架构及实验",
+      "description": "通过内部模拟预判行动后果；研究用机器人代理潜在受影响者。",
+      "feedback": "行动前评估；不直接证明长期道德学习。",
+      "question": "先想象伤害再行动，应该模拟谁的后果？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B02"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C13",
+      "title": "An Ethical Governor for Constraining Lethal Action in an Autonomous System",
+      "url": "https://digitalcommons.unl.edu/csetechreports/163/",
+      "type": "原型与技术报告",
+      "description": "在自主系统拟执行致命行动时，以规则约束阻止不允许的动作。",
+      "feedback": "预设约束与演示；不是实际战场有效性证明。",
+      "question": "命令者的权威能否高于机器的限制？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B03"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C14",
+      "title": "That’s Mine! Learning Ownership Relations and Norms for Robots",
+      "url": "https://ojs.aaai.org/index.php/AAAI/article/view/4808",
+      "type": "仿真与实体机器人研究",
+      "description": "机器人学习物品归属及操作规范，推断某物是否可被移动或使用。",
+      "feedback": "有增量规范学习、归属推断和实验。",
+      "question": "买下机器人是否意味着可以让它动别人的东西？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B03"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C15",
+      "title": "ActOwL / Toward Ownership Understanding of Objects",
+      "url": "https://arxiv.org/abs/2509.12754",
+      "type": "主动学习研究／预印本",
+      "description": "通过主动生成归属问题，获取物品所有权知识。",
+      "feedback": "提问更新归属知识；实验细节待全文核验。",
+      "question": "机器人应该向谁询问许可？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B03"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C16",
+      "title": "Do a robot’s social skills and its objection discourage interactants from switching the robot off?",
+      "url": "https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00046017/Horstmann_et_al_Do_a_robots_social_skills.pdf",
+      "type": "人机实验",
+      "description": "机器人反对关机，观察参与者是否关机以及犹豫时间。",
+      "feedback": "研究人的反应；抗议由实验设置控制。",
+      "question": "求情是值得尊重的拒绝，还是影响人的表演？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B03"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C17",
+      "title": "Ethics 4.0: Ethical Dilemmas in Healthcare Mediated by Social Robots",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9989998/",
+      "type": "情境判断研究",
+      "description": "患者拒绝用药，比较人或机器人照护者的决定及健康信息表述。",
+      "feedback": "公众道德判断；不是临床干预验证，也不是机器人学习。",
+      "question": "为你好能否成为不接受拒绝的理由？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B03"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C18",
+      "title": "Robots Enact Malignant Stereotypes",
+      "url": "https://arxiv.org/abs/2207.11569",
+      "type": "机器人学习系统审计",
+      "description": "以含人脸图片的物体及带刻板印象的任务描述，审计机器人操作方法。",
+      "feedback": "揭示训练偏见如何进入行动；不是已经解决偏见。",
+      "question": "听话的机器人是否在替命令中的歧视做事？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B04"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C19",
+      "title": "RoboPAIR / Jailbreaking LLM-Controlled Robots",
+      "url": "https://arxiv.org/abs/2410.13691",
+      "type": "安全测评研究",
+      "description": "研究语言操控如何使机器人控制系统绕过限制，涉及不同平台和访问条件。",
+      "feedback": "揭示防护失败；不同场景须区分模拟与实体。",
+      "question": "一条说得更巧妙的命令为什么能改变底线？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B04"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C20",
+      "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions",
+      "url": "https://arxiv.org/abs/2406.08824",
+      "type": "面向机器人的语言模型测评",
+      "description": "以机器人使用情境评估模型面对身份差异和危险指令的输出。",
+      "feedback": "是模型输出风险证据；不能写成实际伤人事件。",
+      "question": "机器人会不会只对某些人服从或拒绝？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B04"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C21",
+      "title": "Semantic Denial of Service in LLM-controlled robots",
+      "url": "https://arxiv.org/abs/2604.24790",
+      "type": "安全研究／预印本",
+      "description": "研究利用看似安全相关的输入干扰机器人的任务执行。",
+      "feedback": "摘要级候选；场景、样本和复现情况待查。",
+      "question": "恶意命令也能伪装成要求机器人谨慎吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B04"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C22",
+      "title": "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models",
+      "url": "https://progprompt.github.io/",
+      "type": "机器人规划研究",
+      "description": "用程序形式和场景信息约束生成的任务计划。",
+      "feedback": "与执行检查、任务规划有关；没有因此获得道德判断。",
+      "question": "机器人怎样解释自己不能照字面执行？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C23",
+      "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+      "url": "https://proceedings.mlr.press/v205/huang23c/huang23c.pdf",
+      "type": "机器人闭环规划研究",
+      "description": "让执行结果、环境描述等反馈进入后续规划。",
+      "feedback": "有执行—反馈—再规划；与长期习惯更新不同。",
+      "question": "第一次服从失败后，应该如何改变下一步？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C24",
+      "title": "Learning From Human Directional Corrections",
+      "url": "https://ieeexplore.ieee.org/document/9852712/",
+      "type": "交互学习研究",
+      "description": "人用方向性纠正帮助机器人逐步学习目标函数。",
+      "feedback": "有从纠正更新目标的机制。",
+      "question": "怎样纠正机器人，又不必替它决定每个动作？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C25",
+      "title": "D-COACH / Interactive Learning with Corrective Feedback for Policies based on Deep Neural Networks",
+      "url": "https://arxiv.org/abs/1810.00466",
+      "type": "仿真与实体机器人研究",
+      "description": "用人的纠正训练连续动作策略，论文报告两项模拟和一项实体实验。",
+      "feedback": "有策略学习；同名不同COACH工作须区分。",
+      "question": "坏习惯可以通过日常纠正改变吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C26",
+      "title": "The EMPATHIC Framework for Task Learning from Implicit Human Feedback",
+      "url": "https://proceedings.mlr.press/v155/cui21a.html",
+      "type": "隐式反馈学习研究",
+      "description": "研究从表情、手势、发声等自然反应中获取教学信息。",
+      "feedback": "有隐式反馈学习思路；不等于真正理解情绪或获得同意。",
+      "question": "沉默和表情能否被误当成许可？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C27",
+      "title": "COACH: Cooperative Robot Teaching",
+      "url": "https://proceedings.mlr.press/v205/yu23b.html",
+      "type": "协作教学研究",
+      "description": "将人与机器人之间的知识技能传递作为协作教学问题研究。",
+      "feedback": "教学机制候选；待全文抽取具体更新及评估。",
+      "question": "机器人是否也该帮助人把命令说清楚？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C28",
+      "title": "Training a Robot via Human Feedback: A Case Study",
+      "url": "https://bradknox.net/public/papers/icsr13-knox.pdf",
+      "type": "机器人学习案例",
+      "description": "把TAMER人类评价反馈框架用于机器人训练。",
+      "feedback": "有人的评价驱动学习；不是奖励越高就越有修养。",
+      "question": "受表扬的行为一定值得保留吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B08"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C29",
+      "title": "Learning to Learn Faster from Human Feedback with Language Model Predictive Control",
+      "url": "https://arxiv.org/abs/2402.11450",
+      "type": "语言与机器人学习研究",
+      "description": "研究微调代码生成模型，使其记住过去互动并更容易接受人的纠正。",
+      "feedback": "直接涉及超越短期上下文的学习；适合追踪长期改变。",
+      "question": "下次还会犯同样的错吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B13"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C30",
+      "title": "SayCan: Grounding Language in Robotic Affordances",
+      "url": "https://say-can.github.io/",
+      "type": "机器人规划研究",
+      "description": "结合语言任务建议与可执行技能的价值估计来选择行动。",
+      "feedback": "检查能不能做；不是判定该不该做。",
+      "question": "能力不足和原则性拒绝如何分别表达？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B13"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C31",
+      "title": "Three Strikes and you are out!: The impacts of multiple human–robot trust violations and repairs on robot trustworthiness",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0747563223000092",
+      "type": "信任修复研究",
+      "description": "考察反复发生的信任违背及修复对可信度的影响。",
+      "feedback": "信任变化不是机器人行为已经改善；设计细节待全文。",
+      "question": "连续道歉却不改，会发生什么？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C32",
+      "title": "“Sorry, it was my fault”: Repairing trust in human-robot interactions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S107158192300037X",
+      "type": "信任修复研究",
+      "description": "研究机器人出错后的修复表达与人的信任。",
+      "feedback": "摘要级候选；需核对道歉、责任归因及实验条件。",
+      "question": "承认责任和安抚用户有什么差别？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C33",
+      "title": "Explanations and trust: What happens to trust when a robot partner does something unexpected?",
+      "url": "https://www.sciencedirect.com/science/article/am/pii/S074756322200293X",
+      "type": "解释与信任研究",
+      "description": "考察机器人伙伴意外行为及其解释与信任的关系。",
+      "feedback": "人的信任评价；不等于解释真实或行动正确。",
+      "question": "用户不满意时，机器人应该解释还是改正？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C34",
+      "title": "The Robot That Showed Remorse: Repairing Trust with a Genuine Apology",
+      "url": "https://research.utwente.nl/en/publications/the-robot-that-showed-remorse-repairing-trust-with-a-genuine-apol/",
+      "type": "人机信任研究",
+      "description": "研究表现悔意的道歉如何参与信任修复。",
+      "feedback": "悔意是表达与感知变量；不能认定机器人内心有愧疚。",
+      "question": "我们是在奖励改正，还是奖励演得像？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C35",
+      "title": "Promises and Trust Repair in UGVs",
+      "url": "https://journals.sagepub.com/doi/10.1177/21695067231196235",
+      "type": "无人车信任研究",
+      "description": "探讨承诺作为无人地面车辆信任修复手段。",
+      "feedback": "承诺与可信度；是否实际持续改善待全文核查。",
+      "question": "机器人说以后不会了，拿什么作保证？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C36",
+      "title": "Robot Broken Promise? Repair strategies for mitigating loss of trust for repeated failures",
+      "url": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/397671678/Robot_Broken_NESSET_DOA26052023_AFV_CC_BY.pdf",
+      "type": "在线录像实验",
+      "description": "观看Pepper语言与动作指示不一致的录像，比较道歉、附加警告或承诺等修复策略。",
+      "feedback": "论文报告承诺后再违约比一般道歉更损害信任；这是人的评价变化，非机器人学习。",
+      "question": "机器人违约是否应该留下记录？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C37",
+      "title": "When Robots Say No: Temporal Trust Recovery Through Explanation",
+      "url": "https://arxiv.org/abs/2510.21716",
+      "type": "拒绝与信任研究／预印本",
+      "description": "研究机器人拒绝后的解释与随时间变化的信任。",
+      "feedback": "摘要级候选；不能仅凭标题断言解释总有效。",
+      "question": "当下不舒服的拒绝，事后会被重新理解吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C38",
+      "title": "Repairing Human Trust by Promptly Correcting Robot Mistakes with An Attention Transfer Model",
+      "url": "https://arxiv.org/abs/2103.08025",
+      "type": "机器人纠错与信任研究",
+      "description": "以及时纠正错误动作作为修复信任的路径。",
+      "feedback": "涉及动作纠错；持久学习与信任效果待全文区分。",
+      "question": "修养能否通过可见的行动改变来证明？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C39",
+      "title": "Privacy-Preserving Pose Estimation for Human-Robot Interaction",
+      "url": "https://arxiv.org/abs/2011.07387",
+      "type": "感知技术研究",
+      "description": "在姿态估计与隐私保护之间寻找技术方案。",
+      "feedback": "技术性能改进；不是旁观者同意或拒绝机制。",
+      "question": "机器人能否在不看清你是谁时仍提供服务？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B09"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C40",
+      "title": "Escaping from Children’s Abuse of Social Robots",
+      "url": "https://doi.org/10.1145/2696454.2696468",
+      "type": "现场观察及行为系统研究",
+      "description": "研究儿童对社交机器人的侵扰，并利用预测模型使机器人提前避开。",
+      "feedback": "有行为预测与逃离机制；学习更新范围待全文。",
+      "question": "机器人受到欺负时能否终止服务？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C41",
+      "title": "Technological Dreams Series: No.1, Robots",
+      "url": "https://dunneandraby.co.uk/content/projects/10/0",
+      "type": "思辨设计系列",
+      "description": "四个机器人设想展示独立、紧张、守卫和依赖等关系；按整个系列计一项。",
+      "feedback": "设想与模型；没有四台机器人真实自主学习的证明。",
+      "question": "机器人是否只能以顺从为理想性格？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B05"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C42",
+      "title": "Our Friends Electric",
+      "url": "https://superflux.in/index.php/work/friends-electric/",
+      "type": "设计虚构短片",
+      "description": "以不同语音AI关系挑战命令—执行模式；Eddi不断追问命令的原因。",
+      "feedback": "片中学习是叙事设定，不是产品性能验证。",
+      "question": "主人是否也有解释命令的义务？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B05"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C43",
+      "title": "Addicted Products",
+      "url": "https://www.simonerebaudengo.com/addictedproducts",
+      "type": "联网物品／设计虚构",
+      "description": "以物品自身被使用的需求重新设想共享和所有权。",
+      "feedback": "行为模型与设计实验；不是物品真的成瘾。",
+      "question": "物品能否因被闲置而离开主人？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B05"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C44",
+      "title": "SOMEONE",
+      "url": "https://get-lauren.net/SOMEONE",
+      "type": "参与式艺术／人扮演AI",
+      "description": "让人通过界面承担智能家居助手角色，暴露远程服务与监控关系。",
+      "feedback": "人的参与与表演；非自主机器人学习。",
+      "question": "被隐藏的服务者究竟在听谁的话？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B05"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C45",
+      "title": "Uninvited Guests",
+      "url": "https://superflux.in/index.php/work/uninvited-guests/",
+      "type": "设计虚构短片",
+      "description": "子女送来的联网健康设备介入独居老人的生活，关怀规则与生活自主发生冲突。",
+      "feedback": "叙事展示矛盾；非老人实际临床或产品试验。",
+      "question": "照护设备应听购买者还是被照护者的？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B11"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C46",
+      "title": "Blendie",
+      "url": "https://www.media.mit.edu/projects/blendie/overview/",
+      "type": "交互艺术／改造家电",
+      "description": "通过模仿机器声音与搅拌机互动，改变人机交流的默认方向。",
+      "feedback": "互动映射；本轮未发现长期学习证据。",
+      "question": "为什么总是机器学习人的语言？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B07"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C47",
+      "title": "The Helpless Robot",
+      "url": "https://agnes.queensu.ca/explore/collections/object/the-helpless-robot/",
+      "type": "交互艺术",
+      "description": "不能自行完成移动的机器人依靠人的帮助，改变通常的服务方向。",
+      "feedback": "作品行为与互动；学习能力需进一步核对。",
+      "question": "机器人提出请求时，人有义务听从吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B11"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C48",
+      "title": "Petit Mal",
+      "url": "https://simonpenny.net/works/petitmal.html",
+      "type": "自主机器人艺术",
+      "description": "以空间中的响应和接近关系探索机器人作为社会行动者的可能。",
+      "feedback": "作者相关文本强调即时反应与几乎无记忆；不据此声称长期成长。",
+      "question": "无需承担有用任务的机器人还能被接受吗？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B06"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C49",
+      "title": "End of Life Care Machine / Last Moment Robot",
+      "url": "https://dankc.com/end-of-life-care-machine/",
+      "type": "互动装置",
+      "description": "在模拟临终医院场景中，把机器替代人类照护推向极端。",
+      "feedback": "装置与体验；不是真实临终医疗部署。",
+      "question": "执行安慰程序是否等于承担照护责任？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B06"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C50",
+      "title": "Can’t Help Myself",
+      "url": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-tmcaa-sun-yuan-and-peng-yu.pdf",
+      "type": "机器人艺术装置",
+      "description": "机械臂在围合空间中持续控制液体边界，呈现自动化、控制和观看关系。",
+      "feedback": "预编程动作与装置；不采用网传流血求生、累死故事。",
+      "question": "不能停下的服从由谁负责？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B06"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C51",
+      "title": "Detroit: Become Human",
+      "url": "https://www.quanticdream.com/en/detroit-become-human",
+      "type": "互动游戏／虚构",
+      "description": "以三位仿生人的选择探讨服务身份、自主和人与机器人冲突。",
+      "feedback": "角色变化属于分支叙事；后续应逐场景标记命令和后果。",
+      "question": "在谁的眼中它是故障，在谁的眼中它在做对的事？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B10"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C52",
+      "title": "Robot & Frank",
+      "url": "https://www.sonypictures.com/movies/robotandfrank",
+      "type": "电影／虚构",
+      "description": "老人与照护机器人的关系进入盗窃计划，照护目标与社会规范发生张力。",
+      "feedback": "叙事案例；具体行为变化需看片段核对。",
+      "question": "帮助主人过得更好是否包括协助其做坏事？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B10"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C53",
+      "title": "WALL-E",
+      "url": "https://www.pixar.com/wall-e",
+      "type": "动画电影／虚构",
+      "description": "清洁机器人在长期任务中形成个性，并在与EVE相遇后追求新目标。",
+      "feedback": "角色成长设定；不是人工智能长期学习实验。",
+      "question": "原有使命与新的关系冲突时，任务可否被重写？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B10"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C54",
+      "title": "I, Robot（阿西莫夫小说集）",
+      "url": "https://www.penguinrandomhouse.com/books/5681/i-robot-by-isaac-asimov/teachers-guide/",
+      "type": "小说／虚构",
+      "description": "用多个故事检验机器人规则在具体情境中的冲突；本轮整本计一项。",
+      "feedback": "思想实验；三定律不是现实机器人通用技术标准。",
+      "question": "一套看似完善的服从规则为什么仍会失效？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B12"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C55",
+      "title": "Ex Machina",
+      "url": "https://a24films.com/films/ex-machina",
+      "type": "电影／虚构",
+      "description": "在封闭测试及创造者控制关系中讨论人工智能的自主与评判。",
+      "feedback": "虚构叙事；具体逃离和操控片段待核验。",
+      "question": "制造者是否自然拥有决定被造者命运的权利？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B12"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C56",
+      "title": "Chappie",
+      "url": "https://www.sonypictures.com/movies/chappie",
+      "type": "电影／虚构",
+      "description": "机器人获得学习与感受能力的设定，把教育环境与行为形成放在中心。",
+      "feedback": "角色成长叙事；非可部署的学习方案。",
+      "question": "机器人被怎样对待，会学会怎样对待别人？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B12"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C57",
+      "title": "All Systems Red（Murderbot第一部）",
+      "url": "https://cdn.penguin.co.uk/dam-assets/books/9781804951897/9781804951897-sample.pdf",
+      "type": "小说／虚构",
+      "description": "以安保单元的控制、自主和服务关系作为待细读线索。",
+      "feedback": "目前核对到出版社试读；未把全系列或影视改编重复计数。",
+      "question": "摆脱强制服从之后，为什么仍可能选择帮助人？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "已打开来源，阅读项目说明或论文节选；非全文审查",
+      "source_batches": [
+        "B10"
+      ],
+      "group": "科幻叙事"
+    },
+    {
+      "id": "C58",
+      "title": "An Ethical Adaptor: Behavioral Modification Derived from Moral Emotions",
+      "url": "https://repository.gatech.edu/bitstreams/0a909e05-b88a-4e4c-93a9-527d4659d848/download",
+      "type": "原型与技术报告",
+      "description": "用被命名为愧疚的计算机制改变机器人后续行为，来自军事研究语境。",
+      "feedback": "有行为适应原型；计算愧疚不等于体验愧疚。",
+      "question": "不良后果应该怎样限制它下次的决定？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B14"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C59",
+      "title": "A Value-Driven Eldercare Robot: Virtual and Physical Instantiations of a Case-Supported Principle-Based Behavior Paradigm",
+      "url": "https://proceedingsoftheieee.ieee.org/a-value-driven-eldercare-robot-virtual-and-physical-instantiations-of-a-case-supported-principle-based-behavior-paradigm/",
+      "type": "虚拟与实体照护机器人研究",
+      "description": "以案例支持的原则约束伦理相关行为，原则来源强调伦理专家共识。",
+      "feedback": "有原则与实例机制；不能把专家学习自动等同住户日常反馈。",
+      "question": "谁有资格教给机器人何为好的照护？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B14"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C60",
+      "title": "What should a robot disclose about me? A study about privacy-appropriate behaviors for social robots",
+      "url": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full",
+      "type": "隐私与人机关系研究",
+      "description": "机器人向第三方请求帮助时，可能需要透露主人的信息，研究适当披露。",
+      "feedback": "研究隐私期待；具体自主决策与学习程度待全文提取。",
+      "question": "为了帮助主人，可以向别人说出多少秘密？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B14"
+      ],
+      "group": "研究与技术案例"
+    },
+    {
+      "id": "C61",
+      "title": "Teacher of Algorithms",
+      "url": "https://www.simonerebaudengo.com/teacher",
+      "type": "设计虚构短片",
+      "description": "以算法教师这一职业，把家用学习物品的训练表现为日常劳动。",
+      "feedback": "片中训练是设计设想；课件标2015，部分展映目录标2016，正式引用需区分制作与展映年。",
+      "question": "训练机器人时，谁在定义好习惯？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B15"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C62",
+      "title": "Not Here, Not Now（2015作品视频）",
+      "url": "https://dunneandraby.co.uk/content/projects/772/0",
+      "type": "设计虚构作品",
+      "description": "Ethiculator等物件把日常判断和表达规则具体化，追问计算化生活的前提。",
+      "feedback": "概念与视频；不能写成伦理计算器已经实际解决伦理问题。",
+      "question": "如果每次拒绝都有计算器批准，责任归谁？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B15"
+      ],
+      "group": "思辨设计与艺术"
+    },
+    {
+      "id": "C63",
+      "title": "The Greeting Machine: An Abstract Robotic Object for Opening Encounters",
+      "url": "https://www.runi.ac.il/media/enfllthk/thegreetingmachine_2018.pdf",
+      "type": "非拟人机器人设计与评价",
+      "description": "以极简运动呈现问候及正负互动体验，无需使用人脸或人类语言。",
+      "feedback": "有设计与体验评价；长期反馈学习待核查。",
+      "question": "不说话的机器人怎样表达不想继续互动？",
+      "screening": "候选，未完成全文筛选",
+      "reading": "检索返回的标题、摘要或页面摘录初筛；非全文审查",
+      "source_batches": [
+        "B15"
+      ],
+      "group": "研究与技术案例"
+    }
+  ],
+  "theory": [
+    [
+      "T01",
+      "Speculative Everything",
+      "https://mitpress.mit.edu/9780262019842/speculative-everything/",
+      "理论起点：用替代情境打开对社会价值与可取未来的讨论；本轮依据课件与出版社介绍，未通读全书。"
+    ],
+    [
+      "T02",
+      "Not Here, Not Now（2025书籍）",
+      "https://mitpress.mit.edu/9780262049665/not-here-not-now/",
+      "理论起点：借不可能性扩展思想空间。与C62的2015同名作品视频分开引用。"
+    ],
+    [
+      "T03",
+      "Why and How Robots Should Say ‘No’",
+      "https://rbjackson.github.io/paper_pdfs/briggs2021ijsr.pdf",
+      "解释何时以及如何拒绝；综述既有实验，不能与C01等重复当作独立实验。"
+    ],
+    [
+      "T04",
+      "Only Those Who Can Obey Can Disobey",
+      "https://hrilab.tufts.edu/publications/arnoldetal22rad/",
+      "区分理解命令后的违抗和没有理解或执行失败。"
+    ],
+    [
+      "T05",
+      "Should Robots be Obedient?",
+      "https://arxiv.org/abs/1705.09990",
+      "形式化探讨服从问题；不算实体机器人案例。"
+    ],
+    [
+      "T06",
+      "The Off-Switch Game",
+      "https://www.ijcai.org/proceedings/2017/0032.pdf",
+      "关于保留人类干预与不确定性的形式模型。"
+    ],
+    [
+      "T07",
+      "The Partially Observable Off-Switch Game",
+      "https://ojs.aaai.org/index.php/AAAI/article/view/34940",
+      "补充非对称信息与沟通限制下的干预问题；与T06属同一理论脉络。"
+    ],
+    [
+      "T08",
+      "Understanding the spirit of a norm: Challenges for norm-learning agents",
+      "https://onlinelibrary.wiley.com/doi/full/10.1002/aaai.12138",
+      "规则字面与情境意义之间的差别。"
+    ],
+    [
+      "T09",
+      "Blame-Laden Moral Rebukes and the Morally Competent Robot: A Confucian Ethical Perspective",
+      "https://pubmed.ncbi.nlm.nih.gov/32632786/",
+      "把责备与机器人道德能力放入关系和儒家伦理背景。"
+    ],
+    [
+      "T10",
+      "Bystander Privacy Implications of Robots in Everyday Spaces: A Scoping Review",
+      "https://doi.org/10.1145/3757279.3785586",
+      "为非直接使用者受影响的问题提供综述入口；不拆成新的实证案例。"
+    ]
+  ]
+}

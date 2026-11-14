@@ -1,0 +1,50 @@
+{
+  "title": "机器人的自我修养库",
+  "subtitle": "日常人机共处中的分寸与纠错",
+  "date": "2026-09-15",
+  "cases": [
+    {"id":"C01","record":"R02","name":"Uninvited Guests","year":"2015","author":"Superflux / ThingTank","kind":"设计虚构","group":"A 尊重意愿与授权","scene":"独居长者的家庭照护，子女希望通过联网设备了解日常状况。","behavior":"设备追踪饮食、健康和睡眠，并以既定规则干预生活，与Thomas的自主安排冲突。","trait":"反面案例：照护目标压过个人意愿，揭示接受拒绝与限制介入的必要性。","feedback":"有人的抵触和生活冲突叙事。未见系统接受拒绝、修改规则后的验证，不能写成已实现自主纠错。","evidence":"F 设计叙事","url":"https://superflux.in/index.php/work/uninvited-guests/","loc":"项目简介及 Research and Design Approach；课件第76页","insight":"把拒绝视为有效反馈，而不是需要克服的阻力。"},
+    {"id":"C02","record":"R07","name":"Our Friends Electric","year":"2017","author":"Superflux / Mozilla","kind":"设计虚构","group":"A 尊重意愿与授权","scene":"家中三种实体语音代理，涉及代办事务、学习习惯与陪伴。","behavior":"Eddi反复询问命令原因，Karma涉及代人行动的信任与分寸，Sig呈现个性化的边界。","trait":"关系责任：代人行动需要用户理解并同意；频繁追问也可能增加负担。","feedback":"作者描述Eddi将新知识用于后续互动但结果参差。属于影片叙事，未验证长期学习或完整的撤销授权机制。","evidence":"F 设计叙事","url":"https://superflux.in/index.php/work/friends-electric/","loc":"核心主题中 Eddi、Karma、Sig 三段及 diegetic prototypes 说明；课件第81页","insight":"把授权范围和交互负担一起纳入评价。"},
+    {"id":"C03","record":"R05","name":"The Greeting Machine","year":"2018","author":"Anderson-Bashan 等","kind":"实体原型与用户研究","group":"B 社交表达与距离","scene":"实验室中的首次相遇，参与者观看非拟人机器人的问候动作。","behavior":"小球在半球表面做接近、回避等动作，以运动方向和节奏表达社交意图。","trait":"行为分寸：简单动作也会让人感到欢迎、拒绝或被注视，需考虑接收者的解释。","feedback":"26名参与者体验8种动作并接受访谈。动作由研究者通过WoZ界面触发；有感知评价，无在线自主学习证据。","evidence":"U 用户评价","url":"https://hrc2.io/assets/pdfs/papers/AndersonBashanetal18.pdf","loc":"论文第4—6页，V. Evaluation Study 与 VI. Findings；课件第79页","insight":"人感到被理解，并不等于机器真正识别了人的意愿。"},
+    {"id":"C04","record":"R01","name":"Technological Dreams: No.1, Robots","year":"2007","author":"Dunne & Raby","kind":"思辨设计作品","group":"B 社交表达与距离","scene":"家中人与技术共居者相处，作品呈现四种不同的机器人关系。","behavior":"重点观察Robot 2：有人进房便转向并注视，靠得太近时表现出强烈不安。","trait":"反面与边界案例：机器的动作阈值会给人压力；“有个性”不必然意味着善于共处。","feedback":"作者给出了距离触发行为的设定。未报告依据居民反馈更新阈值的实验；其余角色作为项目背景，不另算案例。","evidence":"F 设计叙事","url":"https://dunneandraby.co.uk/content/projects/10/0","loc":"Project info，Robot 2 段；课件第75页","insight":"应允许人协商距离，避免让人单方面适应机器的性格。"},
+    {"id":"C05","record":"R03","name":"Teacher of Algorithms","year":"2015","author":"Simone Rebaudengo / ThingTank","kind":"设计虚构","group":"C 反馈训练与习惯修正","scene":"未来上海街巷出现“算法教师”，帮助家庭中的学习设备形成习惯。","behavior":"教师通过训练道具和日常仪式教导智能物件，作者以“训练尘土”等道具呈现训练劳动。","trait":"可教与可纠正：把行为养成视作需要外部帮助的过程，同时追问谁有资格教机器。","feedback":"训练和修正是项目设想。作者未提供算法实现、前后测或泛化结果，不能把叙事当作训练成效。","evidence":"F 设计叙事","url":"https://www.simonerebaudengo.com/project/teacher","loc":"项目正文第1—4段及 Fiction Short Video, 2015；课件第77页","insight":"训练者的偏好也需要被讨论，学习成功不自动代表价值正确。"},
+    {"id":"C06","record":"R13","name":"COACH / TurtleBot","year":"2017","author":"MacGlashan 等，ICML","kind":"机器人学习实验","group":"C 反馈训练与习惯修正","scene":"训练者指导移动机器人围绕球和圆柱行动。","behavior":"人通过控制器给予正、负反馈，机器人更新动作偏好，学习跟球、接近与后退等行为。","trait":"纠错机制：让人的评价改变后续动作，并考虑反馈相对于当前行为的含义。","feedback":"论文第8节报告实体TurtleBot学习5种行为。训练者为论文共同作者，属定性机器人案例；未验证道德判断或长期家居效果。","evidence":"L 行为学习","url":"https://proceedings.mlr.press/v70/macglashan17a/macglashan17a.pdf","loc":"第6—8页，8. Robotics Case Study；书目信息见PMLR卷70，2285—2294页","insight":"可学习是实现修养的机制之一，仍需要界定反馈权限与目标。"},
+    {"id":"C07","record":"R11","name":"KnowNo","year":"2023","author":"Ren 等，CoRL","kind":"机器人规划实验","group":"D 承认局限与合理拒绝","scene":"移动操作、桌面整理等任务中的指令歧义和用户偏好不明。","behavior":"通过校准形成候选动作集合，存在多个候选时向人求助，再用回答消除当前歧义。","trait":"承认局限：让不确定性触发求助，避免把猜测直接变成行动。","feedback":"项目给出仿真和实体实验。人的回答用于当前规划，模型无需微调；不能据此声称形成长期偏好记忆。","evidence":"D 当次调整","url":"https://robot-help.github.io/","loc":"Approach、Experiment Videos；论文 arXiv:2307.01928","insight":"求助应具体而节制，统计保证也依赖校准与有效的人类帮助。"},
+    {"id":"C08","record":"R12","name":"“Sorry, I can’t do that” / NAO","year":"2015","author":"Briggs & Scheutz，Tufts","kind":"机器人交互演示","group":"D 承认局限与合理拒绝","scene":"人在桌边命令机器人向前走，命令与跌落风险发生冲突。","behavior":"机器人说明前方无支撑而拒绝。人表示会接住它后，系统重新接受向前走的命令。","trait":"合理拒绝与说明理由：不把服从作为唯一目标，并允许新信息改变判断。","feedback":"论文对话示例展示了同一轮交互中的信念更新。属于预设规则下的演示，未证明安全承诺可被可靠验证。","evidence":"D 当次调整","url":"https://hrilab.tufts.edu/publications/briggsscheutz15aaaifs.pdf","loc":"第3页安全规则，第4页 Example Interaction 对话","insight":"接受人的保证之前，还需判断保证是否足以改变风险。"}
+  ],
+  "records": [
+    ["R01","Technological Dreams: No.1, Robots","课件75页","纳入","C04；原作者说明可核验"],
+    ["R02","Uninvited Guests","课件76页","纳入","C01；保留照护越界的反面案例"],
+    ["R03","Teacher of Algorithms","课件77页","纳入","C05；标明设计虚构"],
+    ["R04","Not Here, Not Now / Ethiculator","课件78页","初筛排除","决策辅助物件，未呈现本选题所需的具身共处行为"],
+    ["R05","The Greeting Machine","课件79页","纳入","C03；追溯到原始用户研究"],
+    ["R06","Drone Aviary","课件80页","初筛排除","城市监视与公共基础设施，超出日常直接人机共处范围"],
+    ["R07","Our Friends Electric","课件81页","纳入","C02；代人行动与授权边界"],
+    ["R08","Robots Among Us","课件82页","详细评估排除","已读组织方页面；仅总体工作坊叙述，不足以编码某一对象的具体反馈调整"],
+    ["R09","Song of the Machine","课件83页","初筛排除","感知增强义肢，未以自主代理的行为协商为核心"],
+    ["R10","Carnivorous Domestic Entertainment Robots","课件84页","初筛排除","能源获取与捕食生态，超出本选题的人际互动焦点"],
+    ["R11","KnowNo","网络定向检索","纳入","C07；补充不确定时求助的实证机制"],
+    ["R12","Sorry, I can’t do that","网络定向检索","纳入","C08；补充拒绝与解释的交互机制"],
+    ["R13","COACH","网络定向检索","纳入","C06；补充反馈更新行为的实证机制"]
+  ],
+  "queries": [
+    "robot KnowNo language models know when to ask for help robot uncertainty",
+    "Tufts robots reject commands refuse unsafe instructions 2015",
+    "robot COACH learning human corrective feedback real robot 2017",
+    "site.superflux.in \"Uninvited Guests\"",
+    "site.superflux.in \"Our Friends Electric\"",
+    "site.simonesays.com \"Teacher of Algorithms\"",
+    "site.now.tufts.edu robots disobey orders 2015",
+    "\"Interactive Learning from Policy-Dependent Human Feedback\" paper",
+    "\"The Greeting Machine\" robot study",
+    "\"Sorry, I Can’t Do That\" Briggs Scheutz 2015 pdf",
+    "\"Interactive Learning from Policy-Dependent Human Feedback\" site.proceedings.mlr.press"
+  ],
+  "excludedUrls": {
+    "R04":"https://dunneandraby.co.uk/content/projects/772/0",
+    "R06":"https://superflux.in/index.php/drone-aviary-journal/",
+    "R08":"https://livingarchitecturesystems.com/project/robots-among-us-gba-hci-summer-school-2025/",
+    "R09":"https://superflux.in/index.php/work/song-of-the-machine/",
+    "R10":"https://laboralcentrodearte.org/en/artworks/carnivorous-domestic-entertaiment-robots-2008-2/"
+  }
+}

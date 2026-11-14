@@ -1,0 +1,19 @@
+{
+  "signature": "68bc269c0cc98e83cefe73d109b7d768f39c972e5f9fb4e7cc33e2ca8f69f4c8",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\10.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\10.wav",
+  "id": "10",
+  "title": "调大电视声音",
+  "kind": "video",
+  "candidate": "56feed9e0aac4c5b",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\10\\56feed9e0aac4c5b.mp4",
+  "source_start": 0.35,
+  "duration": 1.7916666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084104-jkl23",
+  "start": 35.958333333333336,
+  "end": 37.75
+}

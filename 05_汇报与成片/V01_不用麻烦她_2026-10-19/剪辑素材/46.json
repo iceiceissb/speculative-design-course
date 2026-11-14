@@ -1,0 +1,19 @@
+{
+  "signature": "c2e703e0f4926f58714d9d63314067748852d0be47491fc3ce6172f2b99fa608",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\46.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\46.wav",
+  "id": "46",
+  "title": "腾出坡道的位置",
+  "kind": "video",
+  "candidate": "e112c6664edb4279",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\46\\e112c6664edb4279.mp4",
+  "source_start": 0.35,
+  "duration": 2.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085508-wvia1",
+  "start": 176.91666666666666,
+  "end": 179.625
+}

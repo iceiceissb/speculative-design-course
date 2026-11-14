@@ -1,0 +1,26 @@
+{
+  "created_at": "2026-10-18T23:10:48+08:00",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\连接测试\\candidates\\T20\\398cfd0a50a3440e.mp4",
+  "output": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-18_首轮试片\\480p高清方案\\480p_常规放大1080p_非AI超分.mp4",
+  "media": {
+    "duration": 4.064,
+    "width": 1920,
+    "height": 1080,
+    "has_audio": true
+  },
+  "method": "Lanczos缩放、极轻锐化，保留音轨与原帧率；没有使用AI超分或补帧。",
+  "paid_jobs": 0,
+  "upscale_api_credits_used": 0,
+  "ai_upscaler_tested": false,
+  "budget": {
+    "source_seconds": 328,
+    "jobs": 61,
+    "one_pass_480p": 221.78,
+    "already_spent": 61.9947,
+    "cumulative_if_shot20_reused": 279.72,
+    "cumulative_with_30_percent_extra_generation": 346.25,
+    "cumulative_with_70_percent_extra_generation": 434.96,
+    "excluded": "后续高清软件、会员、云处理、配音、图像重制等费用。",
+    "assumptions": "按真实480p样片852×480、24fps及70元/百万tokens估算，每任务预留额外1帧；实际以usage与账单为准。"
+  }
+}

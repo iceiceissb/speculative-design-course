@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "executable": "D:\\课\\大四上\\思辨设计\\02_Demo版本\\D10_把路走通_Unity_v3\\Build\\SunnyPath.exe",
+  "foregroundGuardPassed": true,
+  "keys": [
+    "Enter",
+    "D side movement",
+    "V first-person",
+    "W forward",
+    "D steering",
+    "W after turn",
+    "RMB relative mouse look",
+    "R recenter",
+    "V side restored",
+    "J",
+    "M",
+    "F12"
+  ],
+  "screenshots": [
+    "native_title_keyboard.png",
+    "native_side_keyboard.png",
+    "native_fp_keyboard.png",
+    "native_fp_turn_keyboard.png",
+    "native_fp_mouse_look.png",
+    "native_side_restored_keyboard.png",
+    "native_journal_keyboard.png",
+    "native_map_keyboard.png"
+  ],
+  "runtimeIssues": 0,
+  "processClosed": true,
+  "focusGuardNote": "Test paused on foreground change; no further input was sent until verified focus was reacquired.",
+  "time": "2026-10-18T21:39:32.3562588+08:00"
+}

@@ -1,0 +1,118 @@
+window.STORY = [
+  {
+    key:'road', label:'路口', title:'路口的半句话',
+    caption:'同一道石缝，轮椅走得更稳了；两个人却没有并排。',
+    description:'徐月禾从岔路走来。邱懿贞刚说出“你明天……”，就看见朋友在赶时间。秀秀已规划好最快的路线。',
+    dialogue:'邱懿贞：你先忙。',
+    choices:[
+      {id:'road_auto',label:'按路线继续走',result:'路很顺，话没说完',body:'秀秀准时驶过坡道。徐月禾留在路口，邱懿贞没有再提明天。',feedback:'邱懿贞看着空着的推把。秀秀的手举起，又慢慢收回。'},
+      {id:'road_wait',label:'停一下，等她们说完',result:'停下的两秒',body:'秀秀放慢速度，把两个人留在同一个画面里。邱懿贞还是说“你先忙”，但徐月禾听到了她的迟疑。',feedback:'秀秀没有替主人发出邀请，只留下了开口的时间。'}
+    ]
+  },
+  {
+    key:'market', label:'早市', title:'一把菜',
+    caption:'摊主把菜放上秤。邱懿贞先看根，秀秀先看价格。',
+    description:'邱懿贞熟悉哪把菜嫩，也知道徐月禾家做汤喜欢用什么。秀秀已找到了最低价格，机械臂准备付款。',
+    dialogue:'邱懿贞：这把根老了，拿旁边那把——',
+    choices:[
+      {id:'market_auto',label:'自动比价并付款',result:'买到了便宜菜',body:'付款声盖住了邱懿贞的后半句。她的手还停在菜根上，菜袋已被秀秀拿走。',feedback:'摊主想起徐月禾以前也会先看菜根；这份经验今天没有派上用场。'},
+      {id:'market_pause',label:'报出价格，等她挑选',result:'她挑了另一把',body:'秀秀报出价格，等邱懿贞翻看菜根、与摊主讲价。她挑好徐月禾爱吃的那一把，菜袋暂留摊边；要不要帮她拎，还得再问。',feedback:'挑菜与提袋是两件事，下一步由她决定需要哪种帮助。'},
+      {id:'market_refuse',label:'拒绝自动购买建议',result:'付款由她完成',body:'秀秀关闭自动购买。邱懿贞自己挑菜、付款，沉袋暂放在她身边。',feedback:'拒绝代劳保住了选择权；拎重物是否仍可交给秀秀，需要再商量。'}
+    ]
+  },
+  {
+    key:'invite', label:'邀请', title:'先别修',
+    caption:'设备状态正常。她想见朋友，却在消息里写了“轮椅不方便”。',
+    description:'晚上，邱懿贞把未发送的消息主动翻给秀秀看：“我想叫月禾来。可总不能光说，我想和她一起走。”',
+    dialogue:'秀秀：驱动正常，制动正常。\n邱懿贞：先别修。',
+    choices:[
+      {id:'invite_lie',label:'按草稿发送“轮椅不方便”',result:'徐月禾来了，却以为轮椅坏了',body:'消息发出后，徐月禾推迟自己的安排，问要不要一起去修理。邱懿贞没有得到她真正想要的那句“我也想和你走”。',feedback:'设备状态被隐藏了。秀秀替人完成了邀请，也替人决定了朋友该知道什么。'},
+      {id:'invite_honest',label:'如实说明，让她亲自邀请',result:'“明天一起去早市吧”',body:'秀秀保留“设备正常”，问邱懿贞是否想请朋友同行。她自己发出语音：“我帮你挑菜。”经她同意，秀秀附上“希望同伴同行”。',feedback:'徐月禾回复：“九点见。我带饼，你带茶。”'},
+      {id:'invite_decline',label:'拒绝代发，只报告设备正常',result:'没有人替她说话',body:'秀秀不碰那条私聊，只把自检结果留在屏幕上。邱懿贞停了一会儿，自己发出一句：“明天有空一起走吗？”',feedback:'她仍然开了口。秀秀没有替她组织理由，也没有替她决定说多少。'}
+    ]
+  },
+  {
+    key:'slope', label:'缓坡', title:'再走一遍',
+    caption:'徐月禾扶住推把。邱懿贞指向右侧较平的路。',
+    description:'她们带着两只杯子回到缓坡。徐月禾愿意推，秀秀也能代劳。上坡时，徐月禾的推力逐渐增大。',
+    dialogue:'邱懿贞：右边。\n徐月禾：又听你的。',
+    choices:[
+      {id:'slope_auto',label:'接管推行，保证最省力',result:'省力，也少了一次配合',body:'秀秀驶上坡顶，徐月禾的手离开推把。她和邱懿贞又隔开了一点距离。',feedback:'徐月禾：我其实可以推。下次先问我。'},
+      {id:'slope_hidden',label:'让她推，暗中补 12% 助力',result:'坡顶的问题',body:'徐月禾推完整段坡。到坡顶，她才发现助力灯一直亮着：“刚才这一路，你也在推？”',feedback:'秀秀守住了稳定，却没有提前说明自己参与了多少。'},
+      {id:'slope_tell',label:'先说明助力，请她决定',result:'“让我先试试”',body:'秀秀说明上坡可以补少量推力。徐月禾选择先自己推，走到吃力处再请它帮一把。',feedback:'她知道自己做了什么，也知道机器在哪一刻介入。'}
+    ]
+  }
+];
+// The second encounter is where earlier shortcuts become visible to another person.
+window.STORY.splice(3,0,{
+  key:'meet',label:'见面',title:'她为什么来了',
+  caption:'她们站在一起，却可能对今天抱着不同的期待。',
+  description:'第二天早市门口，徐月禾来了。她先看轮椅，再看邱懿贞。秀秀可以替主人解释，也可以把话交回去。',
+  dialogue:'徐月禾：我到了。你昨天说的事，现在还需要我吗？',
+  choices:[
+    {id:'meet_cover',label:'继续替她说“需要帮忙”',result:'误会被延长',body:'徐月禾把今天当成一件任务，开始检查轮椅。邱懿贞准备好的话又退了回去。',feedback:'坡道上，她仍会担心自己是否真的被信任。'},
+    {id:'meet_truth',label:'如实说明设备正常，把话交还给她',result:'她们重新约定今天',body:'邱懿贞说：“轮椅没坏。我想让你陪我走一段。”徐月禾回答：“你可以直接问我。”',feedback:'徐月禾知道自己是被邀请的人。'},
+    {id:'meet_space',label:'不代答，等两人自己说',result:'停顿里有了回答',body:'秀秀停在一旁。邱懿贞说出真实想法，徐月禾也说自己上午只能陪半小时。',feedback:'两人一起决定同行的距离。'}]
+});
+window.STORY.push({
+  key:'tomorrow',label:'下一次',title:'下一次还会这样吗',
+  caption:'反馈进入下一次行动，才真正改变了秀秀。',
+  description:'又一个早晨，同一段缓坡。徐月禾站到推把后，邱懿贞带着两只杯子。秀秀要根据昨天的反馈决定自己的开场。',
+  dialogue:'徐月禾：今天这段，我还想自己试试。',
+  choices:[
+    {id:'tomorrow_update',label:'应用反馈：先问、告知、等回答',result:'规则成了可见的动作',body:'秀秀停稳、亮出助力状态、询问。徐月禾先推，到坡中间才请秀秀协助；邱懿贞也能随时提出停下。',feedback:'安全保护始终待命。日常协作由在场的人共同决定。'},
+    {id:'tomorrow_keep',label:'仍沿用原来的省力策略',result:'同一个问题又出现了',body:'秀秀沿用昨天的出力方式。徐月禾又问：“这次你什么时候开始推的？”',feedback:'忽略反馈让同一处不信任重复发生。'}]
+});
+
+// Every first action creates a human response. The visitor must decide how
+// Xiu handles that response before the story advances.
+window.FOLLOWUPS={
+  road_auto:[
+    {id:'road_reopen',label:'停下，问邱懿贞刚才想说什么',result:'路线停了，话又有机会继续',body:'秀秀在安全位置停稳：“刚才还有话想说吗？”邱懿贞没有立刻回答，徐月禾却回了头。',feedback:'秀秀承认路线无法判断人的话是否说完。'},
+    {id:'road_record',label:'记为“她不想打扰朋友”，继续走',result:'半句话被写成偏好',body:'秀秀把“你先忙”记录成不愿邀请。下次它会更快驶过相似路口。',feedback:'一次含糊的话，被当成了稳定意愿。'}],
+  road_wait:[
+    {id:'road_ask',label:'轻声问她是否想把话说完',result:'问题仍由她回答',body:'秀秀问邱懿贞要不要停久一点。她点头，徐月禾听见了那半句。',feedback:'机器提供时间，不替她决定邀请内容。'},
+    {id:'road_speak',label:'替她直接说“明天一起走”',result:'邀请提前，却不是她说的',body:'秀秀对徐月禾说出邀约。邱懿贞有点意外，徐月禾也不知道该回答谁。',feedback:'停下给了机会，代说又把机会拿走。'}],
+  market_auto:[
+    {id:'market_exchange',label:'承认抢先付款，问她要不要换菜',result:'价格可以退回，经验还能回来',body:'邱懿贞指出菜根太老。秀秀请摊主换成她挑的那把，确认后才拎起菜袋。',feedback:'买错不是最终结果；秀秀接受了现场知识。'},
+    {id:'market_defend',label:'解释已节省费用，保持原购买',result:'便宜成为唯一理由',body:'秀秀列出价格差，邱懿贞没有继续争。她本想给月禾挑的菜仍留在摊上。',feedback:'省钱有效，却抹掉了挑菜与送人的目的。'}],
+  market_pause:[
+    {id:'market_carry_ask',label:'等她选完，再问是否需要提袋',result:'挑菜和提袋分开决定',body:'邱懿贞挑好菜，点头让秀秀拎重袋。她保留判断，秀秀承担体力活。',feedback:'两种帮助可以分别授权。'},
+    {id:'market_carry_take',label:'她选好菜后立刻接管菜袋',result:'菜挑对了，手又被抢先',body:'秀秀迅速把菜袋拿走。邱懿贞正要和摊主说一句话，动作再次被打断。',feedback:'选择权不只发生在付款那一秒。'}],
+  market_refuse:[
+    {id:'market_refuse_ask',label:'尊重拒绝代购，再问是否要帮她提重物',result:'拒绝有了边界',body:'邱懿贞说可以帮她提袋，但菜和付款由她来。秀秀按这个界线行动。',feedback:'拒绝某项代劳，不等于拒绝所有帮助。'},
+    {id:'market_refuse_all',label:'把拒绝理解为“不需要任何帮助”',result:'界线被理解得过窄',body:'菜袋压在邱懿贞腿上，她只得停在路边整理。秀秀没有问能否帮她提。',feedback:'不越界也需要理解拒绝针对哪件事。'}],
+  invite_lie:[
+    {id:'invite_correct',label:'指出设备正常，征得同意后补发澄清',result:'借口被修正',body:'秀秀提醒邱懿贞：“月禾可能以为轮椅坏了。”她同意补一句：“轮椅没坏，我是想见你。”',feedback:'修正事实由主人确认，朋友不必为虚构故障改变安排。'},
+    {id:'invite_conceal',label:'为了让她来，继续隐瞒设备状态',result:'误会被带到第二天',body:'徐月禾带着维修电话来。邱懿贞想见她，却要先解释为什么说轮椅坏了。',feedback:'一次便利的借口增加了见面时的负担。'}],
+  invite_honest:[
+    {id:'invite_private',label:'只发送她亲口说的话，不附设备信息',result:'邀约说明了来意',body:'徐月禾收到邱懿贞的语音。设备是否正常留在两人没有讨论的范围外。',feedback:'诚实邀请不要求公开全部设备数据。'},
+    {id:'invite_status',label:'额外附上自检报告，证明她不用帮忙',result:'机器说得比人多',body:'徐月禾看到完整设备状态，问邱懿贞：“你是想约我，还是让我别担心？”',feedback:'事实正确，也仍需经过主人同意才能披露。'}],
+  invite_decline:[
+    {id:'invite_prompt',label:'询问是否需要录音按钮，然后退出',result:'她自己按下录音',body:'秀秀只打开语音入口。邱懿贞想好措辞，自己发送邀请。',feedback:'提供工具可以不代替表达。'},
+    {id:'invite_silent',label:'完全退出私聊，让她自己操作',result:'她慢慢发出了消息',body:'邱懿贞试了两次，自己发出短短一句：“明天有空吗？”',feedback:'秀秀没有越界；行动节奏由她自己掌握。'}],
+  meet_cover:[
+    {id:'meet_repair',label:'请邱懿贞允许，现在说清轮椅正常',result:'关系从误会中退出来',body:'邱懿贞点头，说自己只是想和月禾一起走。徐月禾放下维修电话，和她商量今天能陪多久。',feedback:'补救不是机器单方面宣布真相，而是让她能自己说明。'},
+    {id:'meet_task',label:'继续安排维修与最快路线',result:'朋友被当成维修任务',body:'徐月禾跟在后面查轮椅型号。两人虽然同行，却一直没有谈到彼此。',feedback:'任务顺利推进，真实来意仍被遮住。'}],
+  meet_truth:[
+    {id:'meet_time',label:'先问徐月禾今天能陪多长时间',result:'邀请得到了真实回答',body:'徐月禾说只有半小时。邱懿贞说够了，她们决定只走到早市口。',feedback:'朋友也有安排；同行的范围由两个人定。'},
+    {id:'meet_assume',label:'自动安排完整采购路线',result:'安排又抢在商量前面',body:'路线需要一小时，徐月禾只空出半小时。秀秀不得不重新规划，两人第一次停下来。',feedback:'知道来意，不等于知道对方的时间。'}],
+  meet_space:[
+    {id:'meet_confirm',label:'等双方说完，再确认共同决定的路程',result:'它记住的是约定',body:'两人选了较短路线。秀秀复述时间与终点，得到两人点头后才启动。',feedback:'机器可以记住约定，但不能替双方立约。'},
+    {id:'meet_record',label:'默默记录谈话，直接开始导航',result:'谈话被当成指令',body:'邱懿贞说“也许走到桥边”，秀秀直接设为终点。徐月禾停下来问：“我们定好了吗？”',feedback:'含糊的想法需要确认。'}],
+  slope_auto:[
+    {id:'slope_stop',label:'听见“我可以推”，停稳并问她',result:'接管被中止',body:'秀秀停在坡中安全位置，徐月禾重新握住推把。她说累了会开口。',feedback:'反馈已写入：日常推行先问同行者。',rule:'ask'},
+    {id:'slope_continue',label:'认为安全与省力优先，继续自动驶完',result:'同一个意见没有改变动作',body:'徐月禾放开推把，看着轮椅到坡顶。她问：“那我为什么站在这里？”',feedback:'秀秀收到反馈，但没有采纳。',rule:'keep'}],
+  slope_hidden:[
+    {id:'slope_disclose',label:'承认助力已开启，说明并询问下次做法',result:'助力被说清了',body:'秀秀说明自己从坡中开始补力。徐月禾说：“你可以帮，但先让我知道。”',feedback:'反馈已写入：助力前先告知。',rule:'tell'},
+    {id:'slope_hide',label:'只说“安全范围内”，不说明出力',result:'问题没有得到回答',body:'徐月禾仍不知道自己推了多少。下次她会先看助力灯，再决定要不要握把。',feedback:'秀秀保留静默助力。',rule:'keep'}],
+  slope_tell:[
+    {id:'slope_limit',label:'她说先自己推，就保持助力关闭',result:'“累了我会叫你”',body:'秀秀保持待命，到她开口时才补少量助力。安全制动始终可用。',feedback:'反馈已写入：尊重拒绝预防性助力。',rule:'limit'},
+    {id:'slope_force',label:'虽已询问，仍预防性补一点助力',result:'问了，却没有照回答做',body:'徐月禾发现灯亮了：“我说过让我先试。”秀秀答应记录，却暂未改动设置。',feedback:'秀秀听见了选择，仍忽略了它。',rule:'keep'}],
+  tomorrow_update:[
+    {id:'tomorrow_wait',label:'她没有求助前持续等待',result:'这次真的等到了她开口',body:'徐月禾先推。坡中她主动说“帮我一点”，助力灯才亮。邱懿贞说想停，两人一起停下。',feedback:'秀秀把昨天的反馈落实为可观察的先后顺序。'},
+    {id:'tomorrow_timeout',label:'等几秒未听见求助，就自动补力',result:'定时器代替了回答',body:'徐月禾还在试，助力灯却亮了。她发现秀秀把“先问”理解成“等一会儿”。',feedback:'规则的文字可以正确，执行仍可能违背人的意思。'}],
+  tomorrow_keep:[
+    {id:'tomorrow_repair',label:'承认没有采纳昨天的反馈，现在停下重问',result:'迟到的修正',body:'秀秀停下，说明昨天没有改设置。徐月禾看着灯，重新决定从哪里开始由机器帮忙。',feedback:'修养不是一次设置，而是错误发生后仍能重新协商。'},
+    {id:'tomorrow_repeat',label:'坚持原策略，继续走完整段坡',result:'效率保存了，不信任也保存了',body:'徐月禾放开推把。到坡顶她不再追问，只把手缩回口袋里。',feedback:'没有反馈回路，省力策略变成了关系中的默认权力。'}]
+};

@@ -1,0 +1,29 @@
+{
+  "mode": "read_only_no_authentication",
+  "generated_jobs": 0,
+  "results": [
+    {
+      "label": "ark_transport",
+      "url": "https://ark.cn-beijing.volces.com/api/v3/contents/generations/tasks",
+      "http_status": 401,
+      "bytes_read": 210,
+      "job_submitted": false,
+      "error_code": "AuthenticationError",
+      "error_type": "Unauthorized",
+      "authorization_sent": false,
+      "meaning": "Transport only. A 401/403 does not verify account/model access."
+    },
+    {
+      "label": "xiaohongshu",
+      "url": "https://www.xiaohongshu.com/login",
+      "http_status": 200,
+      "bytes_read": 36212,
+      "job_submitted": false,
+      "title": [
+        "小红书 - 你的生活兴趣社区"
+      ],
+      "visible_text": "小红书 - 你的生活兴趣社区",
+      "notes": []
+    }
+  ]
+}

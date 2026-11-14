@@ -1,0 +1,19 @@
+{
+  "signature": "e9c911f2b9c21d4b3ac2097aa55da266c2d1d0943f0ec585ec4d865079b06f1c",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\25.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\25.wav",
+  "id": "25",
+  "title": "来客停在台阶下",
+  "kind": "video",
+  "candidate": "c4c984861b3c411f",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\25\\c4c984861b3c411f.mp4",
+  "source_start": 1.0,
+  "duration": 3.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084652-2arb5",
+  "start": 84.91666666666667,
+  "end": 88.625
+}

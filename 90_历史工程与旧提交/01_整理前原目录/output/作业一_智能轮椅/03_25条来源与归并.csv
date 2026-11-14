@@ -1,0 +1,26 @@
+﻿来源编号,主库编号,来源名称,进入方式,归并说明,链接
+S01,RC007,KnowNo / Robots That Ask For Help,目的性选种,主记录,https://robot-help.github.io/
+S02,RC008,CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents,目的性选种,主记录,https://clararobot.github.io/
+S03,RC010,Knowledge- and ambiguity-aware robot learning from corrective and evaluative feedback / ICREATe,目的性选种,主记录,https://pmc.ncbi.nlm.nih.gov/articles/PMC10338625/
+S04,RC036,Robot Broken Promise? Repair strategies for mitigating loss of trust for repeated failures,目的性选种,主记录,https://www.pure.ed.ac.uk/ws/portalfiles/portal/397671678/Robot_Broken_NESSET_DOA26052023_AFV_CC_BY.pdf
+S05,RC060,What should a robot disclose about me? A study about privacy-appropriate behaviors for social robots,目的性选种,主记录,https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full
+S06,RC086,Moxie现行支持页,目的性选种,主记录,https://moxierobots.com/contact
+S07,RC089,AIBO葬礼,目的性选种,主记录,https://cir.nii.ac.jp/crid/1360004235292688000
+S08,RC095,Vector清除用户数据,目的性选种,主记录,https://support.anki.bot/article/384-performing-a-clear-user-data-reset
+S09,RC101,自传体记忆与机器人自我,目的性选种,主记录,https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2017.00027/full
+S10,RC106,增量式交互记忆,目的性选种,主记录,https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1455375/full
+S11,RC154,Corrective Shared Autonomy,目的性选种,主记录,https://pmc.ncbi.nlm.nih.gov/articles/PMC8050957/
+S12,RC166,"Navigating Autonomy, Privacy, and Ageism in Robot Home Care With Aged Users: ROB-IN",目的性选种,主记录,https://pmc.ncbi.nlm.nih.gov/articles/PMC12053780/
+S13,RC187,From Learning to Relearning: A Framework for Diminishing Bias in Social Robot Navigation,目的性选种,主记录,https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full
+S14,RC232,HuggieBot 3.0 and the Six Hug Commandments,目的性选种,主记录,https://is.mpg.de/hi/publications/block21-hri-commandments
+S15,RC261,LUCI Judging Smart,Q03,主记录,https://www.luci.com/smart
+S16,RC261,LUCI User Guide Rev F,Q03→官方导航,同项目追加来源，不新增案例,https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf
+S17,RC261,LUCI Safety Report 2021（历史缓存）,Q03,同项目追加来源，不新增案例,https://luci.com/wp-content/uploads/2021/07/LUCI-Safety-Report.pdf
+S18,RC262,CoNav 2025年1月设计报告,Q01/Q02,主记录,https://arxiv.org/abs/2501.09680
+S19,RC262,CoNav 2025年7月评价报告,Q01/Q02,同项目追加来源，不新增案例,https://arxiv.org/abs/2507.11716
+S20,RC263,NavChair 1996,Q02/Q09,主记录,https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf
+S21,RC264,AbilityLab Smart Wheelchair,Q02/Q07,主记录,https://www.sralab.org/research/projects/smart-wheelchair
+S22,RC265,WHILL Autonomous Service,Q04/Q05,主记录,https://whill.inc/au/mobility-service/how-it-works/autonomous-drive
+S23,RC266,低成本共享控制轮椅,Q01,主记录,https://www.sciencedirect.com/science/article/abs/pii/S0026271418301082
+S24,RC267,人工势场智能助行器,Q02,主记录,https://www.iris.unict.it/handle/20.500.11769/729611
+S25,RC268,智能辅具伦理范围综述,Q06,主记录,https://link.springer.com/article/10.1007/s11673-025-10479-8

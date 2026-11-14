@@ -1,0 +1,53 @@
+{
+  "pages": 7,
+  "page_characters": [
+    585,
+    404,
+    439,
+    566,
+    419,
+    630,
+    504
+  ],
+  "scene_metrics": [
+    {
+      "block": 0,
+      "characters": 600,
+      "paragraphs": 17
+    },
+    {
+      "block": 1,
+      "characters": 425,
+      "paragraphs": 17
+    },
+    {
+      "block": 2,
+      "characters": 465,
+      "paragraphs": 21
+    },
+    {
+      "block": 3,
+      "characters": 614,
+      "paragraphs": 27
+    },
+    {
+      "block": 4,
+      "characters": 453,
+      "paragraphs": 21
+    },
+    {
+      "block": 5,
+      "characters": 660,
+      "paragraphs": 27
+    },
+    {
+      "block": 6,
+      "characters": 529,
+      "paragraphs": 25
+    }
+  ],
+  "script_characters": 3776,
+  "dialogue_characters": 353,
+  "duration_budget_seconds": 390,
+  "readthrough_performed": false
+}

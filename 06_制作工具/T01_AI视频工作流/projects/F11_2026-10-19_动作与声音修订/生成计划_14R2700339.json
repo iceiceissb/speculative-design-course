@@ -1,0 +1,35 @@
+{
+  "new_tasks": [
+    {
+      "job_id": "14R2",
+      "signature": "1d0978926ee45c4498b28de456658c7bac1ecfb8532f28f24c871aeb7863df7d",
+      "variant": 1,
+      "duration": 4
+    },
+    {
+      "job_id": "70",
+      "signature": "6eeada1c4ac8b2f48232c1461472a52945fe78cef06bc7c2973f84e77a58b1da",
+      "variant": 1,
+      "duration": 7
+    },
+    {
+      "job_id": "03",
+      "signature": "feda8e8f371dcd87365362130d79fa39c242e2dd1acecc04454f9203949f4bc3",
+      "variant": 1,
+      "duration": 4
+    },
+    {
+      "job_id": "39",
+      "signature": "6dab09b9d56ca920be35f6b765bf1a62009a28f61887a5e031d7e6f5129025fa",
+      "variant": 1,
+      "duration": 5
+    }
+  ],
+  "new_generated_seconds": 20,
+  "booked_tasks": 1,
+  "booked_seconds": 4,
+  "resolution": "480p",
+  "model": "doubao-seedance-2-5-260628",
+  "note": "费用以方舟结算为准；任务数和秒数上限不等同于人民币费用上限。",
+  "estimated_rmb": 13.53
+}

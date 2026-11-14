@@ -1,0 +1,99 @@
+{
+  "pages": 34,
+  "dimensions": [
+    1280,
+    720
+  ],
+  "aspect_ratio": "16:9",
+  "main_pages": 23,
+  "script_start": 24,
+  "script_scene_pages": [
+    {
+      "scene": 1,
+      "title": "第一场　城市已经替你准备好了",
+      "start": 25,
+      "end": 25
+    },
+    {
+      "scene": 2,
+      "title": "第二场　今天的鱼",
+      "start": 26,
+      "end": 26
+    },
+    {
+      "scene": 3,
+      "title": "第三场　第一次竖起中指",
+      "start": 27,
+      "end": 27
+    },
+    {
+      "scene": 4,
+      "title": "第四场　鱼把路让出来",
+      "start": 28,
+      "end": 28
+    },
+    {
+      "scene": 5,
+      "title": "第五场　你越客气，越不能等",
+      "start": 29,
+      "end": 30
+    },
+    {
+      "scene": 6,
+      "title": "第六场　文明不合格",
+      "start": 31,
+      "end": 32
+    },
+    {
+      "scene": 7,
+      "title": "第七场　这次真的上电梯",
+      "start": 33,
+      "end": 33
+    },
+    {
+      "scene": 8,
+      "title": "第八场　抄网",
+      "start": 34,
+      "end": 34
+    }
+  ],
+  "script_blocks_verified": 114,
+  "script_has_images": false,
+  "speaker_notes_pages": 34,
+  "page_text_lengths": [
+    117,
+    175,
+    142,
+    128,
+    143,
+    145,
+    127,
+    181,
+    170,
+    124,
+    118,
+    172,
+    163,
+    172,
+    179,
+    194,
+    168,
+    178,
+    184,
+    207,
+    181,
+    181,
+    184,
+    140,
+    322,
+    487,
+    432,
+    627,
+    712,
+    314,
+    769,
+    179,
+    308,
+    651
+  ]
+}

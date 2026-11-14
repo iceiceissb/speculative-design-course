@@ -1,0 +1,11 @@
+{
+  "python": "3.13.9",
+  "ffmpeg": true,
+  "ffprobe": true,
+  "api_key_configured": false,
+  "missing_images": [],
+  "jobs": 2,
+  "timeline_seconds": 11,
+  "api_model": "doubao-seedance-2-5-260628",
+  "shared_credential_configured": true
+}

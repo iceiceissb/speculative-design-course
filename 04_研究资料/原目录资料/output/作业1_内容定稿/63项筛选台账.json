@@ -1,0 +1,572 @@
+{
+  "scope": "对既有63项候选进行代表性课堂案例筛选，非系统综述",
+  "records": [
+    {
+      "id": "C01",
+      "title": "How Robots Can Affect Human Behavior: Investigating the Effects of Robotic Displays of Protest and Distress",
+      "source": "https://hrilab.tufts.edu/publications/briggsscheutz14ijsr/",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "C 拒绝表达：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C02",
+      "title": "Would You Do as a Robot Commands? An Obedience Study for Human-Robot Interaction",
+      "source": "https://hci.cs.umanitoba.ca/publications/details/would-you-do-as-a-robot-commands-an-obedience-study-for-human-robot-interac",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C03",
+      "title": "When Robots Say No: The Empathic Ethical Disobedience Benchmark",
+      "source": "https://arxiv.org/abs/2512.18474",
+      "stage1": "进入来源核查",
+      "stage2": "本次不纳入",
+      "reason": "主要贡献为标准化测评框架；本次保留具体互动行为较清晰的案例，作为评价方法参考。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C04",
+      "title": "Robot Authority in Human-Robot Teaming: Effects of Human-Likeness and Physical Embodiment on Compliance",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8202405/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C05",
+      "title": "Learning to Arbitrate Human and Robot Control using Disagreement between Sub-Policies",
+      "source": "https://arxiv.org/abs/2108.10634",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C06",
+      "title": "Interactively shaping robot behaviour with unlabeled human instructions",
+      "source": "https://arxiv.org/abs/1902.01670",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C07",
+      "title": "KnowNo / Robots That Ask For Help",
+      "source": "https://robot-help.github.io/",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "B 澄清协商：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C08",
+      "title": "CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents",
+      "source": "https://clararobot.github.io/",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "B 澄清协商：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C09",
+      "title": "Unified Learning from Demonstrations, Corrections, and Preferences during Physical Human-Robot Interaction",
+      "source": "https://arxiv.org/abs/2207.03395",
+      "stage1": "进入来源核查",
+      "stage2": "本次不纳入",
+      "reason": "主要研究物理示范与纠正的融合；本次用ICREATe与LMPC代表反馈学习，避免方法类过密。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C10",
+      "title": "Knowledge- and ambiguity-aware robot learning from corrective and evaluative feedback / ICREATe",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10338625/",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "D 反馈修正：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C11",
+      "title": "Nonverbal Robot Feedback for Human Teachers",
+      "source": "https://proceedings.mlr.press/v100/huang20a.html",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C12",
+      "title": "An architecture for ethical robots",
+      "source": "https://arxiv.org/abs/1609.02931",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C13",
+      "title": "An Ethical Governor for Constraining Lethal Action in an Autonomous System",
+      "source": "https://digitalcommons.unl.edu/csetechreports/163/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C14",
+      "title": "That’s Mine! Learning Ownership Relations and Norms for Robots",
+      "source": "https://ojs.aaai.org/index.php/AAAI/article/view/4808",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "A 边界辨认：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C15",
+      "title": "ActOwL / Toward Ownership Understanding of Objects",
+      "source": "https://arxiv.org/abs/2509.12754",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C16",
+      "title": "Do a robot’s social skills and its objection discourage interactants from switching the robot off?",
+      "source": "https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00046017/Horstmann_et_al_Do_a_robots_social_skills.pdf",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "C 拒绝表达：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C17",
+      "title": "Ethics 4.0: Ethical Dilemmas in Healthcare Mediated by Social Robots",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9989998/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C18",
+      "title": "Robots Enact Malignant Stereotypes",
+      "source": "https://arxiv.org/abs/2207.11569",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C19",
+      "title": "RoboPAIR / Jailbreaking LLM-Controlled Robots",
+      "source": "https://arxiv.org/abs/2410.13691",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C20",
+      "title": "LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful Actions",
+      "source": "https://arxiv.org/abs/2406.08824",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C21",
+      "title": "Semantic Denial of Service in LLM-controlled robots",
+      "source": "https://arxiv.org/abs/2604.24790",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C22",
+      "title": "ProgPrompt: Generating Situated Robot Task Plans using Large Language Models",
+      "source": "https://progprompt.github.io/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C23",
+      "title": "Inner Monologue: Embodied Reasoning through Planning with Language Models",
+      "source": "https://proceedings.mlr.press/v205/huang23c/huang23c.pdf",
+      "stage1": "进入来源核查",
+      "stage2": "本次不纳入",
+      "reason": "主要解决执行结果驱动的任务再规划；与CLARA和LMPC形成补充，但不直接突出对拒绝依据的质疑。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C24",
+      "title": "Learning From Human Directional Corrections",
+      "source": "https://ieeexplore.ieee.org/document/9852712/",
+      "stage1": "进入来源核查",
+      "stage2": "本次不纳入",
+      "reason": "主要为动作方向纠正与目标学习；本次聚焦语言命令及拒绝边界，不展开底层动作控制。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C25",
+      "title": "D-COACH / Interactive Learning with Corrective Feedback for Policies based on Deep Neural Networks",
+      "source": "https://arxiv.org/abs/1810.00466",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C26",
+      "title": "The EMPATHIC Framework for Task Learning from Implicit Human Feedback",
+      "source": "https://proceedings.mlr.press/v155/cui21a.html",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C27",
+      "title": "COACH: Cooperative Robot Teaching",
+      "source": "https://proceedings.mlr.press/v205/yu23b.html",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C28",
+      "title": "Training a Robot via Human Feedback: A Case Study",
+      "source": "https://bradknox.net/public/papers/icsr13-knox.pdf",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C29",
+      "title": "Learning to Learn Faster from Human Feedback with Language Model Predictive Control",
+      "source": "https://arxiv.org/abs/2402.11450",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "D 反馈修正：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C30",
+      "title": "SayCan: Grounding Language in Robotic Affordances",
+      "source": "https://say-can.github.io/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C31",
+      "title": "Three Strikes and you are out!: The impacts of multiple human–robot trust violations and repairs on robot trustworthiness",
+      "source": "https://www.sciencedirect.com/science/article/pii/S0747563223000092",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C32",
+      "title": "“Sorry, it was my fault”: Repairing trust in human-robot interactions",
+      "source": "https://www.sciencedirect.com/science/article/pii/S107158192300037X",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C33",
+      "title": "Explanations and trust: What happens to trust when a robot partner does something unexpected?",
+      "source": "https://www.sciencedirect.com/science/article/am/pii/S074756322200293X",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C34",
+      "title": "The Robot That Showed Remorse: Repairing Trust with a Genuine Apology",
+      "source": "https://research.utwente.nl/en/publications/the-robot-that-showed-remorse-repairing-trust-with-a-genuine-apol/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C35",
+      "title": "Promises and Trust Repair in UGVs",
+      "source": "https://journals.sagepub.com/doi/10.1177/21695067231196235",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C36",
+      "title": "Robot Broken Promise? Repair strategies for mitigating loss of trust for repeated failures",
+      "source": "https://www.pure.ed.ac.uk/ws/portalfiles/portal/397671678/Robot_Broken_NESSET_DOA26052023_AFV_CC_BY.pdf",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "D 反馈修正：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C37",
+      "title": "When Robots Say No: Temporal Trust Recovery Through Explanation",
+      "source": "https://arxiv.org/abs/2510.21716",
+      "stage1": "进入来源核查",
+      "stage2": "本次不纳入",
+      "reason": "研究搜救等高风险任务中的延迟响应与信任；本次选取日常任务和通用互动，保留为延伸资料。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C38",
+      "title": "Repairing Human Trust by Promptly Correcting Robot Mistakes with An Attention Transfer Model",
+      "source": "https://arxiv.org/abs/2103.08025",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C39",
+      "title": "Privacy-Preserving Pose Estimation for Human-Robot Interaction",
+      "source": "https://arxiv.org/abs/2011.07387",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C40",
+      "title": "Escaping from Children’s Abuse of Social Robots",
+      "source": "https://doi.org/10.1145/2696454.2696468",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C41",
+      "title": "Technological Dreams Series: No.1, Robots",
+      "source": "https://dunneandraby.co.uk/content/projects/10/0",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E2：主题相关；代表性抽样中已有更直接的案例覆盖其主要分析角色。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C42",
+      "title": "Our Friends Electric",
+      "source": "https://superflux.in/index.php/work/friends-electric/",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "B 澄清协商：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C43",
+      "title": "Addicted Products",
+      "source": "https://www.simonerebaudengo.com/addictedproducts",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C44",
+      "title": "SOMEONE",
+      "source": "https://get-lauren.net/SOMEONE",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C45",
+      "title": "Uninvited Guests",
+      "source": "https://superflux.in/index.php/work/uninvited-guests/",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "A 边界辨认：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C46",
+      "title": "Blendie",
+      "source": "https://www.media.mit.edu/projects/blendie/overview/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C47",
+      "title": "The Helpless Robot",
+      "source": "https://agnes.queensu.ca/explore/collections/object/the-helpless-robot/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C48",
+      "title": "Petit Mal",
+      "source": "https://simonpenny.net/works/petitmal.html",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C49",
+      "title": "End of Life Care Machine / Last Moment Robot",
+      "source": "https://dankc.com/end-of-life-care-machine/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C50",
+      "title": "Can’t Help Myself",
+      "source": "https://www.guggenheim.org/wp-content/uploads/2019/12/guggenheim-teaching-materials-tmcaa-sun-yuan-and-peng-yu.pdf",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C51",
+      "title": "Detroit: Become Human",
+      "source": "https://www.quanticdream.com/en/detroit-become-human",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C52",
+      "title": "Robot & Frank",
+      "source": "https://www.sonypictures.com/movies/robotandfrank",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C53",
+      "title": "WALL-E",
+      "source": "https://www.pixar.com/wall-e",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C54",
+      "title": "I, Robot（阿西莫夫小说集）",
+      "source": "https://www.penguinrandomhouse.com/books/5681/i-robot-by-isaac-asimov/teachers-guide/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C55",
+      "title": "Ex Machina",
+      "source": "https://a24films.com/films/ex-machina",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C56",
+      "title": "Chappie",
+      "source": "https://www.sonypictures.com/movies/chappie",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C57",
+      "title": "All Systems Red（Murderbot第一部）",
+      "source": "https://cdn.penguin.co.uk/dam-assets/books/9781804951897/9781804951897-sample.pdf",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E3：商业科幻叙事；保留为兴趣与问题来源，不进入本次证据案例表。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C58",
+      "title": "An Ethical Adaptor: Behavioral Modification Derived from Moral Emotions",
+      "source": "https://repository.gatech.edu/bitstreams/0a909e05-b88a-4e4c-93a9-527d4659d848/download",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C59",
+      "title": "A Value-Driven Eldercare Robot: Virtual and Physical Instantiations of a Case-Supported Principle-Based Behavior Paradigm",
+      "source": "https://proceedingsoftheieee.ieee.org/a-value-driven-eldercare-robot-virtual-and-physical-instantiations-of-a-case-supported-principle-based-behavior-paradigm/",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C60",
+      "title": "What should a robot disclose about me? A study about privacy-appropriate behaviors for social robots",
+      "source": "https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full",
+      "stage1": "进入来源核查",
+      "stage2": "本次不纳入",
+      "reason": "重点为机器人向第三方披露信息的适当性；与边界相关，但未聚焦命令被拒绝后的修正过程。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C61",
+      "title": "Teacher of Algorithms",
+      "source": "https://www.simonerebaudengo.com/teacher",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "D 反馈修正：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C62",
+      "title": "Not Here, Not Now（2015作品视频）",
+      "source": "https://dunneandraby.co.uk/content/projects/772/0",
+      "stage1": "进入来源核查",
+      "stage2": "纳入内容稿",
+      "reason": "A 边界辨认：提供相应行为机制或用于揭示其局限的对照。",
+      "reviewer2": "未实施，不虚填"
+    },
+    {
+      "id": "C63",
+      "title": "The Greeting Machine: An Abstract Robotic Object for Opening Encounters",
+      "source": "https://www.runi.ac.il/media/enfllthk/thegreetingmachine_2018.pdf",
+      "stage1": "本次不纳入",
+      "stage2": "不适用",
+      "reason": "E1：涉及的主要情境或行为超出本次命令解释、质疑与修正的中心范围。",
+      "reviewer2": "未实施，不虚填"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+credentials.json
+
+# Installed dependencies and local editor state
+node_modules/
+__pycache__/
+*.pyc
+.venv*/
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+UserSettings/
+.browser-cache/
+chrome-test/
+.npm-cache/
+.cache/
+.build/
+runtime/
+.DS_Store
+Thumbs.db
+
+# Downloaded archive objects and restored working copies
+.archive-downloads/
+course-restored/
+*.sqlite3
+*.sqlite3-wal
+*.sqlite3-shm
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.zip
+*.exe
+*.dll

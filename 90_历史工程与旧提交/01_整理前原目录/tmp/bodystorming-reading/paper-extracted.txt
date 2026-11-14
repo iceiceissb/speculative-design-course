@@ -1,0 +1,1023 @@
+
+
+===== PDF PAGE 1 =====
+DesignDesign ResearchResearch SocietySociety
+DRSDRS DigitalDigital LibraryLibrary
+
+
+DRS Biennial Conference Series                                    DRS2026: Edinburgh
+
+
+Jun 8th, 9:00 AM - Jun 12th, 5:00 PM
+
+BodystormingBodystorming throughthrough Disruption:Disruption: AI-assistedAI-assisted DesignDesign
+ImprovisationImprovisation PedagogyPedagogy
+
+Jiawei Li
+Tsinghua University, China, People's Republic of
+
+Jiayue Wang
+Beijing Institute of Fashion Technology
+
+Lin Zhu
+Tsinghua University, China, People's Republic of
+
+Jiaxuan Xu
+Tsinghua University, China, People's Republic of
+
+Changran Zhao
+Communication University of China
+
+
+See next page for additional authors
+
+
+
+Follow this and additional works at: https://dl.designresearchsociety.org/drs-conference-papers
+
+    Part of the Art and Design Commons
+
+
+CitationCitation
+Li, J., Wang, J., Zhu, L., Xu, J., Zhao, C., and Fu, Z. (2026) Bodystorming through Disruption: AI-assisted
+Design Improvisation Pedagogy, in Simeone, L., Gray, C. M., Verhoeven, A., de Götzen, A., Bakırlıoğlu, Y.,
+Zohar, H., Stead, M., and Buwert, P. (eds.), DRS2026: Edinburgh, 8–12 June, Edinburgh, United Kingdom.
+https://doi.org/10.21606/drs.2026.1362
+
+
+
+This Research Paper is brought to you for free and open access by the DRS Conference Proceedings at DRS Digital
+Library. It has been accepted for inclusion in DRS Biennial Conference Series by an authorized administrator of DRS
+Digital Library. For more information, please contact library@thedrs.org.
+
+===== PDF PAGE 2 =====
+AuthorsAuthors
+Jiawei Li, Jiayue Wang, Lin Zhu, Jiaxuan Xu, Changran Zhao, and Zhiyong Fu
+
+
+
+
+
+  This research paper is available at DRS Digital Library: https://dl.designresearchsociety.org/drs-conference-papers/
+                                                                             drs2026/researchpapers/275
+
+===== PDF PAGE 3 =====
+Bodystorming through disruption:
+ AI-assisted design improvisation pedagogy
+
+Jiawei Lia, Jiayue Wangb, Lin Zhua, Jiaxuan Xua, Changran Zhaoc , Zhiyong Fua*
+aTsinghua University,People's Republic of China
+bBeijing Institute of Fashion Technology,China
+cCommunication University of China
+*Corresponding author e-mail: fuzhiyong@tsinghua.edu.cn
+doi.org/10.21606/drs.2026.1362
+
+
+         Abstract:  This study  introduces an  AI-assisted Design  Improvisation Pedagogy
+          integrating  artificial  intelligence with bodystorming  in space design education.
+        Grounded   in  a   three-dimensional  framework  (Embodiment,   Enactment,
+         Improvisation), an  AI  system  using  Coze  platform  with  Retrieval-Augmented
+        Generation (RAG) was developed to support emergent scenario generation and
+         improvisational guidance. Validated through three-semester workshops with 16 third-
+         year undergraduates working on space environment challenges (crystal formation,
+          fiber construction, plant growth, sound materialization), the system demonstrated
+         highest correlation with Improvisation (r=0.48). Students consistently underestimated
+          their performance versus peer evaluations, particularly in Improvisation where all
+        groups showed significant differences (p<0.01). Different materials produced varied
+         impacts, with Sound group showing largest gaps due to abstract media nature.
+         Findings confirm AI's transition from assistive tool to creative collaborator, offering
+         novel pedagogical approaches for extreme environment design.
+
+        Keywords: AI-assisted pedagogy; bodystorming; design improvisation; design
+         education
+
+1. Introduction
+
+1.1  Research Background
+Design education fundamentally concerns fostering innovative thinking and
+capabilities.   Traditional approaches emphasize creativity through physical movements,
+prototype construction, and situated experiences.
+Bodystorming  is an embodied ideation method that extends brainstorming into
+physical space, requiring participants to enact scenarios using their bodies rather
+than relying solely on verbal or visual abstraction.  Originating in the mid-1990s
+from the field of participatory and contextual design (Burns et  al., 1994),
+bodystorming enables designers to transcend conventional cognitive patterns by
+
+
+                    This work is licensed under a Creative Commons Attribution-NonCommercial
+                    4.0 International Licence.
+
+===== PDF PAGE 4 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+simulating bodily interactions in authentic scenarios, transforming abstract concepts
+into tangible solutions (Oulasvirta et  al., 2003).   Its key characteristics include multi-
+sensory engagement (visual, auditory, tactile, kinesthetic), direct spatial immersion,
+and the activation of tacit knowledge that  is difficult to surface through conventional
+methods.  Typical applications include acting out a hospital waiting room experience
+to identify pain points in service design, or simulating microgravity movement
+constraints to inform spatial layout decisions in aerospace habitability research.
+Schon's (1983) "reflective practice" theory articulates that design thinking essence lies
+in "reflection-in-action," with bodily engagement as primary medium.  Such physical
+engagement enriches learning and catalyzes design thinking through embodied
+interaction (Klemmer et  al., 2006).
+Design improvisation refers to the capacity to generate creative responses to
+unexpected situations in real time, drawing on embodied knowledge, contextual
+awareness, and collaborative dynamics.  Unlike scripted performance, improvisation in
+design education embraces uncertainty as a productive force: moderate constraints
+stimulate creative release (Amabile, 1996), while Csikszentmihalyi's (1997) "flow"
+theory explains how designers enter peak creative states when challenges align with
+their capabilities.  Dorst's (2011) research reveals that experienced designers make
+appropriate improvisational judgments in complex situations based on prior
+experience.  Together, bodystorming and design improvisation form a complementary
+pedagogical dyad: the former provides the embodied scaffold, the latter activates
+adaptive thinking within  it.  This combination  is particularly valuable in extreme
+environment design contexts, where standard usability methods are insufficient and
+designers must rely on imagined, embodied simulation.
+
+1.2  Course Framework: "Design for Space"
+Over three years, our undergraduate "Interaction Design" course focused on space design
+challenges. With commercial spaceflight advancement, designers must rethink human
+survival in extreme environments. This course guides students in exploring innovative
+solutions for space habitation systems, life support equipment, and extraterrestrial human-
+machine interactions, considering technical feasibility, resource sustainability, and
+unpredictable adaptability.
+Following the Double Diamond model (Design Council, 2005), the course structures four
+phases (Figure 1):
+         Strategy (STEEP analysis, Futures Triangle);
+         Design (Design Fiction,
+         bodystorming workshops);
+         Technology (prototype iteration);
+         Economy (practical application demonstration).
+This paper focuses on AI-assisted improvisation workshops during the Design phase, with
+third-year students who completed foundational design training, conducted over spring and
+fall semesters with 20 students per semester in groups of 4-6.
+
+
+
+
+                                            2
+
+===== PDF PAGE 5 =====
+                                                           Bodystorming through disruption
+
+
+
+
+
+Figure 1. Design Innovation Teaching Framework Based on Double Diamond Model
+
+1.3  Research Objectives
+This research explores two core questions: First, how can AI as "collaborator"
+enhance students' performance in embodied interaction, scenario enactment, and
+improvised adaptation through diverse scenarios and movement prompts? Second,
+how does human-AI collaborative improvisation influence individual and team creative
+thinking, particularly in spatial awareness, scenario construction, and improvisational
+creativity?
+
+2. Literature Review
+
+2.1   Design Improvisation
+Bodystorming transcends linguistic and cognitive limitations of traditional brainstorming
+(Burns et al., 1994; Schleicher et al., 2010) by extending design thinking to the physical
+realm, requiring direct participation, movement simulation, and scenario enactment
+(Oulasvirta et al., 2003). It enables more immediate experiential understanding than
+observation and interviews (Buchenau & Suri, 2000), particularly for needs difficult to
+articulate verbally (Schleicher et al., 2010). Applications span service design, interaction
+design, and spatial design (Marquez Segura et al., 2016; Colombetti, 2014).
+Design improvisation emphasizes embodied cognition's central role in creative processes,
+requiring rapid contextual responses and decisions. Dorst's (2011) research reveals
+experienced designers make appropriate improvisational judgments in complex situations
+based on prior experience. Unexpected situations critically trigger improvisation: moderate
+constraints stimulate creative release (Amabile, 1996), while excessive pressure reduces
+performance (Byron et al., 2010). Csikszentmihalyi's (1997) "flow" theory explains creators
+enter creative states when challenges match capabilities. Improvisation stimulates creative
+thinking, breaks conventional patterns (Cross, 2006), and cultivates adaptability (Lawson,
+2006).
+
+
+
+
+
+                                            3
+
+===== PDF PAGE 6 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+2.2  AI-assisted Innovation
+AI in design education has evolved from "auxiliary tool" to "creative collaboration
+partner." With GANs and large language models maturity, AI demonstrates unique
+value in design improvisation through two dimensions:  First, scenario construction—
+rapidly generating diverse prompts to explore broader possibility spaces. Hao et  al.
+(2024) explored AI applications in urban scenario planning across solution generation,
+scenario construction, and evaluation. Second, real-time interaction—serving as
+dialogic tool providing personalized explanations and continuous feedback.
+Empirical research confirms AI's positive role: Hwang and Wu's (2025) survey of 121
+design students found generative AI significantly impacted creative cognition (β=0.610,
+p<0.001) through enhanced self-efficacy and reduced anxiety. Xu and Jiang's (2022)
+research demonstrated AI teaching methods outperformed traditional approaches in
+flexibility, outcomes, and engagement.
+In improvisation performance, Carter et  al. (2021) found AI expands creative
+possibilities and helps break mental patterns through continuous dialogue. Mirowski
+and Mathewson (2019) showed AI as performance partner forces focus on narrative
+and emotional expression. These studies indicate AI as interactive, inspirational
+collaborator offers new possibilities for Design Improvisation Pedagogy.
+
+3. Workshop Implementation
+
+3.1  Preparation
+
+3.1.1  Space Design Scenario Selection
+
+The selection of space environment scenarios was driven by both pedagogical and
+disciplinary rationale. Space environments present conditions—microgravity, radiation,
+confined habitats, psychological isolation—that are radically different from everyday
+experience, making them ideal for testing the limits of embodied imagination and
+improvisational design thinking. Exposing students to such extreme contexts compels
+them to abandon familiar cognitive shortcuts and engage in genuine scenario-building
+from the body outward. The three scenarios (International Space Station, Lunar Base
+Station, and Mars Base Station) were chosen to represent a spectrum of human
+distance from Earth, each escalating in terms of resource constraints, communication
+latency, and psychological demand. These environments directly target the
+Improvisation dimension of our framework by creating conditions where standard
+responses are inadequate and adaptive creativity  is required.
+
+The four research directions—plant growth, crystal formation, sound materialization,
+and fiber construction—were selected to engage distinct cognitive and sensorimotor
+modalities. Plant growth and crystal formation involve slow biological and chemical
+processes that challenge students to translate invisible temporal dynamics into visible,
+bodily enacted narratives. Sound materialization requires engagement with abstract,
+
+
+
+
+
+                                            4
+
+===== PDF PAGE 7 =====
+                                                           Bodystorming through disruption
+
+
+non-visual media, demanding higher-order bodily metaphor. Fiber construction, with
+its structural and haptic complexity, foregrounds spatial and tactile reasoning.
+Together, these directions were designed to cultivate different facets of the three-
+dimensional framework: Embodiment (physical simulation of material properties),
+Enactment (narrative construction around scientific processes), and Improvisation
+(adaptive problem-solving when these processes encounter unexpected disruptions).
+We used AI to generate diverse situational prompts breaking students' cognitive
+limitations, providing new creative pathways for ideation (Meyer & Norman, 2020).
+
+3.1.2  AI System Design
+
+We developed an AI-assisted system on Coze platform utilizing Agent-building
+modules, workflow architecture, and ChatFlow functionalities, implementing two core
+functions:
+Emergent Scenario Module (Figure 2): Workflow-based architecture with Story
+Generator and Story Distiller nodes. System receives  initial scene description, LLM
+parses key narrative elements, Story Distiller processes content forwarding to RAG
+module. RAG integrates Theoretical Basis Node and BingWebResearch for dual-layer
+validation ensuring scientific accuracy. Scenario Generator uses pre-configured
+prompts generating five emergent events significantly affecting narrative trajectory.
+
+
+
+
+
+Figure 2. Workflow Diagram of the Emergent Scenario Generation Module within the AI-
+         Assisted Improvisation System
+
+Improvisational Performance Module (Figure 3): ChatFlow architecture automatically
+converting Story Generator outputs to system inputs. Two-layer validation:
+BingWebResearch retrieves academic literature; Solution Generator assesses domain
+relevance, practical feasibility, pedagogical applicability. Prompt design incorporates
+domain knowledge accuracy, objective declarative language style, and structured
+guidance preserving creative improvisation space.
+Iterative development optimized performance through multiple testing rounds.  Initial
+debugging revealed Improvisational Module prone to hallucinations without RAG,
+
+
+
+
+
+                                            5
+
+===== PDF PAGE 8 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+addressed by integrating RAG functionalities establishing rigorous knowledge
+verification. Prompt engineering optimized default Coze role settings producing
+excessive emotional expression, incorporating constraints like "encyclopedic response
+style" and "declarative language only." Solution diversity control mechanism ensured
+multi-dimensional balanced recommendations.
+
+
+
+
+
+Figure 3. Workflow Diagram of the Improvisational Performance Module within the AI-
+         Assisted System
+
+3.2  Workshop Process
+The workshop was structured around the three-dimensional competency framework
+(Embodiment, Enactment, Improvisation) with AI positioned as an "Out-Actor"—an
+external agent that disrupts and enriches the creative process from outside the
+performance circle, rather than replacing student agency within  it. The overall
+structure followed a "Design Fiction–Design Reflection" bidirectional pathway:
+students  first constructed and enacted speculative scenarios, then reflected on and
+revised those scenarios in light of AI-generated disruptions. Instructors served as
+facilitators and observers, guiding the reflective debriefs, calibrating the difficulty of
+AI interventions in consultation with the pedagogical framework, and ensuring that AI
+outputs were educationally appropriate. Students were the primary creative agents,
+responsible for interpreting and embodying scenario scripts, selecting and
+transforming AI-generated emergent events into physical performance, and evaluating
+peer groups using structured rubrics.
+
+3.2.1  Self-Assessment and Scenario Preparation
+
+Prior to the workshop, students completed an individual self-evaluation questionnaire
+(Table 1) assessing baseline competencies across three dimensions on a 5-point Likert
+scale. This  initial assessment served two purposes:  it helped instructors tailor AI
+prompt complexity to each group's starting level, and  it established a baseline for
+measuring self-perception gaps after the workshop.
+
+
+
+
+
+                                            6
+
+===== PDF PAGE 9 =====
+                                                           Bodystorming through disruption
+
+
+After assessment, four groups applied Design Fiction to construct basic scenario
+scripts, each defining character roles, scene prototypes, and props appropriate to
+their assigned space environment and material research direction.
+
+Table 1. Self-Assessment Questionnaire for Individual Design Improvisation Competencies
+
+ Dimension              Declarative Item Statement
+
+ Embodiment             S-E1. I tend to and am willing to use body language (such as gestures, facial
+                          expressions, and posture) to support the expression of my ideas.
+
+                           S-E2. I am relatively sensitive to and capable of responding to changes in others or
+                        the environment (e.g., others’ movements, spatial atmosphere, etc.).
+
+                           S-E3. I am good at utilizing surrounding props or physical space (e.g., furniture,
+                             spatial layout, etc.) to enhance my expressiveness and sense of interaction.
+
+ Enactment               S-E4. When tasked with presenting a story or simulating a scenario, I can quickly
+                         conceptualize the context and integrate elements such as characters and events
+                           into it.
+
+                           S-E5. I find that “live enactment” or “role-playing” enables me to express my ideas
+                    more clearly than purely verbal or written descriptions.
+
+                           S-E6. I am able to clearly distinguish and coordinate different elements—people,
+                           objects, and technologies—so that they form a coherent narrative in simulations or
+                        performances.
+
+ Improvisation             S-I7. When faced with unexpected situations or new instructions, I can promptly
+                          adjust my thinking or actions without becoming overly flustered or stuck.
+
+                               S-I8. I enjoy generating new ideas or solving problems through improvisational
+                           interactions with others in uncertain or open-ended situations.
+
+                               S-I9. Even when facing unexpected changes or challenges, I am able to collaborate
+                             effectively with team members, maintain smooth communication, and work
+                         together to achieve shared goals.
+
+
+3.2.2  Embodied Improvisational Enactment
+
+The enactment phase followed a four-level progressive structure (Figure 4), each
+level building on the previous to incrementally deepen human-AI collaborative
+improvisation.
+Basic Scenario Enactment: One group performed a 10-minute live enactment following their
+prewritten script, while three observer groups documented the performance using
+structured observation sheets.
+AI-Assisted Intervention: Observer groups input the performing group's script summary into
+the Emergent Scenario Module. The AI processed the narrative context through its RAG-
+enhanced pipeline and generated five scientifically grounded emergent events—such as
+sudden equipment failure, unexpected biological anomalies, or communication blackouts—
+each with multiple branching response suggestions. Crucially, student observers, not
+instructors, operated the AI interface. This design choice made students active co-creators of
+
+
+
+
+                                            7
+
+===== PDF PAGE 10 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+the disruption scenarios, deepening their engagement with both the AI system and the
+content. The AI outputs were presented to all groups simultaneously and discussed briefly
+before the next performance phase began.
+Solution Translation: The performing group selected one emergent event from the AI's
+output and used the Improvisational Performance Module to develop embodied response
+strategies. Students translated abstract AI-generated technical solutions into physical
+performance actions—for example, converting a recommendation about "semantic isolation
+algorithms" into a choreographed sequence of bodily gestures representing information
+triage. The Improvisational Performance Module supported this translation by providing
+structured, encyclopedic guidance on relevant scientific principles while explicitly leaving the
+physical interpretation open to student creativity. Iteration was encouraged: if a group's
+initial embodied response felt disconnected from the scenario logic, they could re-query the
+system or adjust their physical framing.
+Cross-Group Interaction: Observer groups provided real-time documentation, verbal
+feedback, and completed peer evaluation forms after each round. Groups rotated roles
+across sessions, ensuring every group experienced both performing and observing positions.
+
+
+
+
+
+Figure 4. Activity Breakdown of the Design Improvisation Workshop
+
+3.2.3  Team Evaluation and Reflection
+
+The final phase guided students through reflective discussion on "forming through
+action" and "enactive cognition." Peer evaluations were collected via the Team
+Performance Evaluation Questionnaire (Table 2), which differed from the self-
+assessment in three key respects: evaluation focus (collective performance vs.
+individual  abilities), interactional dimension (intra-team collaboration and audience
+feedback), and design purpose (pedagogical refinement and cross-group knowledge
+sharing). Three additional AI-specific items (T-A10 to T-A12) assessed perceived
+quality and relevance of AI contributions.
+
+Table 2. Team Performance Evaluation Questionnaire
+
+ Dimension      Declarative Item Statement
+
+ Embodiment    T-E1.  I could clearly perceive the team’s intentional design and coordination in their
+               movements, postures, or formations, which enhanced the realism and interactivity of the
+                  scenario.
+
+                  T-E2.  I observed that the team used space and props creatively, which helped me better
+                understand the simulated future environment or design concept in a more intuitive way.
+
+
+
+
+                                            8
+
+===== PDF PAGE 11 =====
+                                                           Bodystorming through disruption
+
+
+
+                  T-E3. I noticed timely responses among team members to each other's body language and
+                emotional cues, which made it easier for me to engage with the scenario they portrayed.
+
+ Enactment      T-E4. Based on the team’s narrative progression and character portrayal, I was able to
+                   clearly understand the storyline and design intent they aimed to convey.
+
+                  T-E5. I felt that the team integrated elements such as people, objects, environment, and
+                technology into a coherent storyline, which helped me reflect more deeply on the issues or
+                 scenarios they intended to explore.
+
+                  T-E6. I experienced a sense of drama or conflict in the team’s performance, which sparked
+                 greater curiosity and interest in their design and conceptual ideas.
+
+ Improvisation   T-I7. I noticed that when faced with unexpected problems or new inputs, the team was able
+                 to adjust promptly while maintaining narrative coherence, which demonstrated their
+                  improvisational adaptability.
+
+                    T-I8. I was drawn to the team’s on-the-spot creativity during the performance, and their
+                    flexible responses in uncertain situations stimulated my own thinking or imagination.
+
+                    T-I9. I believe the team demonstrated strong synergy during improvisation, with members
+                   effectively connecting and supporting one another to continuously advance the
+                performance.
+
+ AI Agent        T-A10. After observing the performance, I believe the AI Agent effectively stimulated the
+              team to generate new creative associations and solution ideas.
+
+                 T-A11. I feel that the challenges provided by the AI aligned well with my expectations for
+                    this team's conceptual scenario within a space laboratory context.
+
+                 T-A12. I believe the suggestions provided by the AI aligned with my expectations for how
+                    this team’s space laboratory project could be improved.
+
+4. Results and Analysis
+
+4.1   Data Collection
+Participants: 16 third-year undergraduate design students (average age 21) with completed
+foundational training. Two structured questionnaires: Individual Self-Assessment (nine items,
+5-point Likert scale across three dimensions) and Team Performance Evaluation (mirrored
+structure plus three AI-specific items).
+Data processed using Python 3.11.8 (numpy, statsmodels, matplotlib): Cronbach's alpha for
+reliability, descriptive statistics for mean scores and standard deviations, Pearson correlation
+analysis, paired-sample t-tests for self versus peer evaluation differences.
+
+4.2    Reliability Analysis
+Self-assessment: Improvisation highest reliability (α=0.69), Embodiment and Enactment
+lower (α=0.34, α=0.59). Peer evaluation: greater consistency—Improvisation α=0.74,
+Enactment α=0.62, Embodiment α=0.58, AI dimension α=0.70.
+
+
+
+
+
+                                            9
+
+===== PDF PAGE 12 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+4.3   Descriptive Statistics
+Table 3 presents mean scores, standard deviations, paired-sample t-test results. Fiber and
+Sound groups received higher peer evaluations, particularly in Improvisation (4.17, 4.45).
+Crystal group showed significant lower self-assessments across all dimensions.
+
+Table 3
+
+                                   Self-evaluation    Peerevaluation
+ Dimension        Group                                                                      i-j         t-value    df     p
+                     （i）M±SD     （j）M±SD
+
+ Embodiment        Crystal     3.53±0.30         3.79±0.64       0.26      1.163    15     > 0.10
+
+                     Fiber       3.50±0.24         3.86±0.74       0.36      1.463    15     > 0.10
+
+                     Plant       3.25±0.42         3.47±0.96       0.22      0.664    15     > 0.10
+
+                 Sound      3.40±0.68         4.06±0.65       0.66      2.219    15     < 0.05
+
+ Enactment          Crystal     2.73±0.49         3.67±0.80       0.94      3.169    15     < 0.01
+
+                     Fiber       3.00±0.94         3.95±0.81       0.95      2.421    15     < 0.05
+
+                     Plant       3.08±0.74         3.58±0.92        0.5       1.339    15     > 0.10
+
+                 Sound      2.93±0.72         4.15±0.82       1.22      3.535    15     < 0.01
+
+ Improvisation       Crystal     2.80±0.65         3.76±0.78       0.96      2.99     15     < 0.01
+
+                     Fiber       3.67±0.00         4.17±0.81        0.5       1.952    15     < 0.10
+
+                     Plant       2.58±0.88         4.22±0.71       1.64      4.587    15     < 0.01
+
+                 Sound      3.13±0.73         4.45±0.78       1.32      3.907    15     < 0.01
+
+
+Embodiment Dimension (Figure 5): Only Sound group showed significant difference
+(t=2.219, p<0.05), indicating bodily expression and spatial coordination more
+recognized by observers.
+
+
+
+
+
+                                            10
+
+===== PDF PAGE 13 =====
+                                                           Bodystorming through disruption
+
+
+
+
+
+Figure 5. Self vs. Peer Evaluation Scores in Embodiment Dimension
+
+Enactment Dimension (Figure 6): Crystal group largest discrepancy (0.94 points,
+p<0.01) indicating self-perception bias. Fiber and Sound groups showed significant
+differences; Plant group gap (0.5) non-significant.
+
+
+
+
+
+Figure 6. Self vs. Peer Evaluation Scores in Enactment Dimension
+
+Improvisation Dimension (Figure 7): Most consistent pattern—all four groups showed
+significant differences. Crystal, Plant, Sound groups highly significant (p<0.01), Fiber
+approached significance (p<0.10), indicating general underestimation of improvisational
+abilities.
+
+
+
+
+
+                                            11
+
+===== PDF PAGE 14 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+
+
+
+Figure 7. Self vs. Peer Evaluation Scores in Improvisation Dimension
+
+4.3.1 Performance Pattern Analysis
+
+Performance Pattern Radar (Figure 8) reveals distinct approaches across groups:
+Crystal Group emphasized bodily movement (4.5) simulating crystal growth processes,
+with lower verbal presentation (3.2); Fiber Group showed strongest presentation  skills
+(4.6) communicating construction processes, with moderate physical demonstration
+(3.2); Plant Group excelled in narrative capabilities (4.7) crafting compelling biological
+system stories, with less physical movement (3.0); Sound Group showed notable
+object interaction strength (4.8) manipulating sound interfaces, with balanced other
+dimensions (3.1-3.9).
+
+
+
+
+
+Figure 8. Performance Pattern Radar
+
+           Crystal Group: Emphasized bodily movement (4.5) simulating crystal
+          growth processes, lower verbal presentation (3.2)
+
+
+
+
+                                            12
+
+===== PDF PAGE 15 =====
+                                                           Bodystorming through disruption
+
+
+           Fiber Group: Strongest presentation skills (4.6) communicating construction
+            processes, moderate physical demonstration (3.2)
+          Plant Group: Excelled narrative capabilities (4.7) crafting compelling
+             biological system stories, less physical movement (3.0)
+          Sound Group: Notable object interaction strength (4.8) manipulating sound
+             interfaces, balanced other dimensions (3.1-3.9)
+
+4.4   AI-Performance Correlation
+Figure 9 shows AI correlation with three dimensions. Highest with Improvisation
+(r=0.48), indicating AI intervention stimulated spontaneous adaptability and creative
+expression through emergent scenarios and multi-path prompting. Moderate with
+Enactment (r=0.30), as AI-generated events enhanced narrative depth enabling logical
+organization. Weak with Embodiment (r=0.15), suggesting limited AI influence on
+physical expression,  still dependent on performance  skills and collaboration. AI's role
+was more evident in stimulating improvisational thinking and advancing scenario
+enactment than enhancing bodily expression, providing insight for future AI
+refinement: focusing on task framing, challenge construction, and inspiration
+guidance.
+
+
+
+
+
+Figure 9. Correlation Matrix: AI and Performance Dimensions
+
+
+5.  Design Outcomes
+Four groups produced innovative space design solutions responding to AI-generated
+emergent scenarios:
+
+Table 4
+
+
+
+
+
+                                            13
+
+===== PDF PAGE 16 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+
+                             Crystal Group-"AURALITH"
+                            Description: A cultural and creative product designed for deep space workers that
+                          transforms space minerals into crystal records through cultivation chambers.
+                         Using AI to translate crystal patterns and compositions into unique cosmic music,
+                         the system can dynamically adjust music generation in response to crystal growth
+                            patterns, providing innovative approaches for both project development and
+                         emotional connection in the space environment.
+
+                      Sound Group-"COSMIC ECHO"
+                            Description: This project transforms pulsar signals into interactive music through
+                            AI technology, featuring recordings from seven pulsars and a synchronized light
+                       cube display. During the workshop, the discovery of "pulsar desynchronization
+                         resonance" prompted improvements including rhythm purification algorithms,
+                         automatic backup, and safety modes, enhancing both product design and user
+                          experience while creating an immersive space-aesthetic.
+
+                           Plant Group- "Drifting Plants Initiative"
+                            Description: This project explores plant-human communication and cognitive
+                         boundaries through speculative design. During the workshop, when users
+                            collected data from three different space plants, the system encountered "multi-
+                         source semantic interference," where AI mistranslated plant languages. This led to
+                         the implementation of semantic isolation algorithms and multi-agent systems,
+                         enhancing the reliability of plant-human communication in space.
+
+                            Fiber Group-"MYCOSTRIKE"
+                            Description: This project is an innovative space construction solution using
+                       mycelium as a sustainable building material for space colonies. During the
+                        workshop, when a solar storm disrupted power systems on Mars and halted 3D
+                             printing operations, the team developed emergency protocols using pre-
+                            fabricated mycelium blocks and AI-driven power management, ensuring
+                           construction continuity and crew safety.
+
+6. Discussion
+
+6.1  Key Findings
+Students consistently underestimated their performance relative to peer evaluations, a
+pattern potentially reflecting a reverse Dunning-Kruger dynamic in creative contexts:
+performers immersed in technical execution focus on difficulties and failures, while
+evaluators assess holistic effect and emergent narrative coherence. Self-critical
+awareness and divergent evaluation criteria further widen this gap. Improvisation
+showed the most consistent underestimation  (all four groups significant), reflecting
+that adaptive creative competence  is inherently difficult to self-assess in the moment
+—it becomes visible to observers as responsive fluency, but  is experienced internally
+as reactive struggle. Embodiment showed smaller differences (25% significant), as
+physical actions are more directly perceivable by the performer.
+Material type significantly shaped the self-peer gap pattern. The Sound group
+showed significant differences across  all three dimensions, attributable to the abstract
+
+
+
+
+
+                                            14
+
+===== PDF PAGE 17 =====
+                                                           Bodystorming through disruption
+
+
+temporal nature of sound as a medium—without tangible physical anchors, students
+found  it harder to assess their own spatial and narrative coherence, while observers
+recognized strong improvisational creativity in their efforts to materialize the
+intangible. The Fiber group's Enactment difference reflects the cognitive challenge of
+communicating complex engineering thinking through physical metaphor. The Plant
+group's largest Improvisation gap indicates that rapid interdisciplinary knowledge
+integration—bridging biology, cognitive science, and design—exceeded students' self-
+recognition capacity. These patterns reveal a strong connection between material
+cognitive characteristics and students' metacognitive awareness, suggesting that
+teaching strategies should be adapted to the specific epistemic demands of each
+material type.
+
+6.2  Innovative Value
+This study makes contributions to both design education methodology and extreme
+environment design practice. In terms of pedagogical method,  it confirms AI's role as
+a "collaborative partner" that shifts the instructional dynamic from one-way content
+delivery to bidirectional creative dialogue. AI-driven emergent scenarios provide
+scientifically validated, diverse, and unpredictable challenges that break habitual
+design patterns. The highest correlation with Improvisation (r=0.48) confirms that this
+disruption effect  is most pronounced in the domain of adaptive creativity. The RAG
+mechanism was essential in ensuring scientific accuracy and avoiding hallucinations;
+without  it, AI outputs risked producing speculative scenarios disconnected from actual
+aerospace science, undermining students' trust in the system. Multi-path prompts
+actively encouraged divergent thinking, and the system supported personalized
+learning pathways by adapting prompting strategies to different performance levels
+and material characteristics.
+Beyond design education, this approach holds relevance for other domains that rely
+on scenario-based learning under constraint, including healthcare simulation,
+emergency response training, and cross-disciplinary innovation workshops. The
+integration of AI as an adaptive scenario engine—rather than a static content
+provider—offers a replicable model for any educational context where improvisation,
+embodied cognition, and uncertainty tolerance are core learning objectives. For
+design fields specifically, the method could be extended to industrial design
+(simulating user interactions with novel products), architectural design (enacting
+inhabitant behaviors in speculative spatial conditions), or service design (embodying
+complex system failures in real-time). In each case, AI's capacity to generate
+scientifically grounded, narratively rich disruptions could activate the same
+improvisational dynamics observed in this study.
+
+6.3  Limitations
+Three limitations affect the generalizability and depth of this study. First, the sample
+size was small (16 students, 4 groups) from a single discipline and specific cognitive
+level. Low reliability in some self-assessment dimensions (Cronbach's alpha=0.34 for
+Embodiment) may reflect insufficient sample size rather than construct invalidity.
+
+
+
+
+                                            15
+
+===== PDF PAGE 18 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+Future studies should expand to larger, more diverse student populations across
+disciplines to enhance external validity and allow for more robust statistical
+inference.
+Second, the AI model, while RAG-enhanced, relies on existing academic literature and
+web data rather than real space environment data. The black-box nature of LLM
+generation renders the reasoning logic opaque, potentially compromising trust and
+pedagogical transparency. The system may also lack depth in highly specialized
+aerospace engineering problems that  fall outside  its training distribution. Future
+iterations should introduce expert validation loops and rigorous quality control
+protocols to ensure that AI-generated scenarios meet domain accuracy standards.
+Third, conventional classroom environments could not authentically replicate the
+embodied conditions of space (microgravity, radiation, confined spaces), limiting the
+fidelity of physical enactments. Limited props and spatial configurations constrained
+realistic performance. Future research should explore VR/AR integration to provide
+more immersive and accurate extreme environment simulation, and investigate how
+increased environmental fidelity affects both performance patterns and AI-human
+interaction dynamics.
+
+6.4  Future Work
+Future research should develop across four interconnected dimensions.  First,
+methodological optimization should focus on integrating VR and AR technologies to
+overcome the current gap between classroom simulation and actual space conditions.
+The absence of physical anchors such as microgravity or spatial confinement limited
+the realism of student enactments; immersive environments would not only improve
+fidelity but potentially activate different embodied responses and deepen the
+Embodiment dimension specifically. Standardized, cross-disciplinary assessment tools
+should also be developed to enable comparative evaluation across different design
+contexts and material types.
+Second, AI system advancement should prioritize two areas: building expert
+knowledge bases co-developed with aerospace scientists and domain specialists, and
+developing interpretable reasoning mechanisms that make AI generative logic visible
+to students and instructors. The latter  is particularly important pedagogically—when
+students understand why the AI generated a particular disruption event, they can
+engage with  it as a learning object rather than merely a performance constraint.
+Personalized learning algorithms that adapt scenario complexity and prompting style
+in real time to individual student performance profiles represent a promising
+direction for maximizing both cognitive challenge and creative support.
+Third, cross-domain expansion should test whether the AI-assisted improvisation
+framework generalizes beyond space design. Candidate domains include architectural
+design (enacting speculative inhabitant behaviors), healthcare design (simulating
+complex patient journey disruptions), and emergency response training (practicing
+adaptive decision-making under simulated crisis conditions). Each domain would
+provide a different profile of material cognitive demands, allowing systematic
+
+
+
+
+
+                                            16
+
+===== PDF PAGE 19 =====
+                                                           Bodystorming through disruption
+
+
+comparison of how AI-generated disruptions interact with different knowledge
+structures and embodied repertoires.
+Fourth, longitudinal tracking studies should evaluate whether the improvisational
+creativity and adaptive problem-solving capacities cultivated in these workshops
+transfer to longer-term professional development outcomes. Tracking students' design
+practice over one to three years following the workshop would illuminate whether
+AI-assisted bodystorming produces durable shifts in creative cognition, or primarily
+delivers in-the-moment performance effects.
+
+7. Conclusion
+This study validated an AI-assisted design improvisation pedagogy integrating AI with
+bodystorming in space design education. Three key findings emerged: AI-driven
+emergent scenarios effectively broke habitual patterns, with the highest correlation
+observed in Improvisation (r=0.48); students consistently underestimated their
+performance, especially in Improvisation where  all groups showed significant
+differences; and different materials produced differentiated cognitive and performance
+impacts, with Sound showing the largest gap due to abstract media nature and Plant
+exhibiting the greatest Improvisation disparity from biological complexity.
+The theoretical contribution of this work lies in enriching design education
+methodology by validating AI's shift from assistive tool to creative collaborator, and
+in proposing an innovative pedagogical model that integrates embodied cognition,
+reflective practice, and AI-generated disruption. Practically, this study offers a new
+methodological pathway for extreme environment design education, demonstrating
+how AI can support improvisational creativity and problem-solving in constrained
+environments through collaborative partnership rather than mere technical assistance.
+Despite the limitations of sample size, AI transparency, and environmental simulation
+fidelity, this study provides valuable insights for the development of intelligent design
+education and opens productive avenues for applying embodied, AI-augmented
+improvisation across diverse design disciplines and extreme contexts.
+
+     Acknowledgements: This work was supported by the Tsinghua University
+     Undergraduate Education and Teaching Reform Project (Undergraduate Practice
+      Teaching Support Program, No. 080-53410801125), the Young Scientists Fund of the
+      National Natural Science Foundation of China (Grant No. 52405279), and the Beijing
+       Digital Education Research General Project (Grant No. BDEC2025619131).
+
+8. References
+
+Aguilar, F. J. (1967). Scanning the business environment. Macmillan.
+Amabile, T. M. (1996). Creativity in context: Update to “The social psychology of creativity”. Westview
+   Press.
+Bleecker, J. (2009). Design fiction: A short essay on design, science, fact and fiction. Near Future
+   Laboratory.
+
+
+
+
+
+                                            17
+
+===== PDF PAGE 20 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+Broadbent, S., Auricchio, V., Corubolo, M., & Monna, V. (2023, October 9). Building design agency
+   through bodystorming. IASDR 2023: Life-Changing Design.
+   https://doi.org/10.21606/iasdr.2023.207
+Buchenau, M., & Suri, J. F. (2000). Experience prototyping. In Proceedings of the 3rd Conference on
+   Designing Interactive Systems (pp. 424–433). ACM.
+Burns, C., Dishman, E., Verplank, W., & Lassiter, B. (1994). Actors, hairdos & videotape—Informance
+   design. In Conference Companion on Human Factors in Computing Systems (pp. 119–120). ACM.
+Byron, K., Khazanchi, S., & Nazarian, D. (2010). The relationship between stressors and creativity: A
+   meta-analysis examining competing theoretical models. Journal of Applied Psychology, 95(1), 201–
+   212.
+Carter, A., Papalexandri-Alexandri, M., & Hoffman, G. (2021). Lessons from joint improvisation
+   workshops for musicians and robotics engineers. Frontiers in Robotics and AI, 7, 576702.
+Colombetti, G. (2014). The feeling body: Affective science meets the enactive mind. MIT Press.
+Cross, N. (2006). Designerly ways of knowing. Springer.
+Csikszentmihalyi, M. (1997). Creativity: Flow and the psychology of discovery and invention.
+   HarperCollins.
+Design Council. (2005). The ‘double diamond’ design process model.
+Dorst, K. (2011). The core of “design thinking” and its application. Design Studies, 32(6), 521–532.
+Dunne, A., & Raby, F. (2013). Speculative everything: Design, fiction, and social dreaming. MIT Press.
+Gerber, E. (2007). Improvisation principles and techniques for design. In Proceedings of the SIGCHI
+   Conference on Human Factors in Computing Systems (pp. 1069–1072).
+Hao, X., et al. (2024). Empowering scenario planning with artificial intelligence: A perspective on
+   building smart and resilient cities. Engineering, 43, 272–283.
+Hwang, Y., & Wu, Y. (2025). The influence of generative artificial intelligence on creative cognition of
+   design students. Frontiers in Psychology, 15, 1455015.
+Inayatullah, S. (1998). Causal layered analysis: Poststructuralism as method. Futures.
+Inayatullah, S. (2008). Six pillars: Futures thinking for transforming. Foresight.
+Kirsh, D. (2013). Embodied cognition and the magical future of interaction design. ACM Transactions
+   on Computer-Human Interaction, 20(1), 3:1–3:30. https://doi.org/10.1145/2442106.2442109
+Klemmer, S. R., Hartmann, B., & Takayama, L. (2006). How bodies matter: Five themes for interaction
+   design. In Proceedings of the 6th Conference on Designing Interactive Systems (pp. 140–149).
+  ACM.
+Lawson, B. (2006). How designers think: The design process demystified (4th ed.). Architectural Press.
+Marquez Segura, E., Turmo Vidal, L., Rostami, A., & Waern, A. (2016). Embodied sketching. In
+   Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems (pp. 6014–
+   6027).
+McIntosh, R. D., Fowler, E. A., Lyu, T., & Della Sala, S. (2019). Wise up: Clarifying the role of
+   metacognition in the Dunning–Kruger effect. Journal of Experimental Psychology: General,
+   148(11), 1882–1897.
+Meyer, M. W., & Norman, D. (2020). Changing design education for the 21st century. She Ji: The
+   Journal of Design, Economics, and Innovation, 6(1), 13–49.
+
+
+
+
+                                            18
+
+===== PDF PAGE 21 =====
+                                                           Bodystorming through disruption
+
+
+Mirowski, P., & Mathewson, K. W. (2019). Human improvised theatre augmented with artificial
+   intelligence. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems.
+Oulasvirta, A., Kurvinen, E., & Kankainen, T. (2003). Understanding contexts by being there: Case
+   studies in bodystorming. Personal and Ubiquitous Computing, 7(2), 125–134.
+Schleicher, D., Jones, P., & Kachur, O. (2010). Bodystorming as embodied designing. Interactions,
+   17(6), 47–51.
+Schon, D. A. (1983). The reflective practitioner: How professionals think in action. Basic Books.
+Schwartz, P. (1991). The art of the long view: Planning for the future in an uncertain world. Currency
+   Doubleday.
+Simsarian, K. T. (2003). Take it to the next stage: The roles of role playing in the design process. In
+   CHI’03 Extended Abstracts on Human Factors in Computing Systems (pp. 1012–1013). ACM.
+Sterling, B. (2009). Design fiction. Interactions, 16(3), 20–24.
+Xu, B., & Jiang, J. (2022). Exploration for multimedia Asian information processing and artificial
+   intelligence-based art design and teaching in colleges. ACM Transactions on Asian and Low-
+   Resource Language Information Processing.
+
+
+
+
+
+                                            19
+
+===== PDF PAGE 22 =====
+Jiawei Li, Jiayue Wang, Lin Zhu et al.
+
+
+
+
+
+                          About the Authors:
+
+                              Jiawei Li is a PhD candidate at Tsinghua University's Academy of Arts
+                         and Design, with an MA from the Royal College of Art. Her research
+                             focuses on ritual interaction and digital media design.
+
+                              Jiayue Wang is a postdoctoral researcher at Tsinghua University and
+                                Assistant Professor at Beijing Institute of Fashion Technology. Her
+                             research spans  Kansei  Engineering,  AI-collaborative  design, and
+                            multimodal sentiment analysis.
+
+                                Lin Zhu is a Postdoctoral Fellow at Tsinghua University's Academy of
+                               Arts and Design, holding a PhD from Tsinghua and an MSc from
+                                Politecnico di Milano. Her research connects speculative futures with
+                                 interactive technologies.
+
+                             Jiaxuan Xu is a PhD student at Tsinghua University's Academy of Arts
+                         and Design, with an MA from the Royal College of Art. Her research
+                            spans interactive media, spatial storytelling, and speculative design.
+
+                          Changran Zhao  is a Digital Media Art student at Communication
+                               University of China and intern at Tsinghua University's Design Futures
+                             group. His research focuses on AIGC, human-computer interaction,
+                         and immersive media experiences.
+
+                            Zhiyong Fu is a tenured professor and doctoral supervisor at Tsinghua
+                                 University's Academy of Arts and Design, specializing in interaction
+                               design, service design, and design futures.
+
+
+
+
+
+                                            20

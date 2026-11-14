@@ -1,0 +1,1259 @@
+{
+  "checked_at": "2026-10-19T08:22:06+08:00",
+  "mode": "local_audit_only_no_api_requests",
+  "paid_jobs_submitted": 0,
+  "source": "storyboard.json及已保存的首轮实际提交快照",
+  "limitations": "72镜范围表来自现有文字分镜；只对首轮五个镜号标记已查看首帧，不等于72镜均已完成图像核对。后期声音尚未自动转为API对白。",
+  "actual_submission_audit": [
+    {
+      "profile": "连接测试",
+      "job_id": "T20",
+      "actual_dialogue_speakers": [],
+      "fixed_voice_profile_markers_found": []
+    },
+    {
+      "profile": "五镜试片",
+      "job_id": "15",
+      "actual_dialogue_speakers": [],
+      "fixed_voice_profile_markers_found": []
+    },
+    {
+      "profile": "五镜试片",
+      "job_id": "16",
+      "actual_dialogue_speakers": [],
+      "fixed_voice_profile_markers_found": []
+    },
+    {
+      "profile": "五镜试片",
+      "job_id": "20",
+      "actual_dialogue_speakers": [
+        "徐",
+        "邱"
+      ],
+      "fixed_voice_profile_markers_found": []
+    },
+    {
+      "profile": "五镜试片",
+      "job_id": "21",
+      "actual_dialogue_speakers": [],
+      "fixed_voice_profile_markers_found": []
+    },
+    {
+      "profile": "五镜试片",
+      "job_id": "53",
+      "actual_dialogue_speakers": [
+        "来客"
+      ],
+      "fixed_voice_profile_markers_found": []
+    }
+  ],
+  "shots": [
+    {
+      "id": "01",
+      "title": "裂扣与舞裙",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "02",
+      "title": "手轮挡在柱外",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "03",
+      "title": "绕向旁路",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "04",
+      "title": "台阶旁的陡坡",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "05",
+      "title": "店外挑扣子",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "OWNER",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "店主",
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "店主",
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "06",
+      "title": "接孩子的提醒",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "07",
+      "title": "徐先离开",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "徐"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "徐"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "08",
+      "title": "猫压着布样",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "CAT"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "09",
+      "title": "电视里的产品演示",
+      "method": "video",
+      "planned_visible_entities": [
+        "DEMO",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [
+        "广告声"
+      ],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "10",
+      "title": "调大电视声音",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "11",
+      "title": "手机购买",
+      "method": "post",
+      "planned_visible_entities": [
+        "Q0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "12",
+      "title": "新轮椅拆膜",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "13",
+      "title": "旧轮椅留给猫",
+      "method": "video",
+      "planned_visible_entities": [
+        "CAT",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "14",
+      "title": "确认通行",
+      "method": "post",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "15",
+      "title": "收拢后穿过柱口",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": [
+        "Q0",
+        "W1"
+      ],
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "已查看当前首帧；仍需核对完整镜头计划",
+      "notes": []
+    },
+    {
+      "id": "16",
+      "title": "越过布店台阶",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": [
+        "Q0",
+        "W1"
+      ],
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "已查看当前首帧；仍需核对完整镜头计划",
+      "notes": []
+    },
+    {
+      "id": "17",
+      "title": "第一次推开店门",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "18",
+      "title": "入口自动变绿",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "19",
+      "title": "徐在店里找到邱",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "徐"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "徐"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "20",
+      "title": "为自己挑红布",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": [
+        "Q0",
+        "X0",
+        "W1"
+      ],
+      "native_speakers": [
+        "徐",
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "徐",
+        "邱"
+      ],
+      "visual_review_status": "已查看当前首帧；仍需核对完整镜头计划",
+      "notes": []
+    },
+    {
+      "id": "21",
+      "title": "取下高处扣子盒",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": [
+        "Q0",
+        "X0",
+        "W1"
+      ],
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "已查看当前首帧；仍需核对完整镜头计划",
+      "notes": [
+        "原人物栏漏列徐；以当前首帧核对后的名单为准，徐在本镜无对白。"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "选中金边扣",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "23",
+      "title": "老舞伴跟上拍子",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "24",
+      "title": "门外有人喊老板",
+      "method": "video",
+      "planned_visible_entities": [
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [
+        "来客"
+      ],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "25",
+      "title": "来客停在台阶下",
+      "method": "video",
+      "planned_visible_entities": [
+        "VISITOR",
+        "W2",
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "26",
+      "title": "陡坡仍然上不去",
+      "method": "video",
+      "planned_visible_entities": [
+        "VISITOR",
+        "W2",
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "店主",
+        "来客"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "店主",
+        "来客"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "27",
+      "title": "邱来到门前",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1",
+        "VISITOR",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "28",
+      "title": "秀秀回复",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [
+        "秀秀"
+      ],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "29",
+      "title": "把台阶写清楚",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [
+        "秀秀"
+      ],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "30",
+      "title": "撤回两处错误标记",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "31",
+      "title": "询问是否报给街道",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [
+        "秀秀"
+      ],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "32",
+      "title": "提交与回执",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "33",
+      "title": "样布拿出来挑",
+      "method": "video",
+      "planned_visible_entities": [
+        "VISITOR",
+        "W2",
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "来客"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "来客"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "34",
+      "title": "邱递出软尺",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1",
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "店主",
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "店主",
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "35",
+      "title": "量台阶",
+      "method": "video",
+      "planned_visible_entities": [
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "36",
+      "title": "红布放到膝上",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "X0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "37",
+      "title": "返程保留障碍照片",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "38",
+      "title": "诊所门槛",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT1",
+        "W3"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "39",
+      "title": "公交站的人行道断口",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT2",
+        "W3"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "40",
+      "title": "公园坡道被占",
+      "method": "video",
+      "planned_visible_entities": [
+        "YOUNG",
+        "W3"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "41",
+      "title": "反馈列表汇入地图",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "42",
+      "title": "把到车站的路画出来",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1",
+        "VISITOR",
+        "W2",
+        "OWNER",
+        "STAFF",
+        "RESIDENT3"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "工作人员"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "工作人员"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "43",
+      "title": "普通轮椅居民递意见单",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT3",
+        "STAFF",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "44",
+      "title": "楼门里的老人",
+      "method": "video",
+      "planned_visible_entities": [
+        "HOME_RESIDENT",
+        "STAFF",
+        "DESIGNER",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "45",
+      "title": "归还软尺并量店门",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1",
+        "OWNER",
+        "DESIGNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "46",
+      "title": "腾出坡道的位置",
+      "method": "video",
+      "planned_visible_entities": [
+        "OWNER",
+        "DESIGNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "47",
+      "title": "柱脚拆开重新定位",
+      "method": "video",
+      "planned_visible_entities": [
+        "WORKER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "48",
+      "title": "旧陡坡拆除",
+      "method": "video",
+      "planned_visible_entities": [
+        "WORKER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "49",
+      "title": "新缓坡装好扶手",
+      "method": "video",
+      "planned_visible_entities": [
+        "WORKER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "50",
+      "title": "金扣缝回舞裙",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "51",
+      "title": "裁红布与挪开猫",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1",
+        "CAT",
+        "W0"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "52",
+      "title": "秀秀先通过新坡道",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q0",
+        "W1",
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "店主",
+        "邱"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "店主",
+        "邱"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "53",
+      "title": "普通轮椅转不过来",
+      "method": "video",
+      "planned_visible_entities": [
+        "VISITOR",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": [
+        "VISITOR",
+        "W2"
+      ],
+      "native_speakers": [
+        "来客"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "来客"
+      ],
+      "visual_review_status": "已查看当前首帧；仍需核对完整镜头计划",
+      "notes": []
+    },
+    {
+      "id": "54",
+      "title": "试用后重新量距离",
+      "method": "video",
+      "planned_visible_entities": [
+        "STAFF",
+        "DESIGNER",
+        "VISITOR",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "55",
+      "title": "几天后平台加宽",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "56",
+      "title": "来客自己进店",
+      "method": "video",
+      "planned_visible_entities": [
+        "VISITOR",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "57",
+      "title": "复测完成后变绿",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "58",
+      "title": "继续处理下一处",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "59",
+      "title": "坡口接平斑马线",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT3",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "60",
+      "title": "老人从楼门出来",
+      "method": "video",
+      "planned_visible_entities": [
+        "HOME_RESIDENT",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "61",
+      "title": "冬天坐公交",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT2",
+        "W3"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "62",
+      "title": "春雨里的诊所入口",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT1",
+        "W3",
+        "PARENT"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "63",
+      "title": "图书馆缓坡",
+      "method": "video",
+      "planned_visible_entities": [
+        "RESIDENT3",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "64",
+      "title": "公园里去湖边",
+      "method": "video",
+      "planned_visible_entities": [
+        "PARK_ELDER1",
+        "PARK_ELDER2",
+        "W3"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "65",
+      "title": "两年的回访与维修",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "66",
+      "title": "普通模式穿过新柱口",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q1",
+        "W1",
+        "RESIDENT3",
+        "W2"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "67",
+      "title": "布店门前再打招呼",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q1",
+        "W1",
+        "VISITOR",
+        "W2",
+        "OWNER"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "68",
+      "title": "今天孩子爸爸接",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q1",
+        "W1",
+        "X1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "邱",
+        "徐"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "邱",
+        "徐"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "69",
+      "title": "看看新衣袖口",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q1",
+        "W1",
+        "X1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "徐"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "徐"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "70",
+      "title": "转半圈给朋友看",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q1",
+        "W1",
+        "X1"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [
+        "徐"
+      ],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [
+        "徐"
+      ],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "71",
+      "title": "握手跟着音乐打拍子",
+      "method": "video",
+      "planned_visible_entities": [
+        "Q1",
+        "W1",
+        "X1",
+        "PARENT"
+      ],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    },
+    {
+      "id": "72",
+      "title": "片名",
+      "method": "post",
+      "planned_visible_entities": [],
+      "reviewed_first_frame_entities": null,
+      "native_speakers": [],
+      "post_audio_speakers": [],
+      "native_voice_profiles_to_include": [],
+      "visual_review_status": "待对照首帧核查",
+      "notes": []
+    }
+  ]
+}

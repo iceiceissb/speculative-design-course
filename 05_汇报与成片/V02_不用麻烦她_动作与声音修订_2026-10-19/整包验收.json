@@ -1,0 +1,61 @@
+{
+  "full_decode_passed": true,
+  "72_clips_durations_match": true,
+  "duration": 277.4166666666667,
+  "1920x1080_24fps": true,
+  "ui_static_checks": [
+    {
+      "shot": "18",
+      "mean_decoded_pixel_change": 0.001427,
+      "static_hold_verified": true
+    },
+    {
+      "shot": "30",
+      "mean_decoded_pixel_change": 0.001048,
+      "static_hold_verified": true
+    },
+    {
+      "shot": "32",
+      "mean_decoded_pixel_change": 0.000461,
+      "static_hold_verified": true
+    },
+    {
+      "shot": "41",
+      "mean_decoded_pixel_change": 0.001253,
+      "static_hold_verified": true
+    },
+    {
+      "shot": "57",
+      "mean_decoded_pixel_change": 0.000885,
+      "static_hold_verified": true
+    },
+    {
+      "shot": "58",
+      "mean_decoded_pixel_change": 0.000916,
+      "static_hold_verified": true
+    },
+    {
+      "shot": "65",
+      "mean_decoded_pixel_change": 0.002499,
+      "static_hold_verified": true
+    }
+  ],
+  "ui_audio_has_no_quiet_250ms_below_minus_50_dbfs": true,
+  "subtitle_chunks": 52,
+  "subtitle_bounds_verified": true,
+  "all_dialogue_shots_have_subtitles": true,
+  "preview_links_verified": 214,
+  "draft_photo_materials": 8,
+  "draft_tracks": [
+    "全片画面",
+    "对白与现场声",
+    "门外呼喊与承接",
+    "剪映曲库配乐_已避让对白",
+    "连续环境声",
+    "对白字幕",
+    "时间提示"
+  ],
+  "new_motion_review": "03行进、14手指按下收回、39抬放手机拍照、70仅邱及轮椅转动；已人工查看逐时抽帧",
+  "new_api_cost": 13.5307,
+  "old_version_preserved": true
+}

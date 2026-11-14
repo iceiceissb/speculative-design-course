@@ -1,0 +1,8 @@
+# player.vimeo.com
+
+[返回总索引](../links.md)
+
+- [https://player.vimeo.com/api/player.js](https://player.vimeo.com/api/player.js)
+  - 出处：[sralab.html](../../90_%E5%8E%86%E5%8F%B2%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%A7%E6%8F%90%E4%BA%A4/01_%E6%95%B4%E7%90%86%E5%89%8D%E5%8E%9F%E7%9B%AE%E5%BD%95/tmp/wheelchair/sources/sralab.html)
+- [https://player.vimeo.com/video/128873380](https://player.vimeo.com/video/128873380)
+  - 出处：[guests.html](../../90_%E5%8E%86%E5%8F%B2%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%97%A7%E6%8F%90%E4%BA%A4/01_%E6%95%B4%E7%90%86%E5%89%8D%E5%8E%9F%E7%9B%AE%E5%BD%95/tmp/yield-project/sources/guests.html)

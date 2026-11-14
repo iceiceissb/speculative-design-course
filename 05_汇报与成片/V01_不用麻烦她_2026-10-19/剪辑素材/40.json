@@ -1,0 +1,19 @@
+{
+  "signature": "e12b7b69a2e8f8e95172c70fc81651375aca9bf15fb78c6b270d7c62a94e8a39",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\40.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\40.wav",
+  "id": "40",
+  "title": "公园坡道被占",
+  "kind": "video",
+  "candidate": "210ac23df9934660",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\40\\210ac23df9934660.mp4",
+  "source_start": 0.35,
+  "duration": 3.5833333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085233-algn7",
+  "start": 155.08333333333334,
+  "end": 158.66666666666666
+}

@@ -1,0 +1,29 @@
+{
+  "original_procedural_composition": true,
+  "tempo_bpm": 86,
+  "meter": "3/4",
+  "no_external_recording": true,
+  "cues": [
+    [
+      "23",
+      "24",
+      0.014
+    ],
+    [
+      "38",
+      "51",
+      0.009
+    ],
+    [
+      "59",
+      "65",
+      0.011
+    ],
+    [
+      "67",
+      "72",
+      0.018
+    ]
+  ],
+  "draft_volume": 0.6
+}

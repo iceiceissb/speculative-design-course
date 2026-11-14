@@ -1,0 +1,18 @@
+{
+  "version": "D09 v2",
+  "archive": "把路走通_PC试玩_v2.zip",
+  "archiveBytes": 30542941,
+  "archiveEntries": 136,
+  "requiredEntriesVerified": true,
+  "assemblySHA256": "66564498293E53C578398773553C1093541BFC6C2ED61B169AFE9538CC150EC7",
+  "matchesTestedAssembly": true,
+  "fbxAssets": 24,
+  "editableBlenderExists": true,
+  "playtestPassed": true,
+  "playtestChecks": 139,
+  "nativeKeyboardPassed": true,
+  "nativeScreenshotsVisuallyChecked": true,
+  "buildErrors": 0,
+  "buildWarnings": 0,
+  "verifiedAt": "2026-10-18T17:30:46.1185903+08:00"
+}

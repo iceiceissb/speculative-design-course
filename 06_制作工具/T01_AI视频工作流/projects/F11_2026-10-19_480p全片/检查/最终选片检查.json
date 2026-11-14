@@ -1,0 +1,22 @@
+{
+  "reviewed_generated_candidates": 60,
+  "sampling": "每条5个时点；60条候选共300张抽帧，结合首帧总览检查",
+  "selected_video_shots": 59,
+  "reused_pilot_shots": [
+    "20",
+    "21",
+    "53"
+  ],
+  "corrections": {
+    "02": "使用02R，保持坐姿",
+    "16": "选登阶中段，接17镜推门完成行动",
+    "38": "只用门槛外停下与拍照部分，舍弃后半段误生成越门槛动作",
+    "70_71": "用短叠化承接转身与握手"
+  },
+  "fallback_stills": [
+    "03",
+    "39"
+  ],
+  "dialogue_asr_shots": 23,
+  "voice_identity_by_listening_verified": false
+}

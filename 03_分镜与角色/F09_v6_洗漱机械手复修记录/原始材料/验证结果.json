@@ -1,0 +1,20 @@
+{
+  "changed_this_round": [
+    "03",
+    "04"
+  ],
+  "total_images": 36,
+  "timeline_seconds": 180,
+  "total_corrected_shots": [
+    "03",
+    "04",
+    "05",
+    "13",
+    "24",
+    "25",
+    "26",
+    "28"
+  ],
+  "zip_files": 53,
+  "zip_bytes": 93186147
+}

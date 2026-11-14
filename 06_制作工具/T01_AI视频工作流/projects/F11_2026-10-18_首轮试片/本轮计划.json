@@ -1,0 +1,19 @@
+{
+  "created_at": "2026-10-18T22:12:16+08:00",
+  "authorized": true,
+  "profiles": {
+    "连接测试": {
+      "tasks": 1,
+      "seconds": 4,
+      "resolution": "480p"
+    },
+    "五镜试片": {
+      "tasks": 5,
+      "seconds": 39,
+      "resolution": "720p"
+    }
+  },
+  "estimated_rmb": 61.66,
+  "estimated_only": true,
+  "note": "实际费用以usage与账单为准；没有自动重抽。台阶结构尚未锁定。"
+}

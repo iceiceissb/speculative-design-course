@@ -1,0 +1,19 @@
+{
+  "signature": "16b852412ccb974287b5e098100ac086d0f36bcb5e8e1424902865d294ef18f3",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\03.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\03.wav",
+  "id": "03",
+  "title": "绕向旁路",
+  "kind": "video",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_动作与声音修订\\candidates\\03\\cc52df4eb6c641f5.mp4",
+  "source_start": 0,
+  "duration": 3.9166666666666665,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "Seedance 2.5·本轮动作修订",
+  "start": 7.416666666666667,
+  "end": 11.333333333333334,
+  "candidate": "cc52df4eb6c641f5",
+  "task_id": "cgt-20261019172742-ik800"
+}

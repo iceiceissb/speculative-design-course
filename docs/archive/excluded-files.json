@@ -1,0 +1,467 @@
+[
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/QA/blender-error.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 3961
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/QA/blender.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 66049
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/QA/standalone.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 13648
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/QA/standalone_manual.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 13664
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/QA/unity-editor.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 772012
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/UnityProject/Library/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/UnityProject/Logs/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/UnityProject/Temp/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D08_把路走通_Unity_v1/UnityProject/UserSettings/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/QA/standalone.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 13801
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/QA/standalone_keyboard.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 13725
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/QA/unity-editor.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 1314121
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/UnityProject/Library/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/UnityProject/Logs/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/UnityProject/Temp/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D09_把路走通_Unity_v2/UnityProject/UserSettings/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/QA/editor.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 865123
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/QA/standalone.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 13811
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/QA/standalone_keyboard.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 13812
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/UnityProject/Library/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/UnityProject/Logs/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/UnityProject/Temp/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "02_Demo版本/D10_把路走通_Unity_v3/UnityProject/UserSettings/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "05_汇报与成片/06_结课PPT制作/.build/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "05_汇报与成片/07_简要设计说明制作/.build/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T04_GitHub归档_2026-11-14/",
+    "reason": "archive preparation workspace (prevents recursive copying)"
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/.venv-jianying/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/runtime/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/.env",
+    "reason": "local API credential configuration",
+    "bytes": 60
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/.operation.lock",
+    "reason": "local lock, system metadata or credentials",
+    "bytes": 1
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/五镜试片/.operation.lock",
+    "reason": "local lock, system metadata or credentials",
+    "bytes": 1
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/连接测试/.operation.lock",
+    "reason": "local lock, system metadata or credentials",
+    "bytes": 1
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/projects/F11_2026-10-19_480p全片/.operation.lock",
+    "reason": "local lock, system metadata or credentials",
+    "bytes": 1
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/projects/F11_2026-10-19_动作与声音修订/.operation.lock",
+    "reason": "local lock, system metadata or credentials",
+    "bytes": 1
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/reports/server-errors.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/reports/server-finecut-errors.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/reports/server-finecut.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 75
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/reports/server.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 75
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/vendor/pyJianYingDraft/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/vendor/pyJianYingDraft/assets/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T01_AI视频工作流/vendor/pyJianYingDraft/metadata/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/.browser-cache/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/.npm-cache/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/qa/",
+    "reason": "reproducible QA staging copies and browser artifacts"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/agent/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/data/workbench.sqlite3",
+    "reason": "generated runtime data or logs",
+    "bytes": 28672
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/tests/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "06_制作工具/T02_Bodystorming_Agent/tools/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/最终作业_不用麻烦她_3D交互原型/.ppt_build/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/最终作业_不用麻烦她_3D交互原型/.video_build/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/scripts/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/assignment2/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/assignment2-review-v11/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/hospital-v5/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/pdfs/__pycache__/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Extension Rules/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 95
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Extension Scripts/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 95
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Extension State/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 285
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/GCM Store/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 1157
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/GCM Store/Encryption/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Local Storage/leveldb/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 68
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Service Worker/Database/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 1263
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Session Storage/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 87
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Site Characteristics Database/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 112
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Sync Data/LevelDB/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 3148
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/Web Applications/Temp/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/shared_proto_db/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 85950
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/Default/shared_proto_db/metadata/000003.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 1028
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/GPUPersistentCache/DawnGraphiteCache/H6POMLZSBZPTMTLBCTMXRDH27BAKUDTA/cache.db-wal",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/jianying-editor-skill/.git/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/wheelchair/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/yield-project/node_modules/",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate"
+  },
+  {
+    "path": "90_历史工程与旧提交/02_工具归档快照/T01_AI视频工作流/工具快照/reports/server-errors.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "90_历史工程与旧提交/02_工具归档快照/T01_AI视频工作流/工具快照/reports/server-finecut-errors.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "90_历史工程与旧提交/02_工具归档快照/T01_AI视频工作流/工具快照/reports/server-finecut.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 75
+  },
+  {
+    "path": "90_历史工程与旧提交/02_工具归档快照/T01_AI视频工作流/工具快照/reports/server.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 75
+  },
+  {
+    "path": "90_历史工程与旧提交/02_工具归档快照/T02_场外_Bodystorming_Agent/工具快照/data/workbench.sqlite3",
+    "reason": "generated runtime data or logs",
+    "bytes": 20480
+  },
+  {
+    "path": "99_备份与整理记录/02_本次文件夹整理/验收临时数据/bodystorm/workbench.sqlite3",
+    "reason": "generated runtime data or logs",
+    "bytes": 20480
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/__init__.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 207
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/demo.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 3398
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/engine.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 20510
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/knowledge.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 2906
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/model.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 7709
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/storage.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 6472
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/output/论文阅读/场外Agent_可运行版_20261015.zip!/tests/__pycache__/test_agent.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 21560
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/bodystorm-agent/data/workbench.sqlite3",
+    "reason": "generated runtime data or logs",
+    "bytes": 20480
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/AI视频工作流/reports/server-errors.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/AI视频工作流/reports/server-finecut-errors.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 0
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/AI视频工作流/reports/server-finecut.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 75
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/AI视频工作流/reports/server.log",
+    "reason": "generated runtime data or logs",
+    "bytes": 75
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/__init__.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 207
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/demo.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 3398
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/engine.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 20510
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/knowledge.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 2906
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/model.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 7709
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/agent/__pycache__/storage.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 6472
+  },
+  {
+    "path": "99_备份与整理记录/00_整理前备份/2026-10-17_整理前工作文件.zip!/output/论文阅读/场外Agent_可运行版_20261015.zip!/tests/__pycache__/test_agent.cpython-313.pyc",
+    "reason": "installed dependency, cache, editor state or reproducible build intermediate",
+    "bytes": 21560
+  },
+  {
+    "path": "90_历史工程与旧提交/01_整理前原目录/tmp/video-workflow/chrome-test/",
+    "reason": "legacy browser test profile; contains browser state and unrelated safety-list data",
+    "files_excluded": 461
+  }
+]

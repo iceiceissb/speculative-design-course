@@ -1,0 +1,13 @@
+import {chromium} from 'playwright';import path from 'node:path';import fs from 'node:fs/promises';import {pathToFileURL} from 'node:url';
+const browser=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true});
+const page=await browser.newPage({viewport:{width:1505,height:1045}});
+const checks=[];
+const click=a=>page.locator(`[data-action="${a}"]`).first().click();
+await page.goto(pathToFileURL(path.resolve('作业二/提交_这一次轮椅该听谁的/交互原型v1/index.html')).href);
+await page.screenshot({path:'tmp/assignment2/web-final-native.png',fullPage:true});
+await click('begin');const common=async()=>page.locator('.choice-list [data-action]').evaluateAll(b=>b.map(x=>x.dataset.action).filter(x=>x!=='review').sort());
+const b=await common();await page.locator('[data-rule="A"]').click();const a=await common();if(JSON.stringify(a)!==JSON.stringify(b))throw Error('A/B common options differ');checks.push('A/B共同选项相同，仅B增加本人复核入口');
+await page.locator('[data-rule="B"]').click();await click('detour');await click('feedback');await page.locator('input[value="detour"]').check();await page.locator('#consent').check();await click('apply-feedback');await click('next-choice');if(await page.locator('.choice-list button').first().getAttribute('data-action')!=='detour')throw Error('Preference not reordered');checks.push('先看绕行偏好实际改变下一次选项顺序');
+await click('detour');await click('feedback');await page.locator('input[value="brief"]').check();await page.locator('#consent').check();await click('apply-feedback');await page.locator('summary').click();if(!await page.getByText('基础校准已完成，但这次门口').isVisible())throw Error('Details not expanded');checks.push('简短说明偏好可展开详细原因');
+await page.reload();await click('begin');await click('detour');await click('feedback');await click('no-save');if(!await page.getByText('没有保存，也不会被默认为同意。').isVisible())throw Error('Reload did not clear');checks.push('刷新清空内存偏好');
+await fs.writeFile('tmp/assignment2/web-extra-checks.json',JSON.stringify(checks,null,2));console.log(JSON.stringify({passed:checks.length}));await browser.close();

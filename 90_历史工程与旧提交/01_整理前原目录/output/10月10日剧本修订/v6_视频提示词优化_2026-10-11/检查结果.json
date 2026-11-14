@@ -1,0 +1,13 @@
+{
+  "prompts_updated": 36,
+  "timeline_seconds": 180,
+  "single_character_and_partial_frame_checks": "passed",
+  "markdown_csv_gallery_textareas_copy_data": "all 36 prompts match canonical JSON",
+  "gallery_javascript_syntax": "passed",
+  "unchanged_art_and_source_files": 45,
+  "unchanged_storyboard_images": 36,
+  "zip_crc_and_content": "passed",
+  "zip_files": 53,
+  "staged_zip": "D:\\课\\大四上\\思辨设计\\output\\10月10日剧本修订\\不用麻烦她_v6_完整分镜制作包_提示词更新中.zip",
+  "videos_generated_or_tested": false
+}

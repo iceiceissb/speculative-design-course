@@ -1,0 +1,19 @@
+{
+  "signature": "76498fc9a0412a07b709c7fa9605745520b9141c6da7e5ab6756289f023f6480",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\62.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\62.wav",
+  "id": "62",
+  "title": "春雨里的诊所入口",
+  "kind": "video",
+  "candidate": "a5302a2900be4bdf",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\62\\a5302a2900be4bdf.mp4",
+  "source_start": 0.35,
+  "duration": 3.5833333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019090634-p7x40",
+  "start": 228.5,
+  "end": 232.08333333333334
+}

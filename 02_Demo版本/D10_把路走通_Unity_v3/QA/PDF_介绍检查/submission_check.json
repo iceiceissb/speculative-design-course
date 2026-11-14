@@ -1,0 +1,25 @@
+{
+  "runtimeFiles": 129,
+  "allRuntimeHashesMatch": true,
+  "testedAssemblySHA256": "1EACD8E07DA7B5FCD3E2F2595CB765843DC167FB53905359F18790B8C54AC6B7",
+  "pdfSHA256": "1F051C230EC5B17651EFB98AB0C7C0BA33181FE3ECD024A79D117AF23AED624C",
+  "pdfPages": 4,
+  "pdfScreenshots": 8,
+  "pagesRenderedAndVisuallyChecked": 4,
+  "starterTargetExists": true,
+  "licenseIncluded": true,
+  "excluded": "Development screenshots",
+  "checkedAt": "2026-10-18T22:26:55.7865431+08:00",
+  "pdfBytes": 2637584,
+  "embeddedChineseFonts": {
+    "/AAAAAA+MicrosoftYaHei-0": true,
+    "/AAAAAB+MicrosoftYaHei-0": true,
+    "/AAAAAA+MicrosoftYaHei-Bold-0": true
+  },
+  "archiveCRCValid": true,
+  "archiveRequiredEntriesVerified": true,
+  "archivePDFMatches": true,
+  "archiveAssemblyMatchesTestedBuild": true,
+  "archiveBytes": 33635014,
+  "archiveEntries": 136
+}

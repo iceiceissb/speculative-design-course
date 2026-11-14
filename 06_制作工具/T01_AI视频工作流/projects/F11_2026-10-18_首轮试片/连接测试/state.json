@@ -1,0 +1,60 @@
+{
+  "candidates": [
+    {
+      "id": "398cfd0a50a3440e",
+      "job_id": "T20",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "761eb6af8bd23b6f4c824e94bd1237cb6c35cdeb4ccbd4b0c918b6db51226c14",
+      "variant": 1,
+      "seed": 1317449484,
+      "requested_duration": 4,
+      "created_at": "2026-10-18T22:12:46+08:00",
+      "snapshot": {
+        "job": {
+          "id": "T20",
+          "title": "为自己挑红布",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "20_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持首帧的手工定格人偶、两位老年女性、服装、轮椅和布店陈设。固定机位，单个连续镜头。坐轮椅的邱轻轻抬起手中的红布一角，旁边戴眼镜的徐微笑看着她；布料自然落下，两人的脸和手保持稳定。现场仅有轻微衣料摩擦与室内环境声，无对白、旁白、音乐和字幕。",
+          "dialogue": [],
+          "source_shot": "20",
+          "source_frame": "D:\\课\\大四上\\思辨设计\\03_分镜与角色\\F11_不用麻烦她_v9_视频生成分镜\\frames\\20_首帧.png"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261018221236-wct1r",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/T20/398cfd0a50a3440e.mp4",
+      "thumbnail": "candidates/T20/398cfd0a50a3440e.jpg"
+    }
+  ],
+  "selection": {
+    "T20": "398cfd0a50a3440e"
+  },
+  "created_at": "2026-10-18T22:12:46+08:00",
+  "updated_at": "2026-10-18T22:17:46+08:00"
+}

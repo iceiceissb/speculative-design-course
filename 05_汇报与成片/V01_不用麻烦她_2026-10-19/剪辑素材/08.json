@@ -1,0 +1,19 @@
+{
+  "signature": "fbdbca45168ed71dc4af0c2f7f271c1e25e0cd1dbb4400e01265a6f12d6d9993",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\08.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\08.wav",
+  "id": "08",
+  "title": "猫压着布样",
+  "kind": "video",
+  "candidate": "73f0a734643e4f1c",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\08\\73f0a734643e4f1c.mp4",
+  "source_start": 0.35,
+  "duration": 2.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084055-yjiea",
+  "start": 25.75,
+  "end": 28.458333333333332
+}

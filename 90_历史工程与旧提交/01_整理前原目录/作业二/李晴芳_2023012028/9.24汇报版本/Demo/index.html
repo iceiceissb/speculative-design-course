@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>请等下一班 · 电梯3D交互原型</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="identity"><h1>请等下一班</h1><span>医院电梯里的轮椅协商</span></div>
+    <nav aria-label="页面"><button id="experience-tab" class="nav-button active" aria-current="page">故事体验</button><button id="rules-tab" class="nav-button">规则与来源</button></nav>
+  </header>
+  <main id="experience">
+    <section class="stage-column" aria-label="三维医院电梯厅">
+      <div class="stage-wrap">
+        <canvas id="stage" tabindex="0" aria-label="3D电梯厅。林岚穿青色上衣，另一位乘客穿棕色上衣，两人都坐在智能轮椅上。可使用下方按钮切换视角。"></canvas>
+        <div class="location">门诊楼 <span>1F → 3F</span></div>
+        <div id="actor-labels" aria-hidden="true"></div>
+        <div id="motion-note" class="motion-note" role="status">两位乘客先到，停在门侧等候。</div>
+        <div id="webgl-error" hidden><strong>3D画面未能启动</strong><p>请使用支持WebGL的Edge或Chrome打开本页。</p><button onclick="location.reload()">重新加载</button></div>
+      </div>
+      <div class="scene-toolbar" role="group" aria-label="场景控制">
+        <div class="view-buttons"><button data-view="overview" class="selected" aria-pressed="true">全景</button><button data-view="seated" aria-pressed="false">坐姿视角</button><button data-view="top" aria-pressed="false">俯视</button></div>
+        <button id="pause" disabled>暂停</button>
+      </div>
+      <div class="passenger-status" aria-live="polite">
+        <div><span class="dot lin"></span><strong>林岚</strong><span id="lin-status">仍在等候</span><small id="lin-count">尚未错过</small></div>
+        <div><span class="dot other"></span><strong>另一位乘客</strong><span id="other-status">仍在等候</span><small id="other-count">尚未错过</small></div>
+      </div>
+    </section>
+    <section class="narrative" aria-label="故事与选择">
+      <div id="phase-number" class="phase-number">01 <span>/ 05</span></div>
+      <div id="role" class="role">你正在陪林岚去复诊</div>
+      <h2 id="heading" tabindex="-1">先到的人，没能上去</h2>
+      <div id="description" class="description"></div>
+      <div id="detail"></div>
+      <div id="actions" class="actions"></div>
+      <p id="choice-note" class="choice-note"></p>
+      <ol id="steps" class="steps" aria-label="故事进度"><li class="current">候梯</li><li>申请</li><li>协调</li><li>选择</li><li>结果</li></ol>
+    </section>
+  </main>
+  <section id="rules" class="rules-page" hidden aria-labelledby="rules-heading">
+    <div class="rules-intro"><h2 id="rules-heading">这个安排为什么会发生？</h2><p>设备可以协商，不代表它可以替乘坐者答应。这里展示的是作品设定，不是真实医院的调度系统。</p></div>
+    <div class="rules-columns"><section><h3>故事里的原有规则</h3><ol><li><strong>先处理容易核验的请求。</strong>电子预约能直接进入系统，纸单与口头说明需要人工登记。</li><li><strong>优先联系过去配合过的人。</strong>系统想尽快完成协调，把历史同意当成这次容易成功的依据。</li><li><strong>设备接受，就算协调成功。</strong>乘坐者当下的意愿没有被单独确认。</li><li><strong>只记录谁上去了。</strong>同一个人连续错过几班，没有进入评价。</li></ol></section><section><h3>在原型中能改变什么</h3><ol><li><strong>申请方式：</strong>同意提交预约，或改为口头求助。</li><li><strong>当前意愿：</strong>另一位乘客可以同意、拒绝或暂不回答。</li><li><strong>撤回安排：</strong>拒绝后取消退出，不另找一个容易答应的人。</li><li><strong>偏好范围：</strong>体验自动沿用的后果，也能改为每次先问。</li></ol></section></div>
+    <section class="source-section"><h3>研究依据与现实范围</h3><div class="source-list">
+      <a href="https://web.eecs.umich.edu/~kuipers/research/pubs/Johnson-aies-18.html" target="_blank" rel="noopener"><strong>Johnson &amp; Kuipers · 2018</strong><span>智能轮椅通过观察学习社会通行规范。</span><em>原始研究 ↗</em></a>
+      <a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full" target="_blank" rel="noopener"><strong>Hurtado 等 · 2021</strong><span>社会导航中的模仿、偏差与重新学习。</span><em>原始研究 ↗</em></a>
+      <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf" target="_blank" rel="noopener"><strong>NIST SP 1270 · 2022</strong><span>算法偏差也涉及组织流程和人的判断。</span><em>研究报告 ↗</em></a>
+      <a href="https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/byoin/2023/ymchkouhou20240315.html" target="_blank" rel="noopener"><strong>横滨市民医院 · 2024</strong><span>特定医院导入自主移动服务的公告，不能推定所有医院均允许。</span><em>机构公告 ↗</em></a>
+      <a href="https://pubmed.ncbi.nlm.nih.gov/42400404/" target="_blank" rel="noopener"><strong>美国门诊自主轮椅试点 · 2026</strong><span>机构批准、预设路线的载人试点；不是任意自主模式的许可。</span><em>原始研究 ↗</em></a>
+    </div></section>
+    <div class="boundary"><h3>实际实现到哪一步</h3><p>已实现本地3D场景、人物与轮椅动画、可分支选择、暂停、撤回及本页内的偏好演示。动作、等待班次和反馈都由预先编写的规则驱动，没有接入医院、真实轮椅、实时AI或训练模型。这里没有医学优先级判断，也不按衣着推断身份。</p><p>院内使用和法规资料沿用2026年9月23日汇报核查；完整五国调研见配套PDF第12—14页。人物、设备协商与跨次偏好调用为设计虚构。界面参考图由AI生成，运行画面由Three.js实时绘制，代码与文案由AI辅助制作。</p></div>
+    <button id="return-experience" class="primary">返回故事</button>
+  </section>
+  <footer><span>设计虚构 · 3D交互演示 <span class="footer-extra"> · 选择只保留在本页</span></span><button id="restart">重新开始</button></footer>
+  <script src="three.min.js"></script><script src="stage.js"></script><script src="app.js"></script>
+</body>
+</html>

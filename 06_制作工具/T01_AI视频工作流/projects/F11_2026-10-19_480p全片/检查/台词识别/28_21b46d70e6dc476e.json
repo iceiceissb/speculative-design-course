@@ -1,0 +1,64 @@
+{
+  "shot": "28",
+  "candidate": "21b46d70e6dc476e",
+  "expected": [
+    {
+      "id": "L15",
+      "speaker": "秀秀",
+      "text": "刚才进店时发的。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 2.12,
+      "text": "刚才进电视发的。",
+      "avg_logprob": -0.5026182261380282,
+      "words": [
+        {
+          "start": 0.56,
+          "end": 0.98,
+          "word": "刚",
+          "probability": 0.17140182852745056
+        },
+        {
+          "start": 0.98,
+          "end": 1.16,
+          "word": "才",
+          "probability": 0.992313802242279
+        },
+        {
+          "start": 1.16,
+          "end": 1.3,
+          "word": "进",
+          "probability": 0.8825452923774719
+        },
+        {
+          "start": 1.3,
+          "end": 1.5,
+          "word": "电",
+          "probability": 0.9741097092628479
+        },
+        {
+          "start": 1.5,
+          "end": 1.68,
+          "word": "视",
+          "probability": 0.9812434315681458
+        },
+        {
+          "start": 1.68,
+          "end": 1.9,
+          "word": "发",
+          "probability": 0.9797778129577637
+        },
+        {
+          "start": 1.9,
+          "end": 2.12,
+          "word": "的。",
+          "probability": 0.9814434051513672
+        }
+      ]
+    }
+  ]
+}

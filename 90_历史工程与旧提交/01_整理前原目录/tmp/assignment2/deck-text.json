@@ -1,0 +1,26 @@
+{
+  "recordCount": 203,
+  "truncated": false,
+  "metadata": {
+    "revision": "kwnig1",
+    "target": {
+      "id": "pr/wylfye"
+    },
+    "kind": {
+      "requested": "slide,textbox,table,notes",
+      "tokens": [
+        "slide",
+        "textbox",
+        "table",
+        "notes"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-19T17:47:19+08:00",
+  "checks": [
+    {
+      "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\不用麻烦她_1080p_字幕版.mp4",
+      "full_decode_passed": true,
+      "bytes": 211346777,
+      "error": ""
+    },
+    {
+      "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\不用麻烦她_1080p_无字幕.mp4",
+      "full_decode_passed": true,
+      "bytes": 177646655,
+      "error": ""
+    },
+    {
+      "native_draft_registered": true,
+      "draft": "不用麻烦她_V02_动作声音精修_1019_174337",
+      "native_playback_verified": false
+    }
+  ],
+  "revision_cost": 13.5307,
+  "ui_regeneration_charge": 0,
+  "source_frames_builtin_image_tool": true
+}

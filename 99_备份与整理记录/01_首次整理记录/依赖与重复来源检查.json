@@ -1,0 +1,276 @@
+{
+  "checked_local_links": 177,
+  "missing_local_dependencies": [],
+  "duplicate_demo_sources": [
+    {
+      "id": "D02",
+      "source": "作业二/作业二_轮椅机器人_完整提交包_v1.1.zip",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D03",
+      "source": "作业二/请别替我让路_作业二提交包.zip",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D04",
+      "source": "作业二/李晴芳_2023012028/9.24汇报版本/Demo",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D04",
+      "source": "作业二/下一次汇报_剧本与规则/第四版_汇报提交/请等下一班_电梯3D原型.zip",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D04",
+      "source": "作业二/李晴芳_2023012028.zip",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D05",
+      "source": "作业二/李晴芳_2023012028/新版（故事不是最终版）/Demo",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D05",
+      "source": "作业二/下一次汇报_剧本与规则/第五版_会协商的医院_完整提交.zip",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D05",
+      "source": "作业二/李晴芳_2023012028.zip",
+      "runtime_code_identical": true
+    },
+    {
+      "id": "D07",
+      "source": "output/最终作业_不用麻烦她_3D交互原型_2026-10-08_修订.zip",
+      "runtime_code_identical": true
+    }
+  ],
+  "byte_identical_script_sources": [
+    {
+      "id": "S01",
+      "identical_disk_sources": [],
+      "zip_member": "提交_这一次轮椅该听谁的/研究与过程/分镜脚本与课堂记录.md"
+    },
+    {
+      "id": "S02",
+      "identical_disk_sources": [
+        "作业二/提交_这一次轮椅该听谁的/研究与过程/分镜脚本与课堂记录.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S03",
+      "identical_disk_sources": [
+        "作业二/请别替我让路_内容稿/01_PPT叙事内容.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S04",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/01_作品调研与剧本v1_请别替我退场.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S05",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/02_作品调研与剧本v2_请别替我让路.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S06",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/04_作品调研与剧本v3_总有人会让.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S07",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/05_总有人会让_v3.1_林岚版完整剧本与规则及文字分镜.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S08",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/06_总有人会让_v3.2_电梯与制度版完整剧本及文字分镜.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S09",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/07_总有人会让_v3.3_人格互补与反转版完整剧本及文字分镜.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S10",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/08_总有人会让_v4_医院电梯_完整剧本与故事板.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S11",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/09_请等下一班_v4.1_完整剧本与法规修订.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S12",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/第五版_会协商的医院/作品剧本与交互分支.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S13",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/第六版_导演讨论稿/请等下一班_v6_电影短片剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S14",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_完整剧情与剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S15",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_v2_三分钟完整剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S16",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_v3_三分钟完整剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S17",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_v4_候梯厅重构稿.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S18",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_v5_时间寓言版完整剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S19",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_v6_电影叙事版.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S20",
+      "identical_disk_sources": [
+        "作业二/下一次汇报_剧本与规则/请不要让我永远第一个/请不要让我永远第一个_v7_积分版完整剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S21",
+      "identical_disk_sources": [
+        "output/pdf/请不要让我永远第一个_图文剧本/请不要让我永远第一个_v7.1_完整剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S22",
+      "identical_disk_sources": [
+        "output/pdf/请不要让我永远第一个_横版汇报/完整剧本_纯文字.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S23",
+      "identical_disk_sources": [
+        "output/10月8日汇报_剧本重构/02_请不要让我永远第一个_v8_完整剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S24",
+      "identical_disk_sources": [
+        "output/10月8日汇报_剧本重构/04_v9戏剧性重构提案_被学习的例外.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S25",
+      "identical_disk_sources": [
+        "output/10月8日汇报_剧本重构/05_不用麻烦她_剧本梗概.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S26",
+      "identical_disk_sources": [
+        "output/pdf/不用麻烦她_完整分镜审阅版/分镜剧本文字.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S27",
+      "identical_disk_sources": [
+        "output/10月8日汇报_剧本重构/06_不用麻烦她_三分钟修订剧本.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S28",
+      "identical_disk_sources": [
+        "output/10月8日汇报_剧本重构/07_不用麻烦她_三分钟修订剧本_v2.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S29",
+      "identical_disk_sources": [
+        "output/10月10日剧本修订/不用麻烦她_三分钟导演修订稿_v3.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S30",
+      "identical_disk_sources": [
+        "output/10月10日剧本修订/不用麻烦她_三分钟冲突加强稿_v4.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S31",
+      "identical_disk_sources": [
+        "output/10月10日剧本修订/不用麻烦她_轻喜剧重构稿_v5.md"
+      ],
+      "zip_member": null
+    },
+    {
+      "id": "S32",
+      "identical_disk_sources": [
+        "output/10月10日剧本修订/不用麻烦她_思辨喜剧重构稿_v6.md",
+        "output/10月10日剧本修订/v6_完整分镜/剧本_v6.md"
+      ],
+      "zip_member": null
+    }
+  ]
+}

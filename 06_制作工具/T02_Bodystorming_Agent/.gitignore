@@ -1,0 +1,8 @@
+node_modules/
+data/
+__pycache__/
+.env
+*.log
+qa/
+.npm-cache/
+.browser-cache/

@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-18",
+  "provider": "Higgsfield connected cost preflight",
+  "model": "seedance_2_5",
+  "mode": "t2v",
+  "aspect_ratio": "16:9",
+  "generate_audio": true,
+  "count": 1,
+  "reference_video_seconds": 0,
+  "no_jobs_submitted": true,
+  "samples": [
+    {
+      "duration": 4,
+      "resolution": "720p",
+      "credits": 28
+    },
+    {
+      "duration": 8,
+      "resolution": "480p",
+      "credits": 24
+    },
+    {
+      "duration": 8,
+      "resolution": "720p",
+      "credits": 56
+    },
+    {
+      "duration": 8,
+      "resolution": "1080p",
+      "credits": 128
+    },
+    {
+      "duration": 12,
+      "resolution": "720p",
+      "credits": 84
+    }
+  ],
+  "extrapolation": {
+    "credits_per_second_720": 7,
+    "first_pass_source_seconds": 392,
+    "first_pass_credits": 2744,
+    "priority_seconds": 39,
+    "priority_credits": 273
+  },
+  "api_estimate": {
+    "provider": "火山方舟",
+    "model": "doubao-seedance-2-5-260628",
+    "width": 1280,
+    "height": 720,
+    "fps": 24,
+    "input_video_seconds": 0,
+    "rmb_per_1000_tokens": 0.07,
+    "first_pass_tokens": 8467200,
+    "first_pass_rmb": 592.704,
+    "priority_rmb": 58.968,
+    "actual_billing": "以API返回usage和最终账单为准"
+  },
+  "source_urls": [
+    "https://docs.volcengine.com/docs/ark/model-pricing?lang=en&redirect=1",
+    "https://docs.volcengine.com/docs/ark/seedance-2-0-model-resource-pack-rules?lang=zh"
+  ],
+  "not_included": [
+    "图片与首尾帧",
+    "声音",
+    "输入视频计费及最低token限制",
+    "重抽、修片、升格",
+    "税费及支付渠道费用"
+  ]
+}

@@ -1,0 +1,23 @@
+﻿主库编号,候选名称,进入途径,筛选结果,排除代码,决定理由,对应案例,来源链接
+RC007,KnowNo / Robots That Ask For Help,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W05,https://robot-help.github.io/
+RC008,CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W06,https://clararobot.github.io/
+RC010,Knowledge- and ambiguity-aware robot learning from corrective and evaluative feedback / ICREATe,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W10,https://pmc.ncbi.nlm.nih.gov/articles/PMC10338625/
+RC036,Robot Broken Promise? Repair strategies for mitigating loss of trust for repeated failures,既有库目的性选种,评估后排除,E2 仅人的评价,信任修复研究讨论人的评价；本次聚焦实际控制和纠正机制。,,https://www.pure.ed.ac.uk/ws/portalfiles/portal/397671678/Robot_Broken_NESSET_DOA26052023_AFV_CC_BY.pdf
+RC060,What should a robot disclose about me? A study about privacy-appropriate behaviors for social robots,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W09,https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1236733/full
+RC086,Moxie现行支持页,既有库目的性选种,评估后排除,E2 事件偏离,停服与数据迁移是背景事件；缺乏本次轮椅行动协商机制。,,https://moxierobots.com/contact
+RC089,AIBO葬礼,既有库目的性选种,评估后排除,E2 事件偏离,维修与仪式主要是人的实践，不是机器人可观察的修养行为。,,https://cir.nii.ac.jp/crid/1360004235292688000
+RC095,Vector清除用户数据,既有库目的性选种,评估后排除,E2 操作偏离,重置操作可说明删除机制，但不提供本次行动协商与修正行为。,,https://support.anki.bot/article/384-performing-a-clear-user-data-reset
+RC101,自传体记忆与机器人自我,既有库目的性选种,初筛排除,E1 理论或综述,自传体记忆理论与综述；可作概念背景，不计核心行为案例。,,https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2017.00027/full
+RC106,增量式交互记忆,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W11,https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2024.1455375/full
+RC154,Corrective Shared Autonomy,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W12,https://pmc.ncbi.nlm.nih.gov/articles/PMC8050957/
+RC166,"Navigating Autonomy, Privacy, and Ageism in Robot Home Care With Aged Users: ROB-IN",既有库目的性选种,初筛排除,E1 理论或综述,伦理分析用于尊严与自主背景；本轮不作为可提取反馈闭环的核心案例。,,https://pmc.ncbi.nlm.nih.gov/articles/PMC12053780/
+RC187,From Learning to Relearning: A Framework for Diminishing Bias in Social Robot Navigation,既有库目的性选种,初筛排除,E1 理论或综述,重新学习框架，不是本次所需的已验证具体行为案例。,,https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2021.650325/full
+RC232,HuggieBot 3.0 and the Six Hug Commandments,既有库目的性选种,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W08,https://is.mpg.de/hi/publications/block21-hri-commandments
+RC261,LUCI：可覆盖的轮椅辅助与使用者控制,本轮补充检索,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W07,https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf
+RC262,CoNav Chair: Development and Evaluation of a Shared Control-based Wheelchair for the Built Environment,本轮补充检索,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W01,https://arxiv.org/abs/2507.11716
+RC263,NavChair: Adaptive Shared Control for an Intelligent Power Wheelchair,本轮补充检索,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W02,https://cdn.aaai.org/AAAI/1996/AAAI96-222.pdf
+RC264,Shirley Ryan AbilityLab Smart Wheelchair,本轮补充检索,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W03,https://www.sralab.org/research/projects/smart-wheelchair
+RC265,WHILL Autonomous Service,本轮补充检索,纳入,I 核心案例,具有可比较的具体行为，来源可核查；证据限制另列。,W04,https://whill.inc/au/mobility-service/how-it-works/autonomous-drive
+RC266,Low cost sensor network for obstacle avoidance in share-controlled smart wheelchairs under daily scenarios,本轮补充检索,未取得足够原文,U 来源不足,检索摘要可见，原文获取失败；无法核对完整方法与反馈。,,https://www.sciencedirect.com/science/article/abs/pii/S0026271418301082
+RC267,Blending User Intent and Obstacle Avoidance Through Artificial Potential Fields: An Experimental Validation on Smart Walker,本轮补充检索,未取得足够原文,U 来源不足,机构记录打开失败；仅摘要不足以核对具体过程。,,https://www.iris.unict.it/handle/20.500.11769/729611
+RC268,"Ethics at the Intersection of Intelligent Assistive Technology, Ageing, and the Home Environment: A Scoping Review",本轮补充检索,初筛排除,E1 理论或综述,智能辅具伦理范围综述，列背景而非重复计入原始案例。,,https://link.springer.com/article/10.1007/s11673-025-10479-8

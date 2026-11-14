@@ -1,0 +1,75 @@
+{
+  "shot": "68",
+  "candidate": "87fcb647647f4ee6",
+  "expected": [
+    {
+      "id": "L28",
+      "speaker": "邱",
+      "text": "今天不用接孩子？"
+    },
+    {
+      "id": "L29",
+      "speaker": "徐",
+      "text": "今天他爸接。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 2.16,
+      "end": 5.6,
+      "text": "今天不用接孩子,今天他爸接。",
+      "avg_logprob": -0.47452392944922817,
+      "words": [
+        {
+          "start": 2.16,
+          "end": 2.8,
+          "word": "今天",
+          "probability": 0.9427655339241028
+        },
+        {
+          "start": 2.8,
+          "end": 3.12,
+          "word": "不用",
+          "probability": 0.9925068020820618
+        },
+        {
+          "start": 3.12,
+          "end": 3.4,
+          "word": "接",
+          "probability": 0.8505013585090637
+        },
+        {
+          "start": 3.4,
+          "end": 3.8,
+          "word": "孩子,",
+          "probability": 0.9977855682373047
+        },
+        {
+          "start": 4.06,
+          "end": 4.76,
+          "word": "今天",
+          "probability": 0.8734633326530457
+        },
+        {
+          "start": 4.76,
+          "end": 5.0,
+          "word": "他",
+          "probability": 0.5057772397994995
+        },
+        {
+          "start": 5.0,
+          "end": 5.28,
+          "word": "爸",
+          "probability": 0.9095534086227417
+        },
+        {
+          "start": 5.28,
+          "end": 5.6,
+          "word": "接。",
+          "probability": 0.9959995746612549
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+const fs = require('node:fs');
+const path = require('node:path');
+const assert = require('node:assert/strict');
+const out = path.resolve(__dirname, '../../output/AI视频工作流');
+const sleep = ms=>new Promise(r=>setTimeout(r,ms));
+(async()=>{
+  let targets;
+  for(let i=0;i<20;i++){try{targets=await fetch('http://127.0.0.1:9226/json').then(r=>r.json());break}catch{await sleep(300)}}
+  const target=targets.find(x=>x.type==='page');assert(target);
+  const ws=new WebSocket(target.webSocketDebuggerUrl);await new Promise((r,j)=>{ws.addEventListener('open',r,{once:true});ws.addEventListener('error',j,{once:true})});
+  let id=0;const pending=new Map(),errors=[];
+  ws.addEventListener('message',event=>{const data=JSON.parse(event.data);if(data.id){const entry=pending.get(data.id);pending.delete(data.id);data.error?entry.reject(data.error):entry.resolve(data.result)}else if(data.method==='Runtime.exceptionThrown')errors.push(data.params.exceptionDetails.text)});
+  const call=(method,params={})=>new Promise((resolve,reject)=>{const n=++id;pending.set(n,{resolve,reject});ws.send(JSON.stringify({id:n,method,params}))});
+  const evaluate=async expression=>{const result=await call('Runtime.evaluate',{expression,awaitPromise:true,returnByValue:true});if(result.exceptionDetails)throw Error(JSON.stringify(result.exceptionDetails));return result.result.value};
+  const wait=async expression=>{for(let i=0;i<60;i++){if(await evaluate(expression))return;await sleep(200)}throw Error('Timed out: '+expression)};
+  await call('Page.enable');await call('Runtime.enable');
+  await call('Emulation.setDeviceMetricsOverride',{width:1440,height:1080,deviceScaleFactor:1,mobile:false});
+  await call('Page.navigate',{url:'http://127.0.0.1:8765'});
+  await wait("document.querySelectorAll('.job').length===4");
+  assert.equal(await evaluate("document.querySelector('#generate').disabled"),true);
+  assert.equal(await evaluate("document.querySelectorAll('.candidate').length>=4"),true);
+  assert.equal(await evaluate("document.querySelector('#selected-count').textContent"),'4 / 4 个任务已选');
+  assert.equal(await evaluate("document.documentElement.scrollWidth<=innerWidth"),true);
+  const ids=await evaluate("state.candidates.filter(c=>c.job_id==='35').map(c=>c.id)");
+  const originallySelected=await evaluate("state.selection['35']");
+  if(ids.length>1){
+    const other=ids.find(x=>x!==originallySelected);
+    await evaluate(`document.querySelector('button.pick[data-id="${other}"]').click()`);
+    await wait(`state.selection['35']==='${other}'`);
+    await evaluate(`document.querySelector('button.pick[data-id="${originallySelected}"]').click()`);
+    await wait(`state.selection['35']==='${originallySelected}'`);
+  }else{
+    await evaluate("document.querySelector('button.pick[data-job=\"35\"]').click()");
+    await sleep(500);
+  }
+  await evaluate("document.querySelector('#plan').click()");
+  await wait("document.querySelector('#plan-dialog').open");
+  assert((await evaluate("document.querySelector('#plan-content').textContent")).includes('25 秒'));
+  assert.equal(await evaluate("document.querySelector('#execute-plan').disabled"),true);
+  await evaluate("document.querySelector('#close-dialog').click()");
+  const snap=await call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});
+  fs.writeFileSync(path.join(out,'reports/选片台_桌面.png'),Buffer.from(snap.data,'base64'));
+  await evaluate("document.querySelector('[data-view=timeline]').click()");
+  const oldDuration=await evaluate("state.project.timeline.find(x=>x.id==='22').duration");
+  await evaluate("document.querySelector('tr[data-timeline=\"22\"] input.duration').value='2.9';document.querySelector('button.save-time[data-id=\"22\"]').click()");
+  await wait("state.project.timeline.find(x=>x.id==='22').duration===2.9");
+  await evaluate(`document.querySelector('tr[data-timeline="22"] input.duration').value='${oldDuration}';document.querySelector('button.save-time[data-id="22"]').click()`);
+  await wait(`state.project.timeline.find(x=>x.id==='22').duration===${oldDuration}`);
+  const oldExport=await evaluate('state.exports.folder');
+  await evaluate("document.querySelector('#assemble').click()");
+  await wait(`!state.operation.running&&state.exports.folder!==${JSON.stringify(oldExport)}`);
+  await wait("document.querySelector('#result video')?.readyState>=1");
+  const videoInfo=await evaluate("({duration:document.querySelector('#result video').duration,width:document.querySelector('#result video').videoWidth,height:document.querySelector('#result video').videoHeight})");
+  assert(Math.abs(videoInfo.duration-20)<.15);assert.equal(videoInfo.width,1280);assert.equal(videoInfo.height,720);
+  await evaluate("document.querySelector('#result video').muted=true;document.querySelector('#result video').play()");
+  await wait("document.querySelector('#result video').currentTime>.2");
+  await evaluate("document.querySelector('#result video').pause()");
+  const protectedCheck=await evaluate("Promise.all([fetch('/.env').then(r=>r.status),fetch('/api/select',{method:'POST',headers:{'Content-Type':'application/json'},body:'{}'}).then(r=>r.status),fetch('/'+state.exports.mp4,{headers:{Range:'bytes=0-99'}}).then(async r=>({status:r.status,length:(await r.arrayBuffer()).byteLength}))])");
+  assert.deepEqual(protectedCheck,[404,403,{status:206,length:100}]);
+  const second=await call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});
+  fs.writeFileSync(path.join(out,'reports/选片台_时间线.png'),Buffer.from(second.data,'base64'));
+  await evaluate("document.querySelector('[data-view=shots]').click()");
+  await call('Emulation.setDeviceMetricsOverride',{width:390,height:844,deviceScaleFactor:1,mobile:true});
+  assert.equal(await evaluate("document.documentElement.scrollWidth<=innerWidth"),true);
+  const mobile=await call('Page.captureScreenshot',{format:'png',captureBeyondViewport:false});
+  fs.writeFileSync(path.join(out,'reports/选片台_手机.png'),Buffer.from(mobile.data,'base64'));
+  assert.deepEqual(errors,[]);
+  const report={passed:true,video:videoInfo,candidates:await evaluate('state.candidates.length'),
+    tests:['镜头加载','无Key禁用生成','选择保存','生成计划','切点保存与恢复','页面粗剪输出','MP4解码播放','Range拖动支持','凭据文件不可访问','POST来源校验','桌面与手机布局'],browser_errors:errors};
+  fs.writeFileSync(path.join(out,'reports/browser-check.json'),JSON.stringify(report,null,2));
+  console.log(JSON.stringify(report));await call('Browser.close');ws.close();
+})().catch(e=>{console.error(e);process.exitCode=1});

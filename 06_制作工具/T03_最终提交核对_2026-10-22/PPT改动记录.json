@@ -1,0 +1,110 @@
+{
+  "engine": "@oai/artifact-tool file workflow; live module import rejected node:process",
+  "slides": 21,
+  "output": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T03_最终提交核对_2026-10-22\\不用麻烦她_最终结课汇报_修订.pptx",
+  "changes": [
+    {
+      "slide": 10,
+      "before": "4分32秒",
+      "after": "4分37秒"
+    },
+    {
+      "slide": 12,
+      "before": "以 S35 v9 的可见动作作为判断依据",
+      "after": "按当前V02影片中的可见动作核对"
+    },
+    {
+      "slide": 19,
+      "before": "下一步：使用者参与测试，\n把“错标—纠正—复测”\n补成可操作的交互分支。",
+      "after": "下一步：邀请真实使用者试玩，\n检验拒绝与反馈是否清楚，\n再扩展错标和复测交互。"
+    },
+    {
+      "slide": 21,
+      "before": "4分32秒",
+      "after": "4分37秒"
+    },
+    {
+      "slide": 21,
+      "before": "V01成片",
+      "after": "V02成片"
+    },
+    {
+      "slide": 12,
+      "row": 1,
+      "col": 1,
+      "text": "共享记录时点按允许；\n报修前问“要报吗？”"
+    },
+    {
+      "slide": 12,
+      "row": 1,
+      "col": 2,
+      "text": "涉及新的提交，先取得确认。"
+    },
+    {
+      "slide": 17,
+      "row": 0,
+      "col": 2,
+      "text": "实际实现"
+    },
+    {
+      "slide": 17,
+      "row": 0,
+      "col": 3,
+      "text": "脚本模拟与边界"
+    },
+    {
+      "slide": 17,
+      "row": 1,
+      "col": 3,
+      "text": "障碍由场景预设；\n没有实物感知验证。"
+    },
+    {
+      "slide": 17,
+      "row": 2,
+      "col": 2,
+      "text": "确认后进入待处理；\n拒绝后继续行程。"
+    },
+    {
+      "slide": 17,
+      "row": 2,
+      "col": 3,
+      "text": "办完任务后触发修复；\n没有真实政务接口。"
+    },
+    {
+      "slide": 17,
+      "row": 3,
+      "col": 0,
+      "text": "反馈后的变化"
+    },
+    {
+      "slide": 17,
+      "row": 3,
+      "col": 2,
+      "text": "返程看道路变化；\n保存照片与地点状态。"
+    },
+    {
+      "slide": 17,
+      "row": 3,
+      "col": 3,
+      "text": "固定规则更新状态；\n没有模型自主学习。"
+    },
+    {
+      "slide": 18,
+      "row": 2,
+      "col": 1,
+      "text": "ImageGen；Seedance 2.5 API\n生成参考图及逐镜视频。"
+    },
+    {
+      "slide": 18,
+      "row": 3,
+      "col": 1,
+      "text": "剪映Skill；FFmpeg\nReal-ESRGAN；本地语音识别。"
+    },
+    {
+      "slide": 18,
+      "row": 3,
+      "col": 2,
+      "text": "提出节奏、声音与片尾要求；\n审阅后决定重生成和剪辑调整。"
+    }
+  ]
+}

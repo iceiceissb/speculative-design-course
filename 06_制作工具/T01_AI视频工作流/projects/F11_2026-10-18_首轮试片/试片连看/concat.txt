@@ -1,0 +1,5 @@
+file 'D:/课/大四上/思辨设计/06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/五镜试片/candidates/15/0e784c9040d4475f.mp4'
+file 'D:/课/大四上/思辨设计/06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/五镜试片/candidates/16/dcc4c4364ad748a8.mp4'
+file 'D:/课/大四上/思辨设计/06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/五镜试片/candidates/20/2b2fc0bc56c84859.mp4'
+file 'D:/课/大四上/思辨设计/06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/五镜试片/candidates/21/7b34396df4104374.mp4'
+file 'D:/课/大四上/思辨设计/06_制作工具/T01_AI视频工作流/projects/F11_2026-10-18_首轮试片/五镜试片/candidates/53/f2672c599a0f4339.mp4'

@@ -1,0 +1,18 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,43,&H00F2F5F4,&H000000FF,&H00202521,&H60000000,0,0,0,0,100,100,1,0,1,1.7,0.7,2,105,105,60,1
+Style: Time,Microsoft YaHei,35,&H00F3F0E5,&H000000FF,&H00343B31,&H60000000,0,0,0,0,100,100,2,0,1,1,0.5,7,100,100,90,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:42.86,0:00:44.40,Time,,0,0,0,,几天后
+Dialogue: 1,0:02:40.52,0:02:42.88,Time,,0,0,0,,数周后
+Dialogue: 1,0:02:58.48,0:03:00.02,Time,,0,0,0,,此后数月
+Dialogue: 1,0:03:23.98,0:03:24.73,Time,,0,0,0,,几天后
+Dialogue: 1,0:04:01.23,0:04:03.58,Time,,0,0,0,,两年后的春天

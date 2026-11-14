@@ -1,0 +1,19 @@
+{
+  "signature": "122fd283862c6517632946578302d2204bd59e6beb8abca7a1438884eb7ef6ab",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\47.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\47.wav",
+  "id": "47",
+  "title": "柱脚拆开重新定位",
+  "kind": "video",
+  "candidate": "13082a2b938d493c",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\47\\13082a2b938d493c.mp4",
+  "source_start": 0.35,
+  "duration": 1.7916666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085512-eldwa",
+  "start": 179.625,
+  "end": 181.41666666666666
+}

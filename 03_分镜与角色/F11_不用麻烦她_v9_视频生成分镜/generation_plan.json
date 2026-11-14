@@ -1,0 +1,1943 @@
+{
+  "schema_version": 1,
+  "archive": "F11",
+  "source_storyboard": "storyboard.json",
+  "ready_for_generation": false,
+  "spending_authorized": false,
+  "default_candidates": 1,
+  "default_preview_resolution": "720p",
+  "aspect_ratio": "16:9",
+  "delivery_fps": 24,
+  "priority_shots": [
+    "15",
+    "16",
+    "20",
+    "21",
+    "53"
+  ],
+  "stats": {
+    "shots": 72,
+    "edit_seconds": 294,
+    "video_jobs": 61,
+    "post_shots": 11,
+    "first_pass_source_seconds": 392,
+    "priority_jobs": [
+      "15",
+      "16",
+      "20",
+      "21",
+      "53"
+    ],
+    "priority_seconds": 39
+  },
+  "note": "72镜分镜图片已生成并关联，仍待审阅与场景/机构锁定；未提交视频任务。导入T01前需适配，不直接替换旧project.json。",
+  "jobs": [
+    {
+      "id": "01",
+      "title": "裂扣与舞裙",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q0",
+        "R_ENV_ST0"
+      ],
+      "first_frame_placeholder": "frames/01_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。\n场景：街道旁去布店的路，日间自然光，低层沿街店铺。\n机位：坐姿高度近景，固定。\n开始：邱膝上放着领口缺扣的蓝灰舞裙，指间拿着裂开的金边旧扣。\n动作：邱把旧扣贴到裙领边比颜色，软尺露在布袋口。\n结束：旧扣停在空扣位旁。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/01_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/01_首帧.png"
+    },
+    {
+      "id": "02",
+      "title": "手轮挡在柱外",
+      "duration": 8,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W0",
+        "R_ENV_G0"
+      ],
+      "first_frame_placeholder": "frames/02_首帧_v2.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：西街旧柱口，两根阻车柱位置固定，侧边另有绕行小路；各次拍摄保留同一地面纹理和背景店面。\n机位：正面偏侧中全景，轮椅脚踏与柱脚同时可见。\n开始：手动轮椅朝画面右侧停在柱前，徐站在推把后。\n动作：邱向前滚动手轮，轮椅外侧轮圈碰到柱子后停住；徐走到前面查看间隙。\n结束：两个人停在柱口外，轮椅外廓与柱距清晰。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：手轮与柱子发生接触后停下；邱、徐和推把的位置连续。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/02_首帧_v2.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/02_首帧.png"
+    },
+    {
+      "id": "03",
+      "title": "绕向旁路",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W0",
+        "R_ENV_G0"
+      ],
+      "first_frame_placeholder": "frames/03_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：西街旧柱口，两根阻车柱位置固定，侧边另有绕行小路；各次拍摄保留同一地面纹理和背景店面。\n机位：同侧全景，轻跟拍。\n开始：两人已经退回柱前，轮椅朝旁路转向。\n动作：徐指向旁路，邱转动手轮掉头，徐跟着走。\n结束：柱口留在身后，两人从画面右侧离开。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/03_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/03_首帧.png"
+    },
+    {
+      "id": "04",
+      "title": "台阶旁的陡坡",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W0",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/04_首帧_v3.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：侧面全景，慢摇显示两级台阶与旁侧陡坡。\n开始：邱停在布店门下，徐站在陡坡底端。\n动作：徐蹲下摸一下坡面，回头看邱；邱看着坡面说台词。\n结束：邱留在平地，徐起身。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“太陡了，算了。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L01",
+          "speaker": "邱",
+          "text": "太陡了，算了。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/04_首帧_v3.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/04_首帧.png"
+    },
+    {
+      "id": "05",
+      "title": "店外挑扣子",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_OWNER",
+        "R_W0",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/05_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_OWNER",
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：门外双人中近景，固定。\n开始：店主把小盒扣子端到邱膝前。\n动作：店主问话；邱挑起一颗贴着裙领比一比，摇头，抬眼看店内扣架。\n结束：她的目光停在店里的整排扣子上。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：店主：“这几个行吗？”；邱：“里面那排，还有别的吗？”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L02",
+          "speaker": "店主",
+          "text": "这几个行吗？"
+        },
+        {
+          "id": "L03",
+          "speaker": "邱",
+          "text": "里面那排，还有别的吗？"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/05_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/05_首帧.png"
+    },
+    {
+      "id": "06",
+      "title": "接孩子的提醒",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W0",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/06_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：两人中景，固定，手机在徐胸前。\n开始：徐站在邱身侧，手刚伸向店门。\n动作：提醒声响起，徐拿出手机看时间；邱看见后说台词。\n结束：徐收好手机，低头看邱。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“你先去接孩子。我再看看。”。\n现场音：手机提醒、布料摩擦、街道环境声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L04",
+          "speaker": "邱",
+          "text": "你先去接孩子。我再看看。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/06_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/06_首帧.png"
+    },
+    {
+      "id": "07",
+      "title": "徐先离开",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W0",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/07_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_X"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：邱坐姿高度中景，徐从近处走远。\n开始：徐站在邱旁边，店门与扣架在画面后方。\n动作：徐说完台词离开；邱点头，转回身看橱窗。\n结束：邱独自停在店门外。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：徐：“到家给我发个消息。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L05",
+          "speaker": "徐",
+          "text": "到家给我发个消息。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/07_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/07_首帧.png"
+    },
+    {
+      "id": "08",
+      "title": "猫压着布样",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q0",
+        "R_CAT",
+        "R_ENV_HOME"
+      ],
+      "first_frame_placeholder": "frames/08_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；邱家的猫：同一只成年橘白猫，白胸、白前爪，体形与毛色固定。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n机位：桌边近景，固定。\n开始：舞裙铺在桌边，猫前爪压着布样，邱的手扶着布角。\n动作：邱往外抽布，猫把爪子压紧，邱停手看它。\n结束：布样一角仍在猫爪下。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/08_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/08_首帧.png"
+    },
+    {
+      "id": "09",
+      "title": "电视里的产品演示",
+      "duration": 10,
+      "edit_seconds": 8,
+      "reference_ids": [
+        "R_DEMO",
+        "R_W1",
+        "R_ENV_AD"
+      ],
+      "first_frame_placeholder": "frames/09_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：广告演示乘坐者：只出镜肩部以下的匿名成年演示乘坐者，穿中性浅灰衣裤，双脚放在演示轮椅脚踏上。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：电视产品演示用的浅灰棚景与两级演示台阶，干净简洁，按秀秀同一确认结构演示。\n机位：干净棚景侧面产品全景，固定。\n开始：匿名演示乘坐者坐在秀秀上，脸部在画外，轮椅停在两级演示台阶前。\n动作：越阶轮组轮流支撑，座面平稳升上两级台阶；最后停稳。\n结束：轮椅停在上方平台，整机轮廓完整。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：广告声由同一条后期音轨录入，产品演示保留轻电机声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [
+        {
+          "id": "L06",
+          "speaker": "广告声",
+          "text": "秀秀智能轮椅，新品上市。过台阶，走窄路，一个人也能轻松出门。"
+        }
+      ],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/09_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/09_首帧.png"
+    },
+    {
+      "id": "10",
+      "title": "调大电视声音",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_Q0",
+        "R_ENV_HOME"
+      ],
+      "first_frame_placeholder": "frames/10_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n机位：邱侧脸与拿遥控器的手，中近景。\n开始：邱看着画外电视，遥控器放在手边。\n动作：邱拿起遥控器，按一次音量键，注意力留在电视上。\n结束：她专注看电视。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/10_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/10_首帧.png"
+    },
+    {
+      "id": "12",
+      "title": "新轮椅拆膜",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_HOME"
+      ],
+      "first_frame_placeholder": "frames/12_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n机位：扶手与邱手部特写。\n开始：新轮椅扶手贴着透明保护膜，邱已坐稳。\n动作：邱揭下保护膜，轻拨一次控制杆。\n结束：手落在控制杆上。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/12_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/12_首帧.png"
+    },
+    {
+      "id": "13",
+      "title": "旧轮椅留给猫",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_CAT",
+        "R_W0",
+        "R_ENV_HOME"
+      ],
+      "first_frame_placeholder": "frames/13_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱家的猫：同一只成年橘白猫，白胸、白前爪，体形与毛色固定。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n机位：旧轮椅完整入画，中景固定。\n开始：旧轮椅靠墙，座面已铺好旧布，猫站在座面前。\n动作：猫跳上座面，踩两下，趴下。\n结束：猫伏在旧轮椅上。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：旧椅是手动轮椅；猫毛色和布面前后一致。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/13_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/13_首帧.png"
+    },
+    {
+      "id": "15",
+      "title": "收拢后穿过柱口",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_G0"
+      ],
+      "first_frame_placeholder": "frames/15_首帧.png",
+      "last_frame_placeholder": "frames/15_尾帧.png",
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：西街旧柱口，两根阻车柱位置固定，侧边另有绕行小路；各次拍摄保留同一地面纹理和背景店面。\n机位：与02相同机位的侧前方中全景，固定。\n开始：秀秀朝右停在原柱口外，邱膝上是待补扣舞裙。\n动作：侧边行走机构按确认过的结构向内收拢；轮胎滚动，轮椅从柱间缓慢通过。\n结束：邱和整辆轮椅都到达柱子另一侧。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：旧柱子位置不变；人体外廓与柱子有间隙；机构通过关节运动收拢；轮胎贴地。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": true,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/15_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/15_首帧.png"
+    },
+    {
+      "id": "16",
+      "title": "越过布店台阶",
+      "duration": 10,
+      "edit_seconds": 7,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/16_首帧.png",
+      "last_frame_placeholder": "frames/16_尾帧.png",
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：侧面全景固定，台阶、支撑点与座面完整入画。\n开始：秀秀前轮到达第一级台阶，邱已确认，双脚在脚踏上。\n动作：越阶轮组按预演顺序交替落点，升上两级台阶；邱膝上的舞裙保持放稳。\n结束：所有轮组到达平台，座面保持水平。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：轮组与台阶有支撑接触；车身不穿过台阶；邱保持坐姿；台阶数量固定为两级。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": true,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/16_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/16_首帧.png"
+    },
+    {
+      "id": "17",
+      "title": "第一次推开店门",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/17_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：门把与邱上半身中近景，固定。\n开始：轮椅已停在门前平台，邱的手靠近门把。\n动作：邱推开轻玻璃门，轮椅向门内移动一小段。\n结束：玻璃门开启，门铃晃动。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：门铃声接入店内收音机\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/17_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/17_首帧.png"
+    },
+    {
+      "id": "19",
+      "title": "徐在店里找到邱",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W1",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/19_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_X"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：布架间双人中景，轻推近。\n开始：邱停在红布旁，徐从店门走进，帆布包侧挂着孩子水壶。\n动作：徐看见邱，说台词；邱笑着指一下秀秀。\n结束：两人在红布前相邻。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：徐：“你都到了？”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L07",
+          "speaker": "徐",
+          "text": "你都到了？"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/19_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/19_首帧.png"
+    },
+    {
+      "id": "20",
+      "title": "为自己挑红布",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W1",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/20_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_X",
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：双人近景，红布与两人脸同时可见。\n开始：邱抬起亮红布的一角，徐站在旁边。\n动作：徐问话；邱回答，把布角比到肩上；徐替她抻平。\n结束：红布贴在邱肩前，两人看颜色。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：徐：“给谁做？”；邱：“给我。你看这颜色。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L08",
+          "speaker": "徐",
+          "text": "给谁做？"
+        },
+        {
+          "id": "L09",
+          "speaker": "邱",
+          "text": "给我。你看这颜色。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": true,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/20_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/20_首帧.png"
+    },
+    {
+      "id": "21",
+      "title": "取下高处扣子盒",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/21_首帧_v2.png",
+      "last_frame_placeholder": "frames/21_尾帧.png",
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：机械臂与高处盒子中近景，固定。\n开始：邱指向高架上的一盒扣子，秀秀空机械手已抬至盒前。\n动作：同一只机械手夹住盒子侧面，提离架面，缓慢递到邱手边并放稳。\n结束：盒子落在托盘上，机械手松开。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：机械手与手臂连接连续；夹持时盒子随手运动；放稳后再松开；邱的人手与机械手分开。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": true,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/21_首帧_v2.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/21_首帧.png"
+    },
+    {
+      "id": "22",
+      "title": "选中金边扣",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_Q0",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/22_首帧_v2.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：裙领、手与金扣的特写。\n开始：蓝灰舞裙放在邱膝上，她手里已拿起完整金边扣。\n动作：邱把金边扣挨在空扣位边，点头说台词。\n结束：扣子贴在领口旁。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“这个好。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L10",
+          "speaker": "邱",
+          "text": "这个好。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/22_首帧_v2.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/22_首帧.png"
+    },
+    {
+      "id": "23",
+      "title": "老舞伴跟上拍子",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W1",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/23_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：双人中景，固定，保留徐的转身空间。\n开始：徐拿着舞裙贴在身前，邱坐在她旁边。\n动作：徐跟收音机音乐转半圈；邱敲两下扶手，徐对上拍子，两人笑。\n结束：两人停下，仍看着对方。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：收音机里同一支舞曲，敲扶手、轻笑\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/23_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/23_首帧.png"
+    },
+    {
+      "id": "24",
+      "title": "门外有人喊老板",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_OWNER",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/24_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：裁布台近景，固定。\n开始：店主拿起剪刀，红布平铺在台面。\n动作：店主听到门外喊声，停下手，朝门口看。\n结束：剪刀停在布面上方。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：门外来客声音、剪刀轻响\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [
+        {
+          "id": "L11",
+          "speaker": "来客",
+          "text": "老板，你这儿怎么进去啊？"
+        }
+      ],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/24_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/24_首帧.png"
+    },
+    {
+      "id": "25",
+      "title": "来客停在台阶下",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_VISITOR",
+        "R_W2",
+        "R_OWNER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/25_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：街道另一侧方向的侧前方中景，固定。\n开始：来客独自停在两级台阶下，店主站在门前，手机拿在她手中。\n动作：来客举起手机给店主看，抬眼看看入口，保持等待。\n结束：手机与上方台阶同框。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：来客从街道另一侧抵达；使用普通手动轮椅。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/25_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/25_首帧.png"
+    },
+    {
+      "id": "26",
+      "title": "陡坡仍然上不去",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_VISITOR",
+        "R_W2",
+        "R_OWNER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/26_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_OWNER",
+        "VOICE_VISITOR"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：来客视线高度双人中景，固定。\n开始：店主站在坡底旁边，来客面向他。\n动作：店主指一下侧面的陡坡；来客看一眼坡面，摇头回答。\n结束：她留在坡外的平地。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：店主：“旁边有个坡。”；来客：“这坡我上不了。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L12",
+          "speaker": "店主",
+          "text": "旁边有个坡。"
+        },
+        {
+          "id": "L13",
+          "speaker": "来客",
+          "text": "这坡我上不了。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/26_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/26_首帧.png"
+    },
+    {
+      "id": "27",
+      "title": "邱来到门前",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_VISITOR",
+        "R_W2",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/27_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：沿店门内侧拍向门外，中全景固定。\n开始：邱在门内，来客在台阶下，二人高差可见。\n动作：邱操控秀秀到平台边停稳，看向自己扶手屏幕并询问秀秀。\n结束：秀秀停在平台安全位置，来客仍在下方。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“秀秀，这条消息你发的？”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：平台边与轮椅保持实际距离；两辆轮椅的上下位置连续。",
+      "dialogue": [
+        {
+          "id": "L14",
+          "speaker": "邱",
+          "text": "秀秀，这条消息你发的？"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/27_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/27_首帧.png"
+    },
+    {
+      "id": "28",
+      "title": "秀秀回复",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/28_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：邱侧脸与秀秀感知镜头近景，固定。\n开始：邱看着扶手屏幕，感知镜头朝向门外。\n动作：秀秀说台词；邱听完抬眼看下方来客。\n结束：她的目光落向台阶下。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：秀秀用固定女声从后期音轨发声，保留店外环境声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [
+        {
+          "id": "L15",
+          "speaker": "秀秀",
+          "text": "刚才进店时发的。"
+        }
+      ],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/28_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/28_首帧.png"
+    },
+    {
+      "id": "29",
+      "title": "把台阶写清楚",
+      "duration": 12,
+      "edit_seconds": 9,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/29_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：邱坐姿高度近景，固定，画面边缘留出门口。\n开始：邱坐稳，视线朝台阶下。\n动作：邱说完整台词，指一下门外台阶；秀秀答复后，感知镜头向台阶转动。\n结束：邱的手落回扶手，镜头朝入口。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“她的轮椅上不来。得把台阶写上，别让人白跑。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：邱说话平和、具体；感知镜头的结构位置保持一致。",
+      "dialogue": [
+        {
+          "id": "L16",
+          "speaker": "邱",
+          "text": "她的轮椅上不来。得把台阶写上，别让人白跑。"
+        }
+      ],
+      "post_dialogue": [
+        {
+          "id": "L17",
+          "speaker": "秀秀",
+          "text": "好，我改。"
+        }
+      ],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/29_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/29_首帧.png"
+    },
+    {
+      "id": "31",
+      "title": "询问是否报给街道",
+      "duration": 12,
+      "edit_seconds": 9,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/31_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：邱与扶手中近景，固定。\n开始：邱停在门前平台上，扶手屏幕显示两处障碍照片。\n动作：秀秀问是否反馈；邱看一眼照片，回答都报。\n结束：她的手移向提交按钮。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“都报吧，看看能不能修。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L19",
+          "speaker": "邱",
+          "text": "都报吧，看看能不能修。"
+        }
+      ],
+      "post_dialogue": [
+        {
+          "id": "L18",
+          "speaker": "秀秀",
+          "text": "这两处可以报给街道，附上照片。要报吗？"
+        }
+      ],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/31_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/31_首帧.png"
+    },
+    {
+      "id": "33",
+      "title": "样布拿出来挑",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_VISITOR",
+        "R_W2",
+        "R_OWNER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/33_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_VISITOR"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：来客与样布中景，固定。\n开始：店主站在来客旁，店门在他身后。\n动作：来客说台词；店主把已拿到门边的整本样布递到她手中，她打开看颜色。\n结束：样布在来客膝上，她自己翻页。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：来客：“老板，样布先拿出来吧，我自己挑。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L20",
+          "speaker": "来客",
+          "text": "老板，样布先拿出来吧，我自己挑。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/33_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/33_首帧.png"
+    },
+    {
+      "id": "34",
+      "title": "邱递出软尺",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_OWNER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/34_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_OWNER",
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：台阶旁双人中近景，固定。\n开始：店主蹲在台阶下比高差，邱的布袋放在手边。\n动作：店主说找尺；邱回答，抽出袋口的软尺递给他。\n结束：店主接住软尺一端。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：店主：“我店里好像有把尺……”；邱：“我这儿有。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：尺从邱的布袋中取出；人手交接清楚。",
+      "dialogue": [
+        {
+          "id": "L21",
+          "speaker": "店主",
+          "text": "我店里好像有把尺……"
+        },
+        {
+          "id": "L22",
+          "speaker": "邱",
+          "text": "我这儿有。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/34_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/34_首帧.png"
+    },
+    {
+      "id": "35",
+      "title": "量台阶",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_OWNER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/35_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：台阶与手的近景，固定。\n开始：软尺已沿台阶高差垂直展开，店主手握尺端。\n动作：店主把尺端贴住台阶边沿，俯身读数，秀秀的镜头在画外记录。\n结束：软尺在同一台阶边保持贴合。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/35_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/35_首帧.png"
+    },
+    {
+      "id": "36",
+      "title": "红布放到膝上",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_X0",
+        "R_W1",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/36_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；徐月禾（日常）：低银灰发髻、小椭圆琥珀眼镜、赭黄外套、蓝条纹内搭、深蓝裤、浅色鞋、砖红围巾；帆布包侧挂孩子水壶。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：两人中景，固定。\n开始：徐拎着包，看一眼手机时间，裁好的红布在她手里。\n动作：邱催她快去；徐把折好的红布放到邱膝上，拎包离开。\n结束：邱膝上是红布，配好的金扣装在小袋里。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“快去吧，别迟了。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：舞裙已收进布袋，下一镜膝上换为红布。",
+      "dialogue": [
+        {
+          "id": "L23",
+          "speaker": "邱",
+          "text": "快去吧，别迟了。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/36_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/36_首帧.png"
+    },
+    {
+      "id": "37",
+      "title": "返程保留障碍照片",
+      "duration": 8,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_G0"
+      ],
+      "first_frame_placeholder": "frames/37_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n场景：西街旧柱口，两根阻车柱位置固定，侧边另有绕行小路；各次拍摄保留同一地面纹理和背景店面。\n机位：沿用15镜机位，朝返程方向拍，中全景。\n开始：邱膝上放着红布，秀秀停在原柱口内侧。\n动作：秀秀收拢机构带邱通过；镜头留住原处的柱子。\n结束：邱通过后继续走，柱子位置不变。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：返程膝上是红布；不能直接复用15镜的舞裙素材。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/37_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/37_首帧.png"
+    },
+    {
+      "id": "38",
+      "title": "诊所门槛",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_RESIDENT1",
+        "R_W3",
+        "R_ENV_CLINIC0"
+      ],
+      "first_frame_placeholder": "frames/38_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：去诊所的老人：中国老年男性，灰绿外套，坐日常智能轮椅；前后服饰外观对应。；其他人的智能轮椅：日常电动轮椅，有控制杆和拍摄路况的小镜头；外观与秀秀有所区别，同一使用者前后保持同一辆车。\n场景：社区诊所旧入口，门前有明确高门槛。\n机位：入口侧面中景，固定。\n开始：老人坐着普通款智能轮椅，停在诊所高门槛外。\n动作：他看一眼门槛，再在扶手上确认提交；轮椅镜头拍摄入口。\n结束：人留在入口外。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/38_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/38_首帧.png"
+    },
+    {
+      "id": "39",
+      "title": "公交站的人行道断口",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_RESIDENT2",
+        "R_W3",
+        "R_ENV_BUS0"
+      ],
+      "first_frame_placeholder": "frames/39_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：公交乘客：中国成年女性，深灰外套，冬季加同色围巾，坐日常智能轮椅。；其他人的智能轮椅：日常电动轮椅，有控制杆和拍摄路况的小镜头；外观与秀秀有所区别，同一使用者前后保持同一辆车。\n场景：公交站旧人行道接驳处，通路中有一段断口，站牌和停靠区可辨。\n机位：略高侧面全景，固定。\n开始：轮椅使用者停在公交站旁平坦位置，前方人行道有断口。\n动作：他停稳，转向断口拍照，再确认提交。\n结束：画面同时看见公交站牌和断口。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/39_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/39_首帧.png"
+    },
+    {
+      "id": "40",
+      "title": "公园坡道被占",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_YOUNG",
+        "R_W3",
+        "R_ENV_PARK0"
+      ],
+      "first_frame_placeholder": "frames/40_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：去公园的年轻人：中国青年男性，浅蓝运动外套，坐日常智能轮椅。；其他人的智能轮椅：日常电动轮椅，有控制杆和拍摄路况的小镜头；外观与秀秀有所区别，同一使用者前后保持同一辆车。\n场景：公园入口的坡道，几辆电动车占用了通道。\n机位：坡道入口全景，固定。\n开始：年轻人坐在智能轮椅上，坡道前停着几辆电动车。\n动作：他停在坡道外，拍下车辆占用的位置。\n结束：轮椅与被占用的坡道同框。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物留在平坦位置；不用冒险驶上被占坡道。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/40_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/40_首帧.png"
+    },
+    {
+      "id": "42",
+      "title": "把到车站的路画出来",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_VISITOR",
+        "R_W2",
+        "R_OWNER",
+        "R_STAFF",
+        "R_RESIDENT3",
+        "R_ENV_MEETING"
+      ],
+      "first_frame_placeholder": "frames/42_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_STAFF"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。；街道工作人员：中国成年女性，浅灰外套，常拿平板或纸质记录；人物外形待确认。；手动轮椅居民：中国成年男性，浅棕外套，自行使用手动轮椅；议事室、路口和图书馆为同一人。\n场景：社区议事室，一张可以围坐的桌子，桌上有街区图、笔和平板、纸质意见单。\n机位：桌侧中全景固定，街区图居中。\n开始：几位居民围坐，工作人员手指停在地图柱口处。\n动作：工作人员说台词，用笔把柱口到公交站的路线画出来；邱和来客顺着看。\n结束：笔尖停在公交站旁。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：工作人员：“这两根柱子挪一下，去车站就不用绕了。”。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：Q使用秀秀，来客使用手动轮椅。",
+      "dialogue": [
+        {
+          "id": "L24",
+          "speaker": "工作人员",
+          "text": "这两根柱子挪一下，去车站就不用绕了。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/42_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/42_首帧.png"
+    },
+    {
+      "id": "43",
+      "title": "普通轮椅居民递意见单",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_RESIDENT3",
+        "R_STAFF",
+        "R_W2",
+        "R_ENV_MEETING"
+      ],
+      "first_frame_placeholder": "frames/43_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：手动轮椅居民：中国成年男性，浅棕外套，自行使用手动轮椅；议事室、路口和图书馆为同一人。；街道工作人员：中国成年女性，浅灰外套，常拿平板或纸质记录；人物外形待确认。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：社区议事室，一张可以围坐的桌子，桌上有街区图、笔和平板、纸质意见单。\n机位：意见单与两人手部近景，固定。\n开始：居民把纸质意见单放在地图旁，工作人员看着他。\n动作：居民指向自己的楼门位置，把意见单推过去。\n结束：工作人员接过意见单。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/43_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/43_首帧.png"
+    },
+    {
+      "id": "44",
+      "title": "楼门里的老人",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_HOME_RESIDENT",
+        "R_STAFF",
+        "R_DESIGNER",
+        "R_W2",
+        "R_ENV_DOOR0"
+      ],
+      "first_frame_placeholder": "frames/44_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：楼门里的老人：戴灰色便帽的中国老年男性，灰蓝夹克，自己推手动轮椅；改造前后为同一人。；街道工作人员：中国成年女性，浅灰外套，常拿平板或纸质记录；人物外形待确认。；设计人员：中国成年男性，深绿工作衫、卷尺和图纸；人物外形待确认。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：老住宅楼门，高门槛挡在坐轮椅老人前，楼道与院子同框。\n机位：门内朝外拍的侧面全景，固定。\n开始：老人坐在轮椅上停在高门槛后，工作人员蹲在门边。\n动作：工作人员拉好卷尺，设计人员记录门槛和入口尺寸。\n结束：门槛仍在，老人等在门内。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/44_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/44_首帧.png"
+    },
+    {
+      "id": "45",
+      "title": "归还软尺并量店门",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_OWNER",
+        "R_DESIGNER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/45_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。；设计人员：中国成年男性，深绿工作衫、卷尺和图纸；人物外形待确认。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：门口中景，固定。\n开始：店主把折好的软尺拿在手上，邱停在旁边。\n动作：店主把软尺还给邱；设计人员用自己的量具贴到平台边量尺寸。\n结束：邱收好软尺，设计人员继续记录。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：工程量具与邱的软尺分开。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/45_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/45_首帧.png"
+    },
+    {
+      "id": "46",
+      "title": "腾出坡道的位置",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_OWNER",
+        "R_DESIGNER",
+        "R_ENV_SHOP"
+      ],
+      "first_frame_placeholder": "frames/46_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。；设计人员：中国成年男性，深绿工作衫、卷尺和图纸；人物外形待确认。\n场景：青禾布店室内：旧木柜台、成排布料、扣子盒、收音机；靠门的货架与门口位置一致，亮红布只在本片选定的位置。\n机位：柜台图纸前景、货架后景的中景，固定。\n开始：新入口图纸铺在柜台上，货架摆在临街一侧。\n动作：设计人员沿图纸指向店侧，店主把一组货架推向店里。\n结束：图纸上的坡道位置与腾出的空地对应。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/46_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/46_首帧.png"
+    },
+    {
+      "id": "47",
+      "title": "柱脚拆开重新定位",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_WORKER",
+        "R_ENV_G0"
+      ],
+      "first_frame_placeholder": "frames/47_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：施工人员：穿普通施工服和安全帽的工人，以工具、手部和背影出镜。\n场景：西街旧柱口，两根阻车柱位置固定，侧边另有绕行小路；各次拍摄保留同一地面纹理和背景店面。\n机位：柱脚近景，固定。\n开始：街口围挡后，施工人员已松开柱脚固定件。\n动作：工人把旧柱抬离底座，露出地面重新画好的定位线。\n结束：柱脚与定位线清晰可见。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：金属与工具声，施工段节奏剪辑\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/47_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/47_首帧.png"
+    },
+    {
+      "id": "48",
+      "title": "旧陡坡拆除",
+      "duration": 4,
+      "edit_seconds": 2,
+      "reference_ids": [
+        "R_WORKER",
+        "R_ENV_SH0"
+      ],
+      "first_frame_placeholder": "frames/48_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：施工人员：穿普通施工服和安全帽的工人，以工具、手部和背影出镜。\n场景：青禾布店旧入口：临街正门前两级台阶，画面右侧有一条短而陡的水泥坡，玻璃门内可见扣架；店侧留有日后做长缓坡的空间。\n机位：旧坡面近景，固定。\n开始：旧水泥陡坡边缘已凿开，旁边有碎块。\n动作：工具沿坡面凿下一小块，工人把松动水泥块移开。\n结束：旧陡坡被清除一部分。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：施工工具声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/48_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/48_首帧.png"
+    },
+    {
+      "id": "49",
+      "title": "新缓坡装好扶手",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_WORKER",
+        "R_ENV_SH1"
+      ],
+      "first_frame_placeholder": "frames/49_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：施工人员：穿普通施工服和安全帽的工人，以工具、手部和背影出镜。\n场景：青禾布店第一次改造后：侧面新缓坡、扶手、顶部较小的平台；朝门转向时，手动轮椅脚踏会碰到门侧边沿。\n机位：新坡道侧面全景，固定。\n开始：新缓坡已铺好，顶部平台是第一版尺寸，工人在扶手旁。\n动作：工人固定最后一段扶手，另一人清理坡面。\n结束：第一版入口可完整看清。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：工具、布料与车轮等实际动作声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：首次平台仍保留转弯不足的门侧边沿。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/49_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/49_首帧.png"
+    },
+    {
+      "id": "50",
+      "title": "金扣缝回舞裙",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q0",
+        "R_ENV_HOME"
+      ],
+      "first_frame_placeholder": "frames/50_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n机位：双手、针线与裙领特写，固定。\n开始：舞裙领口铺在桌面，邱已经把针穿入金扣孔。\n动作：邱把线轻轻拉紧，将金边扣缝到原空位。\n结束：完整金扣留在领口。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：工具、布料与车轮等实际动作声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物手指与针线接触清楚。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/50_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/50_首帧.png"
+    },
+    {
+      "id": "51",
+      "title": "裁红布与挪开猫",
+      "duration": 6,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_CAT",
+        "R_W0",
+        "R_ENV_HOME"
+      ],
+      "first_frame_placeholder": "frames/51_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；邱家的猫：同一只成年橘白猫，白胸、白前爪，体形与毛色固定。；邱的旧手动轮椅：深蓝织物座背、金属管架、带手轮的大后轮、黑推把和脚踏，外廓与首场柱口卡住的位置固定。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n机位：桌边与旧轮椅中景，固定。\n开始：红布沿粉线剪开一小段，猫已经被邱抱到旧轮椅座面上方。\n动作：邱把猫轻放到铺布的旧轮椅上，猫站稳，她松开手。\n结束：猫留在旧椅上，红布和剪刀在桌面。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：布料与猫的轻声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/51_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/51_首帧.png"
+    },
+    {
+      "id": "52",
+      "title": "秀秀先通过新坡道",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_OWNER",
+        "R_ENV_SH1"
+      ],
+      "first_frame_placeholder": "frames/52_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_OWNER",
+        "VOICE_Q"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（日常）：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店第一次改造后：侧面新缓坡、扶手、顶部较小的平台；朝门转向时，手动轮椅脚踏会碰到门侧边沿。\n机位：侧面中全景固定，坡道与店门同框。\n开始：秀秀用普通轮行模式来到新坡道末端，店主站在门旁。\n动作：秀秀上到平台停稳；店主问台词，邱回答，让出后续试用的空间。\n结束：邱示意来客试用，秀秀准备退到旁边。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：店主：“这回行了吧？”；邱：“让她也试试。”。\n现场音：工具、布料与车轮等实际动作声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：越阶机构保持收起；第一版平台与49镜一致。",
+      "dialogue": [
+        {
+          "id": "L25",
+          "speaker": "店主",
+          "text": "这回行了吧？"
+        },
+        {
+          "id": "L26",
+          "speaker": "邱",
+          "text": "让她也试试。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/52_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/52_首帧.png"
+    },
+    {
+      "id": "53",
+      "title": "普通轮椅转不过来",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_VISITOR",
+        "R_W2",
+        "R_ENV_SH1"
+      ],
+      "first_frame_placeholder": "frames/53_首帧.png",
+      "last_frame_placeholder": "frames/53_尾帧.png",
+      "required_voice_ids": [
+        "VOICE_VISITOR"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：青禾布店第一次改造后：侧面新缓坡、扶手、顶部较小的平台；朝门转向时，手动轮椅脚踏会碰到门侧边沿。\n机位：略俯侧面全景固定，脚踏与门边同框。\n开始：来客已经接近坡道顶部，入口门侧保留不足的转弯空间。\n动作：她自行推上平台，朝店门转弯，脚踏碰到门侧边沿便停下，说出台词。\n结束：脚踏、门边和未完成的转弯清晰可见。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：来客：“这里转不过来。”。\n现场音：工具、布料与车轮等实际动作声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：脚踏接触边沿后停下；手动轮椅保持原尺寸；人物自行操作手轮；坡度与第一版场景一致。",
+      "dialogue": [
+        {
+          "id": "L27",
+          "speaker": "来客",
+          "text": "这里转不过来。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": true,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/53_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/53_首帧.png"
+    },
+    {
+      "id": "54",
+      "title": "试用后重新量距离",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_STAFF",
+        "R_DESIGNER",
+        "R_VISITOR",
+        "R_W2",
+        "R_ENV_SH1"
+      ],
+      "first_frame_placeholder": "frames/54_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：街道工作人员：中国成年女性，浅灰外套，常拿平板或纸质记录；人物外形待确认。；设计人员：中国成年男性，深绿工作衫、卷尺和图纸；人物外形待确认。；布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：青禾布店第一次改造后：侧面新缓坡、扶手、顶部较小的平台；朝门转向时，手动轮椅脚踏会碰到门侧边沿。\n机位：平板前景、门侧测量后景的中近景。\n开始：工作人员拿着平板，设计人员已蹲到脚踏旁。\n动作：工作人员放下平板，设计人员量脚踏到门边的距离，在图纸上做记号。\n结束：人们围着实际碰到的位置看。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：工具、布料与车轮等实际动作声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/54_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/54_首帧.png"
+    },
+    {
+      "id": "56",
+      "title": "来客自己进店",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_VISITOR",
+        "R_W2",
+        "R_ENV_SH2"
+      ],
+      "first_frame_placeholder": "frames/56_首帧.png",
+      "last_frame_placeholder": "frames/56_尾帧.png",
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：青禾布店第二次调整后：坡道顶部平台向侧面加宽，门边货架移到店内；普通轮椅上坡、转向和开门的路径连续。\n机位：与53相同方向的中全景固定。\n开始：来客已在加宽后的平台上，店门处于可推开的角度。\n动作：她完成转弯，推开门进入布店，停在靠门布架旁并摸一下布料。\n结束：来客在店内，轮椅脚踏与门边留有间隙。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：门铃响起\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：门外到门内连续通过；新平台确实加宽；手动轮椅与53镜同一辆。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/56_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/56_首帧.png"
+    },
+    {
+      "id": "59",
+      "title": "坡口接平斑马线",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_RESIDENT3",
+        "R_W2",
+        "R_ENV_CROSS1"
+      ],
+      "first_frame_placeholder": "frames/59_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：手动轮椅居民：中国成年男性，浅棕外套，自行使用手动轮椅；议事室、路口和图书馆为同一人。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：完成坡口改造的街道过街处，旧缘石堆在边上，新坡口接平斑马线。\n机位：路口坐姿高度全景，固定。\n开始：旧缘石堆在旁边，新的坡口已与斑马线接平，手动轮椅朝坡口驶来。\n动作：轮椅前轮、后轮依次平顺通过坡口，驶入斑马线。\n结束：轮椅已在平整路面上。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：路缘连接连续；前轮滚过高差处保持贴地。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/59_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/59_首帧.png"
+    },
+    {
+      "id": "60",
+      "title": "老人从楼门出来",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_HOME_RESIDENT",
+        "R_W2",
+        "R_ENV_DOOR1"
+      ],
+      "first_frame_placeholder": "frames/60_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：楼门里的老人：戴灰色便帽的中国老年男性，灰蓝夹克，自己推手动轮椅；改造前后为同一人。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：与旧楼门同一位置，新坡道接到院子平地，春日阳光。\n机位：与44同一门口的侧面全景，固定。\n开始：门前已接好新坡道，那位老人从门里接近坡道。\n动作：他自己转动手轮出门，来到院子阳光下，摘下帽子。\n结束：老人把帽子放在膝上，抬头晒太阳。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：与44镜同一位老人和同一栋楼。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/60_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/60_首帧.png"
+    },
+    {
+      "id": "61",
+      "title": "冬天坐公交",
+      "duration": 8,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_RESIDENT2",
+        "R_W3",
+        "R_ENV_BUS1"
+      ],
+      "first_frame_placeholder": "frames/61_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：公交乘客：中国成年女性，深灰外套，冬季加同色围巾，坐日常智能轮椅。；其他人的智能轮椅：日常电动轮椅，有控制杆和拍摄路况的小镜头；外观与秀秀有所区别，同一使用者前后保持同一辆车。\n场景：同一地区改造后的公交站，冬天，低地板公交车停稳，坡板连接站台和车厢。\n机位：站台侧面中全景固定。\n开始：公交车停稳，坡板已经开始放下，轮椅乘客在站台等待。\n动作：坡板落稳后，乘客沿坡板进入车厢并停到轮椅位置。\n结束：乘客与轮椅已在车内。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：公交提示音、坡板机械声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：坡板与地面和车厢相接；车保持停稳；轮椅进入顺序清楚。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/61_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/61_首帧.png"
+    },
+    {
+      "id": "62",
+      "title": "春雨里的诊所入口",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_RESIDENT1",
+        "R_W3",
+        "R_PARENT",
+        "R_ENV_CLINIC1"
+      ],
+      "first_frame_placeholder": "frames/62_首帧_v2.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：去诊所的老人：中国老年男性，灰绿外套，坐日常智能轮椅；前后服饰外观对应。；其他人的智能轮椅：日常电动轮椅，有控制杆和拍摄路况的小镜头；外观与秀秀有所区别，同一使用者前后保持同一辆车。；推童车的家长：普通成年家长和一辆童车，以侧面或远景经过。\n场景：同一社区诊所改造后，门前平台与侧面缓坡接好，春雨天。\n机位：诊所入口全景，固定。\n开始：新平台与缓坡接好，撑伞行人位于门边，轮椅和童车在坡道上依次前进。\n动作：撑伞的人侧身走过，童车与轮椅使用者先后进门。\n结束：门前留有通行空间。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：春雨声、车轮声\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/62_首帧_v2.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/62_首帧.png"
+    },
+    {
+      "id": "63",
+      "title": "图书馆缓坡",
+      "duration": 6,
+      "edit_seconds": 4,
+      "reference_ids": [
+        "R_RESIDENT3",
+        "R_W2",
+        "R_ENV_LIBRARY1"
+      ],
+      "first_frame_placeholder": "frames/63_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：手动轮椅居民：中国成年男性，浅棕外套，自行使用手动轮椅；议事室、路口和图书馆为同一人。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：图书馆入口，缓坡接向宽敞平台。\n机位：侧面全景，缓慢平移。\n开始：使用手动轮椅的居民来到图书馆缓坡下。\n动作：他沿缓坡上行，进入宽敞的门前平台。\n结束：入口与平台连成连续路径。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/63_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/63_首帧.png"
+    },
+    {
+      "id": "64",
+      "title": "公园里去湖边",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_PARK_ELDER1",
+        "R_PARK_ELDER2",
+        "R_W3",
+        "R_ENV_PARK1"
+      ],
+      "first_frame_placeholder": "frames/64_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：公园老人甲：灰发中国老年女性，浅褐外套，坐日常电动轮椅。；公园老人乙：灰发中国老年男性，深蓝外套，坐日常电动轮椅。；其他人的智能轮椅：日常电动轮椅，有控制杆和拍摄路况的小镜头；外观与秀秀有所区别，同一使用者前后保持同一辆车。\n场景：两年间改造后的公园平坦园路，湖岸边有长椅和护栏或清楚边界。\n机位：背面远景，固定。\n开始：两位老人各自坐着轮椅，在湖边平坦园路上前后相隔。\n动作：两辆轮椅沿园路往湖边前行，经过长椅。\n结束：两人继续沿园路走。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：街道或室内环境声，衣料、手轮与轻电机声按动作出现。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：两辆轮椅各有完整车身和坐姿；湖岸和园路之间有实际边界。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/64_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/64_首帧.png"
+    },
+    {
+      "id": "66",
+      "title": "普通模式穿过新柱口",
+      "duration": 8,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q1",
+        "R_W1",
+        "R_RESIDENT3",
+        "R_W2",
+        "R_ENV_G1"
+      ],
+      "first_frame_placeholder": "frames/66_首帧_v2.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（结尾）：与邱日常同一张脸和短银灰发，穿本片红布做成的亮红短外衣，深灰裤、暗红便鞋。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；手动轮椅居民：中国成年男性，浅棕外套，自行使用手动轮椅；议事室、路口和图书馆为同一人。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。\n场景：两年后的同一柱口，阻车设施已重新排布，轮椅通道连到开阔的人行道；相对背景保持一致。\n机位：复用02与15的机位和焦段，中全景固定。\n开始：邱穿亮红新衣坐着秀秀，朝新留出的通道驶来。\n动作：秀秀沿通道直接过去；对面的手动轮椅在邱通过后驶过，两人在出口开阔处点头。\n结束：两辆轮椅各自前行，秀秀机构保持收起。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：广场舞曲由后期统一配入，保留现场衣料与车轮声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：阻车设施改了位置；邱的身体与秀秀座宽保持原有尺寸；两辆车在开阔处错开。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/66_首帧_v2.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/66_首帧.png"
+    },
+    {
+      "id": "67",
+      "title": "布店门前再打招呼",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q1",
+        "R_W1",
+        "R_VISITOR",
+        "R_W2",
+        "R_OWNER",
+        "R_ENV_SH2"
+      ],
+      "first_frame_placeholder": "frames/67_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（结尾）：与邱日常同一张脸和短银灰发，穿本片红布做成的亮红短外衣，深灰裤、暗红便鞋。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；布店来客：中国成年女性，黑色短发、雾蓝外套、深色裤；自行操作手动轮椅，手机与样布由自己拿取。；普通手动轮椅：浅灰金属管架、黑座垫、清楚可见的手轮和脚踏；同一使用者前后保持同一辆车。；布店店主：中国中年男性，灰米衬衫、靛蓝围裙，手边常有剪刀和布料；人物外形待确认。\n场景：青禾布店第二次调整后：坡道顶部平台向侧面加宽，门边货架移到店内；普通轮椅上坡、转向和开门的路径连续。\n机位：新入口斜侧中全景，固定。\n开始：来客抱着布料停在新入口外，邱经过，店主站在店内。\n动作：来客与邱点头，店主朝邱招手。\n结束：三人各在自己的位置打完招呼。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：门铃声桥接下一镜广场舞曲\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/67_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/67_首帧.png"
+    },
+    {
+      "id": "68",
+      "title": "今天孩子爸爸接",
+      "duration": 7,
+      "edit_seconds": 5,
+      "reference_ids": [
+        "R_Q1",
+        "R_W1",
+        "R_X1",
+        "R_ENV_SQUARE"
+      ],
+      "first_frame_placeholder": "frames/68_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_Q",
+        "VOICE_X"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（结尾）：与邱日常同一张脸和短银灰发，穿本片红布做成的亮红短外衣，深灰裤、暗红便鞋。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；徐月禾（结尾）：与徐日常同一张脸、低发髻和琥珀眼镜，穿蓝灰舞裙，领口缝着本片选中的完整金边扣。\n场景：两年后的春天，公园广场边平整开阔，缓坡与街道相连，远处有人走动，播放舞曲。\n机位：双人中景，固定。\n开始：徐穿补好金扣的蓝灰舞裙在广场边等，邱穿红衣驶到她身旁。\n动作：邱停车，问台词；徐笑着回答。\n结束：徐走到邱侧前方。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：邱：“今天不用接孩子？”；徐：“今天他爸接。”。\n现场音：广场里同一支舞曲继续\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L28",
+          "speaker": "邱",
+          "text": "今天不用接孩子？"
+        },
+        {
+          "id": "L29",
+          "speaker": "徐",
+          "text": "今天他爸接。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/68_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/68_首帧.png"
+    },
+    {
+      "id": "69",
+      "title": "看看新衣袖口",
+      "duration": 5,
+      "edit_seconds": 3,
+      "reference_ids": [
+        "R_Q1",
+        "R_W1",
+        "R_X1",
+        "R_ENV_SQUARE"
+      ],
+      "first_frame_placeholder": "frames/69_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [
+        "VOICE_X"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（结尾）：与邱日常同一张脸和短银灰发，穿本片红布做成的亮红短外衣，深灰裤、暗红便鞋。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；徐月禾（结尾）：与徐日常同一张脸、低发髻和琥珀眼镜，穿蓝灰舞裙，领口缝着本片选中的完整金边扣。\n场景：两年后的春天，公园广场边平整开阔，缓坡与街道相连，远处有人走动，播放舞曲。\n机位：袖口与两人侧脸中近景，固定。\n开始：徐轻轻拉着邱红衣的袖口，邱手放在扶手上。\n动作：徐看针脚，说台词；邱笑着抻平衣襟。\n结束：两人看着新衣笑。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：徐：“这袖子好看。”。\n现场音：广场舞曲由后期统一配入，保留现场衣料与车轮声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：人物、衣服与场景状态延续本镜参考；动作有起点、接触和停下的位置。",
+      "dialogue": [
+        {
+          "id": "L30",
+          "speaker": "徐",
+          "text": "这袖子好看。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/69_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/69_首帧.png"
+    },
+    {
+      "id": "70",
+      "title": "转半圈给朋友看",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_Q1",
+        "R_W1",
+        "R_X1",
+        "R_ENV_SQUARE"
+      ],
+      "first_frame_placeholder": "frames/70_首帧.png",
+      "last_frame_placeholder": "frames/70_尾帧.png",
+      "required_voice_ids": [
+        "VOICE_X"
+      ],
+      "voice_reference_status": "pending",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（结尾）：与邱日常同一张脸和短银灰发，穿本片红布做成的亮红短外衣，深灰裤、暗红便鞋。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；徐月禾（结尾）：与徐日常同一张脸、低发髻和琥珀眼镜，穿蓝灰舞裙，领口缝着本片选中的完整金边扣。\n场景：两年后的春天，公园广场边平整开阔，缓坡与街道相连，远处有人走动，播放舞曲。\n机位：双人中全景固定，地面与轮椅轮组完整可见。\n开始：邱停在平坦广场边，徐站在她侧前方留出转身空间。\n动作：徐说台词；邱拨动控制杆，秀秀缓慢转过半圈，徐跟着音乐转身。\n结束：邱转完半圈，徐重新来到她面前。\n对白按以下次序，由对应人物自然说出；使用该角色确认过的声音参考：徐：“转过去，我看看后面。”。\n现场音：广场舞曲由后期统一配入，保留现场衣料与车轮声。\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：转身来自车轮转动；邱始终坐在同一座面上；越阶机构收起；徐的裙子与金扣保持一致。",
+      "dialogue": [
+        {
+          "id": "L31",
+          "speaker": "徐",
+          "text": "转过去，我看看后面。"
+        }
+      ],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "high",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/70_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/70_首帧.png"
+    },
+    {
+      "id": "71",
+      "title": "握手跟着音乐打拍子",
+      "duration": 8,
+      "edit_seconds": 6,
+      "reference_ids": [
+        "R_Q1",
+        "R_W1",
+        "R_X1",
+        "R_PARENT",
+        "R_ENV_SQUARE"
+      ],
+      "first_frame_placeholder": "frames/71_首帧.png",
+      "last_frame_placeholder": null,
+      "required_voice_ids": [],
+      "voice_reference_status": "not_required",
+      "prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n以本镜确认的单张首帧为起点。\n本镜入画：邱懿贞（结尾）：与邱日常同一张脸和短银灰发，穿本片红布做成的亮红短外衣，深灰裤、暗红便鞋。；秀秀：鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。；徐月禾（结尾）：与徐日常同一张脸、低发髻和琥珀眼镜，穿蓝灰舞裙，领口缝着本片选中的完整金边扣。；推童车的家长：普通成年家长和一辆童车，以侧面或远景经过。\n场景：两年后的春天，公园广场边平整开阔，缓坡与街道相连，远处有人走动，播放舞曲。\n机位：双人中景缓慢拉至全景。\n开始：徐已转回邱面前，伸出手，邱抬手准备握住。\n动作：邱握住徐的手，指尖轻点拍子；镜头缓慢拉远，后方缓坡有轮椅与童车经过。\n结束：两人在广场边相处，身后通道持续有人经过。\n人物按本镜动作表演，现场仅保留环境与动作声。\n现场音：舞曲与脚步声持续，逐渐进入片尾\n画面文字、画外台词与整片配乐在后期统一加入。\n连续性检查：握手手指关系清楚；广场与街道连接平顺。",
+      "dialogue": [],
+      "post_dialogue": [],
+      "priority": false,
+      "risk": "medium",
+      "media_ready": false,
+      "submission_status": "not_submitted",
+      "candidate_target": 1,
+      "cost_quote_required": true,
+      "storyboard_image": "frames/71_首帧.png",
+      "storyboard_image_status": "generated_for_review",
+      "first_frame_legacy_placeholder": "frames/71_首帧.png"
+    }
+  ]
+}

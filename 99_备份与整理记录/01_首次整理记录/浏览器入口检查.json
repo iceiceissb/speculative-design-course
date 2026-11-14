@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-17",
+  "scope": "复制后的入口加载与本地依赖检查，不重做旧版本全部分支测试",
+  "pages": [
+    {
+      "id": "D01",
+      "path": "创作工作区/02_Demo版本/D01_这一次轮椅该听谁的_v1/原型/index.html",
+      "title": "这一次，轮椅该听谁的？ · 思辨原型 v1",
+      "body_text": 247,
+      "canvases": [],
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D02",
+      "path": "创作工作区/02_Demo版本/D02_这一次轮椅该听谁的_v1.1/原型/index.html",
+      "title": "这一次，轮椅该听谁的？ · 思辨修订 v1.1",
+      "body_text": 261,
+      "canvases": [],
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D03",
+      "path": "创作工作区/02_Demo版本/D03_请别替我让路_3D/原型/index.html",
+      "title": "请别替我让路 · 3D 思辨原型",
+      "body_text": 240,
+      "canvases": [
+        {
+          "width": 1440,
+          "height": 520
+        }
+      ],
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D04",
+      "path": "创作工作区/02_Demo版本/D04_请等下一班_v4.1_电梯/原型/index.html",
+      "title": "请等下一班 · 电梯3D交互原型",
+      "body_text": 266,
+      "canvases": [
+        {
+          "width": 919,
+          "height": 635
+        }
+      ],
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D05",
+      "path": "创作工作区/02_Demo版本/D05_请等下一班_v5_会协商的医院/原型/index.html",
+      "title": "请等下一班 · 会协商的医院",
+      "body_text": 191,
+      "canvases": [
+        {
+          "width": 1065,
+          "height": 770
+        }
+      ],
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D06",
+      "path": "创作工作区/02_Demo版本/D06_不用麻烦她_早期打包版/原型/index.html",
+      "title": "不用麻烦她｜3D 交互原型",
+      "body_text": 314,
+      "canvases": [
+        {
+          "width": 1037,
+          "height": 776
+        }
+      ],
+      "demo_ready": true,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D07",
+      "path": "创作工作区/02_Demo版本/D07_不用麻烦她_反馈修订版/原型/index.html",
+      "title": "不用麻烦她｜3D 交互原型",
+      "body_text": 314,
+      "canvases": [
+        {
+          "width": 1037,
+          "height": 776
+        }
+      ],
+      "demo_ready": true,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "F07",
+      "path": "创作工作区/03_分镜与视觉/F07_不用麻烦她_v6_完整36镜/原始材料/index.html",
+      "title": "不用麻烦她 · v6 完整分镜",
+      "body_text": 3929,
+      "canvases": [],
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    }
+  ],
+  "navigation": {
+    "entries": 51,
+    "demo_filter": 7,
+    "combined_search": 2,
+    "mobile_overflow": false,
+    "page_errors": []
+  }
+}

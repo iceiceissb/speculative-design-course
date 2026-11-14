@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "title": "F11 · 连接测试",
+  "api": {
+    "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "model": "doubao-seedance-2-5-260628",
+    "resolution": "480p",
+    "ratio": "adaptive",
+    "generate_audio": true,
+    "watermark": false,
+    "poll_seconds": 8,
+    "wait_seconds": 1200
+  },
+  "limits": {
+    "max_total_api_tasks": 1,
+    "max_total_generated_seconds": 4
+  },
+  "jobs": [
+    {
+      "id": "T20",
+      "title": "为自己挑红布",
+      "duration": 4,
+      "frames": [
+        {
+          "file": "20_首帧.png",
+          "role": "first_frame"
+        }
+      ],
+      "prompt": "保持首帧的手工定格人偶、两位老年女性、服装、轮椅和布店陈设。固定机位，单个连续镜头。坐轮椅的邱轻轻抬起手中的红布一角，旁边戴眼镜的徐微笑看着她；布料自然落下，两人的脸和手保持稳定。现场仅有轻微衣料摩擦与室内环境声，无对白、旁白、音乐和字幕。",
+      "dialogue": [],
+      "source_shot": "20",
+      "source_frame": "D:\\课\\大四上\\思辨设计\\03_分镜与角色\\F11_不用麻烦她_v9_视频生成分镜\\frames\\20_首帧.png"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "T20",
+      "job_id": "T20",
+      "title": "为自己挑红布",
+      "source_start": 0,
+      "duration": 4
+    }
+  ],
+  "audio_tracks": [],
+  "subtitles": [],
+  "note": "用户2026-10-18授权测试成功后开始生成；首轮候选，不自动重抽。"
+}

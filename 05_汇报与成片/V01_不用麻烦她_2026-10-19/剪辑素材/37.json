@@ -1,0 +1,19 @@
+{
+  "signature": "71ceef4de6654c1f52a46f609e15a024c6249b7f08dc6669415df3e3149b5804",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\37.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\37.wav",
+  "id": "37",
+  "title": "返程保留障碍照片",
+  "kind": "video",
+  "candidate": "48c8c417ff93447e",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\37\\48c8c417ff93447e.mp4",
+  "source_start": 1.2,
+  "duration": 4.583333333333333,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019085003-lv5if",
+  "start": 143.33333333333334,
+  "end": 147.91666666666666
+}

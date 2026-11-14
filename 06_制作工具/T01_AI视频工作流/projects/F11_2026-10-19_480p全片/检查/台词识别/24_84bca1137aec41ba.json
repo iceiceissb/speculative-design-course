@@ -1,0 +1,70 @@
+{
+  "shot": "24",
+  "candidate": "84bca1137aec41ba",
+  "expected": [
+    {
+      "id": "L11",
+      "speaker": "来客",
+      "text": "老板，你这儿怎么进去啊？"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 2.0,
+      "end": 3.94,
+      "text": "老板,你这怎么进去啊?",
+      "avg_logprob": -0.4823310008415809,
+      "words": [
+        {
+          "start": 2.0,
+          "end": 2.38,
+          "word": "老",
+          "probability": 0.9535180926322937
+        },
+        {
+          "start": 2.38,
+          "end": 2.62,
+          "word": "板,",
+          "probability": 0.9323570132255554
+        },
+        {
+          "start": 2.8,
+          "end": 3.06,
+          "word": "你",
+          "probability": 0.8220640420913696
+        },
+        {
+          "start": 3.06,
+          "end": 3.18,
+          "word": "这",
+          "probability": 0.6938912868499756
+        },
+        {
+          "start": 3.18,
+          "end": 3.38,
+          "word": "怎么",
+          "probability": 0.8512300848960876
+        },
+        {
+          "start": 3.38,
+          "end": 3.56,
+          "word": "进",
+          "probability": 0.9985696077346802
+        },
+        {
+          "start": 3.56,
+          "end": 3.76,
+          "word": "去",
+          "probability": 0.9919861555099487
+        },
+        {
+          "start": 3.76,
+          "end": 3.94,
+          "word": "啊?",
+          "probability": 0.5417027473449707
+        }
+      ]
+    }
+  ]
+}

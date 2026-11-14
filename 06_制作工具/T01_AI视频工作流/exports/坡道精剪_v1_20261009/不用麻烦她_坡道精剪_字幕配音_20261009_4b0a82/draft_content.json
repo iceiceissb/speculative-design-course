@@ -1,0 +1,1733 @@
+{
+  "business_info": null,
+  "canvas_config": {
+    "width": 1280,
+    "height": 720,
+    "ratio": "original"
+  },
+  "color_space": 0,
+  "complement_frame_config": {
+    "open_close_key_complement_frame_flag": false,
+    "quality_enhance": false
+  },
+  "config": {
+    "adjust_max_index": 1,
+    "attachment_info": [],
+    "combination_max_index": 1,
+    "export_range": null,
+    "extract_audio_last_index": 1,
+    "lyrics_recognition_id": "",
+    "lyrics_sync": true,
+    "lyrics_taskinfo": [],
+    "maintrack_adsorb": true,
+    "material_save_mode": 0,
+    "multi_language_current": "none",
+    "multi_language_list": [],
+    "multi_language_main": "none",
+    "multi_language_mode": "none",
+    "original_sound_last_index": 1,
+    "record_audio_last_index": 1,
+    "sticker_max_index": 1,
+    "subtitle_keywords_config": null,
+    "subtitle_recognition_id": "",
+    "subtitle_sync": true,
+    "subtitle_taskinfo": [],
+    "system_font_list": [],
+    "video_mute": false,
+    "zoom_info_params": null
+  },
+  "cover": null,
+  "create_time": 1791559552358,
+  "duration": 18000000,
+  "extra_info": null,
+  "fps": 24,
+  "free_render_index_mode_on": false,
+  "group_container": null,
+  "id": "6822A785-A160-4F01-8A4B-CA8549F46271",
+  "keyframe_graph_list": [],
+  "keyframes": {
+    "adjusts": [],
+    "audios": [],
+    "effects": [],
+    "filters": [],
+    "handwrites": [],
+    "stickers": [],
+    "texts": [],
+    "videos": []
+  },
+  "last_modified_platform": {
+    "app_id": 3704,
+    "app_source": "lv",
+    "app_version": "5.9.0",
+    "os": "windows"
+  },
+  "platform": {
+    "app_id": 3704,
+    "app_source": "lv",
+    "app_version": "5.9.0",
+    "os": "windows"
+  },
+  "materials": {
+    "ai_translates": [],
+    "audio_balances": [],
+    "audio_effects": [],
+    "audio_fades": [
+      {
+        "id": "117db92ebe4a4a4a830cffa2aa1e3edb",
+        "fade_in_duration": 15000,
+        "fade_out_duration": 60000,
+        "fade_type": 0,
+        "type": "audio_fade"
+      },
+      {
+        "id": "37fcab0ce0c44b29b4e558cc3ca4eef8",
+        "fade_in_duration": 15000,
+        "fade_out_duration": 60000,
+        "fade_type": 0,
+        "type": "audio_fade"
+      },
+      {
+        "id": "271233e6580b4afebd2017095ef1c788",
+        "fade_in_duration": 15000,
+        "fade_out_duration": 60000,
+        "fade_type": 0,
+        "type": "audio_fade"
+      },
+      {
+        "id": "9d1ed2b7fb5b4ee0affb435bcb1321cd",
+        "fade_in_duration": 15000,
+        "fade_out_duration": 60000,
+        "fade_type": 0,
+        "type": "audio_fade"
+      },
+      {
+        "id": "5da4219ca93644789af4fac6e1a1ac51",
+        "fade_in_duration": 15000,
+        "fade_out_duration": 60000,
+        "fade_type": 0,
+        "type": "audio_fade"
+      },
+      {
+        "id": "f2ad87fa70ac4122b8a5acc6ef8fa879",
+        "fade_in_duration": 15000,
+        "fade_out_duration": 60000,
+        "fade_type": 0,
+        "type": "audio_fade"
+      }
+    ],
+    "audio_track_indexes": [],
+    "audios": [
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 18000000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "7d5bc4eb382b4ca9813eeae794982a5d",
+        "local_material_id": "59b480031dd9ccb5025a0b1eb1873416",
+        "music_id": "7d5bc4eb382b4ca9813eeae794982a5d",
+        "name": "59b480031dd9ccb5025a0b1eb1873416.wav",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\59b480031dd9ccb5025a0b1eb1873416.wav",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 6700000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "7053af3163ec4448a58de2bed0bb58a2",
+        "local_material_id": "de0f05161d5b91f00d3080d51b2a5066",
+        "music_id": "7053af3163ec4448a58de2bed0bb58a2",
+        "name": "de0f05161d5b91f00d3080d51b2a5066.wav",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\de0f05161d5b91f00d3080d51b2a5066.wav",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 120000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "d1df7f85c1a14bfdadc4e74cbac899d4",
+        "local_material_id": "63aaf982c6318c3e43058b23bb6cd38e",
+        "music_id": "d1df7f85c1a14bfdadc4e74cbac899d4",
+        "name": "63aaf982c6318c3e43058b23bb6cd38e.wav",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\63aaf982c6318c3e43058b23bb6cd38e.wav",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 2073000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "26d82747b2cc4052ba48e4d1d09bce8f",
+        "local_material_id": "e8bfd675c32baa33b814f47d3f146145",
+        "music_id": "26d82747b2cc4052ba48e4d1d09bce8f",
+        "name": "e8bfd675c32baa33b814f47d3f146145.wav",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\e8bfd675c32baa33b814f47d3f146145.wav",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 3624000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "f44c4464b6c24de5bfbb34f142f70844",
+        "local_material_id": "d0b4f9e56f9e49976011654dd538fd4d",
+        "music_id": "f44c4464b6c24de5bfbb34f142f70844",
+        "name": "d0b4f9e56f9e49976011654dd538fd4d.wav",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\d0b4f9e56f9e49976011654dd538fd4d.wav",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      },
+      {
+        "app_id": 0,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 3,
+        "copyright_limit_type": "none",
+        "duration": 3535000,
+        "effect_id": "",
+        "formula_id": "",
+        "id": "08cf32eddbc8446a9a2e087abd7a4448",
+        "local_material_id": "ec5bc0a97454d644b2cb19c909bee8e5",
+        "music_id": "08cf32eddbc8446a9a2e087abd7a4448",
+        "name": "ec5bc0a97454d644b2cb19c909bee8e5.wav",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\ec5bc0a97454d644b2cb19c909bee8e5.wav",
+        "source_platform": 0,
+        "type": "extract_music",
+        "wave_points": []
+      }
+    ],
+    "beats": [],
+    "canvases": [],
+    "chromas": [],
+    "color_curves": [],
+    "digital_humans": [],
+    "drafts": [],
+    "effects": [],
+    "flowers": [],
+    "green_screens": [],
+    "handwrites": [],
+    "hsl": [],
+    "images": [],
+    "log_color_wheels": [],
+    "loudnesses": [],
+    "manual_deformations": [],
+    "masks": [],
+    "material_animations": [],
+    "material_colors": [],
+    "multi_language_refs": [],
+    "placeholders": [],
+    "plugin_effects": [],
+    "primary_color_wheels": [],
+    "realtime_denoises": [],
+    "shapes": [],
+    "smart_crops": [],
+    "smart_relights": [],
+    "sound_channel_mappings": [],
+    "speeds": [
+      {
+        "curve_speed": null,
+        "id": "6f2b4038b8444985b9b9aa65c7bac8dd",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "93593ccc15714bda90fddf7e474a53fa",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "97cc07b4d27b428697e5344f909aa8ce",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "262bc26b2e6949b599822265ce75cff4",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "076a21b3051f4c898aba978f12deddea",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "c954f1ed01cd4e0ca23e238c0e1e4d44",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "5a986e397b944e02be1d111d0c27aaec",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "f8145a603b49440c9e84b0a03f01b9eb",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "e033f7b189514720aa7f581c214a78a2",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "8337b358d4fe45e1b88e93b87d94d587",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "2df002180fdb4396a16c1ecf1b26dbfd",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "37cad3baea71483085e1a13e097790f3",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "276b063470834370b51b564041b98273",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      },
+      {
+        "curve_speed": null,
+        "id": "6168372476ed4f6ebdf789ccf53fb2e0",
+        "mode": 0,
+        "speed": 1.0,
+        "type": "speed"
+      }
+    ],
+    "stickers": [],
+    "tail_leaders": [],
+    "text_templates": [],
+    "texts": [
+      {
+        "id": "7b27a58748f24a07afc6f093d0dd8876",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1, 1, 1]}}}, \"range\": [0, 6], \"size\": 5.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [{\"content\": {\"solid\": {\"alpha\": 0.55, \"color\": [0.08, 0.08, 0.08]}}, \"width\": 0.024}]}], \"text\": \"灯怎么亮了？\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 15,
+        "type": "text",
+        "global_alpha": 1.0
+      },
+      {
+        "id": "76bcf656d3c842b391037087de3f6fed",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1, 1, 1]}}}, \"range\": [0, 11], \"size\": 5.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [{\"content\": {\"solid\": {\"alpha\": 0.55, \"color\": [0.08, 0.08, 0.08]}}, \"width\": 0.024}]}], \"text\": \"刚才这一路，你也在推？\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 15,
+        "type": "text",
+        "global_alpha": 1.0
+      },
+      {
+        "id": "9b3597d49f8e45859f7a5a47ac97d732",
+        "content": "{\"styles\": [{\"fill\": {\"alpha\": 1.0, \"content\": {\"render_type\": \"solid\", \"solid\": {\"alpha\": 1.0, \"color\": [1, 1, 1]}}}, \"range\": [0, 11], \"size\": 5.0, \"bold\": false, \"italic\": false, \"underline\": false, \"strokes\": [{\"content\": {\"solid\": {\"alpha\": 0.55, \"color\": [0.08, 0.08, 0.08]}}, \"width\": 0.024}]}], \"text\": \"帮我可以，先让我知道。\"}",
+        "typesetting": 0,
+        "alignment": 1,
+        "letter_spacing": 0.0,
+        "line_spacing": 0.02,
+        "line_feed": 1,
+        "line_max_width": 0.82,
+        "force_apply_line_max_width": false,
+        "check_flag": 15,
+        "type": "text",
+        "global_alpha": 1.0
+      }
+    ],
+    "time_marks": [],
+    "transitions": [],
+    "video_effects": [],
+    "video_trackings": [],
+    "videos": [
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 2000000,
+        "height": 720,
+        "id": "f89d8fbcfc0048a48d12bf286156a6b8",
+        "local_material_id": "3886c9489afb517ebc401d778df15545",
+        "material_id": "f89d8fbcfc0048a48d12bf286156a6b8",
+        "material_name": "3886c9489afb517ebc401d778df15545.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\3886c9489afb517ebc401d778df15545.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 1000000,
+        "height": 720,
+        "id": "a0c72651815e4d059a24fe3942f42908",
+        "local_material_id": "3b3dfd8876c6dcd288cd537b1657acd8",
+        "material_id": "a0c72651815e4d059a24fe3942f42908",
+        "material_name": "3b3dfd8876c6dcd288cd537b1657acd8.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\3b3dfd8876c6dcd288cd537b1657acd8.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 1167000,
+        "height": 720,
+        "id": "a687fd8ba3024b43920d23b1a1bf6700",
+        "local_material_id": "0f9978eb65956bcba5c99b6b83f38f53",
+        "material_id": "a687fd8ba3024b43920d23b1a1bf6700",
+        "material_name": "0f9978eb65956bcba5c99b6b83f38f53.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\0f9978eb65956bcba5c99b6b83f38f53.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 3000000,
+        "height": 720,
+        "id": "f08043b9d28646948fcf65d3af8cccdb",
+        "local_material_id": "0cb330efb20b30644199c858503e8cbd",
+        "material_id": "f08043b9d28646948fcf65d3af8cccdb",
+        "material_name": "0cb330efb20b30644199c858503e8cbd.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\0cb330efb20b30644199c858503e8cbd.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 2750000,
+        "height": 720,
+        "id": "754527056a0c4ed891d7828ea80b647c",
+        "local_material_id": "e2d7458a010c5facd6b3f0c147cbcab6",
+        "material_id": "754527056a0c4ed891d7828ea80b647c",
+        "material_name": "e2d7458a010c5facd6b3f0c147cbcab6.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\e2d7458a010c5facd6b3f0c147cbcab6.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 2000000,
+        "height": 720,
+        "id": "5b70fedc9c634eeb8b057aa76dd93330",
+        "local_material_id": "787cf93ad6664a51ec59909fd2b39285",
+        "material_id": "5b70fedc9c634eeb8b057aa76dd93330",
+        "material_name": "787cf93ad6664a51ec59909fd2b39285.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\787cf93ad6664a51ec59909fd2b39285.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 1875000,
+        "height": 720,
+        "id": "102c236df285487ab8b768ee892da605",
+        "local_material_id": "21d893e2f264c7c8d3c35f789a43a93f",
+        "material_id": "102c236df285487ab8b768ee892da605",
+        "material_name": "21d893e2f264c7c8d3c35f789a43a93f.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\21d893e2f264c7c8d3c35f789a43a93f.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      },
+      {
+        "audio_fade": null,
+        "category_id": "",
+        "category_name": "local",
+        "check_flag": 63487,
+        "crop": {
+          "upper_left_x": 0.0,
+          "upper_left_y": 0.0,
+          "upper_right_x": 1.0,
+          "upper_right_y": 0.0,
+          "lower_left_x": 0.0,
+          "lower_left_y": 1.0,
+          "lower_right_x": 1.0,
+          "lower_right_y": 1.0
+        },
+        "crop_ratio": "free",
+        "crop_scale": 1.0,
+        "duration": 4209000,
+        "height": 720,
+        "id": "60739dcd0dfa4b80a3829921d2397e51",
+        "local_material_id": "03a7b491d6ec74c4427d190b3eb761f2",
+        "material_id": "60739dcd0dfa4b80a3829921d2397e51",
+        "material_name": "03a7b491d6ec74c4427d190b3eb761f2.mp4",
+        "media_path": "",
+        "path": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\exports\\坡道精剪_v1_20261009\\不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82\\materials\\03a7b491d6ec74c4427d190b3eb761f2.mp4",
+        "type": "video",
+        "video_algorithm": {
+          "algorithms": [],
+          "complement_frame_config": null,
+          "deflicker": null,
+          "gameplay_configs": [],
+          "motion_blur_config": null,
+          "noise_reduction": null,
+          "path": "",
+          "quality_enhance": null,
+          "time_range": null
+        },
+        "source_platform": 0,
+        "team_id": "",
+        "width": 1280
+      }
+    ],
+    "vocal_beautifys": [],
+    "vocal_separations": []
+  },
+  "mutable_config": null,
+  "name": "不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82",
+  "new_version": "110.0.0",
+  "relationships": [],
+  "render_index_track_mode_on": true,
+  "retouch_cover": null,
+  "source": "default",
+  "static_cover_image_path": "",
+  "time_marks": null,
+  "tracks": [
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "a914d76b29b149b4ad47398b166e96a9",
+      "is_default_name": false,
+      "name": "精剪画面",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "bad0aa30f6e44c559aedc64804e39d94",
+          "material_id": "f89d8fbcfc0048a48d12bf286156a6b8",
+          "target_timerange": {
+            "start": 0,
+            "duration": 2000000
+          },
+          "common_keyframes": [
+            {
+              "id": "72112b3527ed4af7998db1968c5e906e",
+              "keyframe_list": [
+                {
+                  "curveType": "Line",
+                  "graphID": "",
+                  "left_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "right_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "id": "8db753739ab34e2bad079fadddd09fc5",
+                  "time_offset": 0,
+                  "values": [
+                    0
+                  ]
+                },
+                {
+                  "curveType": "Line",
+                  "graphID": "",
+                  "left_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "right_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "id": "26df635f6f5e455685da11a5c59106d5",
+                  "time_offset": 180000,
+                  "values": [
+                    1
+                  ]
+                }
+              ],
+              "material_id": "",
+              "property_type": "KFTypeAlpha"
+            }
+          ],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 2000000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "6f2b4038b8444985b9b9aa65c7bac8dd"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "5ad17d419d9b49e9b4e6ab69cb90dcc3",
+          "material_id": "a0c72651815e4d059a24fe3942f42908",
+          "target_timerange": {
+            "start": 2000000,
+            "duration": 1000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1000000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "93593ccc15714bda90fddf7e474a53fa"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "2b9412732b724f46b5adb8e42728d833",
+          "material_id": "a687fd8ba3024b43920d23b1a1bf6700",
+          "target_timerange": {
+            "start": 3000000,
+            "duration": 1166667
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1166667
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "97cc07b4d27b428697e5344f909aa8ce"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "550060ee8c634c5d9a39686cbed33520",
+          "material_id": "f08043b9d28646948fcf65d3af8cccdb",
+          "target_timerange": {
+            "start": 4166667,
+            "duration": 3000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 3000000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "262bc26b2e6949b599822265ce75cff4"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "cbe3147b8a3d4e72ac2d14dca34da3a6",
+          "material_id": "754527056a0c4ed891d7828ea80b647c",
+          "target_timerange": {
+            "start": 7166667,
+            "duration": 2750000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 2750000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "076a21b3051f4c898aba978f12deddea"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "89327608ca954a6a82f3639d4cd9d917",
+          "material_id": "5b70fedc9c634eeb8b057aa76dd93330",
+          "target_timerange": {
+            "start": 9916667,
+            "duration": 2000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 2000000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "c954f1ed01cd4e0ca23e238c0e1e4d44"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "6d96e37dbf924d51b56273d23e0b5ee2",
+          "material_id": "102c236df285487ab8b768ee892da605",
+          "target_timerange": {
+            "start": 11916667,
+            "duration": 1875000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 1875000
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "5a986e397b944e02be1d111d0c27aaec"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "a3a7d774ba604fd19c70e4460ac47176",
+          "material_id": "60739dcd0dfa4b80a3829921d2397e51",
+          "target_timerange": {
+            "start": 13791667,
+            "duration": 4208333
+          },
+          "common_keyframes": [
+            {
+              "id": "41e1c2c69b4040b7b6c566bf02967821",
+              "keyframe_list": [
+                {
+                  "curveType": "Line",
+                  "graphID": "",
+                  "left_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "right_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "id": "c07655fe0e0b419c96337d9958f99eea",
+                  "time_offset": 3658333,
+                  "values": [
+                    1
+                  ]
+                },
+                {
+                  "curveType": "Line",
+                  "graphID": "",
+                  "left_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "right_control": {
+                    "x": 0.0,
+                    "y": 0.0
+                  },
+                  "id": "ae559a1ea67e4f3faf5412e235d7a083",
+                  "time_offset": 4208333,
+                  "values": [
+                    0
+                  ]
+                }
+              ],
+              "material_id": "",
+              "property_type": "KFTypeAlpha"
+            }
+          ],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 4208333
+          },
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "f8145a603b49440c9e84b0a03f01b9eb"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": 0.0
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "hdr_settings": {
+            "intensity": 1.0,
+            "mode": 1,
+            "nits": 1000
+          },
+          "render_index": 0
+        }
+      ],
+      "type": "video"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "16e42960c5824dc08bf45e7c827d9730",
+      "is_default_name": false,
+      "name": "环境音_wind",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "14924766a55e4734acebd25604e0315d",
+          "material_id": "7d5bc4eb382b4ca9813eeae794982a5d",
+          "target_timerange": {
+            "start": 0,
+            "duration": 18000000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 18000000
+          },
+          "speed": 1.0,
+          "volume": 1,
+          "extra_material_refs": [
+            "e033f7b189514720aa7f581c214a78a2",
+            "117db92ebe4a4a4a830cffa2aa1e3edb"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "60226abe9f3a471d8785f6befbc99645",
+      "is_default_name": false,
+      "name": "环境音_motor",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "202324408ae7463f83862cb6850ab5c6",
+          "material_id": "7053af3163ec4448a58de2bed0bb58a2",
+          "target_timerange": {
+            "start": 3000000,
+            "duration": 6700000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 6700000
+          },
+          "speed": 1.0,
+          "volume": 1,
+          "extra_material_refs": [
+            "8337b358d4fe45e1b88e93b87d94d587",
+            "37fcab0ce0c44b29b4e558cc3ca4eef8"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "67f1f7155f414060ba39343ed9050344",
+      "is_default_name": false,
+      "name": "环境音_light",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "bd2f01aeeced47c0a41d0c245d5efe10",
+          "material_id": "d1df7f85c1a14bfdadc4e74cbac899d4",
+          "target_timerange": {
+            "start": 3090000,
+            "duration": 120000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 120000
+          },
+          "speed": 1.0,
+          "volume": 1,
+          "extra_material_refs": [
+            "2df002180fdb4396a16c1ecf1b26dbfd",
+            "271233e6580b4afebd2017095ef1c788"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "b8b2e7bb0a0444a48b957f4ab5f478a4",
+      "is_default_name": false,
+      "name": "对白_徐月禾",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "87cef0d30ac54ddf8bc4e25bb951f443",
+          "material_id": "26d82747b2cc4052ba48e4d1d09bce8f",
+          "target_timerange": {
+            "start": 5000000,
+            "duration": 2073000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 2073000
+          },
+          "speed": 1.0,
+          "volume": 1,
+          "extra_material_refs": [
+            "37cad3baea71483085e1a13e097790f3",
+            "9d1ed2b7fb5b4ee0affb435bcb1321cd"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "3af6f1355e8b4b28b28153f93a0d5bb0",
+          "material_id": "f44c4464b6c24de5bfbb34f142f70844",
+          "target_timerange": {
+            "start": 9950000,
+            "duration": 3623500
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 3623500
+          },
+          "speed": 1.0,
+          "volume": 1,
+          "extra_material_refs": [
+            "276b063470834370b51b564041b98273",
+            "5da4219ca93644789af4fac6e1a1ac51"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "5878815b554f445fa8cb9b6b13cb31c2",
+          "material_id": "08cf32eddbc8446a9a2e087abd7a4448",
+          "target_timerange": {
+            "start": 13900000,
+            "duration": 3535000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": {
+            "start": 0,
+            "duration": 3535000
+          },
+          "speed": 1.0,
+          "volume": 1,
+          "extra_material_refs": [
+            "6168372476ed4f6ebdf789ccf53fb2e0",
+            "f2ad87fa70ac4122b8a5acc6ef8fa879"
+          ],
+          "is_tone_modify": false,
+          "clip": null,
+          "hdr_settings": null,
+          "render_index": 0
+        }
+      ],
+      "type": "audio"
+    },
+    {
+      "attribute": 0,
+      "flag": 0,
+      "id": "29093344af7e4f63b6d2e489a26f8ac2",
+      "is_default_name": false,
+      "name": "对白同步字幕",
+      "segments": [
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "a5f76299cd354d4eb48f846558998b11",
+          "material_id": "7b27a58748f24a07afc6f093d0dd8876",
+          "target_timerange": {
+            "start": 5050000,
+            "duration": 1550000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "d499cbdc0c2e4ab682fe69557466dd27"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": -0.81
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "ae1356d5ce13445b9aa7594ebf05ba58",
+          "material_id": "76bcf656d3c842b391037087de3f6fed",
+          "target_timerange": {
+            "start": 10010000,
+            "duration": 3100000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "11e1ada8a17a41a29623cc021135038f"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": -0.81
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        },
+        {
+          "enable_adjust": true,
+          "enable_color_correct_adjust": false,
+          "enable_color_curves": true,
+          "enable_color_match_adjust": false,
+          "enable_color_wheels": true,
+          "enable_lut": true,
+          "enable_smart_color_adjust": false,
+          "last_nonzero_volume": 1.0,
+          "reverse": false,
+          "track_attribute": 0,
+          "track_render_index": 0,
+          "visible": true,
+          "id": "843efa4091e6432e8c659c1e7f0a2bfc",
+          "material_id": "9b3597d49f8e45859f7a5a47ac97d732",
+          "target_timerange": {
+            "start": 13980000,
+            "duration": 2970000
+          },
+          "common_keyframes": [],
+          "keyframe_refs": [],
+          "source_timerange": null,
+          "speed": 1.0,
+          "volume": 1.0,
+          "extra_material_refs": [
+            "8c3a7f0e2efe4f4fa76df95af31ba173"
+          ],
+          "is_tone_modify": false,
+          "clip": {
+            "alpha": 1.0,
+            "flip": {
+              "horizontal": false,
+              "vertical": false
+            },
+            "rotation": 0.0,
+            "scale": {
+              "x": 1.0,
+              "y": 1.0
+            },
+            "transform": {
+              "x": 0.0,
+              "y": -0.81
+            }
+          },
+          "uniform_scale": {
+            "on": true,
+            "value": 1.0
+          },
+          "render_index": 15000
+        }
+      ],
+      "type": "text"
+    }
+  ],
+  "update_time": 1791559552358,
+  "version": 360000,
+  "video_algorithm": {
+    "algorithms": [],
+    "complement_frame_config": null,
+    "deflicker": null,
+    "quality_enhance": null
+  }
+}

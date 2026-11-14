@@ -1,0 +1,808 @@
+[
+  {
+    "shot": "01",
+    "candidate": "3ac3de7d41ed4689",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\01_3ac3de7d41ed4689.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019083509-z6opm",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "02",
+    "candidate": "29cc4944c98f4cbd",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\02_29cc4944c98f4cbd.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019091527-91one",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "03",
+    "candidate": "cc52df4eb6c641f5",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\03_cc52df4eb6c641f5.mp4",
+    "source": "Seedance 2.5·本轮动作修订",
+    "task_id": "cgt-20261019172742-ik800",
+    "selected": true,
+    "charged_in_this_revision": true,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "04",
+    "candidate": "5f43de4ca712484f",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\04_5f43de4ca712484f.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019083657-9hbhd",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "05",
+    "candidate": "877e7d30d8b64720",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\05_877e7d30d8b64720.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019083706-znt53",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "06",
+    "candidate": "ba6c5581ce384d0e",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\06_ba6c5581ce384d0e.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019083709-zg9vz",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "07",
+    "candidate": "ce8186c7c9804ae2",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\07_ce8186c7c9804ae2.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084049-75ocd",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "08",
+    "candidate": "73f0a734643e4f1c",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\08_73f0a734643e4f1c.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084055-yjiea",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "09",
+    "candidate": "64713ece859e422f",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\09_64713ece859e422f.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084059-kyy14",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 96249,
+      "total_tokens": 96249
+    }
+  },
+  {
+    "shot": "10",
+    "candidate": "56feed9e0aac4c5b",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\10_56feed9e0aac4c5b.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084104-jkl23",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "12",
+    "candidate": "e4a81a043b374d4e",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\12_e4a81a043b374d4e.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084108-cxxeb",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "13",
+    "candidate": "e6d2afb0c3b44ee4",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\13_e6d2afb0c3b44ee4.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084112-j4hz4",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "14",
+    "candidate": "7fb4639482424fe5",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\14_7fb4639482424fe5.mp4",
+    "source": "Seedance 2.5·本轮动作修订",
+    "task_id": "cgt-20261019172729-jzz5w",
+    "selected": true,
+    "charged_in_this_revision": true,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "15",
+    "candidate": "bd887d3282dc4c98",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\15_bd887d3282dc4c98.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084355-3wpf3",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  },
+  {
+    "shot": "16",
+    "candidate": "58d292ba384e4472",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\16_58d292ba384e4472.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084358-x07bi",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 77079,
+      "total_tokens": 77079
+    }
+  },
+  {
+    "shot": "17",
+    "candidate": "151829a81cbc4baf",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\17_151829a81cbc4baf.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084402-lmsln",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "19",
+    "candidate": "4d8c8cbd29f647e0",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\19_4d8c8cbd29f647e0.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084405-vi546",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "20",
+    "candidate": "5344cb282ba74ca8",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\20_5344cb282ba74ca8.mp4",
+    "source": "imported",
+    "task_id": null,
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 152100,
+      "total_tokens": 152100
+    }
+  },
+  {
+    "shot": "21",
+    "candidate": "085378054ff849a8",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\21_085378054ff849a8.mp4",
+    "source": "imported",
+    "task_id": null,
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 130500,
+      "total_tokens": 130500
+    }
+  },
+  {
+    "shot": "22",
+    "candidate": "4b7c526636034cf6",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\22_4b7c526636034cf6.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084414-vuqw9",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "23",
+    "candidate": "6f285186519544ce",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\23_6f285186519544ce.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084416-yf4f3",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "24",
+    "candidate": "84bca1137aec41ba",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\24_84bca1137aec41ba.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084649-kg15u",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "25",
+    "candidate": "c4c984861b3c411f",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\25_c4c984861b3c411f.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084652-2arb5",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  },
+  {
+    "shot": "26",
+    "candidate": "19b49b86b58749e5",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\26_19b49b86b58749e5.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084656-bzxrt",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "27",
+    "candidate": "3b10411cd94b4737",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\27_3b10411cd94b4737.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084705-kpie5",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "28",
+    "candidate": "21b46d70e6dc476e",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\28_21b46d70e6dc476e.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084716-qenva",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "29",
+    "candidate": "b1acad2828f5448d",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\29_b1acad2828f5448d.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084719-f4afk",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 86664,
+      "total_tokens": 86664
+    }
+  },
+  {
+    "shot": "31",
+    "candidate": "ab106648be1142c2",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\31_ab106648be1142c2.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084937-chnnm",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 86664,
+      "total_tokens": 86664
+    }
+  },
+  {
+    "shot": "33",
+    "candidate": "9d24b24a8c44429a",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\33_9d24b24a8c44429a.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084940-70sjc",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  },
+  {
+    "shot": "34",
+    "candidate": "5ff1e31ebb224b53",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\34_5ff1e31ebb224b53.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084943-gcpe7",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "35",
+    "candidate": "5409d2726a8d4886",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\35_5409d2726a8d4886.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084953-88lip",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "36",
+    "candidate": "1d2fdfb828b243b2",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\36_1d2fdfb828b243b2.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019084955-dir3m",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "37",
+    "candidate": "48c8c417ff93447e",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\37_48c8c417ff93447e.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085003-lv5if",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "38",
+    "candidate": "2765f7ac7d97427a",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\38_2765f7ac7d97427a.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085215-b0e6o",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "39",
+    "candidate": "62012891d7d14fa2",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\39_62012891d7d14fa2.mp4",
+    "source": "Seedance 2.5·本轮动作修订",
+    "task_id": "cgt-20261019172753-3tozd",
+    "selected": true,
+    "charged_in_this_revision": true,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "40",
+    "candidate": "210ac23df9934660",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\40_210ac23df9934660.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085233-algn7",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "42",
+    "candidate": "75839f359eee4d63",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\42_75839f359eee4d63.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085235-5kdc2",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  },
+  {
+    "shot": "43",
+    "candidate": "2d87e8f71d064d24",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\43_2d87e8f71d064d24.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085238-1b6z2",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "44",
+    "candidate": "f20a51730b8b426c",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\44_f20a51730b8b426c.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085245-babol",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "45",
+    "candidate": "c470e1ec555f4c28",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\45_c470e1ec555f4c28.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085504-tbdxy",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48437,
+      "total_tokens": 48437
+    }
+  },
+  {
+    "shot": "46",
+    "candidate": "e112c6664edb4279",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\46_e112c6664edb4279.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085508-wvia1",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "47",
+    "candidate": "13082a2b938d493c",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\47_13082a2b938d493c.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085512-eldwa",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "48",
+    "candidate": "5f38444da8fd48a8",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\48_5f38444da8fd48a8.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085515-le1ig",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "49",
+    "candidate": "9b16d4a3620941cc",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\49_9b16d4a3620941cc.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085518-5vgek",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "50",
+    "candidate": "218bb9a847ed495e",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\50_218bb9a847ed495e.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019085521-gmi1e",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "51",
+    "candidate": "d1c8978cba574cdc",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\51_d1c8978cba574cdc.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090127-0cv3m",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "52",
+    "candidate": "3dc96bbb987f4019",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\52_3dc96bbb987f4019.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090131-wokld",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  },
+  {
+    "shot": "53",
+    "candidate": "ae3039d5aa9448b1",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\53_ae3039d5aa9448b1.mp4",
+    "source": "imported",
+    "task_id": null,
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 173700,
+      "total_tokens": 173700
+    }
+  },
+  {
+    "shot": "54",
+    "candidate": "3eeae706b2e3460e",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\54_3eeae706b2e3460e.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090147-8mnrr",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38830,
+      "total_tokens": 38830
+    }
+  },
+  {
+    "shot": "56",
+    "candidate": "a684868f839c4219",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\56_a684868f839c4219.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090151-qch4i",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "59",
+    "candidate": "35fd6674cd344d61",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\59_35fd6674cd344d61.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090156-t99n8",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "60",
+    "candidate": "455e54c525ec44ff",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\60_455e54c525ec44ff.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090200-sw1er",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "61",
+    "candidate": "c2f654cb73514b56",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\61_c2f654cb73514b56.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090631-atomn",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "62",
+    "candidate": "a5302a2900be4bdf",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\62_a5302a2900be4bdf.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090634-p7x40",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "63",
+    "candidate": "1e37e322201b40af",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\63_1e37e322201b40af.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090638-mvcjd",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 48324,
+      "total_tokens": 48324
+    }
+  },
+  {
+    "shot": "64",
+    "candidate": "b3ee290d02c84125",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\64_b3ee290d02c84125.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090641-hw0mt",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "66",
+    "candidate": "c40dcac17a124429",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\66_c40dcac17a124429.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090645-s1tah",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "67",
+    "candidate": "d3c04828655640fc",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\67_d3c04828655640fc.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019090648-en1pe",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "68",
+    "candidate": "87fcb647647f4ee6",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\68_87fcb647647f4ee6.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019091505-8novp",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 57909,
+      "total_tokens": 57909
+    }
+  },
+  {
+    "shot": "69",
+    "candidate": "b805e4686cec4341",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\69_b805e4686cec4341.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019091514-n7cos",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 38739,
+      "total_tokens": 38739
+    }
+  },
+  {
+    "shot": "70",
+    "candidate": "1521addb74ea45cd",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\70_1521addb74ea45cd.mp4",
+    "source": "Seedance 2.5·本轮动作修订",
+    "task_id": "cgt-20261019172732-h5v7c",
+    "selected": true,
+    "charged_in_this_revision": true,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  },
+  {
+    "shot": "71",
+    "candidate": "5f066223cf904464",
+    "file": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\原始视频\\71_5f066223cf904464.mp4",
+    "source": "seedance",
+    "task_id": "cgt-20261019091524-gbzzj",
+    "selected": true,
+    "charged_in_this_revision": false,
+    "usage": {
+      "completion_tokens": 67494,
+      "total_tokens": 67494
+    }
+  }
+]

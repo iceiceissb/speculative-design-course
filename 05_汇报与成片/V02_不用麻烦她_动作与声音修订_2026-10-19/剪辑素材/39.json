@@ -1,0 +1,19 @@
+{
+  "signature": "0489f4bc2c5d6aef3e77984a1a3f820b0b527ab3b24ddee0e709d08ff9c0bccf",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\39.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\39.wav",
+  "id": "39",
+  "title": "公交站的人行道断口",
+  "kind": "video",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_动作与声音修订\\candidates\\39\\62012891d7d14fa2.mp4",
+  "source_start": 0,
+  "duration": 4.916666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "Seedance 2.5·本轮动作修订",
+  "start": 152.20833333333334,
+  "end": 157.125,
+  "candidate": "62012891d7d14fa2",
+  "task_id": "cgt-20261019172753-3tozd"
+}

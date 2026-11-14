@@ -1,0 +1,19 @@
+{
+  "signature": "52e37520a013c6d198b7501b771e3b7f46b189e34bbad783ce4d48593ce328be",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\51.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\51.wav",
+  "id": "51",
+  "title": "裁红布与挪开猫",
+  "kind": "video",
+  "candidate": "d1c8978cba574cdc",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\51\\d1c8978cba574cdc.mp4",
+  "source_start": 0.35,
+  "duration": 2.7083333333333335,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019090127-0cv3m",
+  "start": 188.625,
+  "end": 191.33333333333334
+}

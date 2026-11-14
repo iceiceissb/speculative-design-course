@@ -1,0 +1,113 @@
+{
+  "signature": "e091cc6361ad94d6aa928f01309b8f81222f958b28def75a7388921d57f46038",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\34.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\34.wav",
+  "id": "34",
+  "title": "邱递出软尺",
+  "kind": "video",
+  "candidate": "5ff1e31ebb224b53",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\34\\5ff1e31ebb224b53.mp4",
+  "source_start": 0.9900000000000002,
+  "duration": 4.5,
+  "dialogue": [
+    {
+      "id": "L21",
+      "speaker": "店主",
+      "text": "我店里好像有把尺……"
+    },
+    {
+      "id": "L22",
+      "speaker": "邱",
+      "text": "我这儿有。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 1.4400000000000002,
+      "end": 3.1,
+      "text": "我店里好像有把尺",
+      "avg_logprob": -0.4092848160687615,
+      "words": [
+        {
+          "start": 1.4400000000000002,
+          "end": 1.84,
+          "word": "我",
+          "probability": 0.850253164768219
+        },
+        {
+          "start": 1.84,
+          "end": 2.04,
+          "word": "店",
+          "probability": 0.9428584575653076
+        },
+        {
+          "start": 2.04,
+          "end": 2.22,
+          "word": "里",
+          "probability": 0.8936066031455994
+        },
+        {
+          "start": 2.22,
+          "end": 2.48,
+          "word": "好像",
+          "probability": 0.983655571937561
+        },
+        {
+          "start": 2.48,
+          "end": 2.7,
+          "word": "有",
+          "probability": 0.9866229891777039
+        },
+        {
+          "start": 2.7,
+          "end": 2.84,
+          "word": "把",
+          "probability": 0.6780463457107544
+        },
+        {
+          "start": 2.84,
+          "end": 3.1,
+          "word": "尺",
+          "probability": 0.6209790706634521
+        }
+      ]
+    },
+    {
+      "start": 3.1,
+      "end": 3.76,
+      "text": "我这儿有",
+      "avg_logprob": -0.4092848160687615,
+      "words": [
+        {
+          "start": 3.1,
+          "end": 3.28,
+          "word": "我",
+          "probability": 0.7862621545791626
+        },
+        {
+          "start": 3.28,
+          "end": 3.48,
+          "word": "这",
+          "probability": 0.9712828993797302
+        },
+        {
+          "start": 3.48,
+          "end": 3.58,
+          "word": "儿",
+          "probability": 0.788689136505127
+        },
+        {
+          "start": 3.58,
+          "end": 3.76,
+          "word": "有",
+          "probability": 0.9981822967529297
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084943-gcpe7",
+  "start": 131.625,
+  "end": 136.125
+}

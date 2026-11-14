@@ -1,0 +1,19 @@
+{
+  "signature": "dbc3b2bb40fe3fd287501d3f34189491d55a6bde05b90fa101b09d4f4c2919b4",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\14.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V02_不用麻烦她_动作与声音修订_2026-10-19\\剪辑素材\\14.wav",
+  "id": "14",
+  "title": "确认通行",
+  "kind": "video",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_动作与声音修订\\candidates\\14R2\\7fb4639482424fe5.mp4",
+  "source_start": 0,
+  "duration": 3.7916666666666665,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "Seedance 2.5·本轮动作修订",
+  "start": 48.416666666666664,
+  "end": 52.208333333333336,
+  "candidate": "7fb4639482424fe5",
+  "task_id": "cgt-20261019172729-jzz5w"
+}

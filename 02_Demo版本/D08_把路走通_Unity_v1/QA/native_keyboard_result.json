@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "platform": "Windows x64 standalone",
+  "foreground_process_verified": true,
+  "keys_sent": ["F12", "Enter", "D held 1.2 seconds", "F12"],
+  "observations": [
+    "Enter changed the title screen to the active task HUD",
+    "The wheelchair moved right from its initial position after D",
+    "F12 saved two readable 1600x900 screenshots",
+    "Chinese labels, character and environment rendered correctly"
+  ],
+  "screenshots": ["native_title.png", "native_keyboard.png"],
+  "runtime_errors_found": 0
+}

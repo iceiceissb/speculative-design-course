@@ -1,0 +1,48 @@
+{
+  "updated_at": "2026-10-19T17:37:18+08:00",
+  "api_tasks_created": 4,
+  "successful_tasks": 4,
+  "usage_estimated_rmb": 13.5307,
+  "rate_rmb_per_million_completion_tokens": 70,
+  "actual_invoice_verified": false,
+  "ui_paid_tasks": 0,
+  "network_interruption_reconciled_no_task": true,
+  "tasks": [
+    {
+      "shot": "14",
+      "job_id": "14R2",
+      "candidate": "7fb4639482424fe5",
+      "task_id": "cgt-20261019172729-jzz5w",
+      "status": "succeeded",
+      "completion_tokens": 38739,
+      "estimated_rmb": 2.71173
+    },
+    {
+      "shot": "70",
+      "job_id": "70",
+      "candidate": "1521addb74ea45cd",
+      "task_id": "cgt-20261019172732-h5v7c",
+      "status": "succeeded",
+      "completion_tokens": 67494,
+      "estimated_rmb": 4.72458
+    },
+    {
+      "shot": "03",
+      "job_id": "03",
+      "candidate": "cc52df4eb6c641f5",
+      "task_id": "cgt-20261019172742-ik800",
+      "status": "succeeded",
+      "completion_tokens": 38739,
+      "estimated_rmb": 2.71173
+    },
+    {
+      "shot": "39",
+      "job_id": "39",
+      "candidate": "62012891d7d14fa2",
+      "task_id": "cgt-20261019172753-3tozd",
+      "status": "succeeded",
+      "completion_tokens": 48324,
+      "estimated_rmb": 3.38268
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "shot": "22",
+  "candidate": "4b7c526636034cf6",
+  "expected": [
+    {
+      "id": "L10",
+      "speaker": "邱",
+      "text": "这个好。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 2.66,
+      "end": 3.86,
+      "text": "这个好。",
+      "avg_logprob": -0.9705702463785807,
+      "words": [
+        {
+          "start": 2.66,
+          "end": 3.46,
+          "word": "这个",
+          "probability": 0.5246149301528931
+        },
+        {
+          "start": 3.46,
+          "end": 3.86,
+          "word": "好。",
+          "probability": 0.9581783413887024
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3265 @@
+{
+  "candidates": [
+    {
+      "id": "5344cb282ba74ca8",
+      "job_id": "20",
+      "source": "imported",
+      "status": "succeeded",
+      "file": "candidates/20/5344cb282ba74ca8.mp4",
+      "original_name": "2b2fc0bc56c84859.mp4",
+      "sha256": "a8606878d1fb72032e63d6754e6378059d6a786890fbca738db4882564ae67bc",
+      "media": {
+        "duration": 7.072,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "created_at": "2026-10-19T08:35:01+08:00",
+      "thumbnail": "candidates/20/5344cb282ba74ca8.jpg"
+    },
+    {
+      "id": "085378054ff849a8",
+      "job_id": "21",
+      "source": "imported",
+      "status": "succeeded",
+      "file": "candidates/21/085378054ff849a8.mp4",
+      "original_name": "7b34396df4104374.mp4",
+      "sha256": "810cda6dc5bd8142783babe6db107c3b6818fe83caa0004a355c203b44b62b4f",
+      "media": {
+        "duration": 6.048,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "created_at": "2026-10-19T08:35:03+08:00",
+      "thumbnail": "candidates/21/085378054ff849a8.jpg"
+    },
+    {
+      "id": "ae3039d5aa9448b1",
+      "job_id": "53",
+      "source": "imported",
+      "status": "succeeded",
+      "file": "candidates/53/ae3039d5aa9448b1.mp4",
+      "original_name": "f2672c599a0f4339.mp4",
+      "sha256": "422efdf0f972e977ba1013ee850287ccb5dfde752b7eb5ded14584cec10553bf",
+      "media": {
+        "duration": 8.064,
+        "width": 1280,
+        "height": 720,
+        "has_audio": true
+      },
+      "created_at": "2026-10-19T08:35:03+08:00",
+      "thumbnail": "candidates/53/ae3039d5aa9448b1.jpg"
+    },
+    {
+      "id": "3ac3de7d41ed4689",
+      "job_id": "01",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "c5154024abc20953e34ea998d4360fec5c0e07a133cc7046b4f7815d84cf4072",
+      "variant": 1,
+      "seed": 1209720825,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:35:20+08:00",
+      "snapshot": {
+        "job": {
+          "id": "01",
+          "title": "裂扣与舞裙",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "01_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱把旧扣贴到裙领边比颜色，软尺露在布袋口。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "01"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019083509-z6opm",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/01/3ac3de7d41ed4689.mp4",
+      "thumbnail": "candidates/01/3ac3de7d41ed4689.jpg"
+    },
+    {
+      "id": "40d39da385a149d6",
+      "job_id": "02",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "4cff768af510f6cfe8d18b3c4c74b89fa3861a8d5c2957bd932c355a4af66854",
+      "variant": 1,
+      "seed": 1586967481,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:35:25+08:00",
+      "snapshot": {
+        "job": {
+          "id": "02",
+          "title": "手轮挡在柱外",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "02_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱向前滚动手轮，轮椅外侧轮圈碰到柱子后停住；徐走到前面查看间隙。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "02"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019083512-zqazr",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/02/40d39da385a149d6.mp4",
+      "thumbnail": "candidates/02/40d39da385a149d6.jpg"
+    },
+    {
+      "id": "d666a68479354aa9",
+      "job_id": "03",
+      "source": "seedance",
+      "status": "rejected",
+      "signature": "f2408396bb8ca41195444e1bc4ef6decef704ff8d5a19376ce39ac38db3ca093",
+      "variant": 1,
+      "seed": 798346601,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:35:28+08:00",
+      "snapshot": {
+        "job": {
+          "id": "03",
+          "title": "绕向旁路",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "03_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：徐指向旁路，邱转动手轮掉头，徐跟着走。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "03"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "error": "方舟 HTTP 400: {\"error\":{\"code\":\"InputImageSensitiveContentDetected.PrivacyInformation\",\"message\":\"The request failed because the input image 'content[1]' may contain real person. Request id: 021792370114500cd2cfaf2275915feb63370f28ffb18cb46f0c0\",\"param\":\"content[1]\",\"type\":\"BadRequest\"}}"
+    },
+    {
+      "id": "5f43de4ca712484f",
+      "job_id": "04",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "1da8b210ae051828bf35dbb6a4d072178e1046d01ff8c4d27428230c5354e7bf",
+      "variant": 1,
+      "seed": 419732009,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:37:10+08:00",
+      "snapshot": {
+        "job": {
+          "id": "04",
+          "title": "台阶旁的陡坡",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "04_首帧_v3.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：徐蹲下摸一下坡面，回头看邱；邱看着坡面说台词。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“太陡了，算了。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L01",
+              "speaker": "邱",
+              "text": "太陡了，算了。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "04"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019083657-9hbhd",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/04/5f43de4ca712484f.mp4",
+      "thumbnail": "candidates/04/5f43de4ca712484f.jpg"
+    },
+    {
+      "id": "877e7d30d8b64720",
+      "job_id": "05",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "1ce6c015f2bc0fa6d00d183ffc73b09c1aa7e9126a5ee5e3241700047a6f97f0",
+      "variant": 1,
+      "seed": 1867860793,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:37:19+08:00",
+      "snapshot": {
+        "job": {
+          "id": "05",
+          "title": "店外挑扣子",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "05_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐轮椅的老年女性是邱；穿围裙、端扣子盒的中年男性是店主。\n动作：店主问话；邱挑起一颗贴着裙领比一比，摇头，抬眼看店内扣架。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n店主：中年男性普通话，温和质朴，正常交谈语速。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n店主：“这几个行吗？”\n邱：“里面那排，还有别的吗？”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L02",
+              "speaker": "店主",
+              "text": "这几个行吗？"
+            },
+            {
+              "id": "L03",
+              "speaker": "邱",
+              "text": "里面那排，还有别的吗？"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "05"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019083706-znt53",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/05/877e7d30d8b64720.mp4",
+      "thumbnail": "candidates/05/877e7d30d8b64720.jpg"
+    },
+    {
+      "id": "ba6c5581ce384d0e",
+      "job_id": "06",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "df48349aa805b82dfdc3446f075f324e2ea698e5d92d5a8c60562591c40aa131",
+      "variant": 1,
+      "seed": 1509451141,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:37:22+08:00",
+      "snapshot": {
+        "job": {
+          "id": "06",
+          "title": "接孩子的提醒",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "06_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：提醒声响起，徐拿出手机看时间；邱看见后说台词。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“你先去接孩子。我再看看。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L04",
+              "speaker": "邱",
+              "text": "你先去接孩子。我再看看。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "06"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019083709-zg9vz",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/06/ba6c5581ce384d0e.mp4",
+      "thumbnail": "candidates/06/ba6c5581ce384d0e.jpg"
+    },
+    {
+      "id": "ce8186c7c9804ae2",
+      "job_id": "07",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "d5d5ff787d55e02451f7ecf4bf48cd32fa522139278ab1b004dce105245c5983",
+      "variant": 1,
+      "seed": 1579641345,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:41:02+08:00",
+      "snapshot": {
+        "job": {
+          "id": "07",
+          "title": "徐先离开",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "07_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：徐说完台词离开；邱点头，转回身看橱窗。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n徐：“到家给我发个消息。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L05",
+              "speaker": "徐",
+              "text": "到家给我发个消息。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "07"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084049-75ocd",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/07/ce8186c7c9804ae2.mp4",
+      "thumbnail": "candidates/07/ce8186c7c9804ae2.jpg"
+    },
+    {
+      "id": "73f0a734643e4f1c",
+      "job_id": "08",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "292d87d18bbacb7268f168eb80a0bda3680c0082348d05b1429cc97e1f78b19a",
+      "variant": 1,
+      "seed": 1948886641,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:41:06+08:00",
+      "snapshot": {
+        "job": {
+          "id": "08",
+          "title": "猫压着布样",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "08_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱往外抽布，猫把爪子压紧，邱停手看它。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "08"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084055-yjiea",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/08/73f0a734643e4f1c.mp4",
+      "thumbnail": "candidates/08/73f0a734643e4f1c.jpg"
+    },
+    {
+      "id": "64713ece859e422f",
+      "job_id": "09",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "af5c7c0111fed34e24acb5c3141b8c5e1d8a434215e065c0ff827d3a38d0538b",
+      "variant": 1,
+      "seed": 785761593,
+      "requested_duration": 10,
+      "created_at": "2026-10-19T08:41:11+08:00",
+      "snapshot": {
+        "job": {
+          "id": "09",
+          "title": "电视里的产品演示",
+          "duration": 10,
+          "frames": [
+            {
+              "file": "09_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：沿首帧现有的踏步，轮椅支撑脚交替承重，车轮上移，座面保持水平，最后稳稳停住。匿名乘坐者始终只露肩以下。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n广告声：电视扬声器传出的成年女声普通话，清楚轻快，简短产品介绍口吻。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n广告声：“秀秀智能轮椅，新品上市。过台阶，走窄路，一个人也能轻松出门。”\n广告配音作为产品展示的画外解说，匿名乘坐者不说话。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L06",
+              "speaker": "广告声",
+              "text": "秀秀智能轮椅，新品上市。过台阶，走窄路，一个人也能轻松出门。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "09"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084059-kyy14",
+      "usage": {
+        "completion_tokens": 96249,
+        "total_tokens": 96249
+      },
+      "media": {
+        "duration": 10.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/09/64713ece859e422f.mp4",
+      "thumbnail": "candidates/09/64713ece859e422f.jpg"
+    },
+    {
+      "id": "56feed9e0aac4c5b",
+      "job_id": "10",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "0c2b250a204e4f3c834c5ac4ea3f1f1deee8def8067f206ad91b991963fdefcb",
+      "variant": 1,
+      "seed": 1326588554,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:41:14+08:00",
+      "snapshot": {
+        "job": {
+          "id": "10",
+          "title": "调大电视声音",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "10_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱拿起遥控器，按一次音量键，注意力留在电视上。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "10"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084104-jkl23",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/10/56feed9e0aac4c5b.mp4",
+      "thumbnail": "candidates/10/56feed9e0aac4c5b.jpg"
+    },
+    {
+      "id": "e4a81a043b374d4e",
+      "job_id": "12",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "080293b1c750143f2e39da4abe90b67c2497b1cc42dbfd1a68f247d3b16db7ea",
+      "variant": 1,
+      "seed": 509643801,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:41:21+08:00",
+      "snapshot": {
+        "job": {
+          "id": "12",
+          "title": "新轮椅拆膜",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "12_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n严格保留首帧的取景范围，近景只表现已可见的手、衣料、工具和身体局部，不补全画外人物。\n动作：邱揭下保护膜，轻拨一次控制杆。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "12"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084108-cxxeb",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/12/e4a81a043b374d4e.mp4",
+      "thumbnail": "candidates/12/e4a81a043b374d4e.jpg"
+    },
+    {
+      "id": "e6d2afb0c3b44ee4",
+      "job_id": "13",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "2d9971c083d64ed7c37b93ecf6f9740a20258954823f1288a77d1ff063f14414",
+      "variant": 1,
+      "seed": 1172171464,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:41:24+08:00",
+      "snapshot": {
+        "job": {
+          "id": "13",
+          "title": "旧轮椅留给猫",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "13_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：猫已经在旧轮椅座面上，轻踩两下布垫，蜷身趴好，尾巴慢慢收起。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "13"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084112-j4hz4",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/13/e6d2afb0c3b44ee4.mp4",
+      "thumbnail": "candidates/13/e6d2afb0c3b44ee4.jpg"
+    },
+    {
+      "id": "bd887d3282dc4c98",
+      "job_id": "15",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "d334880f652416f9c12d97a413dbc73cab83d27a2e8ecf7743ed1b9c7ad8a929",
+      "variant": 1,
+      "seed": 1380717917,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T08:44:08+08:00",
+      "snapshot": {
+        "job": {
+          "id": "15",
+          "title": "收拢后穿过柱口",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "15_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：沿首帧正面机位，轮椅两侧原有支撑机构贴向座面下方收好，轮胎转动，整辆轮椅从两根柱间向镜头前行，驶出柱口。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "15"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084355-3wpf3",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/15/bd887d3282dc4c98.mp4",
+      "thumbnail": "candidates/15/bd887d3282dc4c98.jpg"
+    },
+    {
+      "id": "58d292ba384e4472",
+      "job_id": "16",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "83578fa2f91fa0cce25d5dd6dbf9d95f92f45b6bc5c2b3a5c273b943f3998c0d",
+      "variant": 1,
+      "seed": 181632040,
+      "requested_duration": 8,
+      "created_at": "2026-10-19T08:44:12+08:00",
+      "snapshot": {
+        "job": {
+          "id": "16",
+          "title": "越过布店台阶",
+          "duration": 8,
+          "frames": [
+            {
+              "file": "16_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：轮椅从首帧位置开始，原有支撑脚接触踏面承重，前轮上移、后轮跟进，连续登上画面现有三级石台阶；座面始终水平；最后车身到达店门前平台并停稳。动作利落连续。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "16"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084358-x07bi",
+      "usage": {
+        "completion_tokens": 77079,
+        "total_tokens": 77079
+      },
+      "media": {
+        "duration": 8.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/16/58d292ba384e4472.mp4",
+      "thumbnail": "candidates/16/58d292ba384e4472.jpg"
+    },
+    {
+      "id": "151829a81cbc4baf",
+      "job_id": "17",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "708ba0401f1e606861517f459e4b4760f48cdab3d003d8a771b6ac5b4a891e72",
+      "variant": 1,
+      "seed": 270252270,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:44:15+08:00",
+      "snapshot": {
+        "job": {
+          "id": "17",
+          "title": "第一次推开店门",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "17_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱推开轻玻璃门，轮椅向门内移动一小段。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "17"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084402-lmsln",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/17/151829a81cbc4baf.mp4",
+      "thumbnail": "candidates/17/151829a81cbc4baf.jpg"
+    },
+    {
+      "id": "4d8c8cbd29f647e0",
+      "job_id": "19",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "7ccdac483838b43fa4dbb901b45081ff06c3b810a00e12738428ed7cf0c80a7a",
+      "variant": 1,
+      "seed": 202876233,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:44:18+08:00",
+      "snapshot": {
+        "job": {
+          "id": "19",
+          "title": "徐在店里找到邱",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "19_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：徐看见邱，说台词；邱笑着指一下秀秀。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n徐：“你都到了？”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L07",
+              "speaker": "徐",
+              "text": "你都到了？"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "19"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084405-vi546",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/19/4d8c8cbd29f647e0.mp4",
+      "thumbnail": "candidates/19/4d8c8cbd29f647e0.jpg"
+    },
+    {
+      "id": "4b7c526636034cf6",
+      "job_id": "22",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "a19708cffe6de6aef8cd0569a6283a629bb42ef46307287c994abe79c9ec3627",
+      "variant": 1,
+      "seed": 2120244722,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:44:27+08:00",
+      "snapshot": {
+        "job": {
+          "id": "22",
+          "title": "选中金边扣",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "22_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n严格保留首帧的取景范围，近景只表现已可见的手、衣料、工具和身体局部，不补全画外人物。\n动作：邱把金边扣挨在空扣位边，点头说台词。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“这个好。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L10",
+              "speaker": "邱",
+              "text": "这个好。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "22"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084414-vuqw9",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/22/4b7c526636034cf6.mp4",
+      "thumbnail": "candidates/22/4b7c526636034cf6.jpg"
+    },
+    {
+      "id": "6f285186519544ce",
+      "job_id": "23",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "99f7de5505f23d445c18ac496ec3f7ab2a80641440f93ff8c17a000b18c7b5f4",
+      "variant": 1,
+      "seed": 88190826,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:44:29+08:00",
+      "snapshot": {
+        "job": {
+          "id": "23",
+          "title": "老舞伴跟上拍子",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "23_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：徐已经把蓝灰舞裙贴在身前，跟着心中的节拍轻转半圈，邱用手指敲两下扶手，二人对视笑起来。现场只有敲击、脚步、轻笑和布料声。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "23"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084416-yf4f3",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/23/6f285186519544ce.mp4",
+      "thumbnail": "candidates/23/6f285186519544ce.jpg"
+    },
+    {
+      "id": "84bca1137aec41ba",
+      "job_id": "24",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "b798df4a78abc494753499884a509abe7f0be9212f65436690d3f0327ff1835e",
+      "variant": 1,
+      "seed": 922931844,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:47:02+08:00",
+      "snapshot": {
+        "job": {
+          "id": "24",
+          "title": "门外有人喊老板",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "24_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：店主听到门外喊声，停下手，朝门口看。 来客的呼喊从店门外传入，店内画面始终只保留首帧的店主，呼喊者不进入此镜。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n来客：成年女性普通话，中音，清晰直接，自然交谈。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n来客：“老板，你这儿怎么进去啊？”\n来客的声音只在店门外，画内店主听见并抬眼，不张嘴说这句。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [
+            {
+              "id": "L11",
+              "speaker": "来客",
+              "text": "老板，你这儿怎么进去啊？"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "24"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084649-kg15u",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/24/84bca1137aec41ba.mp4",
+      "thumbnail": "candidates/24/84bca1137aec41ba.jpg"
+    },
+    {
+      "id": "c4c984861b3c411f",
+      "job_id": "25",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "5762f0fc10a0b14391aae74542a1450462cd1f06433207d5720814487108b6e8",
+      "variant": 1,
+      "seed": 1365041727,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T08:47:05+08:00",
+      "snapshot": {
+        "job": {
+          "id": "25",
+          "title": "来客停在台阶下",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "25_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：来客举起手机给店主看，抬眼看看入口，保持等待。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "25"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084652-2arb5",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/25/c4c984861b3c411f.mp4",
+      "thumbnail": "candidates/25/c4c984861b3c411f.jpg"
+    },
+    {
+      "id": "19b49b86b58749e5",
+      "job_id": "26",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "6801538d0e4152748b3c5d61caf5da61e5d9c7116085066e640d7b68f935fc52",
+      "variant": 1,
+      "seed": 1072582918,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:47:09+08:00",
+      "snapshot": {
+        "job": {
+          "id": "26",
+          "title": "陡坡仍然上不去",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "26_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n短黑发、雾蓝外套、坐手动轮椅的成年女性是来客；靛蓝围裙男性是店主。\n动作：店主指一下侧面的陡坡；来客看一眼坡面，摇头回答。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n店主：中年男性普通话，温和质朴，正常交谈语速。\n来客：成年女性普通话，中音，清晰直接，自然交谈。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n店主：“旁边有个坡。”\n来客：“这坡我上不了。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L12",
+              "speaker": "店主",
+              "text": "旁边有个坡。"
+            },
+            {
+              "id": "L13",
+              "speaker": "来客",
+              "text": "这坡我上不了。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "26"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084656-bzxrt",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/26/19b49b86b58749e5.mp4",
+      "thumbnail": "candidates/26/19b49b86b58749e5.jpg"
+    },
+    {
+      "id": "3b10411cd94b4737",
+      "job_id": "27",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "85fb22fb740a594dfbe21295dd35bc011ed5dc1a49b511ca45b7574a2080d93a",
+      "variant": 1,
+      "seed": 738609754,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:47:18+08:00",
+      "snapshot": {
+        "job": {
+          "id": "27",
+          "title": "邱来到门前",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "27_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱操控秀秀到平台边停稳，看向自己扶手屏幕并询问秀秀。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“秀秀，这条消息你发的？”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L14",
+              "speaker": "邱",
+              "text": "秀秀，这条消息你发的？"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "27"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084705-kpie5",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/27/3b10411cd94b4737.mp4",
+      "thumbnail": "candidates/27/3b10411cd94b4737.jpg"
+    },
+    {
+      "id": "21b46d70e6dc476e",
+      "job_id": "28",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "90bdd337bbb7780ff891ad87a4063265d97f698839db4c7f6ee87c9a9f50f3c8",
+      "variant": 1,
+      "seed": 352046291,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:47:29+08:00",
+      "snapshot": {
+        "job": {
+          "id": "28",
+          "title": "秀秀回复",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "28_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：秀秀说台词；邱听完抬眼看下方来客。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n秀秀：声音只从轮椅扶手扬声器传出，清澈中性女声，平稳简洁。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n秀秀：“刚才进店时发的。”\n秀秀的台词由轮椅设备发声，画内其他人闭口聆听，不增加发声人形或画外人物。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L15",
+              "speaker": "秀秀",
+              "text": "刚才进店时发的。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "28"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084716-qenva",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/28/21b46d70e6dc476e.mp4",
+      "thumbnail": "candidates/28/21b46d70e6dc476e.jpg"
+    },
+    {
+      "id": "b1acad2828f5448d",
+      "job_id": "29",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "4276762b2c0b4c114ca87df61dd69cbe81e0ea5d1a8eceaa5f23781cb3699ace",
+      "variant": 1,
+      "seed": 679066059,
+      "requested_duration": 9,
+      "created_at": "2026-10-19T08:47:32+08:00",
+      "snapshot": {
+        "job": {
+          "id": "29",
+          "title": "把台阶写清楚",
+          "duration": 9,
+          "frames": [
+            {
+              "file": "29_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：邱坐在平台上，清楚说完台词，指向门外的台阶，听到轮椅答复后把手放回扶手。徐保持首帧蹲坐位置安静听。轮椅上的小摄像头转向入口。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n秀秀：声音只从轮椅扶手扬声器传出，清澈中性女声，平稳简洁。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“她的轮椅上不来。得把台阶写上，别让人白跑。”\n秀秀：“好，我改。”\n秀秀的台词由轮椅设备发声，画内其他人闭口聆听，不增加发声人形或画外人物。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L16",
+              "speaker": "邱",
+              "text": "她的轮椅上不来。得把台阶写上，别让人白跑。"
+            },
+            {
+              "id": "L17",
+              "speaker": "秀秀",
+              "text": "好，我改。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "29"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084719-f4afk",
+      "usage": {
+        "completion_tokens": 86664,
+        "total_tokens": 86664
+      },
+      "media": {
+        "duration": 9.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/29/b1acad2828f5448d.mp4",
+      "thumbnail": "candidates/29/b1acad2828f5448d.jpg"
+    },
+    {
+      "id": "ab106648be1142c2",
+      "job_id": "31",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "2dbbc8e5edfe68f26fe1feac041523d3bb6897468bb2abc68d180ae20538b098",
+      "variant": 1,
+      "seed": 1174227124,
+      "requested_duration": 9,
+      "created_at": "2026-10-19T08:49:50+08:00",
+      "snapshot": {
+        "job": {
+          "id": "31",
+          "title": "询问是否报给街道",
+          "duration": 9,
+          "frames": [
+            {
+              "file": "31_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱听扶手扬声器问话，看一下屏幕里的照片，抬眼回答，然后食指移向屏幕的提交位置。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n秀秀：声音只从轮椅扶手扬声器传出，清澈中性女声，平稳简洁。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n秀秀：“这两处可以报给街道，附上照片。要报吗？”\n邱：“都报吧，看看能不能修。”\n秀秀的台词由轮椅设备发声，画内其他人闭口聆听，不增加发声人形或画外人物。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L18",
+              "speaker": "秀秀",
+              "text": "这两处可以报给街道，附上照片。要报吗？"
+            },
+            {
+              "id": "L19",
+              "speaker": "邱",
+              "text": "都报吧，看看能不能修。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "31"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084937-chnnm",
+      "usage": {
+        "completion_tokens": 86664,
+        "total_tokens": 86664
+      },
+      "media": {
+        "duration": 9.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/31/ab106648be1142c2.mp4",
+      "thumbnail": "candidates/31/ab106648be1142c2.jpg"
+    },
+    {
+      "id": "9d24b24a8c44429a",
+      "job_id": "33",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "cf58dbee0dba06e5823214c0822e71b3ce7db6c45f2ee423b528f410afd90454",
+      "variant": 1,
+      "seed": 565559663,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T08:49:53+08:00",
+      "snapshot": {
+        "job": {
+          "id": "33",
+          "title": "样布拿出来挑",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "33_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n短黑发、雾蓝外套、坐手动轮椅的成年女性是来客；靛蓝围裙男性是店主。\n动作：来客说台词；店主把已拿到门边的整本样布递到她手中，她打开看颜色。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n来客：成年女性普通话，中音，清晰直接，自然交谈。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n来客：“老板，样布先拿出来吧，我自己挑。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L20",
+              "speaker": "来客",
+              "text": "老板，样布先拿出来吧，我自己挑。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "33"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084940-70sjc",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/33/9d24b24a8c44429a.mp4",
+      "thumbnail": "candidates/33/9d24b24a8c44429a.jpg"
+    },
+    {
+      "id": "5ff1e31ebb224b53",
+      "job_id": "34",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "fec38534878fa6996d652ec58a37b4bfd05fad3fe04c6abf724b539168a77e98",
+      "variant": 1,
+      "seed": 662849616,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:49:57+08:00",
+      "snapshot": {
+        "job": {
+          "id": "34",
+          "title": "邱递出软尺",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "34_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐智能轮椅、红开衫的老年女性是邱；蹲在台阶下、围裙男性是店主。\n动作：店主说找尺；邱回答，抽出袋口的软尺递给他。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n店主：中年男性普通话，温和质朴，正常交谈语速。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n店主：“我店里好像有把尺……”\n邱：“我这儿有。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L21",
+              "speaker": "店主",
+              "text": "我店里好像有把尺……"
+            },
+            {
+              "id": "L22",
+              "speaker": "邱",
+              "text": "我这儿有。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "34"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084943-gcpe7",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/34/5ff1e31ebb224b53.mp4",
+      "thumbnail": "candidates/34/5ff1e31ebb224b53.jpg"
+    },
+    {
+      "id": "5409d2726a8d4886",
+      "job_id": "35",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "2bd9db18257046b366ca7beda807e069befec304b790dae8adc5681775489fc9",
+      "variant": 1,
+      "seed": 2033389635,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:50:06+08:00",
+      "snapshot": {
+        "job": {
+          "id": "35",
+          "title": "量台阶",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "35_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n严格保留首帧的取景范围，近景只表现已可见的手、衣料、工具和身体局部，不补全画外人物。\n动作：店主把尺端贴住台阶边沿，俯身读数，秀秀的镜头在画外记录。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "35"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084953-88lip",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/35/5409d2726a8d4886.mp4",
+      "thumbnail": "candidates/35/5409d2726a8d4886.jpg"
+    },
+    {
+      "id": "1d2fdfb828b243b2",
+      "job_id": "36",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "0a68501399839326cc5159e589a68f807660bcc973b90adf38a248d9c56301ff",
+      "variant": 1,
+      "seed": 489475678,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:50:08+08:00",
+      "snapshot": {
+        "job": {
+          "id": "36",
+          "title": "红布放到膝上",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "36_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n画面内短灰发、红开衫、坐轮椅的是邱；戴眼镜、赭黄色外套、低灰发髻的是徐。只按本镜实际说话顺序开口。\n动作：邱催她快去；徐把折好的红布放到邱膝上，拎包离开。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“快去吧，别迟了。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L23",
+              "speaker": "邱",
+              "text": "快去吧，别迟了。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "36"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019084955-dir3m",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/36/1d2fdfb828b243b2.mp4",
+      "thumbnail": "candidates/36/1d2fdfb828b243b2.jpg"
+    },
+    {
+      "id": "48c8c417ff93447e",
+      "job_id": "37",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "846ff36bf78de5c230497a079d8598af64bd1e7127a24cdb0833aebc270aac0f",
+      "variant": 1,
+      "seed": 858232621,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T08:50:17+08:00",
+      "snapshot": {
+        "job": {
+          "id": "37",
+          "title": "返程保留障碍照片",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "37_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：秀秀收拢机构带邱通过；镜头留住原处的柱子。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "37"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085003-lv5if",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/37/48c8c417ff93447e.mp4",
+      "thumbnail": "candidates/37/48c8c417ff93447e.jpg"
+    },
+    {
+      "id": "2765f7ac7d97427a",
+      "job_id": "38",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "f29794e78709e03e43c12c4585ada2f5d70ff58bb5b4cd2e81cce1d3951020b5",
+      "variant": 1,
+      "seed": 1225901540,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:52:28+08:00",
+      "snapshot": {
+        "job": {
+          "id": "38",
+          "title": "诊所门槛",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "38_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：他看一眼门槛，再在扶手上确认提交；轮椅镜头拍摄入口。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "38"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085215-b0e6o",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/38/2765f7ac7d97427a.mp4",
+      "thumbnail": "candidates/38/2765f7ac7d97427a.jpg"
+    },
+    {
+      "id": "9be8f25930d7461d",
+      "job_id": "39",
+      "source": "seedance",
+      "status": "rejected",
+      "signature": "51b55a14abe9d7463d10aadc96e2b27bcdbeedaf74229ca0e1a3d09c9fd94b4c",
+      "variant": 1,
+      "seed": 1547822219,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:52:31+08:00",
+      "snapshot": {
+        "job": {
+          "id": "39",
+          "title": "公交站的人行道断口",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "39_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：她停稳，转向断口拍照，再确认提交。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "39"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "error": "方舟 HTTP 400: {\"error\":{\"code\":\"InputImageSensitiveContentDetected.PrivacyInformation\",\"message\":\"The request failed because the input image 'content[1]' may contain real person. Request id: 021792371137694bb3fbf3dabf37e3128b6921120665470e91bb7\",\"param\":\"content[1]\",\"type\":\"BadRequest\"}}"
+    },
+    {
+      "id": "210ac23df9934660",
+      "job_id": "40",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "f97095c4a9aca96236010a00abcf16673730705944785d3a3e86c6d11bc6d9ae",
+      "variant": 1,
+      "seed": 536265446,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:52:45+08:00",
+      "snapshot": {
+        "job": {
+          "id": "40",
+          "title": "公园坡道被占",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "40_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：他停在坡道外，拍下车辆占用的位置。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "40"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085233-algn7",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/40/210ac23df9934660.mp4",
+      "thumbnail": "candidates/40/210ac23df9934660.jpg"
+    },
+    {
+      "id": "75839f359eee4d63",
+      "job_id": "42",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "40ab8e63315aaa7e82787d3644de1bd2ccad4707a9ef658b99d4279092efd1cd",
+      "variant": 1,
+      "seed": 1591249943,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T08:52:48+08:00",
+      "snapshot": {
+        "job": {
+          "id": "42",
+          "title": "把到车站的路画出来",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "42_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n浅灰外套、短棕发、戴眼镜、拿笔指向地图的成年女性是工作人员，本镜仅她讲话。其余首帧人物安静看图。\n动作：工作人员说台词，用笔把柱口到公交站的路线画出来；邱和来客顺着看。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n工作人员：成年女性普通话，清楚平实，交谈语气。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n工作人员：“这两根柱子挪一下，去车站就不用绕了。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L24",
+              "speaker": "工作人员",
+              "text": "这两根柱子挪一下，去车站就不用绕了。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "42"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085235-5kdc2",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/42/75839f359eee4d63.mp4",
+      "thumbnail": "candidates/42/75839f359eee4d63.jpg"
+    },
+    {
+      "id": "2d87e8f71d064d24",
+      "job_id": "43",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "aa6470e41fdfb0f23856e79d0d1ee66b0aba90f6cac7a7295c307355f6a05781",
+      "variant": 1,
+      "seed": 80135628,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:52:51+08:00",
+      "snapshot": {
+        "job": {
+          "id": "43",
+          "title": "普通轮椅居民递意见单",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "43_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：居民指向自己的楼门位置，把意见单推过去。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "43"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085238-1b6z2",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/43/2d87e8f71d064d24.mp4",
+      "thumbnail": "candidates/43/2d87e8f71d064d24.jpg"
+    },
+    {
+      "id": "f20a51730b8b426c",
+      "job_id": "44",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "1f7f511c80bc04ce4071deb11d840d6b969c050c70ae65bcf12cc16e0b1f961c",
+      "variant": 1,
+      "seed": 1619068487,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:52:58+08:00",
+      "snapshot": {
+        "job": {
+          "id": "44",
+          "title": "楼门里的老人",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "44_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：工作人员拉好卷尺，设计人员记录门槛和入口尺寸。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "44"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085245-babol",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/44/f20a51730b8b426c.mp4",
+      "thumbnail": "candidates/44/f20a51730b8b426c.jpg"
+    },
+    {
+      "id": "c470e1ec555f4c28",
+      "job_id": "45",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "9f62f97c7e25d2bb4604ddf570906b915af6c06a2437381e93515f8ec45ebe32",
+      "variant": 1,
+      "seed": 1535412034,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T08:55:17+08:00",
+      "snapshot": {
+        "job": {
+          "id": "45",
+          "title": "归还软尺并量店门",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "45_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：店主把软尺还给邱；设计人员用自己的量具贴到平台边量尺寸。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "45"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085504-tbdxy",
+      "usage": {
+        "completion_tokens": 48437,
+        "total_tokens": 48437
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 854,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/45/c470e1ec555f4c28.mp4",
+      "thumbnail": "candidates/45/c470e1ec555f4c28.jpg"
+    },
+    {
+      "id": "e112c6664edb4279",
+      "job_id": "46",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "18989ae3773fac41e54336ab84a9938e5cfd9a7d029ca134f292fc08a7ab6eb4",
+      "variant": 1,
+      "seed": 1209688931,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:55:21+08:00",
+      "snapshot": {
+        "job": {
+          "id": "46",
+          "title": "腾出坡道的位置",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "46_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：设计人员沿图纸指向店侧，店主把一组货架推向店里。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "46"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085508-wvia1",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/46/e112c6664edb4279.mp4",
+      "thumbnail": "candidates/46/e112c6664edb4279.jpg"
+    },
+    {
+      "id": "13082a2b938d493c",
+      "job_id": "47",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "8cbd479e71df3fef86ca51686600e8071ff36247153f07164c6b6ec25e2a8ea8",
+      "variant": 1,
+      "seed": 1749194576,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:55:24+08:00",
+      "snapshot": {
+        "job": {
+          "id": "47",
+          "title": "柱脚拆开重新定位",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "47_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：工人把旧柱抬离底座，露出地面重新画好的定位线。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "47"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085512-eldwa",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/47/13082a2b938d493c.mp4",
+      "thumbnail": "candidates/47/13082a2b938d493c.jpg"
+    },
+    {
+      "id": "5f38444da8fd48a8",
+      "job_id": "48",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "b430f918e75aa6e0e6d5a13a6aba9a867a0a08686e1c35d08267c023a165b217",
+      "variant": 1,
+      "seed": 2126684631,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:55:28+08:00",
+      "snapshot": {
+        "job": {
+          "id": "48",
+          "title": "旧陡坡拆除",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "48_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：工具沿坡面凿下一小块，工人把松动水泥块移开。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "48"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085515-le1ig",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/48/5f38444da8fd48a8.mp4",
+      "thumbnail": "candidates/48/5f38444da8fd48a8.jpg"
+    },
+    {
+      "id": "9b16d4a3620941cc",
+      "job_id": "49",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "fbfcaf6dd227ef704c9f9f59b59e9e905822f39aab5b157291c36b2dc779e343",
+      "variant": 1,
+      "seed": 1962443517,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:55:31+08:00",
+      "snapshot": {
+        "job": {
+          "id": "49",
+          "title": "新缓坡装好扶手",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "49_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：工人固定最后一段扶手，另一人清理坡面。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "49"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085518-5vgek",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/49/9b16d4a3620941cc.mp4",
+      "thumbnail": "candidates/49/9b16d4a3620941cc.jpg"
+    },
+    {
+      "id": "218bb9a847ed495e",
+      "job_id": "50",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "0a81d44c65bfe8b93861388869bee6b0a3abaa681778bc37dd85e966e9f52360",
+      "variant": 1,
+      "seed": 1465576671,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T08:55:34+08:00",
+      "snapshot": {
+        "job": {
+          "id": "50",
+          "title": "金扣缝回舞裙",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "50_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n严格保留首帧的取景范围，近景只表现已可见的手、衣料、工具和身体局部，不补全画外人物。\n动作：邱把线轻轻拉紧，将金边扣缝到原空位。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "50"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019085521-gmi1e",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/50/218bb9a847ed495e.mp4",
+      "thumbnail": "candidates/50/218bb9a847ed495e.jpg"
+    },
+    {
+      "id": "d1c8978cba574cdc",
+      "job_id": "51",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "f258549ede4aa26c18077ea971c6c72ae46a0da4d75616d91dc2609f77310aff",
+      "variant": 1,
+      "seed": 1932122418,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T09:01:40+08:00",
+      "snapshot": {
+        "job": {
+          "id": "51",
+          "title": "裁红布与挪开猫",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "51_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱把首帧站在旧轮椅座面上的猫轻轻扶稳，猫踩两下布垫趴下，邱松手回头看桌上的红布。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "51"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090127-0cv3m",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/51/d1c8978cba574cdc.mp4",
+      "thumbnail": "candidates/51/d1c8978cba574cdc.jpg"
+    },
+    {
+      "id": "3dc96bbb987f4019",
+      "job_id": "52",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "96e3302fee0250a214847817ee6170f49b465359b82cb6b68e3619a9590e4c84",
+      "variant": 1,
+      "seed": 562294987,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T09:01:44+08:00",
+      "snapshot": {
+        "job": {
+          "id": "52",
+          "title": "秀秀先通过新坡道",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "52_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐智能轮椅的红开衫老年女性是邱；门边围裙男性是店主。\n动作：秀秀上到平台停稳；店主问台词，邱回答，让出后续试用的空间。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n店主：中年男性普通话，温和质朴，正常交谈语速。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n店主：“这回行了吧？”\n邱：“让她也试试。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L25",
+              "speaker": "店主",
+              "text": "这回行了吧？"
+            },
+            {
+              "id": "L26",
+              "speaker": "邱",
+              "text": "让她也试试。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "52"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090131-wokld",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/52/3dc96bbb987f4019.mp4",
+      "thumbnail": "candidates/52/3dc96bbb987f4019.jpg"
+    },
+    {
+      "id": "3eeae706b2e3460e",
+      "job_id": "54",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "a9c349f53604528462ab0727ac80f65a2a76cee38ab081070d90b162b9f0390e",
+      "variant": 1,
+      "seed": 2021975781,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T09:02:01+08:00",
+      "snapshot": {
+        "job": {
+          "id": "54",
+          "title": "试用后重新量距离",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "54_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：工作人员放下平板，设计人员量脚踏到门边的距离，在图纸上做记号。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "54"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090147-8mnrr",
+      "usage": {
+        "completion_tokens": 38830,
+        "total_tokens": 38830
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 854,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/54/3eeae706b2e3460e.mp4",
+      "thumbnail": "candidates/54/3eeae706b2e3460e.jpg"
+    },
+    {
+      "id": "a684868f839c4219",
+      "job_id": "56",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "83ff86950dea8427ba2ceefb64993ec685357247654b7c9ef85c3bfcc2d6be0a",
+      "variant": 1,
+      "seed": 960009896,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T09:02:04+08:00",
+      "snapshot": {
+        "job": {
+          "id": "56",
+          "title": "来客自己进店",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "56_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：来客自己转动手轮，从首帧位置转向敞开的店门，脚踏与门边保持清楚间隙，驶进店内并伸手轻摸身旁布架上的布料。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "56"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090151-qch4i",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/56/a684868f839c4219.mp4",
+      "thumbnail": "candidates/56/a684868f839c4219.jpg"
+    },
+    {
+      "id": "35fd6674cd344d61",
+      "job_id": "59",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "cb0f8e5a3314fc39f87565f95a737c34187c58105fcaeff925539eb88434e63c",
+      "variant": 1,
+      "seed": 145038846,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T09:02:09+08:00",
+      "snapshot": {
+        "job": {
+          "id": "59",
+          "title": "坡口接平斑马线",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "59_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：轮椅前轮、后轮依次平顺通过坡口，驶入斑马线。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "59"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090156-t99n8",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/59/35fd6674cd344d61.mp4",
+      "thumbnail": "candidates/59/35fd6674cd344d61.jpg"
+    },
+    {
+      "id": "455e54c525ec44ff",
+      "job_id": "60",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "2138ea53701a8f92f43e9b0815a709122201b7dd9e28a453db6fb29d532918df",
+      "variant": 1,
+      "seed": 203717792,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T09:02:13+08:00",
+      "snapshot": {
+        "job": {
+          "id": "60",
+          "title": "老人从楼门出来",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "60_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：他自己转动手轮出门，来到院子阳光下，摘下帽子。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "60"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090200-sw1er",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/60/455e54c525ec44ff.mp4",
+      "thumbnail": "candidates/60/455e54c525ec44ff.jpg"
+    },
+    {
+      "id": "c2f654cb73514b56",
+      "job_id": "61",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "25150d35cc9722ef340e8b3e4b839e720591cfd03a72e4e47f692473c43959b0",
+      "variant": 1,
+      "seed": 697025279,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T09:06:45+08:00",
+      "snapshot": {
+        "job": {
+          "id": "61",
+          "title": "冬天坐公交",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "61_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：首帧公交坡板已经展开并落稳，轮椅前轮沿坡板向右驶入敞开的车门，后轮跟进，乘客进入车厢。保持坡板与车门几何不动。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "61"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090631-atomn",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/61/c2f654cb73514b56.mp4",
+      "thumbnail": "candidates/61/c2f654cb73514b56.jpg"
+    },
+    {
+      "id": "a5302a2900be4bdf",
+      "job_id": "62",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "ce70287a93e5b4a300197454a27f7d60571adda8c1b81c945dc907b23941f486",
+      "variant": 1,
+      "seed": 551827247,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T09:06:48+08:00",
+      "snapshot": {
+        "job": {
+          "id": "62",
+          "title": "春雨里的诊所入口",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "62_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：撑伞的人侧身走过，童车与轮椅使用者先后进门。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "62"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090634-p7x40",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/62/a5302a2900be4bdf.mp4",
+      "thumbnail": "candidates/62/a5302a2900be4bdf.jpg"
+    },
+    {
+      "id": "1e37e322201b40af",
+      "job_id": "63",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "a91504fdfd92fd2dfe7369334ee87a6ec5397c88c0b1a08579df44153f105768",
+      "variant": 1,
+      "seed": 16790751,
+      "requested_duration": 5,
+      "created_at": "2026-10-19T09:06:51+08:00",
+      "snapshot": {
+        "job": {
+          "id": "63",
+          "title": "图书馆缓坡",
+          "duration": 5,
+          "frames": [
+            {
+              "file": "63_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：他沿缓坡上行，进入宽敞的门前平台。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "63"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090638-mvcjd",
+      "usage": {
+        "completion_tokens": 48324,
+        "total_tokens": 48324
+      },
+      "media": {
+        "duration": 5.056,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/63/1e37e322201b40af.mp4",
+      "thumbnail": "candidates/63/1e37e322201b40af.jpg"
+    },
+    {
+      "id": "b3ee290d02c84125",
+      "job_id": "64",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "b94358625c66f2e5652a03501d5ca2554569537ab3054a0122f60023446ad221",
+      "variant": 1,
+      "seed": 335983778,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T09:06:54+08:00",
+      "snapshot": {
+        "job": {
+          "id": "64",
+          "title": "公园里去湖边",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "64_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：两辆轮椅沿园路往湖边前行，经过长椅。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "64"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090641-hw0mt",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/64/b3ee290d02c84125.mp4",
+      "thumbnail": "candidates/64/b3ee290d02c84125.jpg"
+    },
+    {
+      "id": "c40dcac17a124429",
+      "job_id": "66",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "0ef6a36f4fb3f1c6ec4fb685b791f3f9daf566c56af93552e7ebf2374e26bb02",
+      "variant": 1,
+      "seed": 1879953624,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T09:06:58+08:00",
+      "snapshot": {
+        "job": {
+          "id": "66",
+          "title": "普通模式穿过新柱口",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "66_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：邱穿着亮红新外衣，沿首帧留出的宽通道向镜头前行，轮椅机构全程收好；旁边手动轮椅使用者也沿平路前行，两人相视点头，各自继续走。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "66"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090645-s1tah",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/66/c40dcac17a124429.mp4",
+      "thumbnail": "candidates/66/c40dcac17a124429.jpg"
+    },
+    {
+      "id": "d3c04828655640fc",
+      "job_id": "67",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "a89c822493e2378e0552ca10c336219ae53d571d7c0402e210c66a7701a263ec",
+      "variant": 1,
+      "seed": 379381119,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T09:07:01+08:00",
+      "snapshot": {
+        "job": {
+          "id": "67",
+          "title": "布店门前再打招呼",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "67_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n动作：来客与邱点头，店主朝邱招手。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "67"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019090648-en1pe",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/67/d3c04828655640fc.mp4",
+      "thumbnail": "candidates/67/d3c04828655640fc.jpg"
+    },
+    {
+      "id": "87fcb647647f4ee6",
+      "job_id": "68",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "1d4aee9aae74874f68fe2d219d747f59947625f2d653e78a787e4e13cf1e98a5",
+      "variant": 1,
+      "seed": 1954049276,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T09:15:19+08:00",
+      "snapshot": {
+        "job": {
+          "id": "68",
+          "title": "今天孩子爸爸接",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "68_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐轮椅、亮红外衣的是邱；站立、戴眼镜、蓝灰舞裙的是徐，两人都是老年女性。\n动作：邱停车，问台词；徐笑着回答。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。\n徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n邱：“今天不用接孩子？”\n徐：“今天他爸接。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L28",
+              "speaker": "邱",
+              "text": "今天不用接孩子？"
+            },
+            {
+              "id": "L29",
+              "speaker": "徐",
+              "text": "今天他爸接。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "68"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019091505-8novp",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/68/87fcb647647f4ee6.mp4",
+      "thumbnail": "candidates/68/87fcb647647f4ee6.jpg"
+    },
+    {
+      "id": "b805e4686cec4341",
+      "job_id": "69",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "7fce354409e36a867e4c86229d3eb89662346e176350ad50f63446aee12856a1",
+      "variant": 1,
+      "seed": 1171985388,
+      "requested_duration": 4,
+      "created_at": "2026-10-19T09:15:26+08:00",
+      "snapshot": {
+        "job": {
+          "id": "69",
+          "title": "看看新衣袖口",
+          "duration": 4,
+          "frames": [
+            {
+              "file": "69_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐轮椅、亮红外衣的是邱；站立、戴眼镜、蓝灰舞裙的是徐，两人都是老年女性。\n动作：徐看针脚，说台词；邱笑着抻平衣襟。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n徐：“这袖子好看。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L30",
+              "speaker": "徐",
+              "text": "这袖子好看。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "69"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019091514-n7cos",
+      "usage": {
+        "completion_tokens": 38739,
+        "total_tokens": 38739
+      },
+      "media": {
+        "duration": 4.064,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/69/b805e4686cec4341.mp4",
+      "thumbnail": "candidates/69/b805e4686cec4341.jpg"
+    },
+    {
+      "id": "42dcecf075af4204",
+      "job_id": "70",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "a7060cf39e51a73441a8af7778d801c3ce6ccc6ef53dc815a3eaf05c3e1ce574",
+      "variant": 1,
+      "seed": 1932417835,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T09:15:30+08:00",
+      "snapshot": {
+        "job": {
+          "id": "70",
+          "title": "转半圈给朋友看",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "70_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐轮椅、亮红外衣的是邱；站立、戴眼镜、蓝灰舞裙的是徐，两人都是老年女性。\n动作：徐说完台词，邱拨控制杆，轮椅原地平稳转过半圈，让新红衣后背可见，徐原地跟着节拍轻转身，重新看向邱。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n声音只使用以下本镜台词与现场动作声，人物说话时对应人物自然开口；没有台词的人不加口型。\n徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。\n台词按顺序完整说出，从约0.3秒开始，句间只保留自然换气，不拖长尾音，不添加其他语言：\n徐：“转过去，我看看后面。”\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [
+            {
+              "id": "L31",
+              "speaker": "徐",
+              "text": "转过去，我看看后面。"
+            }
+          ],
+          "reuse_preferred": false,
+          "source_shot": "70"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019091517-ai6v1",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/70/42dcecf075af4204.mp4",
+      "thumbnail": "candidates/70/42dcecf075af4204.jpg"
+    },
+    {
+      "id": "5f066223cf904464",
+      "job_id": "71",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "bfc7f91b19062b60ae36c757fee0c96f3e5ca3f2efbf2e880c328d819fdb37b8",
+      "variant": 1,
+      "seed": 1800524113,
+      "requested_duration": 7,
+      "created_at": "2026-10-19T09:15:37+08:00",
+      "snapshot": {
+        "job": {
+          "id": "71",
+          "title": "握手跟着音乐打拍子",
+          "duration": 7,
+          "frames": [
+            {
+              "file": "71_首帧.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持所给首帧的手工微缩定格人偶质感、人物身份与服饰、物体数量、场景布置和构图。一个连续机位镜头。\n坐轮椅、亮红外衣的是邱；站立、戴眼镜、蓝灰舞裙的是徐，两人都是老年女性。\n动作：邱握住徐的手，指尖轻点拍子；镜头缓慢拉远，后方缓坡有轮椅与童车经过。\n节奏：开头即进入动作，去掉等待与长停顿，动作自然清楚；手掌先接触物件再取放，轮胎贴地滚动，结构不增生，物件不穿透。\n本镜没有对白或旁白，仅有与动作对应的自然现场环境声。\n不生成背景音乐，不生成字幕、标题、界面新文字或水印。保持首帧的小字原样，后期另做可读信息。\n乘坐者全程保持坐姿，臀部贴住坐垫，双脚留在脚踏上；移动由轮椅车轮完成，乘坐者始终不站起、不步行。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "71"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019091524-gbzzj",
+      "usage": {
+        "completion_tokens": 67494,
+        "total_tokens": 67494
+      },
+      "media": {
+        "duration": 7.072,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/71/5f066223cf904464.mp4",
+      "thumbnail": "candidates/71/5f066223cf904464.jpg"
+    },
+    {
+      "id": "29cc4944c98f4cbd",
+      "job_id": "02R",
+      "source": "seedance",
+      "status": "succeeded",
+      "signature": "13342acd101e6e814d787affe8f3ccdf665ca01a2e6f408ff0ae9cc51de33121",
+      "variant": 1,
+      "seed": 1139718411,
+      "requested_duration": 6,
+      "created_at": "2026-10-19T09:15:40+08:00",
+      "snapshot": {
+        "job": {
+          "id": "02R",
+          "title": "柱口阻挡 · 修正坐姿",
+          "duration": 6,
+          "frames": [
+            {
+              "file": "02_首帧_v2.png",
+              "role": "first_frame"
+            }
+          ],
+          "prompt": "保持首帧手工定格人偶和固定正面构图，两根石柱位置不动。红开衫老年女性邱全程坐在蓝色手动轮椅上，臀部始终贴着座垫，脚始终放在脚踏，躯干不抬离坐垫。她用双手转动手轮，轮椅仅前移几厘米，外侧轮圈碰到石柱便停住。身后黄色外套戴眼镜的徐俯身看向轮圈被挡住的位置，邱松开手轮，仍坐在原处。全程保持两位老年女性的人物外貌和服装、轮椅大小与零件连接，轮椅不穿过石柱。没有人站起来或步行，只有轮圈碰到柱子后停止的小动作。无对白、旁白、音乐、字幕，仅有街道和轮圈接触声。",
+          "dialogue": [],
+          "reuse_preferred": false,
+          "source_shot": "02"
+        },
+        "api": {
+          "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+          "model": "doubao-seedance-2-5-260628",
+          "resolution": "480p",
+          "ratio": "adaptive",
+          "generate_audio": true,
+          "watermark": false,
+          "poll_seconds": 8,
+          "wait_seconds": 1200
+        }
+      },
+      "task_id": "cgt-20261019091527-91one",
+      "usage": {
+        "completion_tokens": 57909,
+        "total_tokens": 57909
+      },
+      "media": {
+        "duration": 6.048,
+        "width": 852,
+        "height": 480,
+        "has_audio": true
+      },
+      "file": "candidates/02R/29cc4944c98f4cbd.mp4",
+      "thumbnail": "candidates/02R/29cc4944c98f4cbd.jpg"
+    }
+  ],
+  "selection": {
+    "20": "5344cb282ba74ca8",
+    "21": "085378054ff849a8",
+    "53": "ae3039d5aa9448b1",
+    "01": "3ac3de7d41ed4689",
+    "02": "40d39da385a149d6",
+    "04": "5f43de4ca712484f",
+    "05": "877e7d30d8b64720",
+    "06": "ba6c5581ce384d0e",
+    "07": "ce8186c7c9804ae2",
+    "08": "73f0a734643e4f1c",
+    "09": "64713ece859e422f",
+    "10": "56feed9e0aac4c5b",
+    "12": "e4a81a043b374d4e",
+    "13": "e6d2afb0c3b44ee4",
+    "15": "bd887d3282dc4c98",
+    "16": "58d292ba384e4472",
+    "17": "151829a81cbc4baf",
+    "19": "4d8c8cbd29f647e0",
+    "22": "4b7c526636034cf6",
+    "23": "6f285186519544ce",
+    "24": "84bca1137aec41ba",
+    "25": "c4c984861b3c411f",
+    "26": "19b49b86b58749e5",
+    "27": "3b10411cd94b4737",
+    "28": "21b46d70e6dc476e",
+    "29": "b1acad2828f5448d",
+    "31": "ab106648be1142c2",
+    "33": "9d24b24a8c44429a",
+    "34": "5ff1e31ebb224b53",
+    "35": "5409d2726a8d4886",
+    "36": "1d2fdfb828b243b2",
+    "37": "48c8c417ff93447e",
+    "38": "2765f7ac7d97427a",
+    "40": "210ac23df9934660",
+    "42": "75839f359eee4d63",
+    "43": "2d87e8f71d064d24",
+    "44": "f20a51730b8b426c",
+    "45": "c470e1ec555f4c28",
+    "46": "e112c6664edb4279",
+    "47": "13082a2b938d493c",
+    "48": "5f38444da8fd48a8",
+    "49": "9b16d4a3620941cc",
+    "50": "218bb9a847ed495e",
+    "51": "d1c8978cba574cdc",
+    "52": "3dc96bbb987f4019",
+    "54": "3eeae706b2e3460e",
+    "56": "a684868f839c4219",
+    "59": "35fd6674cd344d61",
+    "60": "455e54c525ec44ff",
+    "61": "c2f654cb73514b56",
+    "62": "a5302a2900be4bdf",
+    "63": "1e37e322201b40af",
+    "64": "b3ee290d02c84125",
+    "66": "c40dcac17a124429",
+    "67": "d3c04828655640fc",
+    "68": "87fcb647647f4ee6",
+    "69": "b805e4686cec4341",
+    "70": "42dcecf075af4204",
+    "71": "5f066223cf904464",
+    "02R": "29cc4944c98f4cbd"
+  },
+  "created_at": "2026-10-19T08:35:01+08:00",
+  "updated_at": "2026-10-19T09:21:58+08:00"
+}

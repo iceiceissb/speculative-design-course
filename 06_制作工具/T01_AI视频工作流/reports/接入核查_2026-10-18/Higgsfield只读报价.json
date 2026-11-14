@@ -1,0 +1,99 @@
+{
+  "checked_date": "2026-10-18",
+  "source": "Higgsfield connected cost_estimate tool, read only",
+  "jobs_submitted": 0,
+  "reference_video": false,
+  "quotes": [
+    {
+      "label": "480p_5s",
+      "request": {
+        "model": "seedance_2_5",
+        "duration": 5,
+        "resolution": "480p",
+        "aspect_ratio": "16:9"
+      },
+      "result": {
+        "cost": {
+          "credits": 15,
+          "credits_exact": 15
+        }
+      }
+    },
+    {
+      "label": "720p_5s",
+      "request": {
+        "model": "seedance_2_5",
+        "duration": 5,
+        "resolution": "720p",
+        "aspect_ratio": "16:9"
+      },
+      "result": {
+        "cost": {
+          "credits": 35,
+          "credits_exact": 35
+        }
+      }
+    },
+    {
+      "label": "720p_8s",
+      "request": {
+        "model": "seedance_2_5",
+        "duration": 8,
+        "resolution": "720p",
+        "aspect_ratio": "16:9"
+      },
+      "result": {
+        "cost": {
+          "credits": 56,
+          "credits_exact": 56
+        }
+      }
+    },
+    {
+      "label": "720p_10s",
+      "request": {
+        "model": "seedance_2_5",
+        "duration": 10,
+        "resolution": "720p",
+        "aspect_ratio": "16:9"
+      },
+      "result": {
+        "cost": {
+          "credits": 70,
+          "credits_exact": 70
+        }
+      }
+    },
+    {
+      "label": "1080p_5s",
+      "request": {
+        "model": "seedance_2_5",
+        "duration": 5,
+        "resolution": "1080p",
+        "aspect_ratio": "16:9"
+      },
+      "result": {
+        "cost": {
+          "credits": 80,
+          "credits_exact": 80
+        }
+      }
+    },
+    {
+      "label": "draft_480p_5s",
+      "request": {
+        "model": "seedance_2_5",
+        "duration": 5,
+        "resolution": "480p",
+        "aspect_ratio": "16:9",
+        "draft": true
+      },
+      "result": {
+        "cost": {
+          "credits": 15,
+          "credits_exact": 15
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# developers.openai.com
+
+[返回总索引](../links.md)
+
+- [https://developers.openai.com/api/docs/deprecations](https://developers.openai.com/api/docs/deprecations)
+  - 出处：[08_视频制作工具与模型核查_2026-10-18.md](../../00_%E5%BD%93%E5%89%8D%E5%88%9B%E4%BD%9C/08_%E8%A7%86%E9%A2%91%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7%E4%B8%8E%E6%A8%A1%E5%9E%8B%E6%A0%B8%E6%9F%A5_2026-10-18.md)
+- [https://developers.openai.com/api/docs/deprecations)。正文位置：01](https://developers.openai.com/api/docs/deprecations%29%E3%80%82%E6%AD%A3%E6%96%87%E4%BD%8D%E7%BD%AE%EF%BC%9A01)
+  - 出处：[99_官方来源与核验范围.md](../../07_%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/02_AI%E4%BA%A7%E5%93%81%E6%8B%86%E8%A7%A3_2026-10-17/99_%E5%AE%98%E6%96%B9%E6%9D%A5%E6%BA%90%E4%B8%8E%E6%A0%B8%E9%AA%8C%E8%8C%83%E5%9B%B4.md)
+- [https://developers.openai.com/api/docs/guides/agents-api/overview](https://developers.openai.com/api/docs/guides/agents-api/overview)
+  - 出处：[01_OpenAI产品与Codex重点拆解.md](../../07_%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/02_AI%E4%BA%A7%E5%93%81%E6%8B%86%E8%A7%A3_2026-10-17/01_OpenAI%E4%BA%A7%E5%93%81%E4%B8%8ECodex%E9%87%8D%E7%82%B9%E6%8B%86%E8%A7%A3.md)
+- [https://developers.openai.com/api/docs/guides/agents-api/overview)。正文位置：01、05](https://developers.openai.com/api/docs/guides/agents-api/overview%29%E3%80%82%E6%AD%A3%E6%96%87%E4%BD%8D%E7%BD%AE%EF%BC%9A01%E3%80%8105)
+  - 出处：[99_官方来源与核验范围.md](../../07_%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/02_AI%E4%BA%A7%E5%93%81%E6%8B%86%E8%A7%A3_2026-10-17/99_%E5%AE%98%E6%96%B9%E6%9D%A5%E6%BA%90%E4%B8%8E%E6%A0%B8%E9%AA%8C%E8%8C%83%E5%9B%B4.md)
+- [https://developers.openai.com/api/docs/guides/audio](https://developers.openai.com/api/docs/guides/audio)
+  - 出处：[03_产品能力_商业模式与成本.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/03_%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B_%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%88%90%E6%9C%AC.md)
+- [https://developers.openai.com/api/docs/guides/tools-connectors-mcp](https://developers.openai.com/api/docs/guides/tools-connectors-mcp)
+  - 出处：[02_Claude_GPT执行手册与提示词.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/02_Claude_GPT%E6%89%A7%E8%A1%8C%E6%89%8B%E5%86%8C%E4%B8%8E%E6%8F%90%E7%A4%BA%E8%AF%8D.md)
+- [https://developers.openai.com/api/docs/guides/tools-connectors-mcp)、](https://developers.openai.com/api/docs/guides/tools-connectors-mcp%29%E3%80%81)
+  - 出处：[03_产品能力_商业模式与成本.md](../../04_%E7%A0%94%E7%A9%B6%E8%B5%84%E6%96%99/06_AI%E8%A7%86%E9%A2%91%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BA%A7%E5%93%81%E7%A0%94%E7%A9%B6_2026-11-14/03_%E4%BA%A7%E5%93%81%E8%83%BD%E5%8A%9B_%E5%95%86%E4%B8%9A%E6%A8%A1%E5%BC%8F%E4%B8%8E%E6%88%90%E6%9C%AC.md)
+- [https://developers.openai.com/blog/codex-as-a-platform](https://developers.openai.com/blog/codex-as-a-platform)
+  - 出处：[01_工作流能怎么讲.md](../../07_%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/01_%E5%B7%A5%E4%BD%9C%E6%B5%81%E8%83%BD%E6%80%8E%E4%B9%88%E8%AE%B2.md)
+- [https://developers.openai.com/blog/codex-as-a-platform)。正文位置：00](https://developers.openai.com/blog/codex-as-a-platform%29%E3%80%82%E6%AD%A3%E6%96%87%E4%BD%8D%E7%BD%AE%EF%BC%9A00)
+  - 出处：[99_官方来源与核验范围.md](../../07_%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/02_AI%E4%BA%A7%E5%93%81%E6%8B%86%E8%A7%A3_2026-10-17/99_%E5%AE%98%E6%96%B9%E6%9D%A5%E6%BA%90%E4%B8%8E%E6%A0%B8%E9%AA%8C%E8%8C%83%E5%9B%B4.md)

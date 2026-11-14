@@ -1,0 +1,104 @@
+{
+  "pages": [
+    {
+      "id": "D01",
+      "path": "02_Demo版本/D01_这一次轮椅该听谁的_v1/原型/index.html",
+      "title": "这一次，轮椅该听谁的？ · 思辨原型 v1",
+      "text_length": 247,
+      "canvas_count": 0,
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D02",
+      "path": "02_Demo版本/D02_这一次轮椅该听谁的_v1.1/原型/index.html",
+      "title": "这一次，轮椅该听谁的？ · 思辨修订 v1.1",
+      "text_length": 261,
+      "canvas_count": 0,
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D03",
+      "path": "02_Demo版本/D03_请别替我让路_3D/原型/index.html",
+      "title": "请别替我让路 · 3D 思辨原型",
+      "text_length": 240,
+      "canvas_count": 1,
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D04",
+      "path": "02_Demo版本/D04_请等下一班_v4.1_电梯/原型/index.html",
+      "title": "请等下一班 · 电梯3D交互原型",
+      "text_length": 266,
+      "canvas_count": 1,
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D05",
+      "path": "02_Demo版本/D05_请等下一班_v5_会协商的医院/原型/index.html",
+      "title": "请等下一班 · 会协商的医院",
+      "text_length": 191,
+      "canvas_count": 1,
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D06",
+      "path": "02_Demo版本/D06_不用麻烦她_早期打包版/原型/index.html",
+      "title": "不用麻烦她｜3D 交互原型",
+      "text_length": 314,
+      "canvas_count": 1,
+      "demo_ready": true,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "D07",
+      "path": "02_Demo版本/D07_不用麻烦她_反馈修订版/原型/index.html",
+      "title": "不用麻烦她｜3D 交互原型",
+      "text_length": 314,
+      "canvas_count": 1,
+      "demo_ready": true,
+      "errors": [],
+      "failed_requests": []
+    },
+    {
+      "id": "F07",
+      "path": "03_分镜与角色/F07_不用麻烦她_v6_完整36镜/原始材料/index.html",
+      "title": "不用麻烦她 · v6 完整分镜",
+      "text_length": 3929,
+      "canvas_count": 0,
+      "demo_ready": false,
+      "errors": [],
+      "failed_requests": []
+    }
+  ],
+  "tools": [
+    {
+      "id": "T01",
+      "path": "06_制作工具/T01_AI视频工作流",
+      "title": "不用麻烦她 · 视频制作台",
+      "text_length": 952,
+      "errors": [],
+      "failed_requests": [],
+      "real_model_called": false
+    },
+    {
+      "id": "T02",
+      "path": "06_制作工具/T02_Bodystorming_Agent",
+      "title": "场外 · Bodystorming Agent",
+      "text_length": 433,
+      "errors": [],
+      "failed_requests": [],
+      "real_model_called": false
+    }
+  ]
+}

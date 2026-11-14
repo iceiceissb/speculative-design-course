@@ -1,0 +1,145 @@
+{
+  "template_version": "design-1.0",
+  "compatible_with_current_workflow_py": false,
+  "purpose": "供Claude/GPT规划新项目与未来适配器设计；不可直接替换现有project.json",
+  "project": {
+    "id": "new-project",
+    "title": "填写片名",
+    "current_script_version": null,
+    "brief": {
+      "audience": null,
+      "message": null,
+      "target_duration_seconds": null,
+      "aspect_ratio": "16:9",
+      "language": "zh-CN",
+      "deliverables": [
+        "字幕版MP4",
+        "无对白字幕版MP4",
+        "SRT",
+        "可编辑工程",
+        "自包含素材",
+        "制作与费用说明"
+      ]
+    },
+    "budget": {
+      "currency": "CNY",
+      "approved_scope": null,
+      "approved_total": null,
+      "spent_estimated": 0,
+      "reserved_estimated": 0,
+      "invoice_reconciled": false,
+      "note": "不同供应商的元、美元、积分分别记账；汇率与套餐分摊规则显式记录"
+    }
+  },
+  "assets": {
+    "characters": [],
+    "voices": [],
+    "locations": [],
+    "props": [],
+    "music": [],
+    "licence_records": []
+  },
+  "shots": [
+    {
+      "shot_id": "001",
+      "scene_id": "scene-01",
+      "narrative_purpose": null,
+      "script_version": null,
+      "visible_characters": [],
+      "entering_characters": [],
+      "offscreen_speakers": [],
+      "state_start": null,
+      "action": null,
+      "state_end": null,
+      "preserve": [],
+      "visual": {
+        "framing": null,
+        "camera": null,
+        "movement": null,
+        "lighting": null,
+        "reference_asset_ids": [],
+        "reference_roles": []
+      },
+      "dialogue": [
+        {
+          "line_id": "line-001",
+          "speaker_id": null,
+          "text": null,
+          "text_version": 1,
+          "voice_asset_id": null,
+          "performance_notes": null,
+          "audio_strategy": "pending",
+          "audio_file": null,
+          "measured_duration_seconds": null,
+          "visible_lip_sync_required": false
+        }
+      ],
+      "sound": {
+        "ambience_asset_ids": [],
+        "sound_events": [],
+        "music_policy": "整片后期统一安排",
+        "native_audio_is_mixed": null,
+        "continue_from_previous": [],
+        "continue_to_next": []
+      },
+      "production": {
+        "method": "pending",
+        "provider": null,
+        "model_id": null,
+        "model_version": null,
+        "input_mode": null,
+        "parameters_verified_at": null,
+        "prompt_version": 1,
+        "requested_duration_seconds": null,
+        "target_edit_duration_seconds": null,
+        "target_candidates": 1,
+        "quote": {
+          "amount": null,
+          "unit": null,
+          "quoted_at": null
+        }
+      },
+      "candidates": [],
+      "selection": {
+        "candidate_id": null,
+        "source_start_seconds": null,
+        "duration_seconds": null,
+        "reason": null
+      },
+      "quality": {
+        "technical": "not_checked",
+        "action": "not_checked",
+        "identity": "not_checked",
+        "dialogue": "not_checked",
+        "voice_continuity": "not_checked",
+        "lip_sync": "not_checked",
+        "notes": [],
+        "human_reviewed": false
+      },
+      "depends_on_asset_versions": [],
+      "status": "planned"
+    }
+  ],
+  "execution_records": [],
+  "cost_ledger": [],
+  "edit_timeline": {
+    "version": 1,
+    "video_segments": [],
+    "dialogue_tracks": [],
+    "native_mixed_audio_tracks": [],
+    "ambience_tracks": [],
+    "sound_effect_tracks": [],
+    "music_tracks": [],
+    "subtitle_segments": []
+  },
+  "changes": [],
+  "delivery": {
+    "current_version": null,
+    "files": [],
+    "technical_checks": [],
+    "full_playback_reviewed": false,
+    "full_audio_reviewed": false,
+    "native_editor_open_verified": false,
+    "native_editor_export_verified": false
+  }
+}

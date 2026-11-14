@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>不用麻烦她｜即梦视频制作台</title>
+<link rel="stylesheet" href="video.css">
+<style>
+.section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;margin-bottom:20px}.section-head h2{font-family:"Songti SC","SimSun",serif;font-size:clamp(25px,2.4vw,36px);font-weight:500;margin:0}.section-head .eyebrow{margin-bottom:5px}.section-head>a,.section-head>span{font-size:13px;color:#acc8af}.continuity{margin:0 0 42px;padding:27px;background:#30382f;border:1px solid #5b6b5a}.continuity-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.continuity-grid p{margin:0;line-height:1.7;color:#dce2d7;font-size:13px;padding:16px;border:1px solid #546354;background:#283027}.continuity-grid b{display:block;font-size:15px;color:#e8d5af;margin-bottom:5px;font-weight:500}.continuity-note{margin:18px 0 0;font-size:13px;color:#afc4ad;line-height:1.7}.timeline-section{margin:0 0 50px}.timeline{display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:10px}.timeline-shot{text-decoration:none;display:block;min-width:0;border:1px solid #596959;background:#303a31;padding:8px;transition:border .2s,transform .2s}.timeline-shot:hover{border-color:#b1ceb5;transform:translateY(-2px)}.timeline-shot.pov{border-color:#bb9060;background:#3e372b}.timeline-shot img{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#475447}.timeline-shot span{display:block;margin-top:8px;color:#b3c8b6;font:11px Georgia,serif}.timeline-shot b{display:block;margin-top:3px;color:#f2eee5;font-size:12px;font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.timeline-shot em{display:inline-block;color:#e5bd82;font-size:10px;font-style:normal;margin-top:3px}.timecodes{color:#b8c9b8;font:12px Georgia,"Microsoft YaHei",sans-serif;margin:-10px 0 15px}.bridge{color:#c7dac7;font-size:13px;line-height:1.7;padding:10px 13px;border-left:2px solid #91b69c;background:#303a31;margin:12px 0 0}.bridge b{color:#e3dfcc;font-weight:500}
+@media(max-width:960px){.continuity-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.timeline{grid-template-columns:repeat(4,minmax(0,1fr))}}@media(max-width:620px){.continuity-grid{grid-template-columns:1fr}.timeline{grid-template-columns:repeat(2,minmax(0,1fr))}.section-head{display:block}.section-head>a,.section-head>span{display:block;margin-top:10px}}
+</style>
+</head>
+<body>
+<header class="top">
+  <div><p class="eyebrow">即梦生成 / 剪映后期 · 3:00 制作台</p><h1>不用麻烦她 · 逐镜制作</h1><p>36 张参考帧排成 3 分钟完整故事，整理为 30 个生成任务：6 段首尾帧动画与 24 段单帧动画。新补的主观镜头让观众看见她如何挑菜、为何邀请，以及朋友怎样发现助力灯。</p></div>
+  <a class="back" href="../../index.html">返回 3D Demo ↗</a>
+</header>
+<section class="summary" aria-label="制作进度">
+  <div><strong>36</strong><span>参考帧，全部在本文件夹</span></div><div><strong>30</strong><span>即梦生成任务</span></div><div><strong>6 + 24</strong><span>首尾帧片段 + 单帧片段</span></div>
+  <div class="progress"><strong id="progress-text">0 / 30</strong><span>已标记完成</span><div class="progress-bar"><i id="progress-fill"></i></div></div>
+</section>
+<div class="controls"><label for="scene-filter">查看</label><select id="scene-filter"><option value="">全部情境</option><option>01 路口</option><option>02 早市</option><option>03 夜里</option><option>04 见面</option><option>05 坡道</option><option>06 下一次</option></select><select id="status-filter" aria-label="完成状态"><option value="">全部状态</option><option value="todo">未完成</option><option value="done">已完成</option></select><input id="search" type="search" placeholder="搜索镜号、台词或动作" aria-label="搜索镜头"><span class="note">音效交给即梦 · 台词与手机字交给剪映</span></div>
+<main>
+  <p class="intro"><strong>使用顺序：</strong>先按下方 36 格时间线确定故事接力，再做 6 组首尾帧短样，检查轮椅坐姿、推把、布袋和坡道方向。成对片段建议生成约 10 秒，在剪映切为前后各 5 秒，把标注的反应或主观特写插在中间；其余 24 段各约 5 秒。若即梦单次时长受限，就把首尾动作分两次续接。关闭自动配乐与人声，保留提示词里的环境与动作音；对白、旁白和手机文字在剪映添加。</p>
+  <section class="continuity" aria-labelledby="continuity-title"><div class="section-head"><div><p class="eyebrow">故事接力 / 剪辑核对</p><h2 id="continuity-title">先看清每一幕怎样接上</h2></div><a href="即梦_36帧最终制作表.md">打开完整文字制作表 ↗</a></div><div class="continuity-grid"><p><b>01 路口 · 第一天早晨</b>半句话没说完，徐月禾继续赶路。邱懿贞随后独自去早市。</p><p><b>02 早市 · 同一天</b>她亲自看菜根，秀秀险些抢先选错；撤回后才拎起她选好的唯一菜袋。</p><p><b>03 夜里 · 当晚</b>空杯说明她想见人。自检正常，她删除故障借口，自己发出邀请。</p><p><b>04 见面 · 第二天</b>朋友带早点，她带菜。说清只同行半小时；徐月禾绕到椅后才握推把。</p><p><b>05 坡道 · 第一次</b>人先推，秀秀未告知便助力；灯先亮，徐月禾从自己视角看见，坡顶提出边界。</p><p><b>06 下一次 · 又一天</b>同一坡、同一轴线。先问、灯灭、她自己试；明确求助后灯才亮，到顶提出停就停。</p></div><p class="continuity-note">物件和声音：32 与 34 前段机械手提袋，34 末挂到椅背后侧；第一回 21 灭 → 22/35 亮 → 23 发现，第二回 25/26/27/36 灭 → 28 求助后亮 → 29 停后灭。两次徐月禾视角保持同机位，帮助观众读出改变。</p></section>
+  <section class="timeline-section" aria-labelledby="timeline-title"><div class="section-head"><div><p class="eyebrow">36 × 5 秒 = 03:00</p><h2 id="timeline-title">最终剪辑顺序</h2></div><span>点击任一格跳到它所属的即梦任务</span></div><div id="timeline" class="timeline"></div></section>
+  <div id="clips"></div><p id="empty" class="empty" hidden>没有匹配的镜头。</p>
+</main>
+<dialog id="lightbox"><button type="button" id="close">关闭</button><img id="large-image" alt=""><p id="large-caption"></p></dialog>
+<script src="clips.js"></script><script src="video.js"></script>
+</body>
+</html>

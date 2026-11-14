@@ -1,0 +1,10 @@
+.env
+state.json
+.operation.lock
+__pycache__/
+candidates/
+exports/
+inbox/
+reports/
+.chrome-test/
+.venv-jianying/

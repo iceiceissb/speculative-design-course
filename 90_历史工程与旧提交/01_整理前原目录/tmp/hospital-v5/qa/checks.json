@@ -1,0 +1,176 @@
+{
+  "checks": [
+    {
+      "name": "file opening renders real meshes",
+      "ok": true
+    },
+    {
+      "name": "no network dependencies",
+      "ok": true
+    },
+    {
+      "name": "pause stops scene and animation time",
+      "ok": true
+    },
+    {
+      "name": "remote reservations fill six spaces",
+      "ok": true
+    },
+    {
+      "name": "physical queue preserves visible non-digital passenger",
+      "ok": true
+    },
+    {
+      "name": "chapter 1 branch shadow reaches result",
+      "ok": true
+    },
+    {
+      "name": "chapter 1 branch queue reaches result",
+      "ok": true
+    },
+    {
+      "name": "chapter 2 branch delegate reaches result",
+      "ok": true
+    },
+    {
+      "name": "delegation actually moves chair to third lift",
+      "ok": true
+    },
+    {
+      "name": "chapter 2 branch chooseB reaches result",
+      "ok": true
+    },
+    {
+      "name": "selected lift B actually carries chair into cabin",
+      "ok": true
+    },
+    {
+      "name": "chapter 3 branch music reaches result",
+      "ok": true
+    },
+    {
+      "name": "chapter 3 branch quiet reaches result",
+      "ok": true
+    },
+    {
+      "name": "chapter 4 branch bridge reaches result",
+      "ok": true
+    },
+    {
+      "name": "robot bridge raises chair above step",
+      "ok": true
+    },
+    {
+      "name": "chapter 4 branch detour reaches result",
+      "ok": true
+    },
+    {
+      "name": "chapter 5 branch down reaches result",
+      "ok": true
+    },
+    {
+      "name": "garden platform descends",
+      "ok": true
+    },
+    {
+      "name": "chapter 5 branch up reaches result",
+      "ok": true
+    },
+    {
+      "name": "wheelchair reaches upper garden",
+      "ok": true
+    },
+    {
+      "name": "chapter 6 branch ask reaches result",
+      "ok": true
+    },
+    {
+      "name": "chapter 6 branch remember reaches result",
+      "ok": true
+    },
+    {
+      "name": "unanswered new request leaves person unmoved",
+      "ok": true
+    },
+    {
+      "name": "refusal keeps projection off",
+      "ok": true
+    },
+    {
+      "name": "one-off consent does not save automatic preference",
+      "ok": true
+    },
+    {
+      "name": "saved quiet preference is respected",
+      "ok": true
+    },
+    {
+      "name": "revocation returns to ask and turns off projection",
+      "ok": true
+    },
+    {
+      "name": "saved projection preference activates on new request",
+      "ok": true
+    },
+    {
+      "name": "preference can be revoked after continued use",
+      "ok": true
+    },
+    {
+      "name": "restart clears entire history and preferences",
+      "ok": true
+    },
+    {
+      "name": "chapter navigation cancels previous animation",
+      "ok": true
+    },
+    {
+      "name": "user gesture enables audio engine",
+      "ok": true
+    },
+    {
+      "name": "mute resets gain",
+      "ok": true
+    },
+    {
+      "name": "camera switches view",
+      "ok": true
+    },
+    {
+      "name": "drag rotates real camera",
+      "ok": true
+    },
+    {
+      "name": "laptop has no page overflow",
+      "ok": true
+    },
+    {
+      "name": "mobile has no horizontal page overflow",
+      "ok": true
+    },
+    {
+      "name": "mobile branch remains usable",
+      "ok": true
+    },
+    {
+      "name": "no runtime exceptions",
+      "ok": true
+    }
+  ],
+  "errors": [],
+  "requests": [
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/index.html",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/style.css",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/three.min.js",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/texture.js",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/actors.js",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/story.js",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/stage.js",
+    "file:///D:/%E8%AF%BE/%E5%A4%A7%E5%9B%9B%E4%B8%8A/%E6%80%9D%E8%BE%A8%E8%AE%BE%E8%AE%A1/%E4%BD%9C%E4%B8%9A%E4%BA%8C/%E4%B8%8B%E4%B8%80%E6%AC%A1%E6%B1%87%E6%8A%A5_%E5%89%A7%E6%9C%AC%E4%B8%8E%E8%A7%84%E5%88%99/%E7%AC%AC%E4%BA%94%E7%89%88_%E4%BC%9A%E5%8D%8F%E5%95%86%E7%9A%84%E5%8C%BB%E9%99%A2/3D%E4%BA%A4%E4%BA%92%E7%9F%AD%E7%AF%87/app.js"
+  ],
+  "method": "Playwright with Edge Chromium. Browser/IAB plugin unavailable.",
+  "viewport": [
+    1600,
+    1000
+  ]
+}

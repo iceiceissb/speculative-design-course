@@ -1,0 +1,58 @@
+{
+  "shot": "36",
+  "candidate": "1d2fdfb828b243b2",
+  "expected": [
+    {
+      "id": "L23",
+      "speaker": "邱",
+      "text": "快去吧，别迟了。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.84,
+      "text": "快去吧,别迟了。",
+      "avg_logprob": -0.35561884194612503,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.4,
+          "word": "快",
+          "probability": 0.9898462891578674
+        },
+        {
+          "start": 0.4,
+          "end": 0.6,
+          "word": "去",
+          "probability": 0.9959617257118225
+        },
+        {
+          "start": 0.6,
+          "end": 0.92,
+          "word": "吧,",
+          "probability": 0.9965047836303711
+        },
+        {
+          "start": 1.0,
+          "end": 1.34,
+          "word": "别",
+          "probability": 0.3322438597679138
+        },
+        {
+          "start": 1.34,
+          "end": 1.6,
+          "word": "迟",
+          "probability": 0.9671881198883057
+        },
+        {
+          "start": 1.6,
+          "end": 1.84,
+          "word": "了。",
+          "probability": 0.9724766612052917
+        }
+      ]
+    }
+  ]
+}

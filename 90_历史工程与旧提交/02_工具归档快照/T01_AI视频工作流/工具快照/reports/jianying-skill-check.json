@@ -1,0 +1,18 @@
+{
+  "ok": true,
+  "skill_root": "C:\\Users\\22602\\.codex\\skills\\jianying-editor",
+  "python": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\.venv-jianying\\Scripts\\python.exe",
+  "draft": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\reports\\jianying-skill-checks\\剪映Skill_运行验证_dc795f84b374",
+  "source": "D:\\课\\大四上\\思辨设计\\output\\AI视频工作流\\candidates\\E\\6d63154c739240a6.mp4",
+  "verified": [
+    "完整 JyProject 接口",
+    "素材自包含",
+    "精确源切点",
+    "字幕时间线",
+    "缩放关键帧",
+    "音量淡入淡出关键帧"
+  ],
+  "jianying_ui_verified": false,
+  "native_mp4_export_verified": false,
+  "note": "此草稿仅验证 Skill 的实际写入能力；没有改动选片、原工程或执行视频生成 API。"
+}

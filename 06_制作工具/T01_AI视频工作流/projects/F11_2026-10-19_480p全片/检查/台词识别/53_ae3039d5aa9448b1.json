@@ -1,0 +1,58 @@
+{
+  "shot": "53",
+  "candidate": "ae3039d5aa9448b1",
+  "expected": [
+    {
+      "id": "L27",
+      "speaker": "来客",
+      "text": "这里转不过来。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 6.26,
+      "end": 7.44,
+      "text": "这里转不过来。",
+      "avg_logprob": -0.9008107402107932,
+      "words": [
+        {
+          "start": 6.26,
+          "end": 6.58,
+          "word": "这",
+          "probability": 0.027880189940333366
+        },
+        {
+          "start": 6.58,
+          "end": 6.72,
+          "word": "里",
+          "probability": 0.834403395652771
+        },
+        {
+          "start": 6.72,
+          "end": 6.88,
+          "word": "转",
+          "probability": 0.9737225472927094
+        },
+        {
+          "start": 6.88,
+          "end": 7.02,
+          "word": "不",
+          "probability": 0.9317489862442017
+        },
+        {
+          "start": 7.02,
+          "end": 7.18,
+          "word": "过",
+          "probability": 0.9996172189712524
+        },
+        {
+          "start": 7.18,
+          "end": 7.44,
+          "word": "来。",
+          "probability": 0.9995110034942627
+        }
+      ]
+    }
+  ]
+}

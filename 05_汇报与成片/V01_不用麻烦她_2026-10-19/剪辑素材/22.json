@@ -1,0 +1,46 @@
+{
+  "signature": "556cb3aad3cdcc643f1cf4120cdc5bea0f1c663a0d6078c2556a650b64390722",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\22.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\22.wav",
+  "id": "22",
+  "title": "选中金边扣",
+  "kind": "video",
+  "candidate": "4b7c526636034cf6",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\22\\4b7c526636034cf6.mp4",
+  "source_start": 2.21,
+  "duration": 1.8333333333333333,
+  "dialogue": [
+    {
+      "id": "L10",
+      "speaker": "邱",
+      "text": "这个好。"
+    }
+  ],
+  "speech": [
+    {
+      "start": 2.66,
+      "end": 3.86,
+      "text": "这个好。",
+      "avg_logprob": -0.9705702463785807,
+      "words": [
+        {
+          "start": 2.66,
+          "end": 3.46,
+          "word": "这个",
+          "probability": 0.5246149301528931
+        },
+        {
+          "start": 3.46,
+          "end": 3.86,
+          "word": "好。",
+          "probability": 0.9581783413887024
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084414-vuqw9",
+  "start": 77.5,
+  "end": 79.33333333333333
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "RC237",
+    "name": "走廊相遇实验",
+    "type": "Fiore 等，2013 / 实验论文",
+    "image": "proxemics.png",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00859/full",
+    "imageURL": "https://www.frontiersin.org/files/Articles/57423/xml-images/fpsyg-04-00859-g002.webp"
+  },
+  {
+    "id": "RC252",
+    "name": "DAWN / OriHime",
+    "type": "真实运营项目与官方人物故事",
+    "image": "dawn.jpg",
+    "url": "https://dawn2021.orylab.com/en/",
+    "imageURL": "https://dawn2021.orylab.com/assets/images/common/c-area-pic.jpg"
+  },
+  {
+    "id": "RC045",
+    "name": "Uninvited Guests",
+    "type": "Superflux，2015 / 虚构短片",
+    "image": "guests.jpg",
+    "url": "https://superflux.in/index.php/work/uninvited-guests/",
+    "imageURL": "https://superflux.in/wp-content/uploads/2016/11/guests.jpg"
+  },
+  {
+    "id": "W07 / RC261",
+    "name": "LUCI",
+    "type": "官方产品使用指南，Rev F",
+    "image": "luci.png",
+    "url": "https://www.luci.com/hubfs/Luci_April2026/pdf/613-00003_F_LUCI-User-Guide_Color-1.pdf",
+    "imageURL": "LUCI 官方指南中的产品示意图"
+  },
+  {
+    "id": "W01 / RC262",
+    "name": "CoNav Chair",
+    "type": "Xu 等，2025 / 研究预印本",
+    "image": "conav.png",
+    "url": "https://arxiv.org/abs/2507.11716",
+    "imageURL": "CoNav Chair 论文中的系统图"
+  },
+  {
+    "id": "W08 / RC232",
+    "name": "HuggieBot 2.0",
+    "type": "Block 等，2021 / 研究论文",
+    "image": "huggiebot.jpeg",
+    "url": "https://arxiv.org/abs/2101.07679",
+    "imageURL": "论文首页机器人与参与者照片"
+  }
+]

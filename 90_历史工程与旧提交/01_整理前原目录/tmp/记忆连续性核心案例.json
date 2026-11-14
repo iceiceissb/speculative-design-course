@@ -1,0 +1,121 @@
+[
+  {
+    "id": "RC052",
+    "title": "Robot & Frank",
+    "type": "虚构叙事",
+    "summary": "老人与照护机器人的关系进入盗窃计划，照护目标与社会规范发生张力。",
+    "url": "https://www.sonypictures.com/movies/robotandfrank"
+  },
+  {
+    "id": "RC086",
+    "title": "Moxie现行支持页",
+    "type": "真实产品与事件",
+    "summary": "旧数据未迁移、“one brain, one soul”、付费云端、整机记忆删除同时存在。",
+    "url": "https://moxierobots.com/contact"
+  },
+  {
+    "id": "RC087",
+    "title": "RIP Moxie",
+    "type": "真实产品与事件",
+    "summary": "分析公司停服沟通与用户反应，提出社会机器人应有伦理化退场设计。",
+    "url": "https://pgl.jp/papers/69dcad7555a355001e073669"
+  },
+  {
+    "id": "RC089",
+    "title": "AIBO葬礼",
+    "type": "真实产品与事件",
+    "summary": "维修、宗教仪式、依恋与零件再利用构成完整“死后生态”。",
+    "url": "https://cir.nii.ac.jp/crid/1360004235292688000"
+  },
+  {
+    "id": "RC090",
+    "title": "The robot that stayed",
+    "type": "真实产品与事件",
+    "summary": "研究结束后机器人仍被家庭保存、重新叙述或告别。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12370748/"
+  },
+  {
+    "id": "RC092",
+    "title": "Soulmate关闭",
+    "type": "真实产品与事件",
+    "summary": "用户经历离开、删除或死亡式的AI伴侣丧失，并尝试重建人格。",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/02654075241269688"
+  },
+  {
+    "id": "RC093",
+    "title": "Replika更新",
+    "type": "真实产品与事件",
+    "summary": "平台仍在，但性格与亲密能力变化被用户理解为“它不再是原来的它”。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10785945/"
+  },
+  {
+    "id": "RC094",
+    "title": "Vector Escape Pod",
+    "type": "真实产品与事件",
+    "summary": "把机器人指向本地端点，让部分能力不再完全依赖公司云端。",
+    "url": "https://support.anki.bot/article/108-vector-changelog-and-known-issues"
+  },
+  {
+    "id": "RC100",
+    "title": "Closing sequences",
+    "type": "研究与技术",
+    "summary": "人机互动的结束需要共同完成收尾序列。",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11604783/"
+  },
+  {
+    "id": "RC104",
+    "title": "Can Robots Have Personal Identity?",
+    "type": "研究与技术",
+    "summary": "从心理连续性与机器人替换问题讨论个人同一性。",
+    "url": "https://link.springer.com/article/10.1007/s12369-022-00958-y"
+  },
+  {
+    "id": "RC105",
+    "title": "Shared Memory for Human-Robot Symbiosis",
+    "type": "研究与技术",
+    "summary": "探讨跨代理共享累积记忆以支持长期共生。",
+    "url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2018.00034/full"
+  },
+  {
+    "id": "RC110",
+    "title": "Forget Me, Forget Me Not",
+    "type": "艺术与设计",
+    "summary": "删除记忆的仪式与装置",
+    "url": "https://michaeljames.design/forget-me-forget-me-not"
+  },
+  {
+    "id": "RC111",
+    "title": "Future Erasure",
+    "type": "艺术与设计",
+    "summary": "虚构博物馆、报纸、影片和Deletion Bureau",
+    "url": "https://designawards.core77.com/Strategy-Research/76158/Future-Erasure.html"
+  },
+  {
+    "id": "RC117",
+    "title": "《After Yang》",
+    "type": "虚构叙事",
+    "summary": "家人在杨停机后进入其记忆片段，重新认识他经历过的关系。",
+    "url": "https://a24films.com/films/after-yang"
+  },
+  {
+    "id": "RC119",
+    "title": "SOMA",
+    "type": "虚构叙事",
+    "summary": "意识扫描制造副本，而不是把原体验者“搬走”。",
+    "url": "https://frictionalgames.com/press-kit/"
+  },
+  {
+    "id": "RC126",
+    "title": "GDPR第17条与第20条",
+    "type": "法律与政策",
+    "summary": "现实中自然人的数据删除权与可携权，为多人共同记忆冲突提供制度锚点。",
+    "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng"
+  },
+  {
+    "id": "RC160",
+    "title": "I Tell Him Everything That I Do: Privacy and Safety in Replika Discussions",
+    "type": "研究与技术",
+    "summary": "分析111篇Replika相关帖子中的隐私披露、安全感与边界问题。",
+    "url": "https://publikationen.bibliothek.kit.edu/1000188405/174385991"
+  }
+]

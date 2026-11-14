@@ -1,0 +1,58 @@
+{
+  "shot": "07",
+  "candidate": "ce8186c7c9804ae2",
+  "expected": [
+    {
+      "id": "L05",
+      "speaker": "徐",
+      "text": "到家给我发个消息。"
+    }
+  ],
+  "language": "zh",
+  "segments": [
+    {
+      "start": 0.6200000000000001,
+      "end": 2.24,
+      "text": "大家给我发个消息。",
+      "avg_logprob": -0.49416530728340147,
+      "words": [
+        {
+          "start": 0.6200000000000001,
+          "end": 1.06,
+          "word": "大家",
+          "probability": 0.4133884310722351
+        },
+        {
+          "start": 1.06,
+          "end": 1.28,
+          "word": "给我",
+          "probability": 0.6293748617172241
+        },
+        {
+          "start": 1.28,
+          "end": 1.54,
+          "word": "发",
+          "probability": 0.9816451072692871
+        },
+        {
+          "start": 1.54,
+          "end": 1.68,
+          "word": "个",
+          "probability": 0.9740758538246155
+        },
+        {
+          "start": 1.68,
+          "end": 1.88,
+          "word": "消",
+          "probability": 0.9901586174964905
+        },
+        {
+          "start": 1.88,
+          "end": 2.24,
+          "word": "息。",
+          "probability": 0.9993811845779419
+        }
+      ]
+    }
+  ]
+}

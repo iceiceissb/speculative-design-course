@@ -1,0 +1,506 @@
+{
+  "created_at": "2026-10-19T08:35:03+08:00",
+  "source": "D:\\课\\大四上\\思辨设计\\03_分镜与角色\\F11_不用麻烦她_v9_视频生成分镜",
+  "all_72_reference_frames_reviewed_in_contact_sheets": true,
+  "three_steps_match_existing_images": true,
+  "reused_pilot_shots": [
+    "20",
+    "21",
+    "53"
+  ],
+  "post_shots": [
+    {
+      "id": "11",
+      "scene": 2,
+      "edit_seconds": 2,
+      "generation_seconds": 0,
+      "title": "手机购买",
+      "cast": [
+        "Q0"
+      ],
+      "environment": "HOME",
+      "camera": "手机商品页特写",
+      "first_frame": "手机在邱手中，商品页已打开。",
+      "action": "后期叠加商品页和购买按钮，以两张手指位置静帧完成点按。",
+      "last_frame": "页面显示订单确认。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "PLATE_PHONE_Q",
+      "post": [
+        "商品页原创文字",
+        "点按与订单状态在后期制作"
+      ],
+      "start_seconds": 43,
+      "end_seconds": 45,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "街道或室内环境声，衣料、手轮与轻电机声按动作出现。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_Q0",
+        "R_ENV_HOME"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：邱家的客厅兼缝纫角：木桌、缝纫工具、电视、布料，墙边可停旧轮椅；同一家具和暖色室内光。\n入画人物与物件：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。\n机位：手机商品页特写。\n画面定在动作开始前：手机在邱手中，商品页已打开。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/11_首帧_v2.png",
+      "visual_review_notes": []
+    },
+    {
+      "id": "14",
+      "scene": 3,
+      "edit_seconds": 3,
+      "generation_seconds": 0,
+      "title": "确认通行",
+      "cast": [
+        "Q0",
+        "W1"
+      ],
+      "environment": "G0",
+      "camera": "控制杆与确认键特写",
+      "first_frame": "邱的手停在确认键旁，按钮表面简洁。",
+      "action": "用确认前后两张手部静帧和按钮灯变化交代点按。",
+      "last_frame": "按钮亮起，接下一镜机构收拢。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "PLATE_CONFIRM_Q",
+      "post": [
+        "确认图标与点按音后期添加"
+      ],
+      "start_seconds": 50,
+      "end_seconds": 53,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "街道或室内环境声，衣料、手轮与轻电机声按动作出现。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_Q0",
+        "R_W1",
+        "R_ENV_G0"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：西街旧柱口，两根阻车柱位置固定，侧边另有绕行小路；各次拍摄保留同一地面纹理和背景店面。\n入画人物与物件：短银灰发、无眼镜，砖红开衫、米白衬衣、深灰裤和暗红便鞋；成年老年女性定格人偶，表情按当场动作变化。；鼠尾草绿折面外壳、浅米坐垫，扶手有实体控制杆与小屏；两只深色关节机械手分别连在扶手下方。取放物品时由一只机械手伸出，另一只收在扶手下。收拢、普通轮行与越阶结构以待确认母版为准。\n机位：控制杆与确认键特写。\n画面定在动作开始前：邱的手停在确认键旁，按钮表面简洁。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/14_首帧_v2.png",
+      "visual_review_notes": []
+    },
+    {
+      "id": "18",
+      "scene": 3,
+      "edit_seconds": 3,
+      "generation_seconds": 0,
+      "title": "入口自动变绿",
+      "cast": [],
+      "environment": "UI",
+      "camera": "扶手屏幕与地图合成",
+      "first_frame": "地图上有西街柱口和青禾布店两个地点。",
+      "action": "后期先显示“本次通行完成”，再出现“入口可通行，已共享”；两个地点变绿。",
+      "last_frame": "两个绿色标记保持清晰。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_MAP_V1",
+      "post": [
+        "文字、颜色和状态按统一界面模板制作"
+      ],
+      "checks": [
+        "两个点都变绿",
+        "本镜交代错误共享发生"
+      ],
+      "start_seconds": 68,
+      "end_seconds": 71,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：扶手屏幕与地图合成。\n画面定在动作开始前：地图上有西街柱口和青禾布店两个地点。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/18_首帧.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "30",
+      "scene": 6,
+      "edit_seconds": 5,
+      "generation_seconds": 0,
+      "title": "撤回两处错误标记",
+      "cast": [],
+      "environment": "UI",
+      "camera": "手机及地图后期合成",
+      "first_frame": "来客手机上的布店入口仍是绿色。",
+      "action": "绿色变为问题标记，显示台阶照片与“入口有两级台阶，侧面坡道较陡”；随后切到柱口照片及问题标记。",
+      "last_frame": "布店和柱口都保留障碍信息。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_MAP_V2",
+      "reuse_source": "25",
+      "post": [
+        "复用25镜手机画面或首帧作底板",
+        "两处地点均纠正"
+      ],
+      "checks": [
+        "地点名称与18镜相同",
+        "照片来自本片同一入口"
+      ],
+      "start_seconds": 121,
+      "end_seconds": 126,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：手机及地图后期合成。\n画面定在动作开始前：来客手机上的布店入口仍是绿色。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/30_首帧_v2.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "32",
+      "scene": 6,
+      "edit_seconds": 3,
+      "generation_seconds": 0,
+      "title": "提交与回执",
+      "cast": [],
+      "environment": "UI",
+      "camera": "扶手屏幕特写合成",
+      "first_frame": "屏幕列出柱口和布店两处位置及照片，提交按钮在下方。",
+      "action": "用14镜手部素材或静帧做点按，页面弹出“已接收，待核查”。",
+      "last_frame": "回执保持清晰可读。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_RECEIPT",
+      "reuse_source": "14",
+      "post": [
+        "复用紧景别手部底板，替换屏幕画面"
+      ],
+      "checks": [
+        "提交后显示待核查",
+        "两处地点与入口照片对应"
+      ],
+      "start_seconds": 135,
+      "end_seconds": 138,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：扶手屏幕特写合成。\n画面定在动作开始前：屏幕列出柱口和布店两处位置及照片，提交按钮在下方。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/32_首帧.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "41",
+      "scene": 7,
+      "edit_seconds": 3,
+      "generation_seconds": 0,
+      "title": "反馈列表汇入地图",
+      "cast": [],
+      "environment": "UI",
+      "camera": "电脑界面全屏后期制作",
+      "first_frame": "市民服务页面有按日期排列的反馈条目。",
+      "action": "列表向下滚动，打开地图；诊所、公交站、布店和柱口出现问题标记，同一柱口旁显示多次反馈。",
+      "last_frame": "地图停在四处地点上。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_CITY_REPORTS",
+      "post": [
+        "原创界面统一绘制",
+        "地图采用虚构街区，保持店与柱口的相对位置"
+      ],
+      "start_seconds": 174,
+      "end_seconds": 177,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：电脑界面全屏后期制作。\n画面定在动作开始前：市民服务页面有按日期排列的反馈条目。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/41_首帧.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "55",
+      "scene": 9,
+      "edit_seconds": 1,
+      "generation_seconds": 0,
+      "title": "几天后平台加宽",
+      "cast": [],
+      "environment": "SH2",
+      "camera": "同位置全景静帧",
+      "first_frame": "第二版平台向侧面延展，门旁货架已移入店内。",
+      "action": "以第二版场景确认图做短停帧，后期标出“几天后”。",
+      "last_frame": "宽平台与清空的门边可见。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "SHOP_TEST2_WIDE",
+      "geometry": "SHOP_TEST2",
+      "post": [
+        "用已确认场景图完成时间跳切"
+      ],
+      "start_seconds": 225,
+      "end_seconds": 226,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "工具、布料与车轮等实际动作声。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_SH2"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：青禾布店第二次调整后：坡道顶部平台向侧面加宽，门边货架移到店内；普通轮椅上坡、转向和开门的路径连续。\n入画人物与物件：\n机位：同位置全景静帧。\n画面定在动作开始前：第二版平台向侧面延展，门旁货架已移入店内。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/55_首帧.png",
+      "visual_review_notes": [
+        "第一版小平台与第二版大平台已有区别；坡道长度、落点、门扇开启范围和转弯余量仍需在锁定场景后量化核对。"
+      ]
+    },
+    {
+      "id": "57",
+      "scene": 9,
+      "edit_seconds": 3,
+      "generation_seconds": 0,
+      "title": "复测完成后变绿",
+      "cast": [],
+      "environment": "UI",
+      "camera": "核查记录界面后期制作",
+      "first_frame": "记录中已有新坡道照片及来客试用照片。",
+      "action": "添上“核查完成”，布店入口标记由问题色变为绿色。",
+      "last_frame": "绿色标记和新入口照片同屏。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_VERIFIED",
+      "post": [
+        "照片从49、56镜素材截取",
+        "完成状态在来客通过之后出现"
+      ],
+      "start_seconds": 230,
+      "end_seconds": 233,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：核查记录界面后期制作。\n画面定在动作开始前：记录中已有新坡道照片及来客试用照片。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/57_首帧.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "58",
+      "scene": 10,
+      "edit_seconds": 3,
+      "generation_seconds": 0,
+      "title": "继续处理下一处",
+      "cast": [],
+      "environment": "UI",
+      "camera": "工作人员电脑界面后期制作",
+      "first_frame": "界面显示刚完成的布店记录。",
+      "action": "加入回访照片，点开下一处诊所或路口反馈。",
+      "last_frame": "下一个待处理点被展开。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_CITY_REPORTS_V2",
+      "reuse_source": "41",
+      "start_seconds": 233,
+      "end_seconds": 236,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "post": [],
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：工作人员电脑界面后期制作。\n画面定在动作开始前：界面显示刚完成的布店记录。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/58_首帧.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "65",
+      "scene": 10,
+      "edit_seconds": 4,
+      "generation_seconds": 0,
+      "title": "两年的回访与维修",
+      "cast": [],
+      "environment": "UI",
+      "camera": "反馈记录界面后期制作",
+      "first_frame": "界面上有日期、回访照片和扶手问题记录。",
+      "action": "日期跨过两年；“坡道扶手松动”的照片换为维修后的照片。",
+      "last_frame": "页面保留最近一次维修完成日期。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "UI_MAINTENANCE",
+      "reuse_source": "41",
+      "post": [
+        "使用虚构日期标明两年跨度",
+        "保留维修与回访记录"
+      ],
+      "start_seconds": 260,
+      "end_seconds": 264,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "界面点按与环境声由后期制作。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_UI"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：本片原创市民服务、轮椅扶手及地图界面，文字和图形以独立后期图层制作。\n入画人物与物件：\n机位：反馈记录界面后期制作。\n画面定在动作开始前：界面上有日期、回访照片和扶手问题记录。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/65_首帧_v2.png",
+      "visual_review_notes": [
+        "界面图用来审阅信息变化；地图缩略建筑、照片与个别文字需用后期图层统一，不能直接当作完整操作界面定稿。"
+      ]
+    },
+    {
+      "id": "72",
+      "scene": 11,
+      "edit_seconds": 2,
+      "generation_seconds": 0,
+      "title": "片名",
+      "cast": [],
+      "environment": "BLACK",
+      "camera": "纯黑片尾后期制作",
+      "first_frame": "黑底。",
+      "action": "后期出现片名《不用麻烦她》。",
+      "last_frame": "片名停留后结束。",
+      "dialogue_ids": [],
+      "method": "post",
+      "asset": "TITLE",
+      "post": [
+        "片名统一字体与排版"
+      ],
+      "start_seconds": 292,
+      "end_seconds": 294,
+      "dialogue": [],
+      "native_dialogue": [],
+      "post_dialogue": [],
+      "sound": "广场舞曲由后期统一配入，保留现场衣料与车轮声。",
+      "checks": [
+        "人物、衣服与场景状态延续本镜参考",
+        "动作有起点、接触和停下的位置"
+      ],
+      "risk": "low",
+      "reference_ids": [
+        "R_ENV_BLACK"
+      ],
+      "reference_status": "generated_for_review",
+      "first_frame_prompt": "16:9横屏，手工微缩定格人偶短片。哑光树脂面部、纤维头发、可见织纹的真实布衣，暖米白、鼠尾草绿、砖红和赭黄的色调。成年人物比例，柔和自然光，克制的日常动作。每次任务完成一个连续机位镜头。\n场景：纯黑片尾。\n入画人物与物件：\n机位：纯黑片尾后期制作。\n画面定在动作开始前：黑底。\n输出本镜的一张完整画面。可读文字留给后期独立图层。",
+      "last_frame_prompt": null,
+      "video_prompt": null,
+      "suggested_source_start_seconds": 0,
+      "actual_source_in_out": "选片后按真实动作与台词调整",
+      "storyboard_image": "frames/72_首帧.png",
+      "visual_review_notes": []
+    }
+  ],
+  "voices": {
+    "邱": "邱：明确的七十岁左右老年女性普通话，中低音，温暖略沙哑，气息稳，吐字清楚，语气干脆亲近。",
+    "徐": "徐：明确的七十岁左右老年女性普通话，中音稍亮，清晰亲切，带一点笑意和活气，保留年长声线。",
+    "秀秀": "秀秀：声音只从轮椅扶手扬声器传出，清澈中性女声，平稳简洁。",
+    "店主": "店主：中年男性普通话，温和质朴，正常交谈语速。",
+    "来客": "来客：成年女性普通话，中音，清晰直接，自然交谈。",
+    "广告声": "广告声：电视扬声器传出的成年女声普通话，清楚轻快，简短产品介绍口吻。",
+    "工作人员": "工作人员：成年女性普通话，清楚平实，交谈语气。"
+  },
+  "no_global_cast_in_prompts": true
+}

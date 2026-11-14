@@ -1,0 +1,12 @@
+import {chromium} from '../yield-project/node_modules/playwright/index.mjs';
+import {pathToFileURL} from 'node:url';import path from 'node:path';import fs from 'node:fs/promises';
+const root=path.resolve('作业二/下一次汇报_剧本与规则/第四版_汇报提交/电梯3D交互原型');
+const b=await chromium.launch({executablePath:'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',headless:true,args:['--enable-unsafe-swiftshader']});
+const p=await b.newPage({viewport:{width:1366,height:768}});const checks=[];const ck=(name,ok)=>{checks.push({name,ok});if(!ok)throw Error(name)};
+await p.goto(pathToFileURL(path.join(root,'index.html')).href);await p.waitForTimeout(150);
+const click=a=>p.locator(`[data-action="${a}"]`).click();const phase=s=>p.waitForFunction(s=>elevatorDemo.state.phase===s,s);
+await click('first');await p.locator('#rules-tab').click();ck('rules view pauses motion',await p.evaluate(()=>elevatorDemo.stage.paused));await p.locator('#return-experience').click();await p.locator('#restart').click();await p.waitForTimeout(250);ck('restart cancels old animation',await p.evaluate(()=>elevatorDemo.state.phase==='intro'&&!elevatorDemo.stage.animation));
+await p.evaluate(()=>elevatorDemo.stage.speed=10);await click('first');await phase('request');await click('digital');await click('second');await phase('conflict');await click('cancel');await phase('outcome');ck('cancel preserves passenger place',await p.evaluate(()=>elevatorDemo.state.missed.lin===2&&elevatorDemo.state.missed.other===1));
+await click('memory');await click('remember');await phase('repeatAuto');ck('Lin preference applies only to Lin',await p.evaluate(()=>elevatorDemo.state.waitingPerson==='lin'&&elevatorDemo.stage.actors.lin.position.z===2.45&&elevatorDemo.stage.actors.other.position.z===1.18));await click('keep');await phase('complete');ck('keep retains explicit auto preference',await p.evaluate(()=>elevatorDemo.state.preference==='auto'));await click('undo');await phase('complete');ck('revoke still possible after completion',await p.evaluate(()=>elevatorDemo.state.preference==='ask'&&elevatorDemo.stage.actors.lin.position.z===1.65));
+await p.locator('#restart').click();await p.screenshot({path:path.join(root,'设计参考/网页实测.png'),fullPage:true});
+await fs.writeFile('tmp/elevator-demo/qa/remaining-checks.json',JSON.stringify(checks,null,2));console.log(checks);await b.close();

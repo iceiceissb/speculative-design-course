@@ -1,0 +1,16 @@
+[
+  {
+    "model": "realesr-animevideov3",
+    "seconds": 1.479,
+    "returncode": 3221226505,
+    "ok": false,
+    "log": "[0 NVIDIA GeForce RTX 4060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]\n[0 NVIDIA GeForce RTX 4060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0\n[0 NVIDIA GeForce RTX 4060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1\n[0 NVIDIA GeForce RTX 4060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1\n0.00%\n3.57%\n7.14%\n10.71%\n14.29%\n17.86%\n21.43%\n25.00%\n28.57%\n32.14%\n35.71%\n39.29%\n42.86%\n46.43%\n50.00%\n53.57%\n57.14%\n60.71%\n64.29%\n67.86%\n71.43%\n75.00%\n78.57%\n82.14%\n85.71%\n89.29%\n92.86%\n96.43%\n"
+  },
+  {
+    "model": "realesrgan-x4plus",
+    "seconds": 4.457,
+    "returncode": 3221226505,
+    "ok": false,
+    "log": "[0 NVIDIA GeForce RTX 4060 Laptop GPU]  queueC=2[8]  queueG=0[16]  queueT=1[2]\n[0 NVIDIA GeForce RTX 4060 Laptop GPU]  bugsbn1=0  bugbilz=0  bugcopc=0  bugihfa=0\n[0 NVIDIA GeForce RTX 4060 Laptop GPU]  fp16-p/s/a=1/1/1  int8-p/s/a=1/1/1\n[0 NVIDIA GeForce RTX 4060 Laptop GPU]  subgroup=32  basic=1  vote=1  ballot=1  shuffle=1\n0.00%\n3.57%\n7.14%\n10.71%\n14.29%\n17.86%\n21.43%\n25.00%\n28.57%\n32.14%\n35.71%\n39.29%\n42.86%\n46.43%\n50.00%\n53.57%\n57.14%\n60.71%\n64.29%\n67.86%\n71.43%\n75.00%\n78.57%\n82.14%\n85.71%\n89.29%\n92.86%\n96.43%\n"
+  }
+]

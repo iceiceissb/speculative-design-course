@@ -1,0 +1,20 @@
+{
+  "tool": "内置 image_gen.imagegen",
+  "mode": "reference-based editing",
+  "records": [
+    {
+      "shot": "03",
+      "reference": "D:\\课\\大四上\\思辨设计\\03_分镜与角色\\F11_不用麻烦她_v9_视频生成分镜\\frames\\03_首帧.png",
+      "result": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_动作与声音修订\\assets\\03_动作首帧_v2.png",
+      "prompt": "Use case: illustration-story. Create a revised FIRST FRAME for this existing miniature stop-motion film shot. Preserve the same two fictional elderly female puppets, ochre-jacket glasses grey-bun standing friend Xu and brick red cardigan short silver-haired seated Qiu, same black manual wheelchair, warm Chinese stone lane, existing two stone traffic bollards. Show both figures from a slightly wider three-quarter REAR angle, beginning to head LEFT into a clearly open side lane that curves around the bollards. Xu is one small step ahead pointing left; Qiu remains seated with both hands visibly touching the manual handrims, both feet on footplates. Preserve wheelchair construction and cloth costumes. Visibly handmade miniature animation aesthetic: softly sculpted painted resin faces, fine fibre hair, woven cloth, tactile small-scale stone set, warm sunlight, gentle shallow focus. A clear unobstructed wide left route where their next steps can occur, no extra people, no added readable text, no watermark. Single coherent cinematic 16:9 landscape frame. Do not make a collage. This is a narrative continuity revision, not a poster.",
+      "sha256": "cdff00cef07565872fe714524063e999409f12ae368b5673e043ca1038788163"
+    },
+    {
+      "shot": "39",
+      "reference": "D:\\课\\大四上\\思辨设计\\03_分镜与角色\\F11_不用麻烦她_v9_视频生成分镜\\frames\\39_首帧.png",
+      "result": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_动作与声音修订\\assets\\39_动作首帧_v2.png",
+      "prompt": "Use case: illustration-story. Narrative first-frame revision for the same handcrafted miniature stop-motion film. Preserve this fictional female puppet in charcoal clothes, grey scarf, short black hair and amber glasses, sitting in the same black power wheelchair next to broken sidewalk at the same Chinese bus stop in warm afternoon autumn light. Her shoes rest on both footplates. Give her a small handheld dark smartphone in her right hand at chest height, with the rear camera aimed toward the broken pavement. Her left index finger is poised to press the smartphone display. The phone is HANDHELD, not on a bracket. Keep her wheelchair at least one metre back from the broken sidewalk, showing the gap clearly in foreground right. Same bus shelter, road, white green bus in background. Make the scene distinctly tactile miniature animation: stylized hand-sculpted matte resin face with simplified doll proportions, fibre hair, thick woven coat and scarf, model-set pavement. Keep one person only. No added text or graphic overlays, no watermark. 16:9 horizontal medium-wide composition with her hands and whole wheelchair visible. Leave room for the phone to lift and for the background bus to move. Do not create a collage or poster.",
+      "sha256": "0d4b87b713762e0d675e85e4dcddf2d8414d4234ffabdb1b14911774e3d80a18"
+    }
+  ]
+}

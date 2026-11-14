@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>请别替我让路 · 3D 思辨原型</title><link rel="stylesheet" href="style.css"></head>
+<body><header class="site-head"><div class="identity"><a href="#" id="home">请别替我让路</a><span>轮椅机器人的礼貌，应该由谁付出代价？</span></div><nav aria-label="主要页面"><button data-tab="experience" class="active">体验</button><button data-tab="story">分镜</button><button data-tab="sources">案例与转译</button></nav></header>
+<main><section id="experience"><div class="scene-intro"><h1 id="heading" tabindex="-1">它准备替你让路。</h1><p id="lead">你是林岚。你需要轮椅辅助移动，也想自己决定什么时候退让。</p></div><div class="stage-wrap"><canvas id="stage" aria-label="三维社区走廊，林岚坐在轮椅上与三位行人相遇"></canvas><div id="labels" aria-hidden="true"></div><div id="scene-note" class="scene-note">原规则：优先让容易调整路线的设备退让</div><p id="webgl-error" hidden>3D 场景未能启动。请用支持 WebGL 的 Edge 或 Chrome 打开；可先查看“分镜”。</p></div><div class="toolbar"><div><button id="pause" disabled>暂停</button><button id="camera">切换近景视角</button></div><button id="restart">重新开始</button></div><div id="decision" aria-live="polite"></div><div id="secondary"></div></section><section id="story" class="document" hidden></section><section id="sources" class="document" hidden></section></main>
+<footer><span>设计虚构 · 3D 脚本模拟，不控制真实轮椅</span><span>原型 v1 · 记录仅在本页，刷新清空</span></footer>
+<script src="three.min.js"></script><script src="stage.js"></script><script src="app.js"></script></body></html>
+

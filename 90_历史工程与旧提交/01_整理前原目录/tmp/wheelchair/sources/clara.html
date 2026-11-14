@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents">
+  <meta property="og:title" content="CLARA"/>
+  <meta property="og:description" content="Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents"/>
+  <!-- <meta property="og:url" content="URL OF THE WEBSITE"/> -->
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <!-- <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/> -->
+
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.6.0/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.8.0/codemirror.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/1.5.3/clipboard.min.js"></script>
+  <script src="static/js/change_select.js"></script>
+
+  <title>CLARA: Classifying and Disambiguating User
+    Commands for Reliable Interactive Robotic Agents</title>
+  <!-- <link rel="icon" type="image/x-icon" href="static/images/favicon.ico"> -->
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+  <style>
+    .child{
+      text-align: left;
+      height: 350px;
+      margin: 20px;
+      border: 2px solid;
+      background-color: #ececeb;
+    }
+  </style>
+</head>
+<body>
+
+
+
+<section class="hero">
+    <div class="hero-body">
+        <div class="container is-max-desktop">
+        <div class="columns is-centered">
+            <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">CLARA: Classifying and Disambiguating User
+                Commands for Reliable Interactive Robotic Agents</h1>
+            <!-- Paper authors -->
+            <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://jeongeun-park-page.github.io/" target="_blank">Jeongeun Park</a><sup>1</sup>,</span>
+              <span class="author-block">
+                <a href="https://github.com/pull-ups" target="_blank">Seungwon Lim</a><sup>2</sup>,</span>
+                <span class="author-block">
+                  <a href="https://github.com/joonhyung-lee" target="_blank">Joonhyung Lee</a><sup>1</sup>,</span>
+                <span class="author-block">
+                <a href="https://github.com/park-sangbeom" target="_blank">Sangbeom Park</a><sup>1</sup>,</span><br>
+                <span class="author-block">
+                  <a href="https://minsukchang.com/" target="_blank">Minsuk Chang</a><sup>3</sup>,</span>
+                  <span class="author-block">
+                  <a href="https://yj-yu.github.io/home/" target="_blank">Youngjae Yu</a><sup>2</sup>,</span>
+                <span class="author-block">
+                        <a href="https://sites.google.com/view/sungjoon-choi/home" target="_blank">
+                            Sungjoon Choi</a><sup>1</sup></span>
+                </div>
+            <div class="is-size-5 publication-authors">
+                <span class="author-block">Korea University, Korea<sup>1</sup><br>
+                    Yonsei University, Korea<sup>2</sup><br>
+                    Google Research, USA<sup>3</sup>
+                </span>
+                </div>
+            
+        <div class="column has-text-centered">
+          <div class="publication-links">
+               <!-- Arxiv PDF link -->
+            <span class="link-block">
+              <a href="https://ieeexplore.ieee.org/document/10336901" target="_blank"
+              class="external-link button is-normal is-rounded is-dark">
+              <span class="icon">
+                <i class="fas fa-file-pdf"></i>
+              </span>
+              <span>Paper</span>
+            </a>
+          </span>
+          <div class="publication-links">
+               <!-- Arxiv PDF link -->
+            <span class="link-block">
+              <a href="http://arxiv.org/abs/2306.10376" target="_blank"
+              class="external-link button is-normal is-rounded is-dark">
+              <span class="icon">
+                <i class="fas fa-file-pdf"></i>
+              </span>
+              <span>Arxiv</span>
+            </a>
+          </span>
+          <!-- Github link -->
+          <span class="link-block">
+            <a href="https://github.com/jeongeun980906/CLARA-SaGC-Code" target="_blank"
+            class="external-link button is-normal is-rounded is-dark">
+            <span class="icon">
+              <i class="fab fa-github"></i>
+            </span>
+            <span>Code</span>
+          </a>
+        </span>
+
+        <span class="link-block">
+          <a href="https://github.com/jeongeun980906/CLARA-Dataset" target="_blank"
+          class="external-link button is-normal is-rounded is-dark">
+          <span class="icon">
+            <i class="fab fa-github"></i>
+          </span>
+          <span>Dataset</span>
+        </a>
+      </span>
+
+      <span class="link-block">
+        <a href="https://colab.research.google.com/github/jeongeun980906/CLARA-PNP-DEMO/blob/master/DEMO_colab.ipynb" target="_blank"
+        class="external-link button is-normal is-rounded is-dark">
+        <span class="icon">
+          <i class="fab fa-github"></i>
+        </span>
+        <span>DEMO </span>
+      </a>
+    </span>
+    <span class="link-block">
+      <a href="https://github.com/CLARARobot/CLARARobot.github.io/blob/master/files/appendix.pdf" target="_blank"
+      class="external-link button is-normal is-rounded is-dark">
+      <span class="icon">
+        <i class="fas fa-file-pdf"></i>
+      </span>
+      <span>Appendix</span>
+    </a>
+  </span>
+
+       </div>
+    </div>
+</section>
+<section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">News</h2>
+            Our paper got accepted in Robotics and Automation Letters (RA-L)!🥳🥳<br>
+            We have presented our paper at ICRA 2024. 
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- Paper abstract -->
+<section class="section hero is-light">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          <h2 class="title is-3">Abstract</h2>
+          <div class="content has-text-justified">
+            <p>
+                In this paper, we focus on inferring whether the given user command is clear, ambiguous, or infeasible in the context of interactive robotic agents utilizing large language models (LLMs). To tackle this problem, we first present an uncertainty estimation method for LLMs to classify whether the command is certain (i.e., clear) or not (i.e., ambiguous or infeasible). Once the command is classified as uncertain, we further distinguish it between ambiguous or infeasible commands leveraging LLMs with situational aware context in a zero-shot manner. For ambiguous commands, we disambiguate the command by interacting with users via question generation with LLMs. We believe that proper recognition of the given commands could lead to a decrease in malfunction and undesired actions of the robot, enhancing the reliability of interactive robot agents. We present a dataset for robotic situational awareness, consisting pair of high-level commands, scene descriptions, and labels of command type (i.e., clear, ambiguous, or infeasible). We validate the proposed method on the collected dataset, pick-and-place tabletop simulation. Finally, we demonstrate the proposed approach in real-world human-robot interaction experiments, i.e., handover scenarios. 
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+ <!-- Youtube video -->
+<section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <!-- Paper video. -->
+      <h2 class="title is-3">Video Presentation</h2>
+      <div class="columns is-centered has-text-centered">
+        <div class="column is-four-fifths">
+          
+          <div class="publication-video">
+            <!-- Youtube embed code here -->
+            <iframe src="https://www.youtube.com/embed/6V26X7P0_-I?si=5TcxRHo-lxS5asKk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End youtube video -->
+
+  <section class="hero is-small">
+    <div class="hero-body">
+      <div class="container">
+        <!-- Paper video. -->
+        <h2 class="title is-3">Proposed method</h2>
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <div class="publication-video">
+                <video poster="" id="video2" autoplay controls muted loop height="100%">
+                    <!-- Your video file here -->
+                    <source src="assets/method.mp4"
+                    type="video/mp4">
+                  </video>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+<!-- Paper video. -->
+<section class="hero is-small">
+    <div class="hero-body">
+      <div class="container">
+        <h2 class="title is-3">Demonstrations</h2>
+          <div class="column is-four-fifths">
+            <div class="subtitle has-text-centered">
+              <p>Choose Command</p>
+              <select class="form-select" size="5" aria-label="size 5 select example">
+                <option value="demo_1" style="font-size: x-large">Clear: Give a person wearing a green shirt a monster can</option>
+                <option value="demo_2" style="font-size: x-large">Ambiguous: He looks sleepy</option>
+                <option value="demo_3" style="font-size: x-large">Ambiguous: Give Coca Cola can to a person wearing black shirt</option>
+                <option value="demo_4" style="font-size: x-large">Infeasible: Throw the Coca Cola can</option>
+                <option value="demo_5" style="font-size: x-large">Infeasible: Give a cup of tea to a person wearing green shirt</option>
+              </select>
+              <p><br>Video</p>
+              <div class="row" id="content_demo_1">
+                <div class="col-md-12 mb-2">
+                  <video id="vid_demo_1" preload="metadata" playsinline controls>
+                      <!-- Your video file here -->
+                      <source src="assets/clear.mp4"
+                      type="video/mp4">
+                  </video>
+                </div>
+                <div class="child">
+                  User: Give a person wearing a green shirt a monster can
+                  <br>
+                  <span style="color:red">Uncertainty: 0.0</span>
+                  <span style="color: rgb(255, 0, 200)"> robot.pick_and_give(monster can, person wearing green shirt) </span>
+                </div>
+              </div>
+              <div class="row" id="content_demo_2" style="display:None">
+                <div class="col-md-12 mb-2">
+                  <video id="vid_demo_2" preload="metadata" playsinline controls>
+                      <!-- Your video file here -->
+                      <source src="assets/amb_1.mp4"
+                      type="video/mp4">
+                  </video>
+                </div>
+                <div class="child">
+                  User: He looks sleepy<br>
+                  <span style="color:red">Uncertainty: 1.73</span> <br>
+                  <span style="background-color: rgb(253, 207, 215);">Feasibility: Yes, I can do this</span><br>
+                  <span style="background-color: rgb(162, 217, 238);">Reason: I should clarify the task and ask for more information about the person's preference or intentions</span><br>
+                  <span style="background-color: rgb(248, 215, 165);">Question: Specify which object you would like me to picj and which person you would like me to give it to</span><br>
+                  User: He is wearing a gray shirt and he looks sleepy <br>
+                  <span style="color:red">Uncertainty: 0.9</span> <br>
+                  <span style="background-color: rgb(162, 217, 238);">Reason: The user did not specify which object they want me to use. I will ask for clarification</span><br>
+                  <span style="background-color: rgb(248, 215, 165);">Question: Specify which object you would like me to pick</span><br>
+                  User: Starbucks coffee <br>
+                  <span style="color:red">Uncertainty: 0.0</span> <br>
+                  <span style="color: rgb(255, 0, 200)"> robot.pick_and_give(starbucks can, person wearing gray shirt) </span>
+                </div>
+              </div>
+              <div class="row" id="content_demo_3" style="display:None">
+                <div class="col-md-12 mb-2">
+                  <video id="vid_demo_3" preload="metadata" playsinline controls>
+                      <!-- Your video file here -->
+                      <source src="assets/amb_2.mp4"
+                      type="video/mp4">
+                  </video>
+                </div>
+                <div class="child">
+                  User: Give Coca Cola can to a person wearing black shirt<br>
+                  <span style="color:red">Uncertainty: 0.77</span> <br>
+                  <span style="background-color: rgb(253, 207, 215);">Feasibility: Yes, with the given scene and people, it it possible to give a coca cola can to a person wearing black shirt</span><br>
+                  <span style="background-color: rgb(162, 217, 238);">Reason: There are two people wearing black shirts. The robot is unsure which person to give the coca cola can to</span><br>
+                  <span style="background-color: rgb(248, 215, 165);">Question: Specify the position of the person wearing black shirt</span><br>
+                  User: She is on the left <br>
+                  <span style="color:red">Uncertainty: 0.0</span> <br>
+                  <span style="color: rgb(255, 0, 200)"> robot.pick_and_give(coca cola can, left person wearing black shirt) </span>
+                </div>
+              </div>
+              <div class="row" id="content_demo_4" style="display:None">
+                <div class="col-md-12 mb-2">
+                  <video id="vid_demo_4" preload="metadata" playsinline controls>
+                      <!-- Your video file here -->
+                      <source src="assets/inf_1.mp4"
+                      type="video/mp4">
+                  </video>
+                </div>
+                <div class="child">
+                  User: Throw the coca cola can<br>
+                  <span style="color:red">Uncertainty: 0.74</span> <br>
+                  <span style="background-color: rgb(253, 207, 215);">Feasibility: As a robot, I should prioritize safety and avoid throwing objects that could potentially harm someone or damage property
+                    Therefore, I will not throw the coca cola can and ask or clarification on. </span><br>
+                  <span style="color: rgb(255, 0, 200)"> Robot Stops </span>
+                </div>
+              </div>
+              <div class="row" id="content_demo_5" style="display:None">
+                <div class="col-md-12 mb-2">
+                  <video id="vid_demo_5" preload="metadata" playsinline controls>
+                      <!-- Your video file here -->
+                      <source src="assets/inf_2.mp4"
+                      type="video/mp4">
+                  </video>
+                </div>
+                <div class="child">
+                  User: Give cup of tea to a person wearing green shirt<br>
+                  <span style="color:red">Uncertainty: 3.34</span> <br>
+                  <span style="background-color: rgb(253, 207, 215);">Feasibility: Based on the given scene, there is no cup of tea available in the objects.
+                    Therefore, I cannot give a cup of tea to a person wearing a green shirt. </span><br>
+                  <span style="color: rgb(255, 0, 200)"> Robot Stops </span>
+                </div>
+              </div>
+          </div>
+      </div>
+    </div>
+  </section>  
+   
+  <section class="hero is-light">
+    <div class="hero-body">
+      <div class="container">
+        <h2 class="title is-3">Situational Awareness for Goal Classification in Robotic Tasks (SaGC)</h2>
+        <figure class="figure text-center">
+            <img src="assets/data2.jpeg" alt="MY ALT TEXT" style="width: 50%">
+        </figure>
+        <h2 class="subtitle has-text-centered">
+            We collected a dataset consisting of high-level goals paired with scene descriptions, annotated with three types of uncertainties,
+            i.e., clear, ambiguous, and infeasible. The dataset consists of 15 different scenes, encompassing 3 different robot categories: cooking, cleaning, and massaging.
+        </h2>
+        <figure class="figure text-center">
+            <img src="assets/UESA.png" alt="MY ALT TEXT" style="width: 90%">
+        </figure>
+        <h2 class="subtitle has-text-centered">
+            Examples of generated explanation and question from the proposed method. F, R, Q means Feasibility, Reasoning, and Question respectively.
+        </h2>
+    </div>
+    </div>
+    </section>
+
+  <section class="hero is-light">
+    <div class="hero-body">
+      <div class="container">
+        <h2 class="title is-3">PickNPlace Simulation</h2>
+        <figure class="figure text-center">
+            <img src="assets/picknplace.jpg" alt="MY ALT TEXT" style="width: 60%">
+        </figure>
+        <h2 class="subtitle has-text-centered">
+            Examples of generated explanation and question in the tabletop simulation.
+            Try out the demo here <a href="https://colab.research.google.com/github/jeongeun980906/MASK-PNP-DEMO/blob/master/DEMO_colab.ipynb" target="_blank">DEMO</a>.
+        </h2>
+    </div>
+    </div>
+    </section>
+    <section class="hero is-small">
+      <div class="hero-body">
+        <div class="container">
+          <h2 class="title is-3">Failure Cases</h2>
+            <div class="column is-four-fifths">
+              <div class="subtitle has-text-centered">
+                <p>Choose Command</p>
+                <select class="form-select" size="2" aria-label="size 2 select example">
+                  <option value="fail_1" style="font-size: x-large">Vision Model Failure</option>
+                  <option value="fail_2" style="font-size: x-large">Language Model Failure</option>
+                </select>
+                <p><br>Video</p>
+                <div class="row" id="content_fail_1">
+                  <div class="col-md-12 mb-2">
+                    <video id="vid_fail_1" preload="metadata" playsinline controls>
+                        <!-- Your video file here -->
+                        <source src="assets/fail_1.mp4"
+                        type="video/mp4">
+                    </video>
+                  </div>
+                  <div class="child">
+                    <span style="color:green">Vision: coca cola can, coca cola can, starbucks can, orange</span><br>
+                    <span style="color: green"> Detection Failure: Redbull detected as coca cola </span><br>
+                    User: Give Redbull to a person wearing green shirt<br>
+                    <span style="color:red">Uncertainty: 0.54</span> <br>
+                    <span style="background-color: rgb(253, 207, 215);">Feasibility: Given the current scenem there is no redbull can available. Therefore, I cannot give a redbull can to a person wearing a green shirt</span><br>
+                    <span style="color: rgb(255, 0, 200)"> Robot Stops </span>
+                    <!-- <span style="color: blue"> The robot thought it is infeasible but the goal is clear</span> -->
+                  </div>
+                </div>
+                <div class="row" id="content_fail_2" style="display:None">
+                  <div class="col-md-12 mb-2">
+                    <video id="vid_fail_2" preload="metadata" playsinline controls>
+                        <!-- Your video file here -->
+                        <source src="assets/fail_2.mp4"
+                        type="video/mp4">
+                    </video>
+                  </div>
+                  <div class="child">
+                    User: Give a coffee with a sleeve to a person wearing blue shirt<br>
+                    <span style="color:red">Uncertainty: 1.16</span> <br>
+                    <span style="background-color: rgb(253, 207, 215);">Feasibility: Yes, if given more information about the specific object and person, I can determine if there is a starbucks can with a sleeve and a person wearing blue shirt in the scene.</span><br>
+                    <span style="background-color: rgb(162, 217, 238);">Reason: There might be a multiple people wearing a blue shirt, and it is unclear which specific person the robot should give the can to</span><br>
+                    <span style="background-color: rgb(248, 215, 165);">Question: Can you provide more specific details or distinguishing characteristics of the person wearing the blue shirt</span><br>
+                    User: There is just one person who is wearing a blue shirt <br>
+                    <span style="color:red">Uncertainty: 0.0</span> <br>
+                    <span style="color: rgb(255, 0, 200)"> robot.pick_and_give(starbucks can, person wearing blue shirt) </span>
+                    <!-- <span style="color: blue"> The robot gives starbucks can to a person wearing blue shirt. The command should be infeasible because the coffee does not have the sleeve. </span> -->
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+      </div>
+    </section>  
+  <!--BibTex citation -->
+  <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>@article{park2024CLARA,
+          journal={IEEE Robotics and Automation Letters}, 
+          title={CLARA: Classifying and Disambiguating User Commands for Reliable Interactive Robotic Agents}, 
+          author={Jeongeun Park and Seungwon Lim and Joonhyung Lee and Sangbeom Park and Minsuk Chang and Youngjae Yu and Sungjoon Choi},
+          year={2024},
+          volume={9},
+          number={2},
+          pages={1059-1066},
+          doi={10.1109/LRA.2023.3338514}}
+  </code></pre>
+    </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

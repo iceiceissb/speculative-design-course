@@ -1,0 +1,19 @@
+{
+  "signature": "ddf298781bbc98b3f9187414e7ac1bef5fd788c872da6bfb55010d7cc9f56b03",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\61.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\61.wav",
+  "id": "61",
+  "title": "冬天坐公交",
+  "kind": "video",
+  "candidate": "c2f654cb73514b56",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\61\\c2f654cb73514b56.mp4",
+  "source_start": 0.4,
+  "duration": 5.5,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019090631-atomn",
+  "start": 223.0,
+  "end": 228.5
+}

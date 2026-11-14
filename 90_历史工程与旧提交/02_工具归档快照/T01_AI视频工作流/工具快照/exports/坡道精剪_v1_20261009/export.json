@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-10-09T23:25:54.083689+08:00",
+  "title": "坡道精剪 · 字幕与配音",
+  "duration": 18.0,
+  "folder": "exports/坡道精剪_v1_20261009",
+  "mp4": "exports/坡道精剪_v1_20261009/坡道_精剪_字幕配音.mp4",
+  "draft": "exports/坡道精剪_v1_20261009/不用麻烦她_坡道精剪_字幕配音_20261009_4b0a82",
+  "srt": "exports/坡道精剪_v1_20261009/对白字幕.srt",
+  "vtt": "exports/坡道精剪_v1_20261009/对白字幕.vtt",
+  "media": {
+    "duration": 18.0,
+    "width": 1280,
+    "height": 720,
+    "has_audio": true
+  },
+  "draft_tracks": {
+    "video": 8,
+    "audio": 6,
+    "text": 3
+  },
+  "subtitles_burned": true,
+  "note": "精剪试版；字幕已烧录；本地离线女声配音；剪映草稿已生成。",
+  "jianying_ui_verified": false,
+  "native_mp4_export_verified": false
+}

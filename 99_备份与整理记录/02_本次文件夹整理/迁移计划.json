@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-17",
+  "workspace": "D:\\课\\大四上\\思辨设计",
+  "intent": "实际移动目录，根目录按用途编号；不删除作品文件；保留迁移表与原始备份。",
+  "moves": [
+    {
+      "source": "创作工作区/00_当前创作",
+      "destination": "00_当前创作"
+    },
+    {
+      "source": "创作工作区/01_剧本版本",
+      "destination": "01_剧本版本"
+    },
+    {
+      "source": "创作工作区/02_Demo版本",
+      "destination": "02_Demo版本"
+    },
+    {
+      "source": "创作工作区/03_分镜与视觉",
+      "destination": "03_分镜与角色"
+    },
+    {
+      "source": "创作工作区/04_研究与交付",
+      "destination": "04_研究资料"
+    },
+    {
+      "source": "创作工作区/05_制作工具",
+      "destination": "90_历史工程与旧提交/02_工具归档快照"
+    },
+    {
+      "source": "创作工作区/90_原始备份",
+      "destination": "99_备份与整理记录/00_整理前备份"
+    },
+    {
+      "source": "创作工作区/99_整理记录",
+      "destination": "99_备份与整理记录/01_首次整理记录"
+    },
+    {
+      "source": "output/AI视频工作流",
+      "destination": "06_制作工具/T01_AI视频工作流"
+    },
+    {
+      "source": "bodystorm-agent",
+      "destination": "06_制作工具/T02_Bodystorming_Agent"
+    },
+    {
+      "source": "output",
+      "destination": "90_历史工程与旧提交/01_整理前原目录/output"
+    },
+    {
+      "source": "作业二",
+      "destination": "90_历史工程与旧提交/01_整理前原目录/作业二"
+    },
+    {
+      "source": "scripts",
+      "destination": "90_历史工程与旧提交/01_整理前原目录/scripts"
+    },
+    {
+      "source": "tmp",
+      "destination": "90_历史工程与旧提交/01_整理前原目录/tmp"
+    },
+    {
+      "source": "作业一",
+      "destination": "04_研究资料/02_作业一_原提交与课件"
+    },
+    {
+      "source": "最终作业",
+      "destination": "05_汇报与成片/01_最终作业_原提交"
+    },
+    {
+      "source": "9.28汇报",
+      "destination": "05_汇报与成片/02_9月28日汇报"
+    },
+    {
+      "source": "视频",
+      "destination": "05_汇报与成片/03_早期视频"
+    },
+    {
+      "source": "111",
+      "destination": "03_分镜与角色/90_早期散图_原111"
+    },
+    {
+      "source": "最终作业.jpg",
+      "destination": "04_研究资料/01_课程要求/最终作业.jpg"
+    },
+    {
+      "source": "Bodystorming through Disruption_ AI-assisted Design Improvisation.pdf",
+      "destination": "04_研究资料/05_论文阅读/Bodystorming through Disruption_ AI-assisted Design Improvisation.pdf"
+    },
+    {
+      "source": "00_打开工作区.html",
+      "destination": "99_备份与整理记录/03_旧网页导航/00_打开工作区.html"
+    },
+    {
+      "source": "00_工作区导航.md",
+      "destination": "99_备份与整理记录/03_旧网页导航/00_工作区导航.md"
+    },
+    {
+      "source": "04_研究资料/原目录资料/最终作业",
+      "destination": "05_汇报与成片/90_上次整理资料副本/最终作业"
+    },
+    {
+      "source": "04_研究资料/原目录资料/9.28汇报",
+      "destination": "05_汇报与成片/90_上次整理资料副本/9.28汇报"
+    }
+  ]
+}

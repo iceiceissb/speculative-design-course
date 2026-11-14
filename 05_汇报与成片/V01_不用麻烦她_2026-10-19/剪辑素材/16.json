@@ -1,0 +1,19 @@
+{
+  "signature": "1c27532a75e8a330999389db0f0fd3e6fc6b3002dcfdf093de1a77a9dc85ddf9",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\16.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\16.wav",
+  "id": "16",
+  "title": "越过布店台阶",
+  "kind": "video",
+  "candidate": "58d292ba384e4472",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\16\\58d292ba384e4472.mp4",
+  "source_start": 1.3,
+  "duration": 4.916666666666667,
+  "dialogue": [],
+  "speech": [],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084358-x07bi",
+  "start": 55.625,
+  "end": 60.541666666666664
+}

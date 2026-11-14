@@ -1,0 +1,88 @@
+{
+  "signature": "bcb0824a0ab1b8bfddda52a805bbe2fb7998154d017ae8808c5e92dc9b7e8064",
+  "enhancement": "Real-ESRGAN AnimeVideo-v3 x3, 80% blend",
+  "video": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\27.mp4",
+  "audio": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\V01_不用麻烦她_2026-10-19\\剪辑素材\\27.wav",
+  "id": "27",
+  "title": "邱来到门前",
+  "kind": "video",
+  "candidate": "3b10411cd94b4737",
+  "source": "D:\\课\\大四上\\思辨设计\\06_制作工具\\T01_AI视频工作流\\projects\\F11_2026-10-19_480p全片\\candidates\\27\\3b10411cd94b4737.mp4",
+  "source_start": 1.548,
+  "duration": 4.458333333333333,
+  "dialogue": [
+    {
+      "id": "L14",
+      "speaker": "邱",
+      "text": "秀秀，这条消息你发的？"
+    }
+  ],
+  "speech": [
+    {
+      "start": 3.4999999999999987,
+      "end": 5.84,
+      "text": "秀秀,这条消息你发的。",
+      "avg_logprob": -0.6152225285768509,
+      "words": [
+        {
+          "start": 3.4999999999999987,
+          "end": 3.86,
+          "word": "秀",
+          "probability": 0.8572077751159668
+        },
+        {
+          "start": 3.86,
+          "end": 4.06,
+          "word": "秀,",
+          "probability": 0.9986962974071503
+        },
+        {
+          "start": 4.42,
+          "end": 4.78,
+          "word": "这",
+          "probability": 0.3297312259674072
+        },
+        {
+          "start": 4.78,
+          "end": 4.96,
+          "word": "条",
+          "probability": 0.9497644901275635
+        },
+        {
+          "start": 4.96,
+          "end": 5.14,
+          "word": "消",
+          "probability": 0.9549921154975891
+        },
+        {
+          "start": 5.14,
+          "end": 5.32,
+          "word": "息",
+          "probability": 0.9996838569641113
+        },
+        {
+          "start": 5.32,
+          "end": 5.44,
+          "word": "你",
+          "probability": 0.952512800693512
+        },
+        {
+          "start": 5.44,
+          "end": 5.66,
+          "word": "发",
+          "probability": 0.9939940571784973
+        },
+        {
+          "start": 5.66,
+          "end": 5.84,
+          "word": "的。",
+          "probability": 0.9322287440299988
+        }
+      ]
+    }
+  ],
+  "provenance": "seedance",
+  "task_id": "cgt-20261019084705-kpie5",
+  "start": 93.08333333333333,
+  "end": 97.54166666666667
+}

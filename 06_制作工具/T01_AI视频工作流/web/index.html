@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>不用麻烦她 · 视频制作台</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<header><div class="brand"><span class="brandmark">▶</span><span>视频制作台<small>本地制作 · 自己选片</small></span></div><span id="connection" class="pill">正在连接</span></header>
+<main>
+<div class="intro"><div><p class="eyebrow">不用麻烦她 / 坡道试片</p><h1>把镜头接成故事。</h1><p class="muted">上坡 → 灯亮 → 察觉 → 停下 → 追问。先选好画面，再微调节奏。</p></div><div class="summary"><strong id="seconds">20<span>秒</span></strong><span id="selected-count">0 / 4 个任务已选</span></div></div>
+<div id="api-note" class="notice" hidden>尚未配置 Seedance API。现在可以使用已有即梦素材选片、粗剪；双击文件夹内的「配置API.cmd」即可接入。</div>
+<nav aria-label="制作步骤"><button class="tab active" data-view="shots">01 镜头选片</button><button class="tab" data-view="timeline">02 时间线</button><button class="tab" data-view="records">03 生成记录</button></nav>
+<div class="toolbar"><p id="status" role="status">正在载入素材…</p><div class="actions"><button id="import" class="secondary">扫描导入素材</button><button id="plan" class="secondary">查看生成计划</button><button id="generate">生成首轮候选</button></div></div>
+<section id="shots" class="view" aria-label="镜头选片"></section>
+<section id="timeline" class="view" hidden>
+<div class="panel"><div class="panel-top"><div><h2>20 秒试片时间线</h2><p class="muted">E 任务的前后半段分开使用。调整切点后，检查灯亮与人物察觉的先后。</p></div><button id="assemble">输出粗剪与剪映草稿</button></div><div class="table-wrap"><table><thead><tr><th>镜头</th><th>画面</th><th>选中素材</th><th>素材起点 / 秒</th><th>使用时长 / 秒</th><th></th></tr></thead><tbody id="timeline-rows"></tbody></table></div><p class="footnote">对白目前是字幕占位，没有自动配音。改片长后请复核字幕时机；完整台词保留在任务提示中。</p></div>
+<div id="result" class="panel" hidden></div></section>
+<section id="records" class="view" hidden><div class="panel"><h2>生成与导入记录</h2><p class="muted">中断后保留已有任务；重复运行首轮会继续查询，不自动重抽失败候选。</p><div id="record-list"></div></div></section>
+<footer>参考图、候选和选择结果都保存在本地。API 生成时只提交任务所需素材。</footer>
+</main>
+<dialog id="plan-dialog"><div class="dialog-heading"><h2>这一轮会生成什么</h2><button id="close-dialog" class="secondary">关闭</button></div><div id="plan-content"></div><button id="execute-plan">开始生成</button></dialog>
+<script src="/app.js"></script></body></html>

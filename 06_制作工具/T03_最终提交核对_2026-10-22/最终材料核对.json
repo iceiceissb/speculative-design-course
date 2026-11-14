@@ -1,0 +1,23 @@
+{
+  "checked_date": "2026-10-23",
+  "scope": "影片与Demo原样保留，仅更新说明材料",
+  "protected_files_verified": 134,
+  "movie_and_demo_sha256_unchanged": true,
+  "pdf_pages": 5,
+  "ppt_slides": 21,
+  "pdf_render_reviewed": true,
+  "ppt_unchanged_slides_pixel_equivalent": true,
+  "ppt_source_links_preserved": 10,
+  "additional_md_guides": 2,
+  "published_files": [
+    "00_提交说明.md",
+    "01_作业要求对照与试玩指引.md",
+    "02_案例来源与AI工具使用.md",
+    "不用麻烦她_简要设计说明.pdf",
+    "不用麻烦她_最终结课汇报.pptx"
+  ],
+  "zip": "D:\\课\\大四上\\思辨设计\\05_汇报与成片\\04_最终提交作业_说明修订_2026-10-23.zip",
+  "zip_bytes": 274293913,
+  "zip_file_count": 139,
+  "zip_all_crc_passed": true
+}
